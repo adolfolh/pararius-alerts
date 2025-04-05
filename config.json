@@ -1,0 +1,15 @@
+{
+  "cities": ["rotterdam", "den-haag"],
+  "price_range": {
+    "min": 0,
+    "max": 1000
+  },
+  "min_size": 0,
+  "min_bedrooms": 1,
+  "property_types": ["apartment"],
+  "interior": ["furnished", "upholstered", "shell"],
+  "max_listings_age_days": 30,
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+  "request_delay": 5,
+  "max_retries": 3
+} 
