@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "timestamp": "2025-04-05T01:03:50.083226",
+    "new_listings_count": 34,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "1e-middellandstraat",
+      "middelharnisstraat",
+      "weteringstraat",
+      "dordtselaan",
+      "zwederstraat",
+      "zegwaardstraat",
+      "schietbaanlaan",
+      "bree",
+      "wevershoekstraat",
+      "zuidplein",
+      "vijverhofstraat",
+      "ericastraat",
+      "hazelaarstraat",
+      "maaswijkstraat",
+      "copernicuslaan",
+      "laan-van-meerdervoort",
+      "de-perponcherstraat",
+      "schwerinkade",
+      "assendelftstraat",
+      "suezkade",
+      "ripperdastraat",
+      "waldeck-pyrmontkade",
+      "van-zeggelenlaan",
+      "loosduinsekade",
+      "prinsegracht",
+      "groot-hertoginnelaan",
+      "schipperstraat",
+      "fahrenheitstraat",
+      "1e-van-der-kunstraat",
+      "kepplerstraat",
+      "van-bylandtstraat",
+      "allard-piersonlaan",
+      "hoogveen",
+      "schrijnwerkersgaarde"
+    ],
+    "updated_listing_ids": []
+  }
+]
