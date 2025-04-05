@@ -33,7 +33,12 @@ htmlcov/
 *.log
 
 # Local data files (sample only for development)
-data/
+data/*
+# Exception: Track these files for GitHub Pages
+!data/listings.json
+!data/latest_listings.json
+!data/run_stats.json
+!data/notification_history.json
 
 # Environment variables
 .env
