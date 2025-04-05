@@ -7,6 +7,12 @@ on:
   # Allow manual trigger
   workflow_dispatch:
 
+# Explicitly set permissions for the GITHUB_TOKEN
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
