@@ -84,6 +84,20 @@
     "last_updated": "2025-04-05T01:03:43.337648"
   },
   {
+    "id": "schaepmanstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/2a884ff6/schaepmanstraat",
+    "title": "Flat Schaepmanstraat 15 A",
+    "price": 807.0,
+    "size": 46,
+    "rooms": 2,
+    "location": "3027 CC Rotterdam (Spangen)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2a884ff6-d39e-5583-b46f-dd7a984254a3/e068e1d5366a396a1697cb68dd9e213b.jpg?width=600&auto=webp",
+    "agency": "LIV Residential",
+    "first_seen": "2025-04-05T23:12:46.633617",
+    "last_updated": "2025-04-05T23:12:46.633619"
+  },
+  {
     "id": "schietbaanlaan",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/1d42af54/schietbaanlaan",
     "title": "Flat Schietbaanlaan 45 F",
@@ -250,6 +264,20 @@
     "agency": "Rijnpoort Makelaars",
     "first_seen": "2025-04-05T01:03:49.110965",
     "last_updated": "2025-04-05T01:03:49.110967"
+  },
+  {
+    "id": "waldorpstraat",
+    "url": "https://www.pararius.com/house-for-rent/den-haag/1726a2cb/waldorpstraat",
+    "title": "House Waldorpstraat 1142",
+    "price": 906.0,
+    "size": 23,
+    "rooms": 1,
+    "location": "2521 CX Den Haag (Laakhaven-West)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/1726a2cb-8228-5b20-83e4-99c8aac75d02/404bb4e5a5f9d13999c84ae14a3cb1d0.jpg?width=600&auto=webp",
+    "agency": "LIV Residential",
+    "first_seen": "2025-04-05T23:12:52.680264",
+    "last_updated": "2025-04-05T23:12:52.680266"
   },
   {
     "id": "assendelftstraat",

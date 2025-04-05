@@ -40,5 +40,15 @@
       "schrijnwerkersgaarde"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-04-05T23:12:53.359504",
+    "new_listings_count": 2,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "schaepmanstraat",
+      "waldorpstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]

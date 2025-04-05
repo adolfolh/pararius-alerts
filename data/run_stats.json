@@ -228,5 +228,15 @@
     "notification_sent": false,
     "errors": [],
     "duration_seconds": 11.54266
+  },
+  {
+    "timestamp": "2025-04-05T23:12:41.003612",
+    "success": true,
+    "new_listings_count": 2,
+    "updated_listings_count": 0,
+    "total_listings_count": 36,
+    "notification_sent": true,
+    "errors": [],
+    "duration_seconds": 12.356127
   }
 ]
