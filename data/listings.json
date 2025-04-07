@@ -182,6 +182,20 @@
     "last_updated": "2025-04-05T01:03:43.351255"
   },
   {
+    "id": "jan-wapstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/8938b992/jan-wapstraat",
+    "title": "Flat Jan Wapstraat",
+    "price": 841.0,
+    "size": 62,
+    "rooms": 3,
+    "location": "2523 GE Den Haag (Laakkwartier-West)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/8938b992-3b44-5637-b96c-6edcb8086a55/e0a62466852a64c3a30d27dc4d9de159.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-04-07T11:11:06.773082",
+    "last_updated": "2025-04-07T11:11:06.773089"
+  },
+  {
     "id": "hazelaarstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/6f83516c/hazelaarstraat",
     "title": "Flat Hazelaarstraat 123",

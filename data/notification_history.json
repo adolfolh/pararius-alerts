@@ -50,5 +50,14 @@
       "waldorpstraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-04-07T11:11:07.545005",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "jan-wapstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
