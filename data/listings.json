@@ -1,5 +1,19 @@
 [
   {
+    "id": "leeuwenstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/4675bea1/leeuwenstraat",
+    "title": "Flat Leeuwenstraat",
+    "price": 895.0,
+    "size": 28,
+    "rooms": 1,
+    "location": "3011 AL Rotterdam (Stadsdriehoek)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4675bea1-459a-53c5-8078-f40d18f929da/fa3c83e34e73a1f981d48d4f789540fe.jpg?width=600&auto=webp",
+    "agency": "Rotterdam Apartments",
+    "first_seen": "2025-04-07T12:25:27.057230",
+    "last_updated": "2025-04-07T12:25:27.057233"
+  },
+  {
     "id": "1e-middellandstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/7a9bef32/1e-middellandstraat",
     "title": "Flat 1e Middellandstraat 73 E",
@@ -180,20 +194,6 @@
     "agency": "Properbee",
     "first_seen": "2025-04-05T01:03:43.351252",
     "last_updated": "2025-04-05T01:03:43.351255"
-  },
-  {
-    "id": "jan-wapstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/8938b992/jan-wapstraat",
-    "title": "Flat Jan Wapstraat",
-    "price": 841.0,
-    "size": 62,
-    "rooms": 3,
-    "location": "2523 GE Den Haag (Laakkwartier-West)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/8938b992-3b44-5637-b96c-6edcb8086a55/e0a62466852a64c3a30d27dc4d9de159.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-04-07T11:11:06.773082",
-    "last_updated": "2025-04-07T11:11:06.773089"
   },
   {
     "id": "hazelaarstraat",
@@ -516,5 +516,19 @@
     "agency": "Livable",
     "first_seen": "2025-04-05T01:03:49.138254",
     "last_updated": "2025-04-05T01:03:49.138256"
+  },
+  {
+    "id": "jan-wapstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/8938b992/jan-wapstraat",
+    "title": "Flat Jan Wapstraat",
+    "price": 841.0,
+    "size": 62,
+    "rooms": 3,
+    "location": "2523 GE Den Haag (Laakkwartier-West)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/8938b992-3b44-5637-b96c-6edcb8086a55/e0a62466852a64c3a30d27dc4d9de159.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-04-07T11:11:06.773082",
+    "last_updated": "2025-04-07T11:11:06.773089"
   }
 ]

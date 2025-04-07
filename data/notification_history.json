@@ -59,5 +59,14 @@
       "jan-wapstraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-04-07T12:25:33.722747",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "leeuwenstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
