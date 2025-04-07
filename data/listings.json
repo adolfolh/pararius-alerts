@@ -42,20 +42,6 @@
     "last_updated": "2025-04-05T01:03:43.330816"
   },
   {
-    "id": "weteringstraat",
-    "url": "https://www.pararius.com/studio-for-rent/rotterdam/dddb5b82/weteringstraat",
-    "title": "Studio Weteringstraat 2 Voor",
-    "price": 906.0,
-    "size": 22,
-    "rooms": 1,
-    "location": "3061 PR Rotterdam (Kralingen West)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/dddb5b82-a810-5fbf-9f37-7d66de6ba263/dda1cd2090b5d99e79bfb3f74c60fe45.jpg?width=600&auto=webp",
-    "agency": "Riva Rentals",
-    "first_seen": "2025-04-05T01:03:43.332543",
-    "last_updated": "2025-04-05T01:03:43.332546"
-  },
-  {
     "id": "dordtselaan",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/15ace78f/dordtselaan",
     "title": "Flat Dordtselaan 205",
@@ -295,17 +281,17 @@
   },
   {
     "id": "waldorpstraat",
-    "url": "https://www.pararius.com/house-for-rent/den-haag/1726a2cb/waldorpstraat",
-    "title": "House Waldorpstraat 1142",
-    "price": 906.0,
+    "url": "https://www.pararius.com/house-for-rent/den-haag/b945071e/waldorpstraat",
+    "title": "House Waldorpstraat 1374",
+    "price": 893.0,
     "size": 23,
     "rooms": 1,
-    "location": "2521 CX Den Haag (Laakhaven-West)",
+    "location": "2521 CZ Den Haag (Laakhaven-West)",
     "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/1726a2cb-8228-5b20-83e4-99c8aac75d02/404bb4e5a5f9d13999c84ae14a3cb1d0.jpg?width=600&auto=webp",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b945071e-ac8f-52fa-99ca-a67bed8b1dc2/aa6a6aef081226a8825bff3d3dcbdf57.jpg?width=600&auto=webp",
     "agency": "LIV Residential",
     "first_seen": "2025-04-05T23:12:52.680264",
-    "last_updated": "2025-04-05T23:12:52.680266"
+    "last_updated": "2025-04-07T16:14:16.257764"
   },
   {
     "id": "assendelftstraat",
@@ -530,6 +516,20 @@
     "agency": "Livable",
     "first_seen": "2025-04-05T01:03:49.138254",
     "last_updated": "2025-04-05T01:03:49.138256"
+  },
+  {
+    "id": "weteringstraat",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/dddb5b82/weteringstraat",
+    "title": "Studio Weteringstraat 2 Voor",
+    "price": 906.0,
+    "size": 22,
+    "rooms": 1,
+    "location": "3061 PR Rotterdam (Kralingen West)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/dddb5b82-a810-5fbf-9f37-7d66de6ba263/dda1cd2090b5d99e79bfb3f74c60fe45.jpg?width=600&auto=webp",
+    "agency": "Riva Rentals",
+    "first_seen": "2025-04-05T01:03:43.332543",
+    "last_updated": "2025-04-05T01:03:43.332546"
   },
   {
     "id": "jan-wapstraat",

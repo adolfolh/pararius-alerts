@@ -77,5 +77,14 @@
       "westerlaan"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-04-07T16:14:16.957651",
+    "new_listings_count": 0,
+    "updated_listings_count": 1,
+    "new_listing_ids": [],
+    "updated_listing_ids": [
+      "waldorpstraat"
+    ]
   }
 ]
