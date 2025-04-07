@@ -140,6 +140,20 @@
     "last_updated": "2025-04-05T01:03:43.344472"
   },
   {
+    "id": "westerlaan",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/bb53a40e/westerlaan",
+    "title": "Studio Westerlaan",
+    "price": null,
+    "size": 25,
+    "rooms": 2,
+    "location": "3016 CK Rotterdam (Nieuwe Werk)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/bb53a40e-920c-578f-9d03-1f4663129d3f/f453d84c968694f3e9a4db30ff5a16ad.jpg?width=600&auto=webp",
+    "agency": "H.O.D. Nederland",
+    "first_seen": "2025-04-07T13:23:38.586343",
+    "last_updated": "2025-04-07T13:23:38.586346"
+  },
+  {
     "id": "wevershoekstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/dedc357f/wevershoekstraat",
     "title": "Flat Wevershoekstraat 55 A",

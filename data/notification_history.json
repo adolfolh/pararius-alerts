@@ -68,5 +68,14 @@
       "leeuwenstraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-04-07T13:23:45.078378",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "westerlaan"
+    ],
+    "updated_listing_ids": []
   }
 ]
