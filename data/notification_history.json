@@ -113,5 +113,14 @@
       "ieplaan"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-04-08T16:15:56.317326",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "verschoorstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
