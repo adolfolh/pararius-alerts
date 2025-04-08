@@ -182,6 +182,20 @@
     "last_updated": "2025-04-05T01:03:43.351255"
   },
   {
+    "id": "ieplaan",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/6b330135/ieplaan",
+    "title": "Flat Ieplaan",
+    "price": 695.0,
+    "size": 41,
+    "rooms": 2,
+    "location": "2565 LC Den Haag (Bomenbuurt)",
+    "interior": "Upholstered or furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6b330135-008b-59a7-b59a-71f1fd3c23ec/62f3d78895f2bdac251b4441eed2e235.jpg?width=600&auto=webp",
+    "agency": "Rental Rotterdam",
+    "first_seen": "2025-04-08T15:13:51.593891",
+    "last_updated": "2025-04-08T15:13:51.593897"
+  },
+  {
     "id": "daguerrestraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/6224b544/daguerrestraat",
     "title": "Flat Daguerrestraat",
