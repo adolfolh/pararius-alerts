@@ -95,5 +95,14 @@
     "updated_listing_ids": [
       "schrijnwerkersgaarde"
     ]
+  },
+  {
+    "timestamp": "2025-04-08T11:11:07.261611",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "daguerrestraat"
+    ],
+    "updated_listing_ids": []
   }
 ]

@@ -196,6 +196,20 @@
     "last_updated": "2025-04-05T01:03:43.351255"
   },
   {
+    "id": "daguerrestraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/6224b544/daguerrestraat",
+    "title": "Flat Daguerrestraat",
+    "price": null,
+    "size": 35,
+    "rooms": 2,
+    "location": "2561 TP Den Haag (Koningsplein en omgeving)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6224b544-cab9-5ee9-a80e-0c30b5c92dc8/9e8416a0386d2af406e524569a3d6797.jpg?width=600&auto=webp",
+    "agency": "Immovita",
+    "first_seen": "2025-04-08T11:11:06.527797",
+    "last_updated": "2025-04-08T11:11:06.527804"
+  },
+  {
     "id": "hazelaarstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/6f83516c/hazelaarstraat",
     "title": "Flat Hazelaarstraat 123",
