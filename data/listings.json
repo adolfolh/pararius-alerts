@@ -1,19 +1,5 @@
 [
   {
-    "id": "verschoorstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/20b86040/verschoorstraat",
-    "title": "Flat Verschoorstraat",
-    "price": 965.0,
-    "size": 62,
-    "rooms": 2,
-    "location": "3081 JX Rotterdam (Tarwewijk)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/20b86040-d5ff-51df-b40d-bd90ce330155/92fc715c180f82da2e7d64dfe40e82cb.jpg?width=600&auto=webp",
-    "agency": "Rent an Apartment",
-    "first_seen": "2025-04-08T16:15:49.676847",
-    "last_updated": "2025-04-08T16:15:49.676854"
-  },
-  {
     "id": "leeuwenstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/4675bea1/leeuwenstraat",
     "title": "Flat Leeuwenstraat",
@@ -40,20 +26,6 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-04-05T01:03:43.329189",
     "last_updated": "2025-04-05T01:03:43.329194"
-  },
-  {
-    "id": "middelharnisstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/53733cf1/middelharnisstraat",
-    "title": "Flat Middelharnisstraat",
-    "price": 999.0,
-    "size": 67,
-    "rooms": 3,
-    "location": "3086 GH Rotterdam (Pendrecht)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/53733cf1-f260-532a-83d5-38bb0eb7232f/26b5d69945f80804ac51e9d939980fbe.jpg?width=600&auto=webp",
-    "agency": "Perfect Rent",
-    "first_seen": "2025-04-05T01:03:43.330813",
-    "last_updated": "2025-04-05T01:03:43.330816"
   },
   {
     "id": "zwederstraat",
@@ -544,6 +516,34 @@
     "agency": "Livable",
     "first_seen": "2025-04-05T01:03:49.138254",
     "last_updated": "2025-04-08T07:12:57.458738"
+  },
+  {
+    "id": "verschoorstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/20b86040/verschoorstraat",
+    "title": "Flat Verschoorstraat",
+    "price": 965.0,
+    "size": 62,
+    "rooms": 2,
+    "location": "3081 JX Rotterdam (Tarwewijk)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/20b86040-d5ff-51df-b40d-bd90ce330155/92fc715c180f82da2e7d64dfe40e82cb.jpg?width=600&auto=webp",
+    "agency": "Rent an Apartment",
+    "first_seen": "2025-04-08T16:15:49.676847",
+    "last_updated": "2025-04-08T16:15:49.676854"
+  },
+  {
+    "id": "middelharnisstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/53733cf1/middelharnisstraat",
+    "title": "Flat Middelharnisstraat",
+    "price": 999.0,
+    "size": 67,
+    "rooms": 3,
+    "location": "3086 GH Rotterdam (Pendrecht)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/53733cf1-f260-532a-83d5-38bb0eb7232f/26b5d69945f80804ac51e9d939980fbe.jpg?width=600&auto=webp",
+    "agency": "Perfect Rent",
+    "first_seen": "2025-04-05T01:03:43.330813",
+    "last_updated": "2025-04-05T01:03:43.330816"
   },
   {
     "id": "dordtselaan",
