@@ -42,20 +42,6 @@
     "last_updated": "2025-04-05T01:03:43.330816"
   },
   {
-    "id": "dordtselaan",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/15ace78f/dordtselaan",
-    "title": "Flat Dordtselaan 205",
-    "price": 926.0,
-    "size": 111,
-    "rooms": 4,
-    "location": "3081 BP Rotterdam (Tarwewijk)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/15ace78f-019f-51cd-8a2a-119430ae241c/f5aca1d298048d5d9f7bb704fde6f6d3.jpg?width=600&auto=webp",
-    "agency": "Kolpa V.V.S. Beheer",
-    "first_seen": "2025-04-05T01:03:43.334259",
-    "last_updated": "2025-04-05T01:03:43.334262"
-  },
-  {
     "id": "zwederstraat",
     "url": "https://www.pararius.com/studio-for-rent/rotterdam/2ba8f8cb/zwederstraat",
     "title": "Studio Zwederstraat 65 A-02",
@@ -530,6 +516,20 @@
     "agency": "Livable",
     "first_seen": "2025-04-05T01:03:49.138254",
     "last_updated": "2025-04-08T07:12:57.458738"
+  },
+  {
+    "id": "dordtselaan",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/15ace78f/dordtselaan",
+    "title": "Flat Dordtselaan 205",
+    "price": 926.0,
+    "size": 111,
+    "rooms": 4,
+    "location": "3081 BP Rotterdam (Tarwewijk)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/15ace78f-019f-51cd-8a2a-119430ae241c/f5aca1d298048d5d9f7bb704fde6f6d3.jpg?width=600&auto=webp",
+    "agency": "Kolpa V.V.S. Beheer",
+    "first_seen": "2025-04-05T01:03:43.334259",
+    "last_updated": "2025-04-05T01:03:43.334262"
   },
   {
     "id": "weteringstraat",
