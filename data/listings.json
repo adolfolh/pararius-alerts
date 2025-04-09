@@ -182,20 +182,6 @@
     "last_updated": "2025-04-05T01:03:43.349557"
   },
   {
-    "id": "treilerweg",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/65ee9b39/treilerweg",
-    "title": "Flat Treilerweg",
-    "price": 847.0,
-    "size": 10,
-    "rooms": 2,
-    "location": "2583 DB Den Haag (Vissershaven)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/65ee9b39-df24-5dfd-aba6-89fd9e39ec55/32393c85cfcf42a909d5f60b340c320b.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-04-09T08:18:24.310061",
-    "last_updated": "2025-04-09T08:18:24.310068"
-  },
-  {
     "id": "ieplaan",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/6b330135/ieplaan",
     "title": "Flat Ieplaan",
@@ -530,6 +516,20 @@
     "agency": "Livable",
     "first_seen": "2025-04-05T01:03:49.138254",
     "last_updated": "2025-04-08T07:12:57.458738"
+  },
+  {
+    "id": "treilerweg",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/65ee9b39/treilerweg",
+    "title": "Flat Treilerweg",
+    "price": 847.0,
+    "size": 10,
+    "rooms": 2,
+    "location": "2583 DB Den Haag (Vissershaven)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/65ee9b39-df24-5dfd-aba6-89fd9e39ec55/32393c85cfcf42a909d5f60b340c320b.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-04-09T08:18:24.310061",
+    "last_updated": "2025-04-09T08:18:24.310068"
   },
   {
     "id": "ericastraat",
