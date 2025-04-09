@@ -476,20 +476,6 @@
     "last_updated": "2025-04-05T01:03:49.131526"
   },
   {
-    "id": "van-bylandtstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/c439f1a8/van-bylandtstraat",
-    "title": "Flat Van Bylandtstraat 81 D",
-    "price": 950.0,
-    "size": 18,
-    "rooms": 1,
-    "location": "2562 GJ Den Haag (Koningsplein en omgeving)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/c439f1a8-eb66-57d5-b763-ace3b372cb8a/92fdb17f2cbe69199fd8a6bd26d04026.jpg?width=600&auto=webp",
-    "agency": "SMG Housing",
-    "first_seen": "2025-04-05T01:03:49.133206",
-    "last_updated": "2025-04-05T01:03:49.133208"
-  },
-  {
     "id": "allard-piersonlaan",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/6b166714/allard-piersonlaan",
     "title": "Flat Allard Piersonlaan 113",
@@ -530,6 +516,20 @@
     "agency": "Livable",
     "first_seen": "2025-04-05T01:03:49.138254",
     "last_updated": "2025-04-08T07:12:57.458738"
+  },
+  {
+    "id": "van-bylandtstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/c439f1a8/van-bylandtstraat",
+    "title": "Flat Van Bylandtstraat 81 D",
+    "price": 950.0,
+    "size": 18,
+    "rooms": 1,
+    "location": "2562 GJ Den Haag (Koningsplein en omgeving)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/c439f1a8-eb66-57d5-b763-ace3b372cb8a/92fdb17f2cbe69199fd8a6bd26d04026.jpg?width=600&auto=webp",
+    "agency": "SMG Housing",
+    "first_seen": "2025-04-05T01:03:49.133206",
+    "last_updated": "2025-04-05T01:03:49.133208"
   },
   {
     "id": "verschoorstraat",
