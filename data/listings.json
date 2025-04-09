@@ -154,20 +154,6 @@
     "last_updated": "2025-04-05T01:03:43.349557"
   },
   {
-    "id": "ericastraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/7ad91c5a/ericastraat",
-    "title": "Flat Ericastraat 9 01",
-    "price": 721.0,
-    "size": 50,
-    "rooms": 3,
-    "location": "3073 HC Rotterdam (Bloemhof)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7ad91c5a-0d7e-5ab8-863b-70886014792d/59478add6a7337d825cadc64d3892d33.jpg?width=600&auto=webp",
-    "agency": "Properbee",
-    "first_seen": "2025-04-05T01:03:43.351252",
-    "last_updated": "2025-04-05T01:03:43.351255"
-  },
-  {
     "id": "treilerweg",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/65ee9b39/treilerweg",
     "title": "Flat Treilerweg",
@@ -516,6 +502,20 @@
     "agency": "Livable",
     "first_seen": "2025-04-05T01:03:49.138254",
     "last_updated": "2025-04-08T07:12:57.458738"
+  },
+  {
+    "id": "ericastraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/7ad91c5a/ericastraat",
+    "title": "Flat Ericastraat 9 01",
+    "price": 721.0,
+    "size": 50,
+    "rooms": 3,
+    "location": "3073 HC Rotterdam (Bloemhof)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7ad91c5a-0d7e-5ab8-863b-70886014792d/59478add6a7337d825cadc64d3892d33.jpg?width=600&auto=webp",
+    "agency": "Properbee",
+    "first_seen": "2025-04-05T01:03:43.351252",
+    "last_updated": "2025-04-05T01:03:43.351255"
   },
   {
     "id": "van-bylandtstraat",
