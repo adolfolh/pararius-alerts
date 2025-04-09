@@ -122,5 +122,14 @@
       "verschoorstraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-04-09T08:18:30.943809",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "treilerweg"
+    ],
+    "updated_listing_ids": []
   }
 ]
