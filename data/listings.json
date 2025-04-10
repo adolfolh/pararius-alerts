@@ -322,20 +322,6 @@
     "last_updated": "2025-04-07T16:14:16.257764"
   },
   {
-    "id": "assendelftstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/a1127702/assendelftstraat",
-    "title": "Flat Assendelftstraat 9 A",
-    "price": 800.0,
-    "size": 51,
-    "rooms": 2,
-    "location": "2512 VS Den Haag (Kortenbos)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a1127702-2b3b-5671-9137-c575ce72ba02/fba1ba80f06f5c7a2b03b3f96a9061e3.jpg?width=600&auto=webp",
-    "agency": "Wooncompany Den Haag",
-    "first_seen": "2025-04-05T01:03:49.112785",
-    "last_updated": "2025-04-05T01:03:49.112788"
-  },
-  {
     "id": "suezkade",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/0d5f3406/suezkade",
     "title": "Flat Suezkade",
@@ -530,6 +516,20 @@
     "agency": "Livable",
     "first_seen": "2025-04-05T01:03:49.138254",
     "last_updated": "2025-04-08T07:12:57.458738"
+  },
+  {
+    "id": "assendelftstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/a1127702/assendelftstraat",
+    "title": "Flat Assendelftstraat 9 A",
+    "price": 800.0,
+    "size": 51,
+    "rooms": 2,
+    "location": "2512 VS Den Haag (Kortenbos)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a1127702-2b3b-5671-9137-c575ce72ba02/fba1ba80f06f5c7a2b03b3f96a9061e3.jpg?width=600&auto=webp",
+    "agency": "Wooncompany Den Haag",
+    "first_seen": "2025-04-05T01:03:49.112785",
+    "last_updated": "2025-04-05T01:03:49.112788"
   },
   {
     "id": "treilerweg",
