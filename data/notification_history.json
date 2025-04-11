@@ -159,5 +159,15 @@
       "piet-paaltjensstraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-04-11T16:15:48.432982",
+    "new_listings_count": 2,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "jonker-fransstraat",
+      "hugo-de-grootstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
