@@ -168,6 +168,20 @@
     "last_updated": "2025-04-05T01:03:43.349557"
   },
   {
+    "id": "fahrenheitstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/c6bf14a0/fahrenheitstraat",
+    "title": "Flat Fahrenheitstraat",
+    "price": 933.0,
+    "size": 32,
+    "rooms": 2,
+    "location": "2561 EK Den Haag (Valkenboskwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/c6bf14a0-34b2-5152-a1ff-06566530b8a6/db558d758c676628d5f22aeb5262d306.jpg?width=600&auto=webp",
+    "agency": "Rent Valley",
+    "first_seen": "2025-04-05T01:03:49.128182",
+    "last_updated": "2025-04-14T10:14:54.828710"
+  },
+  {
     "id": "hugo-de-grootstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/83481548/hugo-de-grootstraat",
     "title": "Flat Hugo de Grootstraat 62 C",
@@ -502,20 +516,6 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-04-05T01:03:49.126498",
     "last_updated": "2025-04-05T01:03:49.126500"
-  },
-  {
-    "id": "fahrenheitstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/4e52efa7/fahrenheitstraat",
-    "title": "Flat Fahrenheitstraat 228 B",
-    "price": 858.0,
-    "size": 34,
-    "rooms": 2,
-    "location": "2561 EH Den Haag (Valkenboskwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4e52efa7-403d-555c-a057-967637ef1c0b/cdb697fd8bc5b2e78cd9dee06e6c62c1.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-04-05T01:03:49.128182",
-    "last_updated": "2025-04-05T01:03:49.128184"
   },
   {
     "id": "kepplerstraat",
