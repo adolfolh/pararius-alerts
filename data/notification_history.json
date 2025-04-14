@@ -178,5 +178,14 @@
     "updated_listing_ids": [
       "fahrenheitstraat"
     ]
+  },
+  {
+    "timestamp": "2025-04-14T12:24:48.994946",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "schiedamseweg"
+    ],
+    "updated_listing_ids": []
   }
 ]
