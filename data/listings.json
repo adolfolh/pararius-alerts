@@ -182,6 +182,20 @@
     "last_updated": "2025-04-05T01:03:43.349557"
   },
   {
+    "id": "van-zeggelenlaan",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/2866ac92/van-zeggelenlaan",
+    "title": "Flat Van Zeggelenlaan",
+    "price": 934.0,
+    "size": 72,
+    "rooms": 3,
+    "location": "2524 AK Den Haag (Laakkwartier-West)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2866ac92-f871-51d4-a902-b6aabac3b3fa/6290d0665e479fc7aebb48c64214abf2.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-04-05T01:03:49.119741",
+    "last_updated": "2025-04-15T08:17:58.917784"
+  },
+  {
     "id": "fahrenheitstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/c6bf14a0/fahrenheitstraat",
     "title": "Flat Fahrenheitstraat",
@@ -488,20 +502,6 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-04-05T01:03:49.116291",
     "last_updated": "2025-04-05T01:03:49.116294"
-  },
-  {
-    "id": "van-zeggelenlaan",
-    "url": "https://www.pararius.com/studio-for-rent/den-haag/1c9b8614/van-zeggelenlaan",
-    "title": "Studio Van Zeggelenlaan 270 kamer 2",
-    "price": 689.0,
-    "size": 20,
-    "rooms": 1,
-    "location": "2524 AZ Den Haag (Laakkwartier-West)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/1c9b8614-a282-551e-ab18-4a91108b3b36/5a012684cd3b3284a75b7eb88d1e6aa0.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-04-05T01:03:49.119741",
-    "last_updated": "2025-04-05T01:03:49.119744"
   },
   {
     "id": "prinsegracht",
