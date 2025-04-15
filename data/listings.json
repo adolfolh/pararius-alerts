@@ -1,5 +1,33 @@
 [
   {
+    "id": "grote-visserijstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/07460344/grote-visserijstraat",
+    "title": "Flat Grote Visserijstraat 27 A2",
+    "price": 847.0,
+    "size": 84,
+    "rooms": 3,
+    "location": "3026 CB Rotterdam (Tussendijken)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/07460344-f1db-5851-9760-a4231770db35/f7db826660d20508aa26ddf01918fded.jpg?width=600&auto=webp",
+    "agency": "Kolpa V.V.S. Beheer",
+    "first_seen": "2025-04-15T11:10:56.029933",
+    "last_updated": "2025-04-15T11:10:56.029941"
+  },
+  {
+    "id": "poolsestraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/4979674d/poolsestraat",
+    "title": "Flat Poolsestraat 19 C",
+    "price": 966.0,
+    "size": 87,
+    "rooms": 3,
+    "location": "3028 EM Rotterdam (Oud Mathenesse)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4979674d-4e0f-553a-88a3-4e696ec58cff/5d1ae8add599a4dfc273aef01efa67fa.jpg?width=600&auto=webp",
+    "agency": "Kolpa V.V.S. Beheer",
+    "first_seen": "2025-04-15T11:10:56.031712",
+    "last_updated": "2025-04-15T11:10:56.031715"
+  },
+  {
     "id": "jonker-fransstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/b3027efc/jonker-fransstraat",
     "title": "Flat Jonker Fransstraat",
@@ -180,6 +208,20 @@
     "agency": "HouseHunting Randstad",
     "first_seen": "2025-04-05T01:03:43.349554",
     "last_updated": "2025-04-05T01:03:43.349557"
+  },
+  {
+    "id": "oog-in-t-zeilstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/7de26dd1/oog-in-t-zeilstraat",
+    "title": "Flat Oog in 't Zeilstraat",
+    "price": 827.0,
+    "size": 30,
+    "rooms": 2,
+    "location": "2512 CC Den Haag (Zuidwal)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7de26dd1-caed-55eb-b811-85198ff4c47e/1d50f88a9f1832d2a7403fc5a79dd7d3.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-04-15T11:11:01.934744",
+    "last_updated": "2025-04-15T11:11:01.934752"
   },
   {
     "id": "fahrenheitstraat",

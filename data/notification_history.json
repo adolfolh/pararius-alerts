@@ -205,5 +205,16 @@
     "updated_listing_ids": [
       "van-zeggelenlaan"
     ]
+  },
+  {
+    "timestamp": "2025-04-15T11:11:02.798191",
+    "new_listings_count": 3,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "grote-visserijstraat",
+      "poolsestraat",
+      "oog-in-t-zeilstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
