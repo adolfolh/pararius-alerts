@@ -216,5 +216,15 @@
       "oog-in-t-zeilstraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-04-15T12:24:54.810524",
+    "new_listings_count": 2,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "ruigenhoek",
+      "salvador-allendestraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
