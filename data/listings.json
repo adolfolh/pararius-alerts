@@ -1,5 +1,19 @@
 [
   {
+    "id": "lepelaarsingel",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/00f90ad5/lepelaarsingel",
+    "title": "Flat Lepelaarsingel",
+    "price": 927.0,
+    "size": 47,
+    "rooms": 2,
+    "location": "3083 KH Rotterdam (Carnisse)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/00f90ad5-26aa-59f5-8048-2bcd4017c6f1/26b15e4789474417b9758ef22e858fe5.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-04-15T16:14:01.070489",
+    "last_updated": "2025-04-15T16:14:01.070496"
+  },
+  {
     "id": "salvador-allendestraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f22fdcfb/salvador-allendestraat",
     "title": "Flat Salvador Allendestraat",

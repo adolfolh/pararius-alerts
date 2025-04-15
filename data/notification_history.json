@@ -235,5 +235,14 @@
     "updated_listing_ids": [
       "allard-piersonlaan"
     ]
+  },
+  {
+    "timestamp": "2025-04-15T16:14:08.088443",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "lepelaarsingel"
+    ],
+    "updated_listing_ids": []
   }
 ]
