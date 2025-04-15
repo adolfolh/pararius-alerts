@@ -226,5 +226,14 @@
       "salvador-allendestraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-04-15T14:13:38.252138",
+    "new_listings_count": 0,
+    "updated_listings_count": 1,
+    "new_listing_ids": [],
+    "updated_listing_ids": [
+      "allard-piersonlaan"
+    ]
   }
 ]
