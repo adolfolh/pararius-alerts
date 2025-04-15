@@ -182,20 +182,6 @@
     "last_updated": "2025-04-05T01:03:43.349557"
   },
   {
-    "id": "van-zeggelenlaan",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/2866ac92/van-zeggelenlaan",
-    "title": "Flat Van Zeggelenlaan",
-    "price": 934.0,
-    "size": 72,
-    "rooms": 3,
-    "location": "2524 AK Den Haag (Laakkwartier-West)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2866ac92-f871-51d4-a902-b6aabac3b3fa/6290d0665e479fc7aebb48c64214abf2.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-04-05T01:03:49.119741",
-    "last_updated": "2025-04-15T08:17:58.917784"
-  },
-  {
     "id": "fahrenheitstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/c6bf14a0/fahrenheitstraat",
     "title": "Flat Fahrenheitstraat",
@@ -404,6 +390,20 @@
     "agency": "Livable",
     "first_seen": "2025-04-05T01:03:49.138254",
     "last_updated": "2025-04-08T07:12:57.458738"
+  },
+  {
+    "id": "van-zeggelenlaan",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/2866ac92/van-zeggelenlaan",
+    "title": "Flat Van Zeggelenlaan",
+    "price": 934.0,
+    "size": 72,
+    "rooms": 3,
+    "location": "2524 AK Den Haag (Laakkwartier-West)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2866ac92-f871-51d4-a902-b6aabac3b3fa/6290d0665e479fc7aebb48c64214abf2.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-04-05T01:03:49.119741",
+    "last_updated": "2025-04-15T08:17:58.917784"
   },
   {
     "id": "bilderdijkstraat",
