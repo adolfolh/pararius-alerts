@@ -1,5 +1,19 @@
 [
   {
+    "id": "wolphaertsbocht",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/f363c21e/wolphaertsbocht",
+    "title": "Studio Wolphaertsbocht 249 C",
+    "price": 650.0,
+    "size": 35,
+    "rooms": 2,
+    "location": "3083 ML Rotterdam (Carnisse)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f363c21e-d213-5610-a717-5b892634c498/ebe9a507853502bee50826b1584133ce.jpg?width=600&auto=webp",
+    "agency": "Riva Rentals",
+    "first_seen": "2025-04-16T13:23:52.900858",
+    "last_updated": "2025-04-16T13:23:52.900865"
+  },
+  {
     "id": "lepelaarsingel",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/00f90ad5/lepelaarsingel",
     "title": "Flat Lepelaarsingel",
@@ -210,20 +224,6 @@
     "last_updated": "2025-04-05T01:03:43.349557"
   },
   {
-    "id": "oog-in-t-zeilstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/7de26dd1/oog-in-t-zeilstraat",
-    "title": "Flat Oog in 't Zeilstraat",
-    "price": 827.0,
-    "size": 30,
-    "rooms": 2,
-    "location": "2512 CC Den Haag (Zuidwal)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7de26dd1-caed-55eb-b811-85198ff4c47e/1d50f88a9f1832d2a7403fc5a79dd7d3.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-04-15T11:11:01.934744",
-    "last_updated": "2025-04-15T11:11:01.934752"
-  },
-  {
     "id": "fahrenheitstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/c6bf14a0/fahrenheitstraat",
     "title": "Flat Fahrenheitstraat",
@@ -404,6 +404,20 @@
     "agency": "Livable",
     "first_seen": "2025-04-05T01:03:49.138254",
     "last_updated": "2025-04-08T07:12:57.458738"
+  },
+  {
+    "id": "oog-in-t-zeilstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/7de26dd1/oog-in-t-zeilstraat",
+    "title": "Flat Oog in 't Zeilstraat",
+    "price": 827.0,
+    "size": 30,
+    "rooms": 2,
+    "location": "2512 CC Den Haag (Zuidwal)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7de26dd1-caed-55eb-b811-85198ff4c47e/1d50f88a9f1832d2a7403fc5a79dd7d3.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-04-15T11:11:01.934744",
+    "last_updated": "2025-04-15T11:11:01.934752"
   },
   {
     "id": "allard-piersonlaan",
