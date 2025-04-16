@@ -210,20 +210,6 @@
     "last_updated": "2025-04-05T01:03:43.349557"
   },
   {
-    "id": "allard-piersonlaan",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/be94ad75/allard-piersonlaan",
-    "title": "Flat Allard Piersonlaan 113",
-    "price": 650.0,
-    "size": 10,
-    "rooms": 1,
-    "location": "2522 MH Den Haag (Laakkwartier-Oost)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/be94ad75-e7d4-520b-9717-e70facf697d3/963cb3e4f962fd66d512b1ab953800df.jpg?width=600&auto=webp",
-    "agency": "SMG Housing",
-    "first_seen": "2025-04-05T01:03:49.134881",
-    "last_updated": "2025-04-15T14:13:37.364846"
-  },
-  {
     "id": "oog-in-t-zeilstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/7de26dd1/oog-in-t-zeilstraat",
     "title": "Flat Oog in 't Zeilstraat",
@@ -418,6 +404,20 @@
     "agency": "Livable",
     "first_seen": "2025-04-05T01:03:49.138254",
     "last_updated": "2025-04-08T07:12:57.458738"
+  },
+  {
+    "id": "allard-piersonlaan",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/be94ad75/allard-piersonlaan",
+    "title": "Flat Allard Piersonlaan 113",
+    "price": 650.0,
+    "size": 10,
+    "rooms": 1,
+    "location": "2522 MH Den Haag (Laakkwartier-Oost)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/be94ad75-e7d4-520b-9717-e70facf697d3/963cb3e4f962fd66d512b1ab953800df.jpg?width=600&auto=webp",
+    "agency": "SMG Housing",
+    "first_seen": "2025-04-05T01:03:49.134881",
+    "last_updated": "2025-04-15T14:13:37.364846"
   },
   {
     "id": "ruigenhoek",
