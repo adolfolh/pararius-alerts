@@ -252,6 +252,20 @@
     "last_updated": "2025-04-05T01:03:43.349557"
   },
   {
+    "id": "kornalijnhorst",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/b51eae35/kornalijnhorst",
+    "title": "Flat Kornalijnhorst",
+    "price": 725.0,
+    "size": 52,
+    "rooms": 2,
+    "location": "2592 JC Den Haag (Burgen en Horsten)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b51eae35-f0c3-5fa8-b989-cd0f254b6706/26c6d15c7e9f898b1b0f185b9201dc99.jpg?width=600&auto=webp",
+    "agency": "Rotsvast Den Haag",
+    "first_seen": "2025-04-17T16:16:06.379846",
+    "last_updated": "2025-04-17T16:16:06.379852"
+  },
+  {
     "id": "valkenboslaan",
     "url": "https://www.pararius.com/studio-for-rent/den-haag/b15b03a7/valkenboslaan",
     "title": "Studio Valkenboslaan",
@@ -334,20 +348,6 @@
     "agency": "Rental Rotterdam",
     "first_seen": "2025-04-08T15:13:51.593891",
     "last_updated": "2025-04-08T15:13:51.593897"
-  },
-  {
-    "id": "daguerrestraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/6224b544/daguerrestraat",
-    "title": "Flat Daguerrestraat",
-    "price": null,
-    "size": 35,
-    "rooms": 2,
-    "location": "2561 TP Den Haag (Koningsplein en omgeving)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6224b544-cab9-5ee9-a80e-0c30b5c92dc8/9e8416a0386d2af406e524569a3d6797.jpg?width=600&auto=webp",
-    "agency": "Immovita",
-    "first_seen": "2025-04-08T11:11:06.527797",
-    "last_updated": "2025-04-08T11:11:06.527804"
   },
   {
     "id": "hazelaarstraat",
@@ -460,6 +460,20 @@
     "agency": "Livable",
     "first_seen": "2025-04-05T01:03:49.138254",
     "last_updated": "2025-04-08T07:12:57.458738"
+  },
+  {
+    "id": "daguerrestraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/6224b544/daguerrestraat",
+    "title": "Flat Daguerrestraat",
+    "price": null,
+    "size": 35,
+    "rooms": 2,
+    "location": "2561 TP Den Haag (Koningsplein en omgeving)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6224b544-cab9-5ee9-a80e-0c30b5c92dc8/9e8416a0386d2af406e524569a3d6797.jpg?width=600&auto=webp",
+    "agency": "Immovita",
+    "first_seen": "2025-04-08T11:11:06.527797",
+    "last_updated": "2025-04-08T11:11:06.527804"
   },
   {
     "id": "walenburgerweg",
