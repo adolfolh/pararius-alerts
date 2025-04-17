@@ -238,6 +238,20 @@
     "last_updated": "2025-04-05T01:03:43.349557"
   },
   {
+    "id": "keizerstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/a2a1152e/keizerstraat",
+    "title": "Flat Keizerstraat",
+    "price": 959.0,
+    "size": 35,
+    "rooms": 1,
+    "location": "2584 BE Den Haag (Oud Scheveningen)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a2a1152e-4497-574e-8eef-4931aa4a533c/41cd5e1e11fffcf3154c52e5371dc309.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-04-17T11:10:47.148245",
+    "last_updated": "2025-04-17T11:10:47.148247"
+  },
+  {
     "id": "fahrenheitstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/c6bf14a0/fahrenheitstraat",
     "title": "Flat Fahrenheitstraat",

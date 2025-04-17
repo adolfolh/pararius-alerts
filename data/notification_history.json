@@ -262,5 +262,14 @@
       "walenburgerweg"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-04-17T11:10:47.858370",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "keizerstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
