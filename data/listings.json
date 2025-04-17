@@ -1,5 +1,19 @@
 [
   {
+    "id": "katendrechtse-lagedijk",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/7f453baa/katendrechtse-lagedijk",
+    "title": "Flat Katendrechtse Lagedijk",
+    "price": 927.0,
+    "size": 54,
+    "rooms": 3,
+    "location": "3081 ZS Rotterdam (Tarwewijk)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7f453baa-4601-5371-a3e8-d7e2ccf8d515/08a2b5e1ecbf024abbd12e79ac92f51f.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-04-17T13:23:00.357746",
+    "last_updated": "2025-04-17T13:23:00.357753"
+  },
+  {
     "id": "walenburgerweg",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/055aee01/walenburgerweg",
     "title": "Flat Walenburgerweg",
@@ -238,6 +252,34 @@
     "last_updated": "2025-04-05T01:03:43.349557"
   },
   {
+    "id": "valkenboslaan",
+    "url": "https://www.pararius.com/studio-for-rent/den-haag/b15b03a7/valkenboslaan",
+    "title": "Studio Valkenboslaan",
+    "price": 952.0,
+    "size": 26,
+    "rooms": 2,
+    "location": "2563 CE Den Haag (Valkenboskwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b15b03a7-630f-5b2b-a851-a742d00b9398/0fa08125230be276975eb0d17c646b26.jpg?width=600&auto=webp",
+    "agency": "Homey Housing",
+    "first_seen": "2025-04-17T13:23:06.191850",
+    "last_updated": "2025-04-17T13:23:06.191857"
+  },
+  {
+    "id": "oog-in-t-zeilstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/7de26dd1/oog-in-t-zeilstraat",
+    "title": "Flat Oog in 't Zeilstraat",
+    "price": 827.0,
+    "size": 30,
+    "rooms": 2,
+    "location": "2512 CC Den Haag (Zuidwal)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7de26dd1-caed-55eb-b811-85198ff4c47e/1d50f88a9f1832d2a7403fc5a79dd7d3.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-04-15T11:11:01.934744",
+    "last_updated": "2025-04-15T11:11:01.934752"
+  },
+  {
     "id": "keizerstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/a2a1152e/keizerstraat",
     "title": "Flat Keizerstraat",
@@ -446,20 +488,6 @@
     "agency": "Rent Valley",
     "first_seen": "2025-04-05T01:03:49.129845",
     "last_updated": "2025-04-05T01:03:49.129847"
-  },
-  {
-    "id": "oog-in-t-zeilstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/7de26dd1/oog-in-t-zeilstraat",
-    "title": "Flat Oog in 't Zeilstraat",
-    "price": 827.0,
-    "size": 30,
-    "rooms": 2,
-    "location": "2512 CC Den Haag (Zuidwal)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7de26dd1-caed-55eb-b811-85198ff4c47e/1d50f88a9f1832d2a7403fc5a79dd7d3.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-04-15T11:11:01.934744",
-    "last_updated": "2025-04-15T11:11:01.934752"
   },
   {
     "id": "allard-piersonlaan",
