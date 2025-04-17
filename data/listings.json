@@ -14,20 +14,6 @@
     "last_updated": "2025-04-16T20:14:38.149754"
   },
   {
-    "id": "wolphaertsbocht",
-    "url": "https://www.pararius.com/studio-for-rent/rotterdam/f363c21e/wolphaertsbocht",
-    "title": "Studio Wolphaertsbocht 249 C",
-    "price": 650.0,
-    "size": 35,
-    "rooms": 2,
-    "location": "3083 ML Rotterdam (Carnisse)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f363c21e-d213-5610-a717-5b892634c498/ebe9a507853502bee50826b1584133ce.jpg?width=600&auto=webp",
-    "agency": "Riva Rentals",
-    "first_seen": "2025-04-16T13:23:52.900858",
-    "last_updated": "2025-04-16T13:23:52.900865"
-  },
-  {
     "id": "lepelaarsingel",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/00f90ad5/lepelaarsingel",
     "title": "Flat Lepelaarsingel",
@@ -54,6 +40,20 @@
     "agency": "Rotterdam Apartments",
     "first_seen": "2025-04-15T12:24:48.479602",
     "last_updated": "2025-04-15T12:24:48.479605"
+  },
+  {
+    "id": "poolsestraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/4979674d/poolsestraat",
+    "title": "Flat Poolsestraat 19 C",
+    "price": 966.0,
+    "size": 87,
+    "rooms": 3,
+    "location": "3028 EM Rotterdam (Oud Mathenesse)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4979674d-4e0f-553a-88a3-4e696ec58cff/5d1ae8add599a4dfc273aef01efa67fa.jpg?width=600&auto=webp",
+    "agency": "Kolpa V.V.S. Beheer",
+    "first_seen": "2025-04-15T11:10:56.031712",
+    "last_updated": "2025-04-15T11:10:56.031715"
   },
   {
     "id": "jonker-fransstraat",
@@ -420,6 +420,20 @@
     "last_updated": "2025-04-08T07:12:57.458738"
   },
   {
+    "id": "wolphaertsbocht",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/f363c21e/wolphaertsbocht",
+    "title": "Studio Wolphaertsbocht 249 C",
+    "price": 650.0,
+    "size": 35,
+    "rooms": 2,
+    "location": "3083 ML Rotterdam (Carnisse)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f363c21e-d213-5610-a717-5b892634c498/ebe9a507853502bee50826b1584133ce.jpg?width=600&auto=webp",
+    "agency": "Riva Rentals",
+    "first_seen": "2025-04-16T13:23:52.900858",
+    "last_updated": "2025-04-16T13:23:52.900865"
+  },
+  {
     "id": "1e-van-der-kunstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/03543f33/1e-van-der-kunstraat",
     "title": "Flat 1e Van der Kunstraat",
@@ -488,20 +502,6 @@
     "agency": "Kolpa V.V.S. Beheer",
     "first_seen": "2025-04-15T11:10:56.029933",
     "last_updated": "2025-04-15T11:10:56.029941"
-  },
-  {
-    "id": "poolsestraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/4979674d/poolsestraat",
-    "title": "Flat Poolsestraat 19 C",
-    "price": 966.0,
-    "size": 87,
-    "rooms": 3,
-    "location": "3028 EM Rotterdam (Oud Mathenesse)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4979674d-4e0f-553a-88a3-4e696ec58cff/5d1ae8add599a4dfc273aef01efa67fa.jpg?width=600&auto=webp",
-    "agency": "Kolpa V.V.S. Beheer",
-    "first_seen": "2025-04-15T11:10:56.031712",
-    "last_updated": "2025-04-15T11:10:56.031715"
   },
   {
     "id": "schwerinkade",
