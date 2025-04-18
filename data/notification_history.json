@@ -308,5 +308,14 @@
     "updated_listing_ids": [
       "copernicuslaan"
     ]
+  },
+  {
+    "timestamp": "2025-04-18T15:12:58.466252",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "granaathorst"
+    ],
+    "updated_listing_ids": []
   }
 ]
