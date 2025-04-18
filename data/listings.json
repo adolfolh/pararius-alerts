@@ -238,6 +238,20 @@
     "last_updated": "2025-04-05T01:03:43.349557"
   },
   {
+    "id": "copernicuslaan",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/ef6951a8/copernicuslaan",
+    "title": "Flat Copernicuslaan 107 B",
+    "price": 912.0,
+    "size": 26,
+    "rooms": 1,
+    "location": "2561 VC Den Haag (Valkenboskwartier)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ef6951a8-d512-51cc-a841-97a29940f462/e1d5b1312ee8df0a73023eb1d9372fc5.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-04-05T01:03:49.105829",
+    "last_updated": "2025-04-18T14:11:48.070145"
+  },
+  {
     "id": "kornalijnhorst",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/b51eae35/kornalijnhorst",
     "title": "Flat Kornalijnhorst",
@@ -656,20 +670,6 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-04-05T01:03:49.104064",
     "last_updated": "2025-04-05T01:03:49.104067"
-  },
-  {
-    "id": "copernicuslaan",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/e89df387/copernicuslaan",
-    "title": "Flat Copernicuslaan 105",
-    "price": 857.0,
-    "size": 39,
-    "rooms": 2,
-    "location": "2561 VC Den Haag (Valkenboskwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e89df387-6ca3-5f2a-9480-517fc0f3be50/0d676997d6b4cde2895bec31490ab1af.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-04-05T01:03:49.105829",
-    "last_updated": "2025-04-05T01:03:49.105832"
   },
   {
     "id": "ripperdastraat",
