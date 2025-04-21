@@ -28,20 +28,6 @@
     "last_updated": "2025-04-17T14:12:49.078286"
   },
   {
-    "id": "katendrechtse-lagedijk",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/7f453baa/katendrechtse-lagedijk",
-    "title": "Flat Katendrechtse Lagedijk",
-    "price": 927.0,
-    "size": 54,
-    "rooms": 3,
-    "location": "3081 ZS Rotterdam (Tarwewijk)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7f453baa-4601-5371-a3e8-d7e2ccf8d515/08a2b5e1ecbf024abbd12e79ac92f51f.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-04-17T13:23:00.357746",
-    "last_updated": "2025-04-17T13:23:00.357753"
-  },
-  {
     "id": "salvador-allendestraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f22fdcfb/salvador-allendestraat",
     "title": "Flat Salvador Allendestraat",
@@ -488,6 +474,20 @@
     "agency": "Livable",
     "first_seen": "2025-04-05T01:03:49.138254",
     "last_updated": "2025-04-08T07:12:57.458738"
+  },
+  {
+    "id": "katendrechtse-lagedijk",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/7f453baa/katendrechtse-lagedijk",
+    "title": "Flat Katendrechtse Lagedijk",
+    "price": 927.0,
+    "size": 54,
+    "rooms": 3,
+    "location": "3081 ZS Rotterdam (Tarwewijk)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7f453baa-4601-5371-a3e8-d7e2ccf8d515/08a2b5e1ecbf024abbd12e79ac92f51f.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-04-17T13:23:00.357746",
+    "last_updated": "2025-04-17T13:23:00.357753"
   },
   {
     "id": "lepelaarsingel",
