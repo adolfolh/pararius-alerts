@@ -1,5 +1,19 @@
 [
   {
+    "id": "oudedijk",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/587caacf/oudedijk",
+    "title": "Studio Oudedijk 143 A 04V",
+    "price": 807.0,
+    "size": 28,
+    "rooms": 2,
+    "location": "3061 AA Rotterdam (Kralingen West)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/587caacf-b282-5c76-bc65-8745aa2a0ee6/ac7ab9e50e8de81308854435cbff8465.jpg?width=600&auto=webp",
+    "agency": "Properbee",
+    "first_seen": "2025-04-21T18:17:28.615147",
+    "last_updated": "2025-04-21T18:17:28.615154"
+  },
+  {
     "id": "reyerdijk",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/6d3a47b0/reyerdijk",
     "title": "Flat Reyerdijk 74",
