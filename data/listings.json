@@ -294,20 +294,6 @@
     "last_updated": "2025-04-17T16:16:06.379852"
   },
   {
-    "id": "oog-in-t-zeilstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/7de26dd1/oog-in-t-zeilstraat",
-    "title": "Flat Oog in 't Zeilstraat",
-    "price": 827.0,
-    "size": 30,
-    "rooms": 2,
-    "location": "2512 CC Den Haag (Zuidwal)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7de26dd1-caed-55eb-b811-85198ff4c47e/1d50f88a9f1832d2a7403fc5a79dd7d3.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-04-15T11:11:01.934744",
-    "last_updated": "2025-04-15T11:11:01.934752"
-  },
-  {
     "id": "keizerstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/a2a1152e/keizerstraat",
     "title": "Flat Keizerstraat",
@@ -320,6 +306,20 @@
     "agency": "NRW Wonen",
     "first_seen": "2025-04-17T11:10:47.148245",
     "last_updated": "2025-04-17T11:10:47.148247"
+  },
+  {
+    "id": "oog-in-t-zeilstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/7de26dd1/oog-in-t-zeilstraat",
+    "title": "Flat Oog in 't Zeilstraat",
+    "price": 827.0,
+    "size": 30,
+    "rooms": 2,
+    "location": "2512 CC Den Haag (Zuidwal)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7de26dd1-caed-55eb-b811-85198ff4c47e/1d50f88a9f1832d2a7403fc5a79dd7d3.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-04-15T11:11:01.934744",
+    "last_updated": "2025-04-15T11:11:01.934752"
   },
   {
     "id": "fahrenheitstraat",
