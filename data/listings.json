@@ -98,34 +98,6 @@
     "last_updated": "2025-04-11T16:15:41.809418"
   },
   {
-    "id": "ruigoord",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/dfecb3fd/ruigoord",
-    "title": "Flat Ruigoord 27",
-    "price": 847.0,
-    "size": 57,
-    "rooms": 2,
-    "location": "3079 XM Rotterdam (Groot IJsselmonde)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/dfecb3fd-951d-5b3c-99e3-55933bccda0b/621cd9e932846a4704514bda83b60c9e.jpg?width=600&auto=webp",
-    "agency": "Nationaal Grondbezit",
-    "first_seen": "2025-04-09T13:24:40.655159",
-    "last_updated": "2025-04-09T13:24:40.655166"
-  },
-  {
-    "id": "lijsterlaan",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/0d028b9c/lijsterlaan",
-    "title": "Flat Lijsterlaan 117",
-    "price": 946.0,
-    "size": 74,
-    "rooms": 3,
-    "location": "3055 CG Rotterdam (Molenlaankwartier)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0d028b9c-bed7-586f-8576-efa2c1ae1184/381afc8486edfef971eee52553363efa.jpg?width=600&auto=webp",
-    "agency": "Nationaal Grondbezit",
-    "first_seen": "2025-04-09T13:24:40.656891",
-    "last_updated": "2025-04-09T13:24:40.656894"
-  },
-  {
     "id": "leeuwenstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/99e2e790/leeuwenstraat",
     "title": "Flat Leeuwenstraat",
@@ -502,6 +474,34 @@
     "agency": "Livable",
     "first_seen": "2025-04-05T01:03:49.138254",
     "last_updated": "2025-04-08T07:12:57.458738"
+  },
+  {
+    "id": "ruigoord",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/dfecb3fd/ruigoord",
+    "title": "Flat Ruigoord 27",
+    "price": 847.0,
+    "size": 57,
+    "rooms": 2,
+    "location": "3079 XM Rotterdam (Groot IJsselmonde)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/dfecb3fd-951d-5b3c-99e3-55933bccda0b/621cd9e932846a4704514bda83b60c9e.jpg?width=600&auto=webp",
+    "agency": "Nationaal Grondbezit",
+    "first_seen": "2025-04-09T13:24:40.655159",
+    "last_updated": "2025-04-09T13:24:40.655166"
+  },
+  {
+    "id": "lijsterlaan",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/0d028b9c/lijsterlaan",
+    "title": "Flat Lijsterlaan 117",
+    "price": 946.0,
+    "size": 74,
+    "rooms": 3,
+    "location": "3055 CG Rotterdam (Molenlaankwartier)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0d028b9c-bed7-586f-8576-efa2c1ae1184/381afc8486edfef971eee52553363efa.jpg?width=600&auto=webp",
+    "agency": "Nationaal Grondbezit",
+    "first_seen": "2025-04-09T13:24:40.656891",
+    "last_updated": "2025-04-09T13:24:40.656894"
   },
   {
     "id": "reyerdijk",
