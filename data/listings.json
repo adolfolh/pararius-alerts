@@ -1,5 +1,33 @@
 [
   {
+    "id": "strevelsweg",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f44eec50/strevelsweg",
+    "title": "Flat Strevelsweg",
+    "price": 966.0,
+    "size": 56,
+    "rooms": 2,
+    "location": "3075 AJ Rotterdam (Vreewijk)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f44eec50-b1b1-5982-b3c8-184e7cf462c5/c165ece3130d847b2b0e30ef34b9d6e3.jpg?width=600&auto=webp",
+    "agency": "Rental Rotterdam",
+    "first_seen": "2025-04-22T10:13:51.745295",
+    "last_updated": "2025-04-22T10:13:51.745302"
+  },
+  {
+    "id": "rodenrijselaan",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/42e36427/rodenrijselaan",
+    "title": "Flat Rodenrijselaan",
+    "price": 687.0,
+    "size": 61,
+    "rooms": 3,
+    "location": "3037 XG Rotterdam (Liskwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/42e36427-f77c-59ff-ab4e-c54405894156/0763be4735dea6a6985926d95ef6391e.jpg?width=600&auto=webp",
+    "agency": "Rental Rotterdam",
+    "first_seen": "2025-04-22T10:13:51.746848",
+    "last_updated": "2025-04-22T10:13:51.746851"
+  },
+  {
     "id": "oudedijk",
     "url": "https://www.pararius.com/studio-for-rent/rotterdam/587caacf/oudedijk",
     "title": "Studio Oudedijk 143 A 04V",
@@ -85,17 +113,17 @@
   },
   {
     "id": "leeuwenstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/4675bea1/leeuwenstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/99e2e790/leeuwenstraat",
     "title": "Flat Leeuwenstraat",
-    "price": 895.0,
-    "size": 28,
+    "price": 767.0,
+    "size": 14,
     "rooms": 1,
     "location": "3011 AL Rotterdam (Stadsdriehoek)",
     "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4675bea1-459a-53c5-8078-f40d18f929da/fa3c83e34e73a1f981d48d4f789540fe.jpg?width=600&auto=webp",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/99e2e790-5dcb-5dab-82b9-bca1c9e149b6/f1a198be302293829ac871cf5445f21c.jpg?width=600&auto=webp",
     "agency": "Rotterdam Apartments",
     "first_seen": "2025-04-07T12:25:27.057230",
-    "last_updated": "2025-04-07T12:25:27.057233"
+    "last_updated": "2025-04-22T10:13:57.798736"
   },
   {
     "id": "1e-middellandstraat",
