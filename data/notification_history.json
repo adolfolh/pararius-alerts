@@ -338,5 +338,14 @@
     "updated_listing_ids": [
       "leeuwenstraat"
     ]
+  },
+  {
+    "timestamp": "2025-04-22T15:13:39.814107",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "ranonkelstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
