@@ -294,20 +294,6 @@
     "last_updated": "2025-04-15T11:11:01.934752"
   },
   {
-    "id": "fahrenheitstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/c6bf14a0/fahrenheitstraat",
-    "title": "Flat Fahrenheitstraat",
-    "price": 933.0,
-    "size": 32,
-    "rooms": 2,
-    "location": "2561 EK Den Haag (Valkenboskwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/c6bf14a0-34b2-5152-a1ff-06566530b8a6/db558d758c676628d5f22aeb5262d306.jpg?width=600&auto=webp",
-    "agency": "Rent Valley",
-    "first_seen": "2025-04-05T01:03:49.128182",
-    "last_updated": "2025-04-14T10:14:54.828710"
-  },
-  {
     "id": "hugo-de-grootstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/83481548/hugo-de-grootstraat",
     "title": "Flat Hugo de Grootstraat 62 C",
@@ -362,20 +348,6 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-04-05T01:03:49.102358",
     "last_updated": "2025-04-05T01:03:49.102363"
-  },
-  {
-    "id": "laan-van-meerdervoort",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/0a5d7412/laan-van-meerdervoort",
-    "title": "Flat Laan van Meerdervoort",
-    "price": 971.0,
-    "size": 34,
-    "rooms": 2,
-    "location": "2563 AR Den Haag (Bomenbuurt)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0a5d7412-139c-599a-9cd4-a014d05d0e09/12fd743486b67d86f745072b76d2c579.jpg?width=600&auto=webp",
-    "agency": "Rent Valley",
-    "first_seen": "2025-04-05T01:03:49.107572",
-    "last_updated": "2025-04-05T01:03:49.107575"
   },
   {
     "id": "waldorpstraat",
@@ -448,6 +420,20 @@
     "last_updated": "2025-04-05T01:03:49.136580"
   },
   {
+    "id": "1e-van-der-kunstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/fe51958b/1e-van-der-kunstraat",
+    "title": "Flat 1e Van der Kunstraat",
+    "price": 990.0,
+    "size": 28,
+    "rooms": 2,
+    "location": "2521 AS Den Haag (Laakhaven-West)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/fe51958b-247e-5b5f-87a1-7211901d618a/dea0a4e26d6cb635a0e4d46af63f7ad2.jpg?width=600&auto=webp",
+    "agency": "Rent Valley",
+    "first_seen": "2025-04-05T01:03:49.129845",
+    "last_updated": "2025-04-23T09:14:10.945150"
+  },
+  {
     "id": "schrijnwerkersgaarde",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/ef4a2134/schrijnwerkersgaarde",
     "title": "Flat Schrijnwerkersgaarde",
@@ -460,6 +446,34 @@
     "agency": "Livable",
     "first_seen": "2025-04-05T01:03:49.138254",
     "last_updated": "2025-04-08T07:12:57.458738"
+  },
+  {
+    "id": "fahrenheitstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/c6bf14a0/fahrenheitstraat",
+    "title": "Flat Fahrenheitstraat",
+    "price": 933.0,
+    "size": 32,
+    "rooms": 2,
+    "location": "2561 EK Den Haag (Valkenboskwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/c6bf14a0-34b2-5152-a1ff-06566530b8a6/db558d758c676628d5f22aeb5262d306.jpg?width=600&auto=webp",
+    "agency": "Rent Valley",
+    "first_seen": "2025-04-05T01:03:49.128182",
+    "last_updated": "2025-04-14T10:14:54.828710"
+  },
+  {
+    "id": "laan-van-meerdervoort",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/0a5d7412/laan-van-meerdervoort",
+    "title": "Flat Laan van Meerdervoort",
+    "price": 971.0,
+    "size": 34,
+    "rooms": 2,
+    "location": "2563 AR Den Haag (Bomenbuurt)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0a5d7412-139c-599a-9cd4-a014d05d0e09/12fd743486b67d86f745072b76d2c579.jpg?width=600&auto=webp",
+    "agency": "Rent Valley",
+    "first_seen": "2025-04-05T01:03:49.107572",
+    "last_updated": "2025-04-05T01:03:49.107575"
   },
   {
     "id": "ranonkelstraat",
@@ -586,20 +600,6 @@
     "agency": "Riva Rentals",
     "first_seen": "2025-04-16T13:23:52.900858",
     "last_updated": "2025-04-16T13:23:52.900865"
-  },
-  {
-    "id": "1e-van-der-kunstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/03543f33/1e-van-der-kunstraat",
-    "title": "Flat 1e Van der Kunstraat",
-    "price": 936.0,
-    "size": 36,
-    "rooms": 2,
-    "location": "2521 AS Den Haag (Laakhaven-West)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/03543f33-fd59-5898-ba1a-9808a4aade48/84940a0555715e237f2a007d0ea2f1d5.jpg?width=600&auto=webp",
-    "agency": "Rent Valley",
-    "first_seen": "2025-04-05T01:03:49.129845",
-    "last_updated": "2025-04-05T01:03:49.129847"
   },
   {
     "id": "allard-piersonlaan",
