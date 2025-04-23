@@ -1,19 +1,5 @@
 [
   {
-    "id": "ranonkelstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/d23a8b18/ranonkelstraat",
-    "title": "Flat Ranonkelstraat 35 E",
-    "price": 880.0,
-    "size": 65,
-    "rooms": 3,
-    "location": "3073 ER Rotterdam (Bloemhof)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/d23a8b18-bd50-524a-b7e4-709ee21f7773/4215f51eada0422493b46f727bee880f.jpg?width=600&auto=webp",
-    "agency": "Kolpa V.V.S. Beheer",
-    "first_seen": "2025-04-22T15:13:33.175937",
-    "last_updated": "2025-04-22T15:13:33.175944"
-  },
-  {
     "id": "strevelsweg",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f44eec50/strevelsweg",
     "title": "Flat Strevelsweg",
@@ -474,6 +460,20 @@
     "agency": "Livable",
     "first_seen": "2025-04-05T01:03:49.138254",
     "last_updated": "2025-04-08T07:12:57.458738"
+  },
+  {
+    "id": "ranonkelstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/d23a8b18/ranonkelstraat",
+    "title": "Flat Ranonkelstraat 35 E",
+    "price": 880.0,
+    "size": 65,
+    "rooms": 3,
+    "location": "3073 ER Rotterdam (Bloemhof)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/d23a8b18-bd50-524a-b7e4-709ee21f7773/4215f51eada0422493b46f727bee880f.jpg?width=600&auto=webp",
+    "agency": "Kolpa V.V.S. Beheer",
+    "first_seen": "2025-04-22T15:13:33.175937",
+    "last_updated": "2025-04-22T15:13:33.175944"
   },
   {
     "id": "ruigoord",
