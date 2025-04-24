@@ -392,5 +392,14 @@
       "groen-van-prinstererstraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-04-24T16:16:02.888296",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "amperestraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
