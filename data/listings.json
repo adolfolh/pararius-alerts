@@ -1,5 +1,19 @@
 [
   {
+    "id": "groen-van-prinstererstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a528e90b/groen-van-prinstererstraat",
+    "title": "Flat Groen van Prinstererstraat 85 a 1",
+    "price": 750.0,
+    "size": 51,
+    "rooms": 2,
+    "location": "3038 RE Rotterdam (Bergpolder)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a528e90b-7716-588f-8615-82ab8cce2449/16d7d8355c539d812923c32fa7c60fc4.jpg?width=600&auto=webp",
+    "agency": "Kolpa V.V.S. Beheer",
+    "first_seen": "2025-04-24T15:13:46.071354",
+    "last_updated": "2025-04-24T15:13:46.071360"
+  },
+  {
     "id": "bollandstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/65271396/bollandstraat",
     "title": "Flat Bollandstraat 71",

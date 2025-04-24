@@ -383,5 +383,14 @@
       "1e-de-riemerstraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-04-24T15:13:53.129346",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "groen-van-prinstererstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
