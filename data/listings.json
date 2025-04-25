@@ -322,6 +322,20 @@
     "last_updated": "2025-04-17T16:16:06.379852"
   },
   {
+    "id": "valkenboslaan",
+    "url": "https://www.pararius.com/studio-for-rent/den-haag/b15b03a7/valkenboslaan",
+    "title": "Studio Valkenboslaan",
+    "price": 952.0,
+    "size": 26,
+    "rooms": 2,
+    "location": "2563 CE Den Haag (Valkenboskwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b15b03a7-630f-5b2b-a851-a742d00b9398/0fa08125230be276975eb0d17c646b26.jpg?width=600&auto=webp",
+    "agency": "Homey Housing",
+    "first_seen": "2025-04-17T13:23:06.191850",
+    "last_updated": "2025-04-17T13:23:06.191857"
+  },
+  {
     "id": "hugo-de-grootstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/83481548/hugo-de-grootstraat",
     "title": "Flat Hugo de Grootstraat 62 C",
@@ -628,20 +642,6 @@
     "agency": "NRW Wonen",
     "first_seen": "2025-04-15T16:14:01.070489",
     "last_updated": "2025-04-15T16:14:01.070496"
-  },
-  {
-    "id": "valkenboslaan",
-    "url": "https://www.pararius.com/studio-for-rent/den-haag/b15b03a7/valkenboslaan",
-    "title": "Studio Valkenboslaan",
-    "price": 952.0,
-    "size": 26,
-    "rooms": 2,
-    "location": "2563 CE Den Haag (Valkenboskwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b15b03a7-630f-5b2b-a851-a742d00b9398/0fa08125230be276975eb0d17c646b26.jpg?width=600&auto=webp",
-    "agency": "Homey Housing",
-    "first_seen": "2025-04-17T13:23:06.191850",
-    "last_updated": "2025-04-17T13:23:06.191857"
   },
   {
     "id": "walenburgerweg",
