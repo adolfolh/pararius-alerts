@@ -401,5 +401,14 @@
       "amperestraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-04-25T11:10:57.757888",
+    "new_listings_count": 0,
+    "updated_listings_count": 1,
+    "new_listing_ids": [],
+    "updated_listing_ids": [
+      "waldorpstraat"
+    ]
   }
 ]
