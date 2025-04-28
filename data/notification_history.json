@@ -410,5 +410,14 @@
     "updated_listing_ids": [
       "waldorpstraat"
     ]
+  },
+  {
+    "timestamp": "2025-04-28T07:38:44.209242",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "grondherendijk"
+    ],
+    "updated_listing_ids": []
   }
 ]
