@@ -1,19 +1,5 @@
 [
   {
-    "id": "fazantstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/5b5eccbd/fazantstraat",
-    "title": "Flat Fazantstraat",
-    "price": 924.0,
-    "size": 50,
-    "rooms": 3,
-    "location": "3083 ZN Rotterdam (Carnisse)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/5b5eccbd-ddb4-5f63-9cf9-733ee858e289/2993f266e1d14405fbc7b61a7fd446fb.jpg?width=600&auto=webp",
-    "agency": "Rotterdam Apartments",
-    "first_seen": "2025-04-28T14:14:01.564437",
-    "last_updated": "2025-04-28T14:14:01.564443"
-  },
-  {
     "id": "vaarnerkamp",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/1ea5ab91/vaarnerkamp",
     "title": "Flat Vaarnerkamp",
@@ -530,6 +516,20 @@
     "agency": "Livable",
     "first_seen": "2025-04-05T01:03:49.138254",
     "last_updated": "2025-04-08T07:12:57.458738"
+  },
+  {
+    "id": "fazantstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/5b5eccbd/fazantstraat",
+    "title": "Flat Fazantstraat",
+    "price": 924.0,
+    "size": 50,
+    "rooms": 3,
+    "location": "3083 ZN Rotterdam (Carnisse)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/5b5eccbd-ddb4-5f63-9cf9-733ee858e289/2993f266e1d14405fbc7b61a7fd446fb.jpg?width=600&auto=webp",
+    "agency": "Rotterdam Apartments",
+    "first_seen": "2025-04-28T14:14:01.564437",
+    "last_updated": "2025-04-28T14:14:01.564443"
   },
   {
     "id": "keizerstraat",
