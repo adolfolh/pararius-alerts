@@ -1,5 +1,19 @@
 [
   {
+    "id": "oudedijk",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/587caacf/oudedijk",
+    "title": "Studio Oudedijk 143 A 04V",
+    "price": 807.0,
+    "size": 28,
+    "rooms": 2,
+    "location": "3061 AA Rotterdam (Kralingen West)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/587caacf-b282-5c76-bc65-8745aa2a0ee6/ac7ab9e50e8de81308854435cbff8465.jpg?width=600&auto=webp",
+    "agency": "Properbee",
+    "first_seen": "2025-04-21T18:17:28.615147",
+    "last_updated": "2025-04-21T18:17:28.615154"
+  },
+  {
     "id": "vaarnerkamp",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/1ea5ab91/vaarnerkamp",
     "title": "Flat Vaarnerkamp",
@@ -82,20 +96,6 @@
     "agency": "Rental Rotterdam",
     "first_seen": "2025-04-22T10:13:51.746848",
     "last_updated": "2025-04-22T10:13:51.746851"
-  },
-  {
-    "id": "oudedijk",
-    "url": "https://www.pararius.com/studio-for-rent/rotterdam/587caacf/oudedijk",
-    "title": "Studio Oudedijk 143 A 04V",
-    "price": 807.0,
-    "size": 28,
-    "rooms": 2,
-    "location": "3061 AA Rotterdam (Kralingen West)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/587caacf-b282-5c76-bc65-8745aa2a0ee6/ac7ab9e50e8de81308854435cbff8465.jpg?width=600&auto=webp",
-    "agency": "Properbee",
-    "first_seen": "2025-04-21T18:17:28.615147",
-    "last_updated": "2025-04-21T18:17:28.615154"
   },
   {
     "id": "salvador-allendestraat",
@@ -336,20 +336,6 @@
     "last_updated": "2025-04-24T12:26:12.460117"
   },
   {
-    "id": "granaathorst",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/fe7ad4f2/granaathorst",
-    "title": "Flat Granaathorst 315",
-    "price": 986.0,
-    "size": 93,
-    "rooms": 3,
-    "location": "2592 SX Den Haag (Burgen en Horsten)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/fe7ad4f2-6068-58d0-9de1-3a4cb2fd883b/2907c3059c026c54c90c7682f3033c77.jpg?width=600&auto=webp",
-    "agency": "Nationaal Grondbezit",
-    "first_seen": "2025-04-18T15:12:57.800669",
-    "last_updated": "2025-04-18T15:12:57.800675"
-  },
-  {
     "id": "copernicuslaan",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/ef6951a8/copernicuslaan",
     "title": "Flat Copernicuslaan 107 B",
@@ -516,6 +502,20 @@
     "agency": "Livable",
     "first_seen": "2025-04-05T01:03:49.138254",
     "last_updated": "2025-04-08T07:12:57.458738"
+  },
+  {
+    "id": "granaathorst",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/fe7ad4f2/granaathorst",
+    "title": "Flat Granaathorst 315",
+    "price": 986.0,
+    "size": 93,
+    "rooms": 3,
+    "location": "2592 SX Den Haag (Burgen en Horsten)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/fe7ad4f2-6068-58d0-9de1-3a4cb2fd883b/2907c3059c026c54c90c7682f3033c77.jpg?width=600&auto=webp",
+    "agency": "Nationaal Grondbezit",
+    "first_seen": "2025-04-18T15:12:57.800669",
+    "last_updated": "2025-04-18T15:12:57.800675"
   },
   {
     "id": "fazantstraat",
