@@ -84,20 +84,6 @@
     "last_updated": "2025-04-22T10:13:51.745302"
   },
   {
-    "id": "rodenrijselaan",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/42e36427/rodenrijselaan",
-    "title": "Flat Rodenrijselaan",
-    "price": 687.0,
-    "size": 61,
-    "rooms": 3,
-    "location": "3037 XG Rotterdam (Liskwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/42e36427-f77c-59ff-ab4e-c54405894156/0763be4735dea6a6985926d95ef6391e.jpg?width=600&auto=webp",
-    "agency": "Rental Rotterdam",
-    "first_seen": "2025-04-22T10:13:51.746848",
-    "last_updated": "2025-04-22T10:13:51.746851"
-  },
-  {
     "id": "salvador-allendestraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f22fdcfb/salvador-allendestraat",
     "title": "Flat Salvador Allendestraat",
@@ -488,6 +474,20 @@
     "agency": "Livable",
     "first_seen": "2025-04-05T01:03:49.138254",
     "last_updated": "2025-04-08T07:12:57.458738"
+  },
+  {
+    "id": "rodenrijselaan",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/42e36427/rodenrijselaan",
+    "title": "Flat Rodenrijselaan",
+    "price": 687.0,
+    "size": 61,
+    "rooms": 3,
+    "location": "3037 XG Rotterdam (Liskwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/42e36427-f77c-59ff-ab4e-c54405894156/0763be4735dea6a6985926d95ef6391e.jpg?width=600&auto=webp",
+    "agency": "Rental Rotterdam",
+    "first_seen": "2025-04-22T10:13:51.746848",
+    "last_updated": "2025-04-22T10:13:51.746851"
   },
   {
     "id": "willem-van-hillegaersbergstraat",
