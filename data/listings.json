@@ -126,20 +126,6 @@
     "last_updated": "2025-04-15T11:10:56.031715"
   },
   {
-    "id": "willem-van-hillegaersbergstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f165ec44/willem-van-hillegaersbergstraat",
-    "title": "Flat Willem van Hillegaersbergstraat",
-    "price": null,
-    "size": 50,
-    "rooms": 2,
-    "location": "3051 RD Rotterdam (Hillegersberg Zuid)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f165ec44-18e0-5e7f-8f58-3d11754fb3f2/b503ba218ec8a69ac5ec209516cbb107.jpg?width=600&auto=webp",
-    "agency": "Breit Vastgoed & Beheer",
-    "first_seen": "2025-04-14T14:13:11.582891",
-    "last_updated": "2025-04-14T14:13:11.582897"
-  },
-  {
     "id": "jonker-fransstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/b3027efc/jonker-fransstraat",
     "title": "Flat Jonker Fransstraat",
@@ -502,6 +488,20 @@
     "agency": "Livable",
     "first_seen": "2025-04-05T01:03:49.138254",
     "last_updated": "2025-04-08T07:12:57.458738"
+  },
+  {
+    "id": "willem-van-hillegaersbergstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f165ec44/willem-van-hillegaersbergstraat",
+    "title": "Flat Willem van Hillegaersbergstraat",
+    "price": null,
+    "size": 50,
+    "rooms": 2,
+    "location": "3051 RD Rotterdam (Hillegersberg Zuid)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f165ec44-18e0-5e7f-8f58-3d11754fb3f2/b503ba218ec8a69ac5ec209516cbb107.jpg?width=600&auto=webp",
+    "agency": "Breit Vastgoed & Beheer",
+    "first_seen": "2025-04-14T14:13:11.582891",
+    "last_updated": "2025-04-14T14:13:11.582897"
   },
   {
     "id": "granaathorst",
