@@ -210,6 +210,20 @@
     "last_updated": "2025-04-05T01:03:43.349557"
   },
   {
+    "id": "de-perponcherstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/3e4a8a31/de-perponcherstraat",
+    "title": "Flat De Perponcherstraat",
+    "price": 869.0,
+    "size": 40,
+    "rooms": 2,
+    "location": "2518 SV Den Haag (Koningsplein en omgeving)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/3e4a8a31-3191-5238-b266-b6d69e904a3a/c351f0f259d4367743dcd568dd631e1d.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-04-05T01:03:49.109267",
+    "last_updated": "2025-05-01T14:12:26.712592"
+  },
+  {
     "id": "valkenboslaan",
     "url": "https://www.pararius.com/studio-for-rent/den-haag/b15b03a7/valkenboslaan",
     "title": "Studio Valkenboslaan",
@@ -936,20 +950,6 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-04-05T01:03:49.131523",
     "last_updated": "2025-04-05T01:03:49.131526"
-  },
-  {
-    "id": "de-perponcherstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/963cc1aa/de-perponcherstraat",
-    "title": "Flat De Perponcherstraat",
-    "price": 870.0,
-    "size": 23,
-    "rooms": 2,
-    "location": "2518 SX Den Haag (Koningsplein en omgeving)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/963cc1aa-2618-5a8d-b833-60b6cb2e9494/fb11d9f7aece7ebf6c097cd8c786e19d.jpg?width=600&auto=webp",
-    "agency": "Rent Valley",
-    "first_seen": "2025-04-05T01:03:49.109267",
-    "last_updated": "2025-04-05T01:03:49.109270"
   },
   {
     "id": "piet-paaltjensstraat",
