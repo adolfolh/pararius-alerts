@@ -126,20 +126,6 @@
     "last_updated": "2025-04-11T16:15:41.809418"
   },
   {
-    "id": "leeuwenstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/99e2e790/leeuwenstraat",
-    "title": "Flat Leeuwenstraat",
-    "price": 767.0,
-    "size": 14,
-    "rooms": 1,
-    "location": "3011 AL Rotterdam (Stadsdriehoek)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/99e2e790-5dcb-5dab-82b9-bca1c9e149b6/f1a198be302293829ac871cf5445f21c.jpg?width=600&auto=webp",
-    "agency": "Rotterdam Apartments",
-    "first_seen": "2025-04-07T12:25:27.057230",
-    "last_updated": "2025-04-22T10:13:57.798736"
-  },
-  {
     "id": "1e-middellandstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/7a9bef32/1e-middellandstraat",
     "title": "Flat 1e Middellandstraat 73 E",
@@ -488,6 +474,20 @@
     "agency": "Livable",
     "first_seen": "2025-04-05T01:03:49.138254",
     "last_updated": "2025-04-08T07:12:57.458738"
+  },
+  {
+    "id": "leeuwenstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/99e2e790/leeuwenstraat",
+    "title": "Flat Leeuwenstraat",
+    "price": 767.0,
+    "size": 14,
+    "rooms": 1,
+    "location": "3011 AL Rotterdam (Stadsdriehoek)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/99e2e790-5dcb-5dab-82b9-bca1c9e149b6/f1a198be302293829ac871cf5445f21c.jpg?width=600&auto=webp",
+    "agency": "Rotterdam Apartments",
+    "first_seen": "2025-04-07T12:25:27.057230",
+    "last_updated": "2025-04-22T10:13:57.798736"
   },
   {
     "id": "rodenrijselaan",
