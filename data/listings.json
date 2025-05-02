@@ -1,5 +1,33 @@
 [
   {
+    "id": "vijverhofstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/2241e800/vijverhofstraat",
+    "title": "Flat Vijverhofstraat",
+    "price": 995.0,
+    "size": 24,
+    "rooms": 2,
+    "location": "3032 SM Rotterdam (Agniesebuurt)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2241e800-8f54-50ec-970b-dd56c9b5aa31/e88aeb6d9d43baaac6a8b69f50316559.jpg?width=600&auto=webp",
+    "agency": "HouseHunting Randstad",
+    "first_seen": "2025-04-05T01:03:43.349554",
+    "last_updated": "2025-04-05T01:03:43.349557"
+  },
+  {
+    "id": "zegwaardstraat",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/5cf390b3/zegwaardstraat",
+    "title": "Studio Zegwaardstraat",
+    "price": 850.0,
+    "size": 25,
+    "rooms": 1,
+    "location": "3035 TM Rotterdam (Oude Noorden)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/5cf390b3-693c-5889-aa42-38361b1c7e1b/215e258e75e47253bad4e9a99d093ad5.jpg?width=600&auto=webp",
+    "agency": "HouseHunting Randstad",
+    "first_seen": "2025-04-05T01:03:43.337646",
+    "last_updated": "2025-04-05T01:03:43.337648"
+  },
+  {
     "id": "oudedijk",
     "url": "https://www.pararius.com/studio-for-rent/rotterdam/587caacf/oudedijk",
     "title": "Studio Oudedijk 143 A 04V",
@@ -126,20 +154,6 @@
     "last_updated": "2025-04-05T01:03:43.329194"
   },
   {
-    "id": "zegwaardstraat",
-    "url": "https://www.pararius.com/studio-for-rent/rotterdam/5cf390b3/zegwaardstraat",
-    "title": "Studio Zegwaardstraat",
-    "price": 850.0,
-    "size": 25,
-    "rooms": 1,
-    "location": "3035 TM Rotterdam (Oude Noorden)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/5cf390b3-693c-5889-aa42-38361b1c7e1b/215e258e75e47253bad4e9a99d093ad5.jpg?width=600&auto=webp",
-    "agency": "HouseHunting Randstad",
-    "first_seen": "2025-04-05T01:03:43.337646",
-    "last_updated": "2025-04-05T01:03:43.337648"
-  },
-  {
     "id": "schaepmanstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/2a884ff6/schaepmanstraat",
     "title": "Flat Schaepmanstraat 15 A",
@@ -180,34 +194,6 @@
     "agency": "Properbee",
     "first_seen": "2025-04-05T01:03:43.346163",
     "last_updated": "2025-04-05T01:03:43.346165"
-  },
-  {
-    "id": "zuidplein",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/2dd8fb8c/zuidplein",
-    "title": "Flat Zuidplein",
-    "price": 819.0,
-    "size": 50,
-    "rooms": 3,
-    "location": "3083 CR Rotterdam (Zuidplein)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2dd8fb8c-92d5-5751-a606-01cb34da0181/3f693c9ed1036b65ade687e5944ff314.jpg?width=600&auto=webp",
-    "agency": "D&S Vastgoed",
-    "first_seen": "2025-04-05T01:03:43.347850",
-    "last_updated": "2025-04-05T01:03:43.347853"
-  },
-  {
-    "id": "vijverhofstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/2241e800/vijverhofstraat",
-    "title": "Flat Vijverhofstraat",
-    "price": 995.0,
-    "size": 24,
-    "rooms": 2,
-    "location": "3032 SM Rotterdam (Agniesebuurt)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2241e800-8f54-50ec-970b-dd56c9b5aa31/e88aeb6d9d43baaac6a8b69f50316559.jpg?width=600&auto=webp",
-    "agency": "HouseHunting Randstad",
-    "first_seen": "2025-04-05T01:03:43.349554",
-    "last_updated": "2025-04-05T01:03:43.349557"
   },
   {
     "id": "amperestraat",
@@ -446,6 +432,20 @@
     "agency": "Livable",
     "first_seen": "2025-04-05T01:03:49.138254",
     "last_updated": "2025-04-08T07:12:57.458738"
+  },
+  {
+    "id": "zuidplein",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/2dd8fb8c/zuidplein",
+    "title": "Flat Zuidplein",
+    "price": 819.0,
+    "size": 50,
+    "rooms": 3,
+    "location": "3083 CR Rotterdam (Zuidplein)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2dd8fb8c-92d5-5751-a606-01cb34da0181/3f693c9ed1036b65ade687e5944ff314.jpg?width=600&auto=webp",
+    "agency": "D&S Vastgoed",
+    "first_seen": "2025-04-05T01:03:43.347850",
+    "last_updated": "2025-04-05T01:03:43.347853"
   },
   {
     "id": "goereesestraat",
