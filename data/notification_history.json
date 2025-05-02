@@ -455,5 +455,14 @@
     "updated_listing_ids": [
       "de-perponcherstraat"
     ]
+  },
+  {
+    "timestamp": "2025-05-02T13:23:23.489287",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "goereesestraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
