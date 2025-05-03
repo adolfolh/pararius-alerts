@@ -1,5 +1,19 @@
 [
   {
+    "id": "zuidplein",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/15fea00d/zuidplein",
+    "title": "Flat Zuidplein",
+    "price": 840.0,
+    "size": 50,
+    "rooms": 3,
+    "location": "3083 CR Rotterdam (Zuidplein)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/15fea00d-896f-5cf0-b901-925a07b4b8df/3f693c9ed1036b65ade687e5944ff314.jpg?width=600&auto=webp",
+    "agency": "D&S Vastgoed",
+    "first_seen": "2025-04-05T01:03:43.347850",
+    "last_updated": "2025-05-03T07:11:36.566682"
+  },
+  {
     "id": "vijverhofstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/2241e800/vijverhofstraat",
     "title": "Flat Vijverhofstraat",
@@ -432,20 +446,6 @@
     "agency": "Nationaal Grondbezit",
     "first_seen": "2025-04-24T13:24:52.388224",
     "last_updated": "2025-04-24T13:24:52.388231"
-  },
-  {
-    "id": "zuidplein",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/2dd8fb8c/zuidplein",
-    "title": "Flat Zuidplein",
-    "price": 819.0,
-    "size": 50,
-    "rooms": 3,
-    "location": "3083 CR Rotterdam (Zuidplein)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2dd8fb8c-92d5-5751-a606-01cb34da0181/3f693c9ed1036b65ade687e5944ff314.jpg?width=600&auto=webp",
-    "agency": "D&S Vastgoed",
-    "first_seen": "2025-04-05T01:03:43.347850",
-    "last_updated": "2025-04-05T01:03:43.347853"
   },
   {
     "id": "goereesestraat",
