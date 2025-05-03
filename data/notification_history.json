@@ -473,5 +473,14 @@
     "updated_listing_ids": [
       "zuidplein"
     ]
+  },
+  {
+    "timestamp": "2025-05-03T11:09:54.501095",
+    "new_listings_count": 0,
+    "updated_listings_count": 1,
+    "new_listing_ids": [],
+    "updated_listing_ids": [
+      "walenburgerweg"
+    ]
   }
 ]

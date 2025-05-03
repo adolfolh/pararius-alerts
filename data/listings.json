@@ -1,5 +1,19 @@
 [
   {
+    "id": "walenburgerweg",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/069a4c56/walenburgerweg",
+    "title": "Flat Walenburgerweg",
+    "price": 900.0,
+    "size": 33,
+    "rooms": 2,
+    "location": "3039 AC Rotterdam (Provenierswijk)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/069a4c56-84f6-5ca3-92d8-173c7ac6a565/21067faf38efd986f0a94be08e0a3465.jpg?width=600&auto=webp",
+    "agency": "Expat Housing Rotterdam",
+    "first_seen": "2025-04-16T20:14:38.149748",
+    "last_updated": "2025-05-03T11:09:53.759915"
+  },
+  {
     "id": "zuidplein",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/15fea00d/zuidplein",
     "title": "Flat Zuidplein",
@@ -740,20 +754,6 @@
     "agency": "NRW Wonen",
     "first_seen": "2025-04-15T16:14:01.070489",
     "last_updated": "2025-04-15T16:14:01.070496"
-  },
-  {
-    "id": "walenburgerweg",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/055aee01/walenburgerweg",
-    "title": "Flat Walenburgerweg",
-    "price": 850.0,
-    "size": 25,
-    "rooms": 2,
-    "location": "3039 AC Rotterdam (Provenierswijk)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/055aee01-4f31-5157-b502-ac2dd0b53bcf/21067faf38efd986f0a94be08e0a3465.jpg?width=600&auto=webp",
-    "agency": "Expat Housing Rotterdam",
-    "first_seen": "2025-04-16T20:14:38.149748",
-    "last_updated": "2025-04-16T20:14:38.149754"
   },
   {
     "id": "wolphaertsbocht",
