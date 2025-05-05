@@ -1,5 +1,19 @@
 [
   {
+    "id": "dorpsweg",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/683e4e96/dorpsweg",
+    "title": "Flat Dorpsweg 34 B",
+    "price": 972.0,
+    "size": 58,
+    "rooms": 2,
+    "location": "3083 LB Rotterdam (Oud Charlois)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/683e4e96-5ae2-5018-8f33-553adb081c74/1460175f3cf719acf42b1ffe0e12fe19.jpg?width=600&auto=webp",
+    "agency": "Nationaal Grondbezit",
+    "first_seen": "2025-05-05T16:16:56.702721",
+    "last_updated": "2025-05-05T16:16:56.702727"
+  },
+  {
     "id": "zuidplein",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/15fea00d/zuidplein",
     "title": "Flat Zuidplein",

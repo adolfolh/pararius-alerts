@@ -513,5 +513,14 @@
       "nieuwe-binnenweg"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-05-05T16:17:03.220205",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "dorpsweg"
+    ],
+    "updated_listing_ids": []
   }
 ]
