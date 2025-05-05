@@ -1,5 +1,19 @@
 [
   {
+    "id": "nieuwe-binnenweg",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/14efb4a6/nieuwe-binnenweg",
+    "title": "Flat Nieuwe Binnenweg",
+    "price": 920.0,
+    "size": 63,
+    "rooms": 2,
+    "location": "3021 GP Rotterdam (Middelland)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/14efb4a6-6ae3-5a16-9a1f-57d810064018/5256bbd884cecacea65cd5b5c85af8ec.jpg?width=600&auto=webp",
+    "agency": "Rent an Apartment",
+    "first_seen": "2025-05-05T09:14:23.061112",
+    "last_updated": "2025-05-05T09:14:23.061118"
+  },
+  {
     "id": "zuidplein",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/15fea00d/zuidplein",
     "title": "Flat Zuidplein",
