@@ -482,5 +482,27 @@
     "updated_listing_ids": [
       "walenburgerweg"
     ]
+  },
+  {
+    "timestamp": "2025-05-05T01:05:34.841457",
+    "new_listings_count": 14,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "zuidplein",
+      "vijverhofstraat",
+      "zegwaardstraat",
+      "1e-middellandstraat",
+      "bree",
+      "wevershoekstraat",
+      "copernicuslaan",
+      "hazelaarstraat",
+      "suezkade",
+      "waldeck-pyrmontkade",
+      "loosduinsekade",
+      "hoogveen",
+      "1e-van-der-kunstraat",
+      "schrijnwerkersgaarde"
+    ],
+    "updated_listing_ids": []
   }
 ]
