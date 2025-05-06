@@ -522,5 +522,15 @@
       "dorpsweg"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-05-06T01:02:55.313144",
+    "new_listings_count": 2,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "schaepmanstraat",
+      "waldorpstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
