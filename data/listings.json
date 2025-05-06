@@ -1,5 +1,33 @@
 [
   {
+    "id": "schonebergerweg",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/0c9256fc/schonebergerweg",
+    "title": "Studio Schonebergerweg",
+    "price": 908.0,
+    "size": 45,
+    "rooms": 2,
+    "location": "3023 ZG Rotterdam (Nieuwe Westen)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0c9256fc-de5d-5e15-9664-14654f7ccb25/7df2eaccc67ae7b193be52df70743be1.jpg?width=600&auto=webp",
+    "agency": "Homey Housing",
+    "first_seen": "2025-05-06T14:13:19.202632",
+    "last_updated": "2025-05-06T14:13:19.202639"
+  },
+  {
+    "id": "glashaven",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/d59bf186/glashaven",
+    "title": "Studio Glashaven",
+    "price": 893.0,
+    "size": 21,
+    "rooms": 2,
+    "location": "3011 XH Rotterdam (Stadsdriehoek)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/d59bf186-b282-50e1-9ac9-5ddd48ee52aa/fd068d7f51d420af55a03b53516d7edb.jpg?width=600&auto=webp",
+    "agency": "Perfect Rent",
+    "first_seen": "2025-05-06T14:13:19.204101",
+    "last_updated": "2025-05-06T14:13:19.204104"
+  },
+  {
     "id": "dorpsweg",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/683e4e96/dorpsweg",
     "title": "Flat Dorpsweg 34 B",
