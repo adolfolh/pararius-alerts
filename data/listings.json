@@ -252,20 +252,6 @@
     "last_updated": "2025-04-24T14:12:08.316930"
   },
   {
-    "id": "waldorpstraat",
-    "url": "https://www.pararius.com/house-for-rent/den-haag/5931e8aa/waldorpstraat",
-    "title": "House Waldorpstraat 471",
-    "price": 906.0,
-    "size": 24,
-    "rooms": 1,
-    "location": "2521 CJ Den Haag (Laakhaven-West)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/5931e8aa-0002-5c7c-a985-29d4469c3f7d/21b50c3f96cd6deadd2eeb95dfd14465.jpg?width=600&auto=webp",
-    "agency": "LIV Residential",
-    "first_seen": "2025-05-06T01:02:54.654436",
-    "last_updated": "2025-05-06T01:02:54.654439"
-  },
-  {
     "id": "westerbaenstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/bc21a0c7/westerbaenstraat",
     "title": "Flat Westerbaenstraat",
@@ -362,6 +348,20 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-05-05T01:05:34.069868",
     "last_updated": "2025-05-05T01:05:34.069870"
+  },
+  {
+    "id": "waldorpstraat",
+    "url": "https://www.pararius.com/house-for-rent/den-haag/5931e8aa/waldorpstraat",
+    "title": "House Waldorpstraat 471",
+    "price": 906.0,
+    "size": 24,
+    "rooms": 1,
+    "location": "2521 CJ Den Haag (Laakhaven-West)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/5931e8aa-0002-5c7c-a985-29d4469c3f7d/21b50c3f96cd6deadd2eeb95dfd14465.jpg?width=600&auto=webp",
+    "agency": "LIV Residential",
+    "first_seen": "2025-05-06T01:02:54.654436",
+    "last_updated": "2025-05-06T01:02:54.654439"
   },
   {
     "id": "suezkade",
