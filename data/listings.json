@@ -1,5 +1,19 @@
 [
   {
+    "id": "vlietlaan",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/7ff455f6/vlietlaan",
+    "title": "Flat Vlietlaan 34 B 01",
+    "price": 827.0,
+    "size": 60,
+    "rooms": 3,
+    "location": "3061 DX Rotterdam (Kralingen West)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7ff455f6-18cd-5558-8aa8-9f688aa8872d/ae171406b04a3d145473f4b4128b56fe.jpg?width=600&auto=webp",
+    "agency": "Kolpa V.V.S. Beheer",
+    "first_seen": "2025-05-06T16:15:25.528210",
+    "last_updated": "2025-05-06T16:15:25.528216"
+  },
+  {
     "id": "glashaven",
     "url": "https://www.pararius.com/studio-for-rent/rotterdam/d59bf186/glashaven",
     "title": "Studio Glashaven",
