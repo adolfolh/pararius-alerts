@@ -420,20 +420,6 @@
     "last_updated": "2025-05-05T01:05:34.080251"
   },
   {
-    "id": "1e-van-der-kunstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/fe51958b/1e-van-der-kunstraat",
-    "title": "Flat 1e Van der Kunstraat",
-    "price": 990.0,
-    "size": 28,
-    "rooms": 2,
-    "location": "2521 AS Den Haag (Laakhaven-West)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/fe51958b-247e-5b5f-87a1-7211901d618a/dea0a4e26d6cb635a0e4d46af63f7ad2.jpg?width=600&auto=webp",
-    "agency": "Rent Valley",
-    "first_seen": "2025-05-05T01:05:34.081719",
-    "last_updated": "2025-05-05T01:05:34.081721"
-  },
-  {
     "id": "schrijnwerkersgaarde",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/ef4a2134/schrijnwerkersgaarde",
     "title": "Flat Schrijnwerkersgaarde",
@@ -446,6 +432,20 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
+  },
+  {
+    "id": "1e-van-der-kunstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/fe51958b/1e-van-der-kunstraat",
+    "title": "Flat 1e Van der Kunstraat",
+    "price": 990.0,
+    "size": 28,
+    "rooms": 2,
+    "location": "2521 AS Den Haag (Laakhaven-West)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/fe51958b-247e-5b5f-87a1-7211901d618a/dea0a4e26d6cb635a0e4d46af63f7ad2.jpg?width=600&auto=webp",
+    "agency": "Rent Valley",
+    "first_seen": "2025-05-05T01:05:34.081719",
+    "last_updated": "2025-05-05T01:05:34.081721"
   },
   {
     "id": "poolsestraat",
