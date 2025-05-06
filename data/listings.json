@@ -1,19 +1,5 @@
 [
   {
-    "id": "schonebergerweg",
-    "url": "https://www.pararius.com/studio-for-rent/rotterdam/0c9256fc/schonebergerweg",
-    "title": "Studio Schonebergerweg",
-    "price": 908.0,
-    "size": 45,
-    "rooms": 2,
-    "location": "3023 ZG Rotterdam (Nieuwe Westen)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0c9256fc-de5d-5e15-9664-14654f7ccb25/7df2eaccc67ae7b193be52df70743be1.jpg?width=600&auto=webp",
-    "agency": "Homey Housing",
-    "first_seen": "2025-05-06T14:13:19.202632",
-    "last_updated": "2025-05-06T14:13:19.202639"
-  },
-  {
     "id": "glashaven",
     "url": "https://www.pararius.com/studio-for-rent/rotterdam/d59bf186/glashaven",
     "title": "Studio Glashaven",
@@ -460,6 +446,20 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
+  },
+  {
+    "id": "schonebergerweg",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/0c9256fc/schonebergerweg",
+    "title": "Studio Schonebergerweg",
+    "price": 908.0,
+    "size": 45,
+    "rooms": 2,
+    "location": "3023 ZG Rotterdam (Nieuwe Westen)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0c9256fc-de5d-5e15-9664-14654f7ccb25/7df2eaccc67ae7b193be52df70743be1.jpg?width=600&auto=webp",
+    "agency": "Homey Housing",
+    "first_seen": "2025-05-06T14:13:19.202632",
+    "last_updated": "2025-05-06T14:13:19.202639"
   },
   {
     "id": "1e-van-der-kunstraat",
