@@ -168,20 +168,6 @@
     "last_updated": "2025-04-11T16:15:41.809418"
   },
   {
-    "id": "1e-middellandstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/7a9bef32/1e-middellandstraat",
-    "title": "Flat 1e Middellandstraat 73 E",
-    "price": 907.0,
-    "size": 39,
-    "rooms": 2,
-    "location": "3021 BB Rotterdam (Middelland)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7a9bef32-2713-5597-ba27-3efbb9cc6049/40a9b9468fccd60a6e8ec85102b409bb.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-05-05T01:05:28.509422",
-    "last_updated": "2025-05-05T01:05:28.509425"
-  },
-  {
     "id": "schaepmanstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/2a884ff6/schaepmanstraat",
     "title": "Flat Schaepmanstraat 15 A",
@@ -350,20 +336,6 @@
     "last_updated": "2025-04-08T11:11:06.527804"
   },
   {
-    "id": "hazelaarstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/6f83516c/hazelaarstraat",
-    "title": "Flat Hazelaarstraat 123",
-    "price": 888.0,
-    "size": 36,
-    "rooms": 2,
-    "location": "2563 VK Den Haag (Heesterbuurt)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6f83516c-1394-5cdb-b748-75e2608d10c5/0bf79b0976dc525afd4adcfdfe736d8a.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-05-05T01:05:34.069868",
-    "last_updated": "2025-05-05T01:05:34.069870"
-  },
-  {
     "id": "waldorpstraat",
     "url": "https://www.pararius.com/house-for-rent/den-haag/5931e8aa/waldorpstraat",
     "title": "House Waldorpstraat 471",
@@ -406,20 +378,6 @@
     "last_updated": "2025-04-30T10:14:01.272633"
   },
   {
-    "id": "waldeck-pyrmontkade",
-    "url": "https://www.pararius.com/studio-for-rent/den-haag/21cfbbdc/waldeck-pyrmontkade",
-    "title": "Studio Waldeck Pyrmontkade 942 B",
-    "price": 859.0,
-    "size": 28,
-    "rooms": 1,
-    "location": "2518 JW Den Haag (Sweelinckplein en omgeving)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/21cfbbdc-24c4-5a1e-8873-89b3d3deacb4/e41513e0553555ba90f551dd8c71e018.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-05-05T01:05:34.077340",
-    "last_updated": "2025-05-05T01:05:34.077342"
-  },
-  {
     "id": "loosduinsekade",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/12383c9a/loosduinsekade",
     "title": "Flat Loosduinsekade 34 A",
@@ -460,6 +418,48 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
+  },
+  {
+    "id": "1e-middellandstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/7a9bef32/1e-middellandstraat",
+    "title": "Flat 1e Middellandstraat 73 E",
+    "price": 907.0,
+    "size": 39,
+    "rooms": 2,
+    "location": "3021 BB Rotterdam (Middelland)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7a9bef32-2713-5597-ba27-3efbb9cc6049/40a9b9468fccd60a6e8ec85102b409bb.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-05-05T01:05:28.509422",
+    "last_updated": "2025-05-05T01:05:28.509425"
+  },
+  {
+    "id": "hazelaarstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/6f83516c/hazelaarstraat",
+    "title": "Flat Hazelaarstraat 123",
+    "price": 888.0,
+    "size": 36,
+    "rooms": 2,
+    "location": "2563 VK Den Haag (Heesterbuurt)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6f83516c-1394-5cdb-b748-75e2608d10c5/0bf79b0976dc525afd4adcfdfe736d8a.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-05-05T01:05:34.069868",
+    "last_updated": "2025-05-05T01:05:34.069870"
+  },
+  {
+    "id": "waldeck-pyrmontkade",
+    "url": "https://www.pararius.com/studio-for-rent/den-haag/21cfbbdc/waldeck-pyrmontkade",
+    "title": "Studio Waldeck Pyrmontkade 942 B",
+    "price": 859.0,
+    "size": 28,
+    "rooms": 1,
+    "location": "2518 JW Den Haag (Sweelinckplein en omgeving)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/21cfbbdc-24c4-5a1e-8873-89b3d3deacb4/e41513e0553555ba90f551dd8c71e018.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-05-05T01:05:34.077340",
+    "last_updated": "2025-05-05T01:05:34.077342"
   },
   {
     "id": "salvador-allendestraat",
