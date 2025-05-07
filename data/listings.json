@@ -1,5 +1,19 @@
 [
   {
+    "id": "franselaan",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/14b7bc29/franselaan",
+    "title": "Flat Franselaan",
+    "price": 482.0,
+    "size": 25,
+    "rooms": 1,
+    "location": "3028 AK Rotterdam (Oud Mathenesse)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/14b7bc29-afc1-5bbf-97cd-b15fd8a2f723/81b586df7ab1119574f75bc624c15203.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-05-07T10:14:14.109857",
+    "last_updated": "2025-05-07T10:14:14.109866"
+  },
+  {
     "id": "glashaven",
     "url": "https://www.pararius.com/studio-for-rent/rotterdam/d59bf186/glashaven",
     "title": "Studio Glashaven",
@@ -222,6 +236,20 @@
     "agency": "Properbee",
     "first_seen": "2025-05-05T01:05:28.513961",
     "last_updated": "2025-05-05T01:05:28.513964"
+  },
+  {
+    "id": "loosduinseweg",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/c364fda6/loosduinseweg",
+    "title": "Flat Loosduinseweg",
+    "price": 967.0,
+    "size": 70,
+    "rooms": 3,
+    "location": "2571 AM Den Haag (Valkenboskwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/c364fda6-f1c9-5cc3-ba5a-7a353c1239f7/4f1a89f72aec580f5ccfa4880fefdb87.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-05-07T10:14:19.877557",
+    "last_updated": "2025-05-07T10:14:19.877561"
   },
   {
     "id": "laan-van-meerdervoort",

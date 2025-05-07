@@ -560,5 +560,15 @@
       "vlietlaan"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-05-07T10:14:20.459605",
+    "new_listings_count": 2,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "franselaan",
+      "loosduinseweg"
+    ],
+    "updated_listing_ids": []
   }
 ]
