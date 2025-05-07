@@ -154,20 +154,6 @@
     "last_updated": "2025-04-22T10:13:51.745302"
   },
   {
-    "id": "salvador-allendestraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f22fdcfb/salvador-allendestraat",
-    "title": "Flat Salvador Allendestraat",
-    "price": 800.0,
-    "size": 9,
-    "rooms": 1,
-    "location": "3065 ED Rotterdam ('s-Gravenland)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f22fdcfb-e044-566a-9d10-9cfb2a3e3015/39954007a207bbcca94bedf1dd18a52d.jpg?width=600&auto=webp",
-    "agency": "Rotterdam Apartments",
-    "first_seen": "2025-04-15T12:24:48.479602",
-    "last_updated": "2025-04-15T12:24:48.479605"
-  },
-  {
     "id": "jonker-fransstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/b3027efc/jonker-fransstraat",
     "title": "Flat Jonker Fransstraat",
@@ -476,6 +462,20 @@
     "last_updated": "2025-05-05T01:05:34.083203"
   },
   {
+    "id": "salvador-allendestraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f22fdcfb/salvador-allendestraat",
+    "title": "Flat Salvador Allendestraat",
+    "price": 800.0,
+    "size": 9,
+    "rooms": 1,
+    "location": "3065 ED Rotterdam ('s-Gravenland)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f22fdcfb-e044-566a-9d10-9cfb2a3e3015/39954007a207bbcca94bedf1dd18a52d.jpg?width=600&auto=webp",
+    "agency": "Rotterdam Apartments",
+    "first_seen": "2025-04-15T12:24:48.479602",
+    "last_updated": "2025-04-15T12:24:48.479605"
+  },
+  {
     "id": "loosduinseweg",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/c364fda6/loosduinseweg",
     "title": "Flat Loosduinseweg",
@@ -614,20 +614,6 @@
     "agency": "Kolpa V.V.S. Beheer",
     "first_seen": "2025-04-24T15:13:46.071354",
     "last_updated": "2025-04-24T15:13:46.071360"
-  },
-  {
-    "id": "leeuwenstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/99e2e790/leeuwenstraat",
-    "title": "Flat Leeuwenstraat",
-    "price": 767.0,
-    "size": 14,
-    "rooms": 1,
-    "location": "3011 AL Rotterdam (Stadsdriehoek)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/99e2e790-5dcb-5dab-82b9-bca1c9e149b6/f1a198be302293829ac871cf5445f21c.jpg?width=600&auto=webp",
-    "agency": "Rotterdam Apartments",
-    "first_seen": "2025-04-07T12:25:27.057230",
-    "last_updated": "2025-04-22T10:13:57.798736"
   },
   {
     "id": "rodenrijselaan",
