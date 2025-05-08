@@ -1,5 +1,19 @@
 [
   {
+    "id": "meekrapstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/00cccf8b/meekrapstraat",
+    "title": "Flat Meekrapstraat 41 A",
+    "price": 751.0,
+    "size": 36,
+    "rooms": 2,
+    "location": "3073 DL Rotterdam (Bloemhof)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/00cccf8b-7c63-5ca5-a0e0-46f3963486d2/eaccceb237a38e950bc725dd5149d7b2.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-05-08T16:16:39.045176",
+    "last_updated": "2025-05-08T16:16:39.045182"
+  },
+  {
     "id": "willebrordusplein",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/0d6c344a/willebrordusplein",
     "title": "Flat Willebrordusplein 23 B",
@@ -346,8 +360,8 @@
     "interior": "Upholstered or furnished",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/6b330135-008b-59a7-b59a-71f1fd3c23ec/62f3d78895f2bdac251b4441eed2e235.jpg?width=600&auto=webp",
     "agency": "Rental Rotterdam",
-    "first_seen": "2025-04-08T15:13:51.593891",
-    "last_updated": "2025-04-08T15:13:51.593897"
+    "first_seen": "2025-05-08T16:16:44.901606",
+    "last_updated": "2025-05-08T16:16:44.901608"
   },
   {
     "id": "daguerrestraat",
@@ -922,19 +936,5 @@
     "agency": "NRW Wonen",
     "first_seen": "2025-04-09T08:18:24.310061",
     "last_updated": "2025-04-09T08:18:24.310068"
-  },
-  {
-    "id": "verschoorstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/20b86040/verschoorstraat",
-    "title": "Flat Verschoorstraat",
-    "price": 965.0,
-    "size": 62,
-    "rooms": 2,
-    "location": "3081 JX Rotterdam (Tarwewijk)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/20b86040-d5ff-51df-b40d-bd90ce330155/92fc715c180f82da2e7d64dfe40e82cb.jpg?width=600&auto=webp",
-    "agency": "Rent an Apartment",
-    "first_seen": "2025-04-08T16:15:49.676847",
-    "last_updated": "2025-04-08T16:15:49.676854"
   }
 ]
