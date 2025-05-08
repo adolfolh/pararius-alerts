@@ -1,5 +1,19 @@
 [
   {
+    "id": "bredestraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/629f3a9b/bredestraat",
+    "title": "Flat Bredestraat",
+    "price": 790.0,
+    "size": 45,
+    "rooms": 2,
+    "location": "3011 RC Rotterdam (Stadsdriehoek)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/629f3a9b-4f44-53e4-bef2-374031881430/52c467615157c229dcb64a8765845b53.jpg?width=600&auto=webp",
+    "agency": "realestate.nl",
+    "first_seen": "2025-05-08T13:25:42.801791",
+    "last_updated": "2025-05-08T13:25:42.801798"
+  },
+  {
     "id": "franselaan",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/14b7bc29/franselaan",
     "title": "Flat Franselaan",
@@ -196,6 +210,20 @@
     "last_updated": "2025-05-05T01:05:28.513964"
   },
   {
+    "id": "marconistraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/b6922bde/marconistraat",
+    "title": "Flat Marconistraat 96 kamer 10",
+    "price": 625.0,
+    "size": 25,
+    "rooms": 2,
+    "location": "2562 JG Den Haag (Valkenboskwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b6922bde-332a-5ecc-8b04-0fe9172e6338/c58962bf7cc01451d305348942870cbb.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-05-08T13:25:48.474644",
+    "last_updated": "2025-05-08T13:25:48.474651"
+  },
+  {
     "id": "laan-van-meerdervoort",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/e43ded6f/laan-van-meerdervoort",
     "title": "Flat Laan van Meerdervoort",
@@ -236,20 +264,6 @@
     "agency": "Rent Valley",
     "first_seen": "2025-04-24T14:12:08.316923",
     "last_updated": "2025-04-24T14:12:08.316930"
-  },
-  {
-    "id": "westerbaenstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/bc21a0c7/westerbaenstraat",
-    "title": "Flat Westerbaenstraat",
-    "price": 862.0,
-    "size": 36,
-    "rooms": 2,
-    "location": "2513 GG Den Haag (Zeeheldenkwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/bc21a0c7-366b-5b91-8ac4-96ac7bfb8d89/5ecb440d213e580ef3dc7e494cecbbfe.jpg?width=600&auto=webp",
-    "agency": "Rent Valley",
-    "first_seen": "2025-04-24T12:26:12.460111",
-    "last_updated": "2025-04-24T12:26:12.460117"
   },
   {
     "id": "copernicuslaan",
@@ -390,6 +404,20 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
+  },
+  {
+    "id": "westerbaenstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/bc21a0c7/westerbaenstraat",
+    "title": "Flat Westerbaenstraat",
+    "price": 862.0,
+    "size": 36,
+    "rooms": 2,
+    "location": "2513 GG Den Haag (Zeeheldenkwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/bc21a0c7-366b-5b91-8ac4-96ac7bfb8d89/5ecb440d213e580ef3dc7e494cecbbfe.jpg?width=600&auto=webp",
+    "agency": "Rent Valley",
+    "first_seen": "2025-04-24T12:26:12.460111",
+    "last_updated": "2025-04-24T12:26:12.460117"
   },
   {
     "id": "vaarnerkamp",

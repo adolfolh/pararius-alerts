@@ -579,5 +579,15 @@
       "daguerrestraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-05-08T13:25:48.944205",
+    "new_listings_count": 2,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "bredestraat",
+      "marconistraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
