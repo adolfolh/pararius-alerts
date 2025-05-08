@@ -589,5 +589,14 @@
       "marconistraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-05-08T15:13:59.412874",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "willebrordusplein"
+    ],
+    "updated_listing_ids": []
   }
 ]

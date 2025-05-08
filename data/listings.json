@@ -1,5 +1,19 @@
 [
   {
+    "id": "willebrordusplein",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/0d6c344a/willebrordusplein",
+    "title": "Flat Willebrordusplein 23 B",
+    "price": 867.0,
+    "size": 34,
+    "rooms": 2,
+    "location": "3037 TD Rotterdam (Liskwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0d6c344a-1fe0-5c27-9a31-627221489403/c74cfc9121e0d7e6733bea12d7c4e175.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-05-08T15:13:53.322971",
+    "last_updated": "2025-05-08T15:13:53.322976"
+  },
+  {
     "id": "bredestraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/629f3a9b/bredestraat",
     "title": "Flat Bredestraat",
