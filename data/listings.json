@@ -1,5 +1,19 @@
 [
   {
+    "id": "wevershoekstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/dedc357f/wevershoekstraat",
+    "title": "Flat Wevershoekstraat 55 A",
+    "price": 794.0,
+    "size": 54,
+    "rooms": 2,
+    "location": "3081 PC Rotterdam (Zuidplein)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/dedc357f-1ea3-5ce9-9e0d-2ee941ea6a54/2062efe97ccfaf8149e7b5ec5dc553b5.jpg?width=600&auto=webp",
+    "agency": "Properbee",
+    "first_seen": "2025-05-05T01:05:28.513961",
+    "last_updated": "2025-05-05T01:05:28.513964"
+  },
+  {
     "id": "meekrapstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/00cccf8b/meekrapstraat",
     "title": "Flat Meekrapstraat 41 A",
@@ -224,18 +238,18 @@
     "last_updated": "2025-05-05T01:05:28.512479"
   },
   {
-    "id": "wevershoekstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/dedc357f/wevershoekstraat",
-    "title": "Flat Wevershoekstraat 55 A",
-    "price": 794.0,
-    "size": 54,
-    "rooms": 2,
-    "location": "3081 PC Rotterdam (Zuidplein)",
+    "id": "lange-lombardstraat",
+    "url": "https://www.pararius.com/studio-for-rent/den-haag/6820398e/lange-lombardstraat",
+    "title": "Studio Lange Lombardstraat",
+    "price": 910.0,
+    "size": 35,
+    "rooms": 1,
+    "location": "2512 VP Den Haag (Kortenbos)",
     "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/dedc357f-1ea3-5ce9-9e0d-2ee941ea6a54/2062efe97ccfaf8149e7b5ec5dc553b5.jpg?width=600&auto=webp",
-    "agency": "Properbee",
-    "first_seen": "2025-05-05T01:05:28.513961",
-    "last_updated": "2025-05-05T01:05:28.513964"
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6820398e-ac38-5b35-a9e4-3182526debba/7d51dc1fefb4dfbca3f3c7592670844b.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-05-09T12:25:02.624609",
+    "last_updated": "2025-05-09T12:25:02.624615"
   },
   {
     "id": "vreeswijkstraat",
@@ -264,20 +278,6 @@
     "agency": "LIV Residential",
     "first_seen": "2025-05-06T01:02:54.654436",
     "last_updated": "2025-05-09T08:17:35.057602"
-  },
-  {
-    "id": "treilerweg",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/92a156f9/treilerweg",
-    "title": "Flat Treilerweg",
-    "price": 887.0,
-    "size": 10,
-    "rooms": 2,
-    "location": "2583 DB Den Haag (Vissershaven)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/92a156f9-0780-5a4f-b426-68af61139f62/32393c85cfcf42a909d5f60b340c320b.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-05-09T09:13:58.722097",
-    "last_updated": "2025-05-09T09:13:58.722099"
   },
   {
     "id": "marconistraat",
@@ -488,6 +488,20 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
+  },
+  {
+    "id": "treilerweg",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/92a156f9/treilerweg",
+    "title": "Flat Treilerweg",
+    "price": 887.0,
+    "size": 10,
+    "rooms": 2,
+    "location": "2583 DB Den Haag (Vissershaven)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/92a156f9-0780-5a4f-b426-68af61139f62/32393c85cfcf42a909d5f60b340c320b.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-05-09T09:13:58.722097",
+    "last_updated": "2025-05-09T09:13:58.722099"
   },
   {
     "id": "jan-van-der-heijdenstraat",

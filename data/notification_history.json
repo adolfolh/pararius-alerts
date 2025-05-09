@@ -645,5 +645,14 @@
       "vreeswijkstraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-05-09T12:25:03.338020",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "lange-lombardstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
