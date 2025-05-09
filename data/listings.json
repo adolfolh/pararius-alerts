@@ -238,6 +238,20 @@
     "last_updated": "2025-05-05T01:05:28.512479"
   },
   {
+    "id": "galileistraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/2bc3e458/galileistraat",
+    "title": "Flat Galile\u00efstraat 148 achterzijde",
+    "price": 711.0,
+    "size": 33,
+    "rooms": 3,
+    "location": "2561 TL Den Haag (Valkenboskwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2bc3e458-cd5c-549a-ac22-0b782cc99a88/24fcd72b9a1e7da727915c9cf72dfec8.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-05-09T16:15:53.899466",
+    "last_updated": "2025-05-09T16:15:53.899469"
+  },
+  {
     "id": "harstenhoekweg",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/6cf976eb/harstenhoekweg",
     "title": "Flat Harstenhoekweg 63 A",
@@ -250,20 +264,6 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-05-09T15:13:32.558567",
     "last_updated": "2025-05-09T15:13:32.558570"
-  },
-  {
-    "id": "lange-lombardstraat",
-    "url": "https://www.pararius.com/studio-for-rent/den-haag/6820398e/lange-lombardstraat",
-    "title": "Studio Lange Lombardstraat",
-    "price": 910.0,
-    "size": 35,
-    "rooms": 1,
-    "location": "2512 VP Den Haag (Kortenbos)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6820398e-ac38-5b35-a9e4-3182526debba/7d51dc1fefb4dfbca3f3c7592670844b.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-05-09T12:25:02.624609",
-    "last_updated": "2025-05-09T12:25:02.624615"
   },
   {
     "id": "vreeswijkstraat",
@@ -502,6 +502,20 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
+  },
+  {
+    "id": "lange-lombardstraat",
+    "url": "https://www.pararius.com/studio-for-rent/den-haag/6820398e/lange-lombardstraat",
+    "title": "Studio Lange Lombardstraat",
+    "price": 910.0,
+    "size": 35,
+    "rooms": 1,
+    "location": "2512 VP Den Haag (Kortenbos)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6820398e-ac38-5b35-a9e4-3182526debba/7d51dc1fefb4dfbca3f3c7592670844b.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-05-09T12:25:02.624609",
+    "last_updated": "2025-05-09T12:25:02.624615"
   },
   {
     "id": "treilerweg",
