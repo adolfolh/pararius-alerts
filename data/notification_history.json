@@ -626,5 +626,14 @@
     "updated_listing_ids": [
       "waldorpstraat"
     ]
+  },
+  {
+    "timestamp": "2025-05-09T09:13:59.233945",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "treilerweg"
+    ],
+    "updated_listing_ids": []
   }
 ]
