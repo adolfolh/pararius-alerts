@@ -635,5 +635,15 @@
       "treilerweg"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-05-09T10:13:56.188313",
+    "new_listings_count": 2,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "jan-van-der-heijdenstraat",
+      "vreeswijkstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
