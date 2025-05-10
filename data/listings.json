@@ -210,6 +210,20 @@
     "last_updated": "2025-04-11T16:15:41.809418"
   },
   {
+    "id": "schaepmanstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/2a884ff6/schaepmanstraat",
+    "title": "Flat Schaepmanstraat 15 A",
+    "price": 807.0,
+    "size": 46,
+    "rooms": 2,
+    "location": "3027 CC Rotterdam (Spangen)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2a884ff6-d39e-5583-b46f-dd7a984254a3/e068e1d5366a396a1697cb68dd9e213b.jpg?width=600&auto=webp",
+    "agency": "LIV Residential",
+    "first_seen": "2025-05-06T01:02:48.805484",
+    "last_updated": "2025-05-06T01:02:48.805487"
+  },
+  {
     "id": "bree",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/6180aaea/bree",
     "title": "Flat Bree",
@@ -264,6 +278,20 @@
     "agency": "Immovita",
     "first_seen": "2025-05-09T10:13:55.164687",
     "last_updated": "2025-05-09T10:13:55.164691"
+  },
+  {
+    "id": "waldorpstraat",
+    "url": "https://www.pararius.com/house-for-rent/den-haag/e15d8e79/waldorpstraat",
+    "title": "House Waldorpstraat 892",
+    "price": 866.0,
+    "size": 23,
+    "rooms": 1,
+    "location": "2521 CW Den Haag (Laakhaven-West)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e15d8e79-f074-5afc-9f94-405f6707ce62/d549a908949acd81d2a79872ebad3c3e.jpg?width=600&auto=webp",
+    "agency": "LIV Residential",
+    "first_seen": "2025-05-06T01:02:54.654436",
+    "last_updated": "2025-05-09T08:17:35.057602"
   },
   {
     "id": "marconistraat",
@@ -474,34 +502,6 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
-  },
-  {
-    "id": "schaepmanstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/2a884ff6/schaepmanstraat",
-    "title": "Flat Schaepmanstraat 15 A",
-    "price": 807.0,
-    "size": 46,
-    "rooms": 2,
-    "location": "3027 CC Rotterdam (Spangen)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2a884ff6-d39e-5583-b46f-dd7a984254a3/e068e1d5366a396a1697cb68dd9e213b.jpg?width=600&auto=webp",
-    "agency": "LIV Residential",
-    "first_seen": "2025-05-06T01:02:48.805484",
-    "last_updated": "2025-05-06T01:02:48.805487"
-  },
-  {
-    "id": "waldorpstraat",
-    "url": "https://www.pararius.com/house-for-rent/den-haag/e15d8e79/waldorpstraat",
-    "title": "House Waldorpstraat 892",
-    "price": 866.0,
-    "size": 23,
-    "rooms": 1,
-    "location": "2521 CW Den Haag (Laakhaven-West)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e15d8e79-f074-5afc-9f94-405f6707ce62/d549a908949acd81d2a79872ebad3c3e.jpg?width=600&auto=webp",
-    "agency": "LIV Residential",
-    "first_seen": "2025-05-06T01:02:54.654436",
-    "last_updated": "2025-05-09T08:17:35.057602"
   },
   {
     "id": "lange-lombardstraat",
