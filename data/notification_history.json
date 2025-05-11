@@ -690,5 +690,15 @@
     "updated_listing_ids": [
       "van-speijkstraat"
     ]
+  },
+  {
+    "timestamp": "2025-05-11T17:10:28.978062",
+    "new_listings_count": 2,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "jonker-fransstraat",
+      "hugo-de-grootstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
