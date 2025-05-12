@@ -1,5 +1,19 @@
 [
   {
+    "id": "madeliefstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a0426822/madeliefstraat",
+    "title": "Flat Madeliefstraat",
+    "price": 840.0,
+    "size": 62,
+    "rooms": 4,
+    "location": "3083 TC Rotterdam (Carnisse)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a0426822-201b-534e-abb4-c8cfecca270c/dbf1881d92013c5126ac7d6f0884a118.png?width=600&auto=webp",
+    "agency": "HouseHunting Randstad",
+    "first_seen": "2025-05-12T14:13:58.451074",
+    "last_updated": "2025-05-12T14:13:58.451081"
+  },
+  {
     "id": "waterloostraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a4bd0abd/waterloostraat",
     "title": "Flat Waterloostraat",
@@ -250,6 +264,20 @@
     "agency": "Rotterdam Apartments",
     "first_seen": "2025-05-05T01:05:28.512476",
     "last_updated": "2025-05-05T01:05:28.512479"
+  },
+  {
+    "id": "ametisthorst",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/74d1d2a4/ametisthorst",
+    "title": "Flat Ametisthorst 347",
+    "price": 939.0,
+    "size": 72,
+    "rooms": 3,
+    "location": "2592 HM Den Haag (Burgen en Horsten)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/74d1d2a4-d4d6-55b7-b297-6b330c29feef/5094c7d75664815184c1c41e4c66426a.jpg?width=600&auto=webp",
+    "agency": "Nationaal Grondbezit",
+    "first_seen": "2025-05-12T14:14:04.346271",
+    "last_updated": "2025-05-12T14:14:04.346279"
   },
   {
     "id": "prins-hendrikstraat",
