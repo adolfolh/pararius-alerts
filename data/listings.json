@@ -238,6 +238,20 @@
     "last_updated": "2025-05-05T01:05:28.512479"
   },
   {
+    "id": "amsterdamsestraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/5068ee47/amsterdamsestraat",
+    "title": "Flat Amsterdamsestraat 44 C",
+    "price": 830.0,
+    "size": 67,
+    "rooms": 3,
+    "location": "2587 CR Den Haag (Belgisch Park)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/5068ee47-2d5c-5ce2-bd2a-55a023e0e728/edbbe45565101c68922922f84448a0b9.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-05-12T09:15:18.413793",
+    "last_updated": "2025-05-12T09:15:18.413800"
+  },
+  {
     "id": "van-boecopkade",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/cc4ac833/van-boecopkade",
     "title": "Flat Van Boecopkade",

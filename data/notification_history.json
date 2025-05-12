@@ -709,5 +709,14 @@
       "van-boecopkade"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-05-12T09:15:18.897548",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "amsterdamsestraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
