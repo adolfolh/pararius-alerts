@@ -1,5 +1,19 @@
 [
   {
+    "id": "jonker-fransstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/b3027efc/jonker-fransstraat",
+    "title": "Flat Jonker Fransstraat",
+    "price": 662.0,
+    "size": 13,
+    "rooms": 1,
+    "location": "3031 AX Rotterdam (Rubroek)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b3027efc-66c8-5bfd-91e7-bba02663fc6d/c32633426286fecde506916a02b50392.jpg?width=600&auto=webp",
+    "agency": "Rotterdam Apartments",
+    "first_seen": "2025-05-11T17:10:22.837282",
+    "last_updated": "2025-05-11T17:10:22.837284"
+  },
+  {
     "id": "madeliefstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a0426822/madeliefstraat",
     "title": "Flat Madeliefstraat",
@@ -82,20 +96,6 @@
     "agency": "realestate.nl",
     "first_seen": "2025-05-08T13:25:42.801791",
     "last_updated": "2025-05-08T13:25:42.801798"
-  },
-  {
-    "id": "franselaan",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/14b7bc29/franselaan",
-    "title": "Flat Franselaan",
-    "price": 482.0,
-    "size": 25,
-    "rooms": 1,
-    "location": "3028 AK Rotterdam (Oud Mathenesse)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/14b7bc29-afc1-5bbf-97cd-b15fd8a2f723/81b586df7ab1119574f75bc624c15203.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-05-07T10:14:14.109857",
-    "last_updated": "2025-05-07T10:14:14.109866"
   },
   {
     "id": "glashaven",
@@ -222,20 +222,6 @@
     "agency": "Rental Rotterdam",
     "first_seen": "2025-04-22T10:13:51.745295",
     "last_updated": "2025-04-22T10:13:51.745302"
-  },
-  {
-    "id": "jonker-fransstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/b3027efc/jonker-fransstraat",
-    "title": "Flat Jonker Fransstraat",
-    "price": 662.0,
-    "size": 13,
-    "rooms": 1,
-    "location": "3031 AX Rotterdam (Rubroek)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b3027efc-66c8-5bfd-91e7-bba02663fc6d/c32633426286fecde506916a02b50392.jpg?width=600&auto=webp",
-    "agency": "Rotterdam Apartments",
-    "first_seen": "2025-05-11T17:10:22.837282",
-    "last_updated": "2025-05-11T17:10:22.837284"
   },
   {
     "id": "schaepmanstraat",
@@ -600,6 +586,20 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
+  },
+  {
+    "id": "franselaan",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/14b7bc29/franselaan",
+    "title": "Flat Franselaan",
+    "price": 482.0,
+    "size": 25,
+    "rooms": 1,
+    "location": "3028 AK Rotterdam (Oud Mathenesse)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/14b7bc29-afc1-5bbf-97cd-b15fd8a2f723/81b586df7ab1119574f75bc624c15203.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-05-07T10:14:14.109857",
+    "last_updated": "2025-05-07T10:14:14.109866"
   },
   {
     "id": "van-boecopkade",
