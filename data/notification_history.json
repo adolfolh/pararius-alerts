@@ -718,5 +718,14 @@
       "amsterdamsestraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-05-12T10:15:19.068654",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "regentesselaan"
+    ],
+    "updated_listing_ids": []
   }
 ]

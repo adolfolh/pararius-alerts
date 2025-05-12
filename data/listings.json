@@ -238,6 +238,20 @@
     "last_updated": "2025-05-05T01:05:28.512479"
   },
   {
+    "id": "regentesselaan",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/8c14ff0a/regentesselaan",
+    "title": "Flat Regentesselaan 95",
+    "price": 996.0,
+    "size": 98,
+    "rooms": 3,
+    "location": "2562 CR Den Haag (Koningsplein en omgeving)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/8c14ff0a-887b-52bb-ad2b-b4453a63b050/9addcafae6e5572271ca976e2ae600c7.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-05-12T10:15:18.416417",
+    "last_updated": "2025-05-12T10:15:18.416423"
+  },
+  {
     "id": "amsterdamsestraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/5068ee47/amsterdamsestraat",
     "title": "Flat Amsterdamsestraat 44 C",
@@ -250,20 +264,6 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-05-12T09:15:18.413793",
     "last_updated": "2025-05-12T09:15:18.413800"
-  },
-  {
-    "id": "van-boecopkade",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/cc4ac833/van-boecopkade",
-    "title": "Flat Van Boecopkade",
-    "price": 935.0,
-    "size": 43,
-    "rooms": 2,
-    "location": "2518 LD Den Haag (Rond de Energiecentrale)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/cc4ac833-cfa9-5545-9cdd-aa95f11b9ee1/8dd4585c9d43bb2178c6eb2f515d89f1.jpg?width=600&auto=webp",
-    "agency": "Rent an Apartment",
-    "first_seen": "2025-05-12T08:18:56.171674",
-    "last_updated": "2025-05-12T08:18:56.171680"
   },
   {
     "id": "van-speijkstraat",
@@ -544,6 +544,20 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
+  },
+  {
+    "id": "van-boecopkade",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/cc4ac833/van-boecopkade",
+    "title": "Flat Van Boecopkade",
+    "price": 935.0,
+    "size": 43,
+    "rooms": 2,
+    "location": "2518 LD Den Haag (Rond de Energiecentrale)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/cc4ac833-cfa9-5545-9cdd-aa95f11b9ee1/8dd4585c9d43bb2178c6eb2f515d89f1.jpg?width=600&auto=webp",
+    "agency": "Rent an Apartment",
+    "first_seen": "2025-05-12T08:18:56.171674",
+    "last_updated": "2025-05-12T08:18:56.171680"
   },
   {
     "id": "lange-lombardstraat",
