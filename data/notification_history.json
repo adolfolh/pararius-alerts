@@ -727,5 +727,14 @@
       "regentesselaan"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-05-12T11:11:26.617880",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "prins-hendrikstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
