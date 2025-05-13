@@ -238,6 +238,20 @@
     "last_updated": "2025-04-21T18:17:28.615154"
   },
   {
+    "id": "wolphaertsbocht",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/f363c21e/wolphaertsbocht",
+    "title": "Studio Wolphaertsbocht 249 C",
+    "price": 650.0,
+    "size": 35,
+    "rooms": 2,
+    "location": "3083 ML Rotterdam (Carnisse)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f363c21e-d213-5610-a717-5b892634c498/ebe9a507853502bee50826b1584133ce.jpg?width=600&auto=webp",
+    "agency": "Riva Rentals",
+    "first_seen": "2025-04-16T13:23:52.900858",
+    "last_updated": "2025-04-16T13:23:52.900865"
+  },
+  {
     "id": "schaepmanstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/2a884ff6/schaepmanstraat",
     "title": "Flat Schaepmanstraat 15 A",
@@ -264,20 +278,6 @@
     "agency": "Rotterdam Apartments",
     "first_seen": "2025-05-05T01:05:28.512476",
     "last_updated": "2025-05-05T01:05:28.512479"
-  },
-  {
-    "id": "louis-davidsstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/7f657cea/louis-davidsstraat",
-    "title": "Flat Louis Davidsstraat",
-    "price": 852.0,
-    "size": 50,
-    "rooms": 2,
-    "location": "2551 EC Den Haag (Waldeck-Zuid)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7f657cea-2c80-5d91-82ca-55d079116889/e6510a8eb96bc6e178cae93aceba4bb9.jpg?width=600&auto=webp",
-    "agency": "123Wonen Den Haag",
-    "first_seen": "2025-05-13T12:26:58.716174",
-    "last_updated": "2025-05-13T12:26:58.716183"
   },
   {
     "id": "regentesselaan",
@@ -600,6 +600,20 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
+  },
+  {
+    "id": "louis-davidsstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/7f657cea/louis-davidsstraat",
+    "title": "Flat Louis Davidsstraat",
+    "price": 852.0,
+    "size": 50,
+    "rooms": 2,
+    "location": "2551 EC Den Haag (Waldeck-Zuid)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7f657cea-2c80-5d91-82ca-55d079116889/e6510a8eb96bc6e178cae93aceba4bb9.jpg?width=600&auto=webp",
+    "agency": "123Wonen Den Haag",
+    "first_seen": "2025-05-13T12:26:58.716174",
+    "last_updated": "2025-05-13T12:26:58.716183"
   },
   {
     "id": "daguerrestraat",
@@ -1034,20 +1048,6 @@
     "agency": "NRW Wonen",
     "first_seen": "2025-04-15T16:14:01.070489",
     "last_updated": "2025-04-15T16:14:01.070496"
-  },
-  {
-    "id": "wolphaertsbocht",
-    "url": "https://www.pararius.com/studio-for-rent/rotterdam/f363c21e/wolphaertsbocht",
-    "title": "Studio Wolphaertsbocht 249 C",
-    "price": 650.0,
-    "size": 35,
-    "rooms": 2,
-    "location": "3083 ML Rotterdam (Carnisse)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f363c21e-d213-5610-a717-5b892634c498/ebe9a507853502bee50826b1584133ce.jpg?width=600&auto=webp",
-    "agency": "Riva Rentals",
-    "first_seen": "2025-04-16T13:23:52.900858",
-    "last_updated": "2025-04-16T13:23:52.900865"
   },
   {
     "id": "ruigenhoek",
