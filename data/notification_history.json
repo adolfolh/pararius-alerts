@@ -755,5 +755,16 @@
       "ametisthorst"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-05-13T12:27:04.894076",
+    "new_listings_count": 1,
+    "updated_listings_count": 1,
+    "new_listing_ids": [
+      "louis-davidsstraat"
+    ],
+    "updated_listing_ids": [
+      "salvador-allendestraat"
+    ]
   }
 ]

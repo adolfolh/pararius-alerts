@@ -1,5 +1,19 @@
 [
   {
+    "id": "salvador-allendestraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f26dbe82/salvador-allendestraat",
+    "title": "Flat Salvador Allendestraat",
+    "price": 851.0,
+    "size": 10,
+    "rooms": 1,
+    "location": "3065 ED Rotterdam ('s-Gravenland)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f26dbe82-c580-57af-9179-8fbb32ff687c/c447884496b15289d8df4a1b8e7212fa.jpg?width=600&auto=webp",
+    "agency": "Rotterdam Apartments",
+    "first_seen": "2025-04-15T12:24:48.479602",
+    "last_updated": "2025-05-13T12:27:04.432714"
+  },
+  {
     "id": "jonker-fransstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/b3027efc/jonker-fransstraat",
     "title": "Flat Jonker Fransstraat",
@@ -182,20 +196,6 @@
     "last_updated": "2025-05-05T01:05:28.496032"
   },
   {
-    "id": "oudedijk",
-    "url": "https://www.pararius.com/studio-for-rent/rotterdam/587caacf/oudedijk",
-    "title": "Studio Oudedijk 143 A 04V",
-    "price": 807.0,
-    "size": 28,
-    "rooms": 2,
-    "location": "3061 AA Rotterdam (Kralingen West)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/587caacf-b282-5c76-bc65-8745aa2a0ee6/ac7ab9e50e8de81308854435cbff8465.jpg?width=600&auto=webp",
-    "agency": "Properbee",
-    "first_seen": "2025-04-21T18:17:28.615147",
-    "last_updated": "2025-04-21T18:17:28.615154"
-  },
-  {
     "id": "grondherendijk",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/1014aa85/grondherendijk",
     "title": "Flat Grondherendijk",
@@ -224,6 +224,20 @@
     "last_updated": "2025-04-22T10:13:51.745302"
   },
   {
+    "id": "oudedijk",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/587caacf/oudedijk",
+    "title": "Studio Oudedijk 143 A 04V",
+    "price": 807.0,
+    "size": 28,
+    "rooms": 2,
+    "location": "3061 AA Rotterdam (Kralingen West)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/587caacf-b282-5c76-bc65-8745aa2a0ee6/ac7ab9e50e8de81308854435cbff8465.jpg?width=600&auto=webp",
+    "agency": "Properbee",
+    "first_seen": "2025-04-21T18:17:28.615147",
+    "last_updated": "2025-04-21T18:17:28.615154"
+  },
+  {
     "id": "schaepmanstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/2a884ff6/schaepmanstraat",
     "title": "Flat Schaepmanstraat 15 A",
@@ -250,6 +264,20 @@
     "agency": "Rotterdam Apartments",
     "first_seen": "2025-05-05T01:05:28.512476",
     "last_updated": "2025-05-05T01:05:28.512479"
+  },
+  {
+    "id": "louis-davidsstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/7f657cea/louis-davidsstraat",
+    "title": "Flat Louis Davidsstraat",
+    "price": 852.0,
+    "size": 50,
+    "rooms": 2,
+    "location": "2551 EC Den Haag (Waldeck-Zuid)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7f657cea-2c80-5d91-82ca-55d079116889/e6510a8eb96bc6e178cae93aceba4bb9.jpg?width=600&auto=webp",
+    "agency": "123Wonen Den Haag",
+    "first_seen": "2025-05-13T12:26:58.716174",
+    "last_updated": "2025-05-13T12:26:58.716183"
   },
   {
     "id": "regentesselaan",
@@ -726,20 +754,6 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-05-05T01:05:34.077340",
     "last_updated": "2025-05-05T01:05:34.077342"
-  },
-  {
-    "id": "salvador-allendestraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f22fdcfb/salvador-allendestraat",
-    "title": "Flat Salvador Allendestraat",
-    "price": 800.0,
-    "size": 9,
-    "rooms": 1,
-    "location": "3065 ED Rotterdam ('s-Gravenland)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f22fdcfb-e044-566a-9d10-9cfb2a3e3015/39954007a207bbcca94bedf1dd18a52d.jpg?width=600&auto=webp",
-    "agency": "Rotterdam Apartments",
-    "first_seen": "2025-04-15T12:24:48.479602",
-    "last_updated": "2025-04-15T12:24:48.479605"
   },
   {
     "id": "loosduinseweg",
