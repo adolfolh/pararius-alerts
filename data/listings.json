@@ -154,20 +154,6 @@
     "last_updated": "2025-05-06T16:15:25.528216"
   },
   {
-    "id": "dorpsweg",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/683e4e96/dorpsweg",
-    "title": "Flat Dorpsweg 34 B",
-    "price": 972.0,
-    "size": 58,
-    "rooms": 2,
-    "location": "3083 LB Rotterdam (Oud Charlois)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/683e4e96-5ae2-5018-8f33-553adb081c74/1460175f3cf719acf42b1ffe0e12fe19.jpg?width=600&auto=webp",
-    "agency": "Nationaal Grondbezit",
-    "first_seen": "2025-05-05T16:16:56.702721",
-    "last_updated": "2025-05-05T16:16:56.702727"
-  },
-  {
     "id": "zuidplein",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/15fea00d/zuidplein",
     "title": "Flat Zuidplein",
@@ -602,6 +588,20 @@
     "last_updated": "2025-05-05T01:05:34.083203"
   },
   {
+    "id": "dorpsweg",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/683e4e96/dorpsweg",
+    "title": "Flat Dorpsweg 34 B",
+    "price": 972.0,
+    "size": 58,
+    "rooms": 2,
+    "location": "3083 LB Rotterdam (Oud Charlois)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/683e4e96-5ae2-5018-8f33-553adb081c74/1460175f3cf719acf42b1ffe0e12fe19.jpg?width=600&auto=webp",
+    "agency": "Nationaal Grondbezit",
+    "first_seen": "2025-05-05T16:16:56.702721",
+    "last_updated": "2025-05-05T16:16:56.702727"
+  },
+  {
     "id": "portlandstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f92acfeb/portlandstraat",
     "title": "Flat Portlandstraat",
@@ -964,20 +964,6 @@
     "agency": "Rental Rotterdam",
     "first_seen": "2025-04-22T10:13:51.746848",
     "last_updated": "2025-04-22T10:13:51.746851"
-  },
-  {
-    "id": "willem-van-hillegaersbergstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f165ec44/willem-van-hillegaersbergstraat",
-    "title": "Flat Willem van Hillegaersbergstraat",
-    "price": null,
-    "size": 50,
-    "rooms": 2,
-    "location": "3051 RD Rotterdam (Hillegersberg Zuid)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f165ec44-18e0-5e7f-8f58-3d11754fb3f2/b503ba218ec8a69ac5ec209516cbb107.jpg?width=600&auto=webp",
-    "agency": "Breit Vastgoed & Beheer",
-    "first_seen": "2025-04-14T14:13:11.582891",
-    "last_updated": "2025-04-14T14:13:11.582897"
   },
   {
     "id": "granaathorst",
