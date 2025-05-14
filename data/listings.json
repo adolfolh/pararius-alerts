@@ -1,5 +1,19 @@
 [
   {
+    "id": "hoogstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/d7cd9504/hoogstraat",
+    "title": "Flat Hoogstraat",
+    "price": 995.0,
+    "size": 60,
+    "rooms": 2,
+    "location": "3011 PG Rotterdam (Stadsdriehoek)",
+    "interior": "Upholstered or furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/d7cd9504-d250-5095-9055-9a29b5bda6b8/9a23c3e6f42a211b6e2064016ce6e8a5.jpg?width=600&auto=webp",
+    "agency": "Rent an Apartment",
+    "first_seen": "2025-05-14T09:14:02.549773",
+    "last_updated": "2025-05-14T09:14:02.549780"
+  },
+  {
     "id": "portlandstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f92acfeb/portlandstraat",
     "title": "Flat Portlandstraat",
@@ -266,18 +280,18 @@
     "last_updated": "2025-04-16T13:23:52.900865"
   },
   {
-    "id": "schaepmanstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/2a884ff6/schaepmanstraat",
-    "title": "Flat Schaepmanstraat 15 A",
-    "price": 807.0,
-    "size": 46,
-    "rooms": 2,
-    "location": "3027 CC Rotterdam (Spangen)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2a884ff6-d39e-5583-b46f-dd7a984254a3/e068e1d5366a396a1697cb68dd9e213b.jpg?width=600&auto=webp",
-    "agency": "LIV Residential",
-    "first_seen": "2025-05-06T01:02:48.805484",
-    "last_updated": "2025-05-06T01:02:48.805487"
+    "id": "ruigenhoek",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/42d21729/ruigenhoek",
+    "title": "Flat Ruigenhoek",
+    "price": 864.0,
+    "size": 61,
+    "rooms": 3,
+    "location": "3085 EN Rotterdam (Zuidwijk)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/42d21729-4547-5fd0-adb0-58383e903e77/3e8249aa07df7e415dc67334ee5d5251.jpg?width=600&auto=webp",
+    "agency": "Rent an Apartment",
+    "first_seen": "2025-04-15T12:24:48.477849",
+    "last_updated": "2025-04-15T12:24:48.477855"
   },
   {
     "id": "bree",
@@ -600,6 +614,20 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
+  },
+  {
+    "id": "schaepmanstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/2a884ff6/schaepmanstraat",
+    "title": "Flat Schaepmanstraat 15 A",
+    "price": 807.0,
+    "size": 46,
+    "rooms": 2,
+    "location": "3027 CC Rotterdam (Spangen)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2a884ff6-d39e-5583-b46f-dd7a984254a3/e068e1d5366a396a1697cb68dd9e213b.jpg?width=600&auto=webp",
+    "agency": "LIV Residential",
+    "first_seen": "2025-05-06T01:02:48.805484",
+    "last_updated": "2025-05-06T01:02:48.805487"
   },
   {
     "id": "keizerstraat",
@@ -1062,20 +1090,6 @@
     "agency": "NRW Wonen",
     "first_seen": "2025-04-15T16:14:01.070489",
     "last_updated": "2025-04-15T16:14:01.070496"
-  },
-  {
-    "id": "ruigenhoek",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/42d21729/ruigenhoek",
-    "title": "Flat Ruigenhoek",
-    "price": 864.0,
-    "size": 61,
-    "rooms": 3,
-    "location": "3085 EN Rotterdam (Zuidwijk)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/42d21729-4547-5fd0-adb0-58383e903e77/3e8249aa07df7e415dc67334ee5d5251.jpg?width=600&auto=webp",
-    "agency": "Rent an Apartment",
-    "first_seen": "2025-04-15T12:24:48.477849",
-    "last_updated": "2025-04-15T12:24:48.477855"
   },
   {
     "id": "grote-visserijstraat",

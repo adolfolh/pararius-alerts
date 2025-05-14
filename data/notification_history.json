@@ -784,5 +784,14 @@
     "updated_listing_ids": [
       "wevershoekstraat"
     ]
+  },
+  {
+    "timestamp": "2025-05-14T09:14:08.930752",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "hoogstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
