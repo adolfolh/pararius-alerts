@@ -14,20 +14,6 @@
     "last_updated": "2025-05-14T09:14:02.549780"
   },
   {
-    "id": "portlandstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f92acfeb/portlandstraat",
-    "title": "Flat Portlandstraat",
-    "price": 860.0,
-    "size": 45,
-    "rooms": 2,
-    "location": "3082 XE Rotterdam (Oud Charlois)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f92acfeb-59b9-50e8-b1ff-7cf2e403032b/93ead828fb6336009f32eedb6aea0a77.jpg?width=600&auto=webp",
-    "agency": "Teylinger Vastgoed",
-    "first_seen": "2025-05-13T15:13:44.810059",
-    "last_updated": "2025-05-13T15:13:44.810065"
-  },
-  {
     "id": "salvador-allendestraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f26dbe82/salvador-allendestraat",
     "title": "Flat Salvador Allendestraat",
@@ -614,6 +600,20 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
+  },
+  {
+    "id": "portlandstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f92acfeb/portlandstraat",
+    "title": "Flat Portlandstraat",
+    "price": 860.0,
+    "size": 45,
+    "rooms": 2,
+    "location": "3082 XE Rotterdam (Oud Charlois)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f92acfeb-59b9-50e8-b1ff-7cf2e403032b/93ead828fb6336009f32eedb6aea0a77.jpg?width=600&auto=webp",
+    "agency": "Teylinger Vastgoed",
+    "first_seen": "2025-05-13T15:13:44.810059",
+    "last_updated": "2025-05-13T15:13:44.810065"
   },
   {
     "id": "schaepmanstraat",
