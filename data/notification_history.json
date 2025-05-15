@@ -802,5 +802,14 @@
     "updated_listing_ids": [
       "glashaven"
     ]
+  },
+  {
+    "timestamp": "2025-05-15T10:14:49.638652",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "weteringkade"
+    ],
+    "updated_listing_ids": []
   }
 ]

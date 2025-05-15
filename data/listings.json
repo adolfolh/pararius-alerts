@@ -280,6 +280,20 @@
     "last_updated": "2025-05-05T01:05:28.512479"
   },
   {
+    "id": "weteringkade",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/cbfad2f2/weteringkade",
+    "title": "Flat Weteringkade",
+    "price": 865.0,
+    "size": 69,
+    "rooms": 3,
+    "location": "2515 AR Den Haag (Rivierenbuurt-Noord)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/cbfad2f2-1f97-5482-b901-4f6f17f5e125/7c06c0bfb59715d28f01e8c10cd1602a.jpg?width=600&auto=webp",
+    "agency": "Immovita",
+    "first_seen": "2025-05-15T10:14:43.727627",
+    "last_updated": "2025-05-15T10:14:43.727632"
+  },
+  {
     "id": "regentesselaan",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/8c14ff0a/regentesselaan",
     "title": "Flat Regentesselaan 95",
