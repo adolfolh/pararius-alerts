@@ -811,5 +811,15 @@
       "weteringkade"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-05-15T12:26:10.295115",
+    "new_listings_count": 2,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "salvador-allendestraat",
+      "ruigenhoek"
+    ],
+    "updated_listing_ids": []
   }
 ]

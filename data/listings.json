@@ -24,8 +24,8 @@
     "interior": "Furnished",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/f26dbe82-c580-57af-9179-8fbb32ff687c/c447884496b15289d8df4a1b8e7212fa.jpg?width=600&auto=webp",
     "agency": "Rotterdam Apartments",
-    "first_seen": "2025-04-15T12:24:48.479602",
-    "last_updated": "2025-05-13T12:27:04.432714"
+    "first_seen": "2025-05-15T12:25:58.364904",
+    "last_updated": "2025-05-15T12:25:58.364907"
   },
   {
     "id": "jonker-fransstraat",
@@ -253,17 +253,17 @@
   },
   {
     "id": "ruigenhoek",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/42d21729/ruigenhoek",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/9480c18e/ruigenhoek",
     "title": "Flat Ruigenhoek",
     "price": 864.0,
     "size": 61,
     "rooms": 3,
     "location": "3085 EN Rotterdam (Zuidwijk)",
     "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/42d21729-4547-5fd0-adb0-58383e903e77/3e8249aa07df7e415dc67334ee5d5251.jpg?width=600&auto=webp",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9480c18e-5611-59d6-8895-818630b40f65/3e8249aa07df7e415dc67334ee5d5251.jpg?width=600&auto=webp",
     "agency": "Rent an Apartment",
-    "first_seen": "2025-04-15T12:24:48.477849",
-    "last_updated": "2025-04-15T12:24:48.477855"
+    "first_seen": "2025-05-15T12:25:58.390140",
+    "last_updated": "2025-05-15T12:25:58.390142"
   },
   {
     "id": "bree",
