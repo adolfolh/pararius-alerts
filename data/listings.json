@@ -266,20 +266,6 @@
     "last_updated": "2025-05-05T01:05:28.512479"
   },
   {
-    "id": "escamplaan",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/001b5135/escamplaan",
-    "title": "Flat Escamplaan",
-    "price": 854.0,
-    "size": 72,
-    "rooms": 3,
-    "location": "2547 GM Den Haag (Rustenburg)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/001b5135-9668-5240-bbe7-45fa889f8af3/fd0da9fe0aa73d1107b66f6de29e6c4f.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-05-16T13:25:28.894413",
-    "last_updated": "2025-05-16T13:25:28.894418"
-  },
-  {
     "id": "weteringkade",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/cbfad2f2/weteringkade",
     "title": "Flat Weteringkade",
@@ -518,20 +504,6 @@
     "last_updated": "2025-05-11T17:10:28.579464"
   },
   {
-    "id": "ieplaan",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/6b330135/ieplaan",
-    "title": "Flat Ieplaan",
-    "price": 695.0,
-    "size": 41,
-    "rooms": 2,
-    "location": "2565 LC Den Haag (Bomenbuurt)",
-    "interior": "Upholstered or furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6b330135-008b-59a7-b59a-71f1fd3c23ec/62f3d78895f2bdac251b4441eed2e235.jpg?width=600&auto=webp",
-    "agency": "Rental Rotterdam",
-    "first_seen": "2025-05-08T16:16:44.901606",
-    "last_updated": "2025-05-08T16:16:44.901608"
-  },
-  {
     "id": "suezkade",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/0d5f3406/suezkade",
     "title": "Flat Suezkade",
@@ -600,6 +572,34 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
+  },
+  {
+    "id": "escamplaan",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/001b5135/escamplaan",
+    "title": "Flat Escamplaan",
+    "price": 854.0,
+    "size": 72,
+    "rooms": 3,
+    "location": "2547 GM Den Haag (Rustenburg)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/001b5135-9668-5240-bbe7-45fa889f8af3/fd0da9fe0aa73d1107b66f6de29e6c4f.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-05-16T13:25:28.894413",
+    "last_updated": "2025-05-16T13:25:28.894418"
+  },
+  {
+    "id": "ieplaan",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/6b330135/ieplaan",
+    "title": "Flat Ieplaan",
+    "price": 695.0,
+    "size": 41,
+    "rooms": 2,
+    "location": "2565 LC Den Haag (Bomenbuurt)",
+    "interior": "Upholstered or furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6b330135-008b-59a7-b59a-71f1fd3c23ec/62f3d78895f2bdac251b4441eed2e235.jpg?width=600&auto=webp",
+    "agency": "Rental Rotterdam",
+    "first_seen": "2025-05-08T16:16:44.901606",
+    "last_updated": "2025-05-08T16:16:44.901608"
   },
   {
     "id": "grondherendijk",
