@@ -434,20 +434,6 @@
     "last_updated": "2025-05-08T13:25:48.474651"
   },
   {
-    "id": "laan-van-meerdervoort",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/e43ded6f/laan-van-meerdervoort",
-    "title": "Flat Laan van Meerdervoort",
-    "price": 850.0,
-    "size": 35,
-    "rooms": 2,
-    "location": "2563 AA Den Haag (Sweelinckplein en omgeving)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e43ded6f-183a-5e06-ade3-94df5619a221/5e3968f952ed1a2e392c53ff950ea212.jpg?width=600&auto=webp",
-    "agency": "Immovita",
-    "first_seen": "2025-05-06T08:18:25.724259",
-    "last_updated": "2025-05-06T08:18:25.724266"
-  },
-  {
     "id": "amperestraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/feb6fe60/amperestraat",
     "title": "Flat Amp\u00e8restraat 109 B",
@@ -614,6 +600,20 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
+  },
+  {
+    "id": "laan-van-meerdervoort",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/e43ded6f/laan-van-meerdervoort",
+    "title": "Flat Laan van Meerdervoort",
+    "price": 850.0,
+    "size": 35,
+    "rooms": 2,
+    "location": "2563 AA Den Haag (Sweelinckplein en omgeving)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e43ded6f-183a-5e06-ade3-94df5619a221/5e3968f952ed1a2e392c53ff950ea212.jpg?width=600&auto=webp",
+    "agency": "Immovita",
+    "first_seen": "2025-05-06T08:18:25.724259",
+    "last_updated": "2025-05-06T08:18:25.724266"
   },
   {
     "id": "dorpsweg",
