@@ -234,8 +234,8 @@
     "interior": "Furnished",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/f363c21e-d213-5610-a717-5b892634c498/ebe9a507853502bee50826b1584133ce.jpg?width=600&auto=webp",
     "agency": "Riva Rentals",
-    "first_seen": "2025-04-16T13:23:52.900858",
-    "last_updated": "2025-04-16T13:23:52.900865"
+    "first_seen": "2025-05-16T13:25:22.713854",
+    "last_updated": "2025-05-16T13:25:22.713856"
   },
   {
     "id": "ruigenhoek",
@@ -264,6 +264,20 @@
     "agency": "Rotterdam Apartments",
     "first_seen": "2025-05-05T01:05:28.512476",
     "last_updated": "2025-05-05T01:05:28.512479"
+  },
+  {
+    "id": "escamplaan",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/001b5135/escamplaan",
+    "title": "Flat Escamplaan",
+    "price": 854.0,
+    "size": 72,
+    "rooms": 3,
+    "location": "2547 GM Den Haag (Rustenburg)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/001b5135-9668-5240-bbe7-45fa889f8af3/fd0da9fe0aa73d1107b66f6de29e6c4f.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-05-16T13:25:28.894413",
+    "last_updated": "2025-05-16T13:25:28.894418"
   },
   {
     "id": "weteringkade",

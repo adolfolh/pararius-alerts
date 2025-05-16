@@ -830,5 +830,15 @@
     "updated_listing_ids": [
       "weteringkade"
     ]
+  },
+  {
+    "timestamp": "2025-05-16T13:25:35.371705",
+    "new_listings_count": 2,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "wolphaertsbocht",
+      "escamplaan"
+    ],
+    "updated_listing_ids": []
   }
 ]
