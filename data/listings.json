@@ -992,19 +992,5 @@
     "agency": "Kolpa V.V.S. Beheer",
     "first_seen": "2025-04-22T15:13:33.175937",
     "last_updated": "2025-04-22T15:13:33.175944"
-  },
-  {
-    "id": "reyerdijk",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/6d3a47b0/reyerdijk",
-    "title": "Flat Reyerdijk 74",
-    "price": 741.0,
-    "size": 66,
-    "rooms": 3,
-    "location": "3079 ND Rotterdam (Groot IJsselmonde)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6d3a47b0-0f22-5af1-9c75-f651444825e9/77b35fad76a0528c0405b254783a7300.jpg?width=600&auto=webp",
-    "agency": "Kolpa V.V.S. Beheer",
-    "first_seen": "2025-04-17T14:12:49.078279",
-    "last_updated": "2025-04-17T14:12:49.078286"
   }
 ]
