@@ -849,5 +849,14 @@
     "updated_listing_ids": [
       "wevershoekstraat"
     ]
+  },
+  {
+    "timestamp": "2025-05-17T12:22:48.348943",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "keizerstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
