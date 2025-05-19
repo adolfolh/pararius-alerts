@@ -1,5 +1,19 @@
 [
   {
+    "id": "beijerlandselaan",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/68f5a2e1/beijerlandselaan",
+    "title": "Flat Beijerlandselaan",
+    "price": 867.0,
+    "size": 53,
+    "rooms": 2,
+    "location": "3074 EK Rotterdam (Hillesluis)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/68f5a2e1-e6ea-5512-9be9-ee9b8eb09fbf/cbc5c9f2c9aac19f8941c45ad20f5d83.jpg?width=600&auto=webp",
+    "agency": "Perfect Rent",
+    "first_seen": "2025-05-19T17:12:00.189446",
+    "last_updated": "2025-05-19T17:12:00.189454"
+  },
+  {
     "id": "hoogstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/d7cd9504/hoogstraat",
     "title": "Flat Hoogstraat",
