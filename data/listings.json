@@ -420,20 +420,6 @@
     "last_updated": "2025-05-08T13:25:48.474651"
   },
   {
-    "id": "1e-de-riemerstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/8984f42e/1e-de-riemerstraat",
-    "title": "Flat 1e De Riemerstraat",
-    "price": 938.0,
-    "size": 42,
-    "rooms": 2,
-    "location": "2513 CV Den Haag (Zeeheldenkwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/8984f42e-c862-5000-8fc5-2a79820a605d/f13ea7e0c44b0900e08ecb730a9502e4.jpg?width=600&auto=webp",
-    "agency": "Rent Valley",
-    "first_seen": "2025-04-24T14:12:08.316923",
-    "last_updated": "2025-04-24T14:12:08.316930"
-  },
-  {
     "id": "copernicuslaan",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/ef6951a8/copernicuslaan",
     "title": "Flat Copernicuslaan 107 B",
@@ -544,6 +530,20 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
+  },
+  {
+    "id": "1e-de-riemerstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/8984f42e/1e-de-riemerstraat",
+    "title": "Flat 1e De Riemerstraat",
+    "price": 938.0,
+    "size": 42,
+    "rooms": 2,
+    "location": "2513 CV Den Haag (Zeeheldenkwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/8984f42e-c862-5000-8fc5-2a79820a605d/f13ea7e0c44b0900e08ecb730a9502e4.jpg?width=600&auto=webp",
+    "agency": "Rent Valley",
+    "first_seen": "2025-04-24T14:12:08.316923",
+    "last_updated": "2025-04-24T14:12:08.316930"
   },
   {
     "id": "hugo-de-grootstraat",
