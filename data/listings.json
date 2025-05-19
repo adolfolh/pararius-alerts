@@ -294,20 +294,6 @@
     "last_updated": "2025-05-12T10:15:18.416423"
   },
   {
-    "id": "ametisthorst",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/74d1d2a4/ametisthorst",
-    "title": "Flat Ametisthorst 347",
-    "price": 939.0,
-    "size": 72,
-    "rooms": 3,
-    "location": "2592 HM Den Haag (Burgen en Horsten)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/74d1d2a4-d4d6-55b7-b297-6b330c29feef/5094c7d75664815184c1c41e4c66426a.jpg?width=600&auto=webp",
-    "agency": "Nationaal Grondbezit",
-    "first_seen": "2025-05-12T14:14:04.346271",
-    "last_updated": "2025-05-12T14:14:04.346279"
-  },
-  {
     "id": "prins-hendrikstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/0851c04c/prins-hendrikstraat",
     "title": "Flat Prins Hendrikstraat 17 C",
@@ -516,6 +502,20 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
+  },
+  {
+    "id": "ametisthorst",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/74d1d2a4/ametisthorst",
+    "title": "Flat Ametisthorst 347",
+    "price": 939.0,
+    "size": 72,
+    "rooms": 3,
+    "location": "2592 HM Den Haag (Burgen en Horsten)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/74d1d2a4-d4d6-55b7-b297-6b330c29feef/5094c7d75664815184c1c41e4c66426a.jpg?width=600&auto=webp",
+    "agency": "Nationaal Grondbezit",
+    "first_seen": "2025-05-12T14:14:04.346271",
+    "last_updated": "2025-05-12T14:14:04.346279"
   },
   {
     "id": "kornalijnhorst",
