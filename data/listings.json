@@ -1,19 +1,5 @@
 [
   {
-    "id": "beukelsdijk",
-    "url": "https://www.pararius.com/studio-for-rent/rotterdam/baca92e0/beukelsdijk",
-    "title": "Studio Beukelsdijk",
-    "price": 950.0,
-    "size": 35,
-    "rooms": 2,
-    "location": "3022 DM Rotterdam (Nieuwe Westen)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/baca92e0-4ba2-5134-8693-61b18fb8a3c4/02a78b9403f107dd7895974b30de4f78.jpg?width=600&auto=webp",
-    "agency": "UBERHOUSE",
-    "first_seen": "2025-05-19T10:14:55.783819",
-    "last_updated": "2025-05-19T10:14:55.783826"
-  },
-  {
     "id": "hoogstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/d7cd9504/hoogstraat",
     "title": "Flat Hoogstraat",
@@ -544,6 +530,20 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
+  },
+  {
+    "id": "beukelsdijk",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/baca92e0/beukelsdijk",
+    "title": "Studio Beukelsdijk",
+    "price": 950.0,
+    "size": 35,
+    "rooms": 2,
+    "location": "3022 DM Rotterdam (Nieuwe Westen)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/baca92e0-4ba2-5134-8693-61b18fb8a3c4/02a78b9403f107dd7895974b30de4f78.jpg?width=600&auto=webp",
+    "agency": "UBERHOUSE",
+    "first_seen": "2025-05-19T10:14:55.783819",
+    "last_updated": "2025-05-19T10:14:55.783826"
   },
   {
     "id": "1e-de-riemerstraat",
