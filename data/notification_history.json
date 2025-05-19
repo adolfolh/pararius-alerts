@@ -885,5 +885,14 @@
       "beukelsdijk"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-05-19T15:14:33.678281",
+    "new_listings_count": 0,
+    "updated_listings_count": 1,
+    "new_listing_ids": [],
+    "updated_listing_ids": [
+      "wevershoekstraat"
+    ]
   }
 ]
