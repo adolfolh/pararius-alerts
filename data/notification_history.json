@@ -903,5 +903,14 @@
       "beijerlandselaan"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-05-20T08:18:48.870100",
+    "new_listings_count": 0,
+    "updated_listings_count": 1,
+    "new_listing_ids": [],
+    "updated_listing_ids": [
+      "wevershoekstraat"
+    ]
   }
 ]

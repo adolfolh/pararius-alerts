@@ -1,5 +1,19 @@
 [
   {
+    "id": "wevershoekstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/d7f7ee1a/wevershoekstraat",
+    "title": "Flat Wevershoekstraat",
+    "price": 800.0,
+    "size": 55,
+    "rooms": 2,
+    "location": "3081 PB Rotterdam (Zuidplein)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/d7f7ee1a-999c-50ac-9b1b-fba4d943c3a3/f7a5216f6d1b63fc6ae3b04f8dc52253.jpg?width=600&auto=webp",
+    "agency": "realestate.nl",
+    "first_seen": "2025-05-05T01:05:28.513961",
+    "last_updated": "2025-05-20T08:18:48.419073"
+  },
+  {
     "id": "beijerlandselaan",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/68f5a2e1/beijerlandselaan",
     "title": "Flat Beijerlandselaan",
@@ -82,20 +96,6 @@
     "agency": "Rotterdam Apartments",
     "first_seen": "2025-05-12T13:27:09.526461",
     "last_updated": "2025-05-12T13:27:09.526467"
-  },
-  {
-    "id": "wevershoekstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/dedc357f/wevershoekstraat",
-    "title": "Flat Wevershoekstraat 55 A",
-    "price": 851.0,
-    "size": 54,
-    "rooms": 2,
-    "location": "3081 PC Rotterdam (Zuidplein)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/dedc357f-1ea3-5ce9-9e0d-2ee941ea6a54/1938de87eb9d8a0b429e93de104c4f90.jpg?width=600&auto=webp",
-    "agency": "Properbee",
-    "first_seen": "2025-05-05T01:05:28.513961",
-    "last_updated": "2025-05-19T15:14:33.200620"
   },
   {
     "id": "meekrapstraat",
@@ -336,20 +336,6 @@
     "last_updated": "2025-05-12T09:15:18.413800"
   },
   {
-    "id": "van-speijkstraat",
-    "url": "https://www.pararius.com/studio-for-rent/den-haag/d0a931ff/van-speijkstraat",
-    "title": "Studio Van Speijkstraat",
-    "price": 650.0,
-    "size": 30,
-    "rooms": 1,
-    "location": "2518 GC Den Haag (Zeeheldenkwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/d0a931ff-36e7-533a-94c0-8b7c4c3577c7/e3c878dc641e9bf2cb1c247e7dbe30ed.jpg?width=600&auto=webp",
-    "agency": "Immovita",
-    "first_seen": "2025-05-11T06:17:24.867577",
-    "last_updated": "2025-05-11T08:15:41.315579"
-  },
-  {
     "id": "galileistraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/2bc3e458/galileistraat",
     "title": "Flat Galile\u00efstraat 148 achterzijde",
@@ -502,6 +488,20 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
+  },
+  {
+    "id": "van-speijkstraat",
+    "url": "https://www.pararius.com/studio-for-rent/den-haag/d0a931ff/van-speijkstraat",
+    "title": "Studio Van Speijkstraat",
+    "price": 650.0,
+    "size": 30,
+    "rooms": 1,
+    "location": "2518 GC Den Haag (Zeeheldenkwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/d0a931ff-36e7-533a-94c0-8b7c4c3577c7/e3c878dc641e9bf2cb1c247e7dbe30ed.jpg?width=600&auto=webp",
+    "agency": "Immovita",
+    "first_seen": "2025-05-11T06:17:24.867577",
+    "last_updated": "2025-05-11T08:15:41.315579"
   },
   {
     "id": "keizerstraat",
