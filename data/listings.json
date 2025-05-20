@@ -280,20 +280,6 @@
     "last_updated": "2025-05-05T01:05:28.512479"
   },
   {
-    "id": "koningin-emmakade",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/9361b537/koningin-emmakade",
-    "title": "Flat Koningin Emmakade",
-    "price": 744.0,
-    "size": 50,
-    "rooms": 2,
-    "location": "2518 JM Den Haag (Sweelinckplein en omgeving)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9361b537-8cd1-5967-91ad-20aaf36a335d/36ee433b801521f9baca95f942fa1375.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-05-20T11:11:43.733581",
-    "last_updated": "2025-05-20T16:16:37.458119"
-  },
-  {
     "id": "paul-krugerlaan",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/2eaf1ae5/paul-krugerlaan",
     "title": "Flat Paul Krugerlaan",
@@ -544,6 +530,20 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
+  },
+  {
+    "id": "koningin-emmakade",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/9361b537/koningin-emmakade",
+    "title": "Flat Koningin Emmakade",
+    "price": 744.0,
+    "size": 50,
+    "rooms": 2,
+    "location": "2518 JM Den Haag (Sweelinckplein en omgeving)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9361b537-8cd1-5967-91ad-20aaf36a335d/36ee433b801521f9baca95f942fa1375.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-05-20T11:11:43.733581",
+    "last_updated": "2025-05-20T16:16:37.458119"
   },
   {
     "id": "vliegwielstraat",
