@@ -280,6 +280,34 @@
     "last_updated": "2025-05-05T01:05:28.512479"
   },
   {
+    "id": "koningin-emmakade",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/d5f13c66/koningin-emmakade",
+    "title": "Flat Koningin Emmakade",
+    "price": 605.0,
+    "size": 44,
+    "rooms": 2,
+    "location": "2518 JM Den Haag (Sweelinckplein en omgeving)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/d5f13c66-8897-5930-8a9b-9da0a77cae73/d0230f4818adda934902c098bc6c9905.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-05-20T11:11:43.733581",
+    "last_updated": "2025-05-20T11:11:43.733588"
+  },
+  {
+    "id": "vliegwielstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/fe0332a0/vliegwielstraat",
+    "title": "Flat Vliegwielstraat",
+    "price": 973.0,
+    "size": 10,
+    "rooms": 2,
+    "location": "2516 XC Den Haag (Noordpolderbuurt)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/fe0332a0-e0af-50ea-bb20-1a5b0b3fcd64/30c6e2e9db6eedcb2354712ab6652a3e.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-05-20T11:11:43.735089",
+    "last_updated": "2025-05-20T11:11:43.735092"
+  },
+  {
     "id": "weteringkade",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/cbfad2f2/weteringkade",
     "title": "Flat Weteringkade",
