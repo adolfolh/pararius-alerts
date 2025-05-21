@@ -1,5 +1,19 @@
 [
   {
+    "id": "kortgenestraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/932a4f4c/kortgenestraat",
+    "title": "Flat Kortgenestraat",
+    "price": 880.0,
+    "size": 62,
+    "rooms": 2,
+    "location": "3086 JD Rotterdam (Pendrecht)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/932a4f4c-a13f-5365-b200-762698fe284e/f1a5107c9ce4fe9a9b5e16f8045c77ba.jpg?width=600&auto=webp",
+    "agency": "Rent an Apartment",
+    "first_seen": "2025-05-21T15:14:41.313144",
+    "last_updated": "2025-05-21T15:14:41.313152"
+  },
+  {
     "id": "wevershoekstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/d7f7ee1a/wevershoekstraat",
     "title": "Flat Wevershoekstraat",
@@ -266,20 +280,6 @@
     "last_updated": "2025-05-05T01:05:28.512479"
   },
   {
-    "id": "valkenboslaan",
-    "url": "https://www.pararius.com/studio-for-rent/den-haag/f6892729/valkenboslaan",
-    "title": "Studio Valkenboslaan",
-    "price": 998.0,
-    "size": 22,
-    "rooms": 2,
-    "location": "2563 CE Den Haag (Valkenboskwartier)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f6892729-861b-5657-9d14-836e12167bb9/2fd07f40f173d924911c7e9728c4417b.jpg?width=600&auto=webp",
-    "agency": "Homey Housing",
-    "first_seen": "2025-05-20T12:27:08.899326",
-    "last_updated": "2025-05-20T12:27:08.899328"
-  },
-  {
     "id": "daguerrestraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/6189e668/daguerrestraat",
     "title": "Flat Daguerrestraat",
@@ -488,6 +488,20 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
+  },
+  {
+    "id": "valkenboslaan",
+    "url": "https://www.pararius.com/studio-for-rent/den-haag/f6892729/valkenboslaan",
+    "title": "Studio Valkenboslaan",
+    "price": 998.0,
+    "size": 22,
+    "rooms": 2,
+    "location": "2563 CE Den Haag (Valkenboskwartier)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f6892729-861b-5657-9d14-836e12167bb9/2fd07f40f173d924911c7e9728c4417b.jpg?width=600&auto=webp",
+    "agency": "Homey Housing",
+    "first_seen": "2025-05-20T12:27:08.899326",
+    "last_updated": "2025-05-20T12:27:08.899328"
   },
   {
     "id": "apeldoornselaan",
