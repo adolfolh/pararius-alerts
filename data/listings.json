@@ -1,5 +1,19 @@
 [
   {
+    "id": "rijsoordstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/9e9cf4ef/rijsoordstraat",
+    "title": "Flat Rijsoordstraat",
+    "price": 760.0,
+    "size": 49,
+    "rooms": 2,
+    "location": "3081 BW Rotterdam (Tarwewijk)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9e9cf4ef-9226-5196-9b70-a103ed1f1143/c5055d1a1d56fa4f27f9806dc97e6488.jpg?width=600&auto=webp",
+    "agency": "Rent an Apartment",
+    "first_seen": "2025-05-21T20:14:30.224608",
+    "last_updated": "2025-05-21T20:14:30.224615"
+  },
+  {
     "id": "kortgenestraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/932a4f4c/kortgenestraat",
     "title": "Flat Kortgenestraat",
