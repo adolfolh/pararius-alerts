@@ -98,20 +98,6 @@
     "last_updated": "2025-05-12T14:13:58.451081"
   },
   {
-    "id": "waterloostraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a4bd0abd/waterloostraat",
-    "title": "Flat Waterloostraat",
-    "price": 899.0,
-    "size": 13,
-    "rooms": 1,
-    "location": "3062 TS Rotterdam (Kralingen Oost)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a4bd0abd-4d2a-552b-9c43-1ac634e7a09e/7f6b1fa303054192e5362e4f650ef1ee.jpg?width=600&auto=webp",
-    "agency": "Rotterdam Apartments",
-    "first_seen": "2025-05-12T13:27:09.526461",
-    "last_updated": "2025-05-12T13:27:09.526467"
-  },
-  {
     "id": "meekrapstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/00cccf8b/meekrapstraat",
     "title": "Flat Meekrapstraat 41 A",
@@ -248,8 +234,8 @@
     "interior": "Furnished",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/587caacf-b282-5c76-bc65-8745aa2a0ee6/ac7ab9e50e8de81308854435cbff8465.jpg?width=600&auto=webp",
     "agency": "Properbee",
-    "first_seen": "2025-04-21T18:17:28.615147",
-    "last_updated": "2025-04-21T18:17:28.615154"
+    "first_seen": "2025-05-21T18:18:49.005912",
+    "last_updated": "2025-05-21T18:18:49.005914"
   },
   {
     "id": "ruigenhoek",
@@ -488,6 +474,20 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
+  },
+  {
+    "id": "waterloostraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a4bd0abd/waterloostraat",
+    "title": "Flat Waterloostraat",
+    "price": 899.0,
+    "size": 13,
+    "rooms": 1,
+    "location": "3062 TS Rotterdam (Kralingen Oost)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a4bd0abd-4d2a-552b-9c43-1ac634e7a09e/7f6b1fa303054192e5362e4f650ef1ee.jpg?width=600&auto=webp",
+    "agency": "Rotterdam Apartments",
+    "first_seen": "2025-05-12T13:27:09.526461",
+    "last_updated": "2025-05-12T13:27:09.526467"
   },
   {
     "id": "valkenboslaan",
