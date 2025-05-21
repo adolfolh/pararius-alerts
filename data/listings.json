@@ -266,6 +266,34 @@
     "last_updated": "2025-05-05T01:05:28.512479"
   },
   {
+    "id": "apeldoornselaan",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/24c8773e/apeldoornselaan",
+    "title": "Flat Apeldoornselaan",
+    "price": 825.0,
+    "size": 60,
+    "rooms": 2,
+    "location": "2573 LZ Den Haag (Oostbroek-Zuid)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/24c8773e-5771-524d-ac87-5458830bbf62/e893a25af80b988985674061edf8c13d.jpg?width=600&auto=webp",
+    "agency": "Karens Real Estate",
+    "first_seen": "2025-05-21T13:26:38.619272",
+    "last_updated": "2025-05-21T13:26:38.619279"
+  },
+  {
+    "id": "pasteurstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/fd03257c/pasteurstraat",
+    "title": "Flat Pasteurstraat",
+    "price": 973.0,
+    "size": 45,
+    "rooms": 3,
+    "location": "2522 RS Den Haag (Noordpolderbuurt)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/fd03257c-f918-5165-9039-3a3078527289/1d0fbdb11eb802f9ce097b10c9a82499.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-05-21T13:26:38.620765",
+    "last_updated": "2025-05-21T13:26:38.620768"
+  },
+  {
     "id": "paul-krugerlaan",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/2eaf1ae5/paul-krugerlaan",
     "title": "Flat Paul Krugerlaan",
@@ -448,20 +476,6 @@
     "last_updated": "2025-05-05T01:05:34.062492"
   },
   {
-    "id": "suezkade",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/0d5f3406/suezkade",
-    "title": "Flat Suezkade",
-    "price": 975.0,
-    "size": 69,
-    "rooms": 2,
-    "location": "2517 CC Den Haag (Sweelinckplein en omgeving)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0d5f3406-c499-5675-b31e-699d6ae273b0/82dc153745f0056cfd5c8c2ca1ab7148.jpg?width=600&auto=webp",
-    "agency": "HouseConnect",
-    "first_seen": "2025-05-05T01:05:34.074451",
-    "last_updated": "2025-05-05T01:05:34.074453"
-  },
-  {
     "id": "mallemolen",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/af3730f1/mallemolen",
     "title": "Flat Mallemolen",
@@ -516,6 +530,20 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
+  },
+  {
+    "id": "suezkade",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/0d5f3406/suezkade",
+    "title": "Flat Suezkade",
+    "price": 975.0,
+    "size": 69,
+    "rooms": 2,
+    "location": "2517 CC Den Haag (Sweelinckplein en omgeving)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0d5f3406-c499-5675-b31e-699d6ae273b0/82dc153745f0056cfd5c8c2ca1ab7148.jpg?width=600&auto=webp",
+    "agency": "HouseConnect",
+    "first_seen": "2025-05-05T01:05:34.074451",
+    "last_updated": "2025-05-05T01:05:34.074453"
   },
   {
     "id": "wolphaertsbocht",

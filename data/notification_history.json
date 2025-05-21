@@ -943,5 +943,15 @@
     "updated_listing_ids": [
       "koningin-emmakade"
     ]
+  },
+  {
+    "timestamp": "2025-05-21T13:26:39.089875",
+    "new_listings_count": 2,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "apeldoornselaan",
+      "pasteurstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
