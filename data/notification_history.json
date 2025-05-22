@@ -989,5 +989,14 @@
       "strevelsweg"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-05-22T11:11:59.748363",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "hooidrift"
+    ],
+    "updated_listing_ids": []
   }
 ]

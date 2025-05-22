@@ -1,5 +1,19 @@
 [
   {
+    "id": "hooidrift",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/be97c3f3/hooidrift",
+    "title": "Flat Hooidrift 15 C",
+    "price": 665.0,
+    "size": 36,
+    "rooms": 2,
+    "location": "3023 KG Rotterdam (Nieuwe Westen)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/be97c3f3-d8ce-59fc-bdba-5e1674e001b8/461fb8e5357b79d20b6bab512c3a1340.jpg?width=600&auto=webp",
+    "agency": "Properbee",
+    "first_seen": "2025-05-22T11:11:53.333386",
+    "last_updated": "2025-05-22T11:11:53.333394"
+  },
+  {
     "id": "wevershoekstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/d7f7ee1a/wevershoekstraat",
     "title": "Flat Wevershoekstraat",
