@@ -1,33 +1,5 @@
 [
   {
-    "id": "rijsoordstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/9e9cf4ef/rijsoordstraat",
-    "title": "Flat Rijsoordstraat",
-    "price": 760.0,
-    "size": 49,
-    "rooms": 2,
-    "location": "3081 BW Rotterdam (Tarwewijk)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9e9cf4ef-9226-5196-9b70-a103ed1f1143/c5055d1a1d56fa4f27f9806dc97e6488.jpg?width=600&auto=webp",
-    "agency": "Rent an Apartment",
-    "first_seen": "2025-05-21T20:14:30.224608",
-    "last_updated": "2025-05-21T20:14:30.224615"
-  },
-  {
-    "id": "kortgenestraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/932a4f4c/kortgenestraat",
-    "title": "Flat Kortgenestraat",
-    "price": 880.0,
-    "size": 62,
-    "rooms": 2,
-    "location": "3086 JD Rotterdam (Pendrecht)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/932a4f4c-a13f-5365-b200-762698fe284e/f1a5107c9ce4fe9a9b5e16f8045c77ba.jpg?width=600&auto=webp",
-    "agency": "Rent an Apartment",
-    "first_seen": "2025-05-21T15:14:41.313144",
-    "last_updated": "2025-05-21T15:14:41.313152"
-  },
-  {
     "id": "wevershoekstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/d7f7ee1a/wevershoekstraat",
     "title": "Flat Wevershoekstraat",
@@ -54,20 +26,6 @@
     "agency": "Perfect Rent",
     "first_seen": "2025-05-19T17:12:00.189446",
     "last_updated": "2025-05-19T17:12:00.189454"
-  },
-  {
-    "id": "hoogstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/d7cd9504/hoogstraat",
-    "title": "Flat Hoogstraat",
-    "price": 995.0,
-    "size": 60,
-    "rooms": 2,
-    "location": "3011 PG Rotterdam (Stadsdriehoek)",
-    "interior": "Upholstered or furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/d7cd9504-d250-5095-9055-9a29b5bda6b8/9a23c3e6f42a211b6e2064016ce6e8a5.jpg?width=600&auto=webp",
-    "agency": "Rent an Apartment",
-    "first_seen": "2025-05-14T09:14:02.549773",
-    "last_updated": "2025-05-14T09:14:02.549780"
   },
   {
     "id": "salvador-allendestraat",
@@ -488,6 +446,48 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
+  },
+  {
+    "id": "rijsoordstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/9e9cf4ef/rijsoordstraat",
+    "title": "Flat Rijsoordstraat",
+    "price": 760.0,
+    "size": 49,
+    "rooms": 2,
+    "location": "3081 BW Rotterdam (Tarwewijk)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9e9cf4ef-9226-5196-9b70-a103ed1f1143/c5055d1a1d56fa4f27f9806dc97e6488.jpg?width=600&auto=webp",
+    "agency": "Rent an Apartment",
+    "first_seen": "2025-05-21T20:14:30.224608",
+    "last_updated": "2025-05-21T20:14:30.224615"
+  },
+  {
+    "id": "kortgenestraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/932a4f4c/kortgenestraat",
+    "title": "Flat Kortgenestraat",
+    "price": 880.0,
+    "size": 62,
+    "rooms": 2,
+    "location": "3086 JD Rotterdam (Pendrecht)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/932a4f4c-a13f-5365-b200-762698fe284e/f1a5107c9ce4fe9a9b5e16f8045c77ba.jpg?width=600&auto=webp",
+    "agency": "Rent an Apartment",
+    "first_seen": "2025-05-21T15:14:41.313144",
+    "last_updated": "2025-05-21T15:14:41.313152"
+  },
+  {
+    "id": "hoogstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/d7cd9504/hoogstraat",
+    "title": "Flat Hoogstraat",
+    "price": 995.0,
+    "size": 60,
+    "rooms": 2,
+    "location": "3011 PG Rotterdam (Stadsdriehoek)",
+    "interior": "Upholstered or furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/d7cd9504-d250-5095-9055-9a29b5bda6b8/9a23c3e6f42a211b6e2064016ce6e8a5.jpg?width=600&auto=webp",
+    "agency": "Rent an Apartment",
+    "first_seen": "2025-05-14T09:14:02.549773",
+    "last_updated": "2025-05-14T09:14:02.549780"
   },
   {
     "id": "waterloostraat",
