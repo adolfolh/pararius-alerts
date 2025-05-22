@@ -252,6 +252,20 @@
     "last_updated": "2025-05-05T01:05:28.512479"
   },
   {
+    "id": "lutherse-burgwal",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/823764c6/lutherse-burgwal",
+    "title": "Flat Lutherse Burgwal 11 D",
+    "price": 905.0,
+    "size": 45,
+    "rooms": 3,
+    "location": "2512 CB Den Haag (Zuidwal)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/823764c6-3dee-5966-b462-ad02cf78393f/f3545d1f5647b819e2e5868d40ae7938.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-05-22T15:14:18.445174",
+    "last_updated": "2025-05-22T15:14:18.445181"
+  },
+  {
     "id": "daguerrestraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/6189e668/daguerrestraat",
     "title": "Flat Daguerrestraat",
@@ -1132,19 +1146,5 @@
     "agency": "Rotterdam Apartments",
     "first_seen": "2025-04-28T14:14:01.564437",
     "last_updated": "2025-04-28T14:14:01.564443"
-  },
-  {
-    "id": "ranonkelstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/d23a8b18/ranonkelstraat",
-    "title": "Flat Ranonkelstraat 35 E",
-    "price": 880.0,
-    "size": 65,
-    "rooms": 3,
-    "location": "3073 ER Rotterdam (Bloemhof)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/d23a8b18-bd50-524a-b7e4-709ee21f7773/4215f51eada0422493b46f727bee880f.jpg?width=600&auto=webp",
-    "agency": "Kolpa V.V.S. Beheer",
-    "first_seen": "2025-04-22T15:13:33.175937",
-    "last_updated": "2025-04-22T15:13:33.175944"
   }
 ]
