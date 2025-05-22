@@ -998,5 +998,15 @@
       "hooidrift"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-05-22T12:27:04.827467",
+    "new_listings_count": 2,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "putsebocht",
+      "monstersestraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
