@@ -266,20 +266,6 @@
     "last_updated": "2025-05-05T01:05:28.512479"
   },
   {
-    "id": "gevers-deynootweg",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/a6bcdf40/gevers-deynootweg",
-    "title": "Flat Gevers Deynootweg 1200",
-    "price": 300.0,
-    "size": 18,
-    "rooms": 1,
-    "location": "2586 HN Den Haag (Belgisch Park)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a6bcdf40-e59e-5843-a8e8-1bcd15663490/777542f1398f0a95c681c6cbfb46820d.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-05-22T16:16:50.562974",
-    "last_updated": "2025-05-22T16:16:50.562980"
-  },
-  {
     "id": "lutherse-burgwal",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/823764c6/lutherse-burgwal",
     "title": "Flat Lutherse Burgwal 11 D",
@@ -488,6 +474,20 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
+  },
+  {
+    "id": "gevers-deynootweg",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/a6bcdf40/gevers-deynootweg",
+    "title": "Flat Gevers Deynootweg 1200",
+    "price": 300.0,
+    "size": 18,
+    "rooms": 1,
+    "location": "2586 HN Den Haag (Belgisch Park)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a6bcdf40-e59e-5843-a8e8-1bcd15663490/777542f1398f0a95c681c6cbfb46820d.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-05-22T16:16:50.562974",
+    "last_updated": "2025-05-22T16:16:50.562980"
   },
   {
     "id": "marconistraat",
