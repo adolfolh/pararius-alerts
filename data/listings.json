@@ -266,20 +266,6 @@
     "last_updated": "2025-05-05T01:05:28.512479"
   },
   {
-    "id": "van-galenstraat",
-    "url": "https://www.pararius.com/studio-for-rent/den-haag/a140d97b/van-galenstraat",
-    "title": "Studio Van Galenstraat",
-    "price": 866.0,
-    "size": 15,
-    "rooms": 2,
-    "location": "2518 EN Den Haag (Zeeheldenkwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a140d97b-f388-5829-9d70-53d5b9acd3d3/31bccd97705e3f96e944d3528519e049.jpg?width=600&auto=webp",
-    "agency": "Homey Housing",
-    "first_seen": "2025-05-23T15:13:41.177366",
-    "last_updated": "2025-05-23T15:13:41.177373"
-  },
-  {
     "id": "noorderbeekdwarsstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/1f845740/noorderbeekdwarsstraat",
     "title": "Flat Noorderbeekdwarsstraat 3",
@@ -337,17 +323,17 @@
   },
   {
     "id": "regentesselaan",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/8c14ff0a/regentesselaan",
-    "title": "Flat Regentesselaan 95",
-    "price": 996.0,
-    "size": 98,
-    "rooms": 3,
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/0c152340/regentesselaan",
+    "title": "Flat Regentesselaan 93 B",
+    "price": 613.0,
+    "size": 34,
+    "rooms": 2,
     "location": "2562 CR Den Haag (Koningsplein en omgeving)",
     "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/8c14ff0a-887b-52bb-ad2b-b4453a63b050/9addcafae6e5572271ca976e2ae600c7.jpg?width=600&auto=webp",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0c152340-a66a-585e-99e8-eb7ff35a4994/ea2417bc7c571d63fcd3d11b1a848351.jpg?width=600&auto=webp",
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-05-12T10:15:18.416417",
-    "last_updated": "2025-05-12T10:15:18.416423"
+    "last_updated": "2025-05-23T16:15:52.228556"
   },
   {
     "id": "prins-hendrikstraat",
@@ -502,6 +488,20 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
+  },
+  {
+    "id": "van-galenstraat",
+    "url": "https://www.pararius.com/studio-for-rent/den-haag/a140d97b/van-galenstraat",
+    "title": "Studio Van Galenstraat",
+    "price": 866.0,
+    "size": 15,
+    "rooms": 2,
+    "location": "2518 EN Den Haag (Zeeheldenkwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a140d97b-f388-5829-9d70-53d5b9acd3d3/31bccd97705e3f96e944d3528519e049.jpg?width=600&auto=webp",
+    "agency": "Homey Housing",
+    "first_seen": "2025-05-23T15:13:41.177366",
+    "last_updated": "2025-05-23T15:13:41.177373"
   },
   {
     "id": "gevers-deynootweg",
