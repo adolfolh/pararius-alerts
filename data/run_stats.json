@@ -1,15 +1,5 @@
 [
   {
-    "timestamp": "2025-05-20T04:16:56.356080",
-    "success": true,
-    "new_listings_count": 0,
-    "updated_listings_count": 0,
-    "total_listings_count": 72,
-    "notification_sent": false,
-    "errors": [],
-    "duration_seconds": 11.859123
-  },
-  {
     "timestamp": "2025-05-20T05:13:36.148296",
     "success": true,
     "new_listings_count": 0,
@@ -998,5 +988,15 @@
     "notification_sent": false,
     "errors": [],
     "duration_seconds": 11.532398
+  },
+  {
+    "timestamp": "2025-05-24T16:14:05.647597",
+    "success": true,
+    "new_listings_count": 0,
+    "updated_listings_count": 0,
+    "total_listings_count": 82,
+    "notification_sent": false,
+    "errors": [],
+    "duration_seconds": 12.341053
   }
 ]
