@@ -294,6 +294,20 @@
     "last_updated": "2025-05-26T11:10:51.868333"
   },
   {
+    "id": "van-galenstraat",
+    "url": "https://www.pararius.com/studio-for-rent/den-haag/a140d97b/van-galenstraat",
+    "title": "Studio Van Galenstraat",
+    "price": 866.0,
+    "size": 15,
+    "rooms": 2,
+    "location": "2518 EN Den Haag (Zeeheldenkwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a140d97b-f388-5829-9d70-53d5b9acd3d3/31bccd97705e3f96e944d3528519e049.jpg?width=600&auto=webp",
+    "agency": "Homey Housing",
+    "first_seen": "2025-05-23T15:13:41.177366",
+    "last_updated": "2025-05-23T15:13:41.177373"
+  },
+  {
     "id": "noorderbeekdwarsstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/1f845740/noorderbeekdwarsstraat",
     "title": "Flat Noorderbeekdwarsstraat 3",
@@ -381,7 +395,7 @@
     "id": "amsterdamsestraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/5068ee47/amsterdamsestraat",
     "title": "Flat Amsterdamsestraat 44 C",
-    "price": 830.0,
+    "price": 856.0,
     "size": 67,
     "rooms": 3,
     "location": "2587 CR Den Haag (Belgisch Park)",
@@ -389,7 +403,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/5068ee47-2d5c-5ce2-bd2a-55a023e0e728/edbbe45565101c68922922f84448a0b9.jpg?width=600&auto=webp",
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-05-12T09:15:18.413793",
-    "last_updated": "2025-05-12T09:15:18.413800"
+    "last_updated": "2025-05-26T14:13:24.991640"
   },
   {
     "id": "harstenhoekweg",
@@ -516,20 +530,6 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-05-09T16:15:53.899466",
     "last_updated": "2025-05-09T16:15:53.899469"
-  },
-  {
-    "id": "van-galenstraat",
-    "url": "https://www.pararius.com/studio-for-rent/den-haag/a140d97b/van-galenstraat",
-    "title": "Studio Van Galenstraat",
-    "price": 866.0,
-    "size": 15,
-    "rooms": 2,
-    "location": "2518 EN Den Haag (Zeeheldenkwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a140d97b-f388-5829-9d70-53d5b9acd3d3/31bccd97705e3f96e944d3528519e049.jpg?width=600&auto=webp",
-    "agency": "Homey Housing",
-    "first_seen": "2025-05-23T15:13:41.177366",
-    "last_updated": "2025-05-23T15:13:41.177373"
   },
   {
     "id": "gevers-deynootweg",

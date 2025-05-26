@@ -1072,5 +1072,14 @@
     "updated_listing_ids": [
       "paul-krugerlaan"
     ]
+  },
+  {
+    "timestamp": "2025-05-26T14:13:25.448702",
+    "new_listings_count": 0,
+    "updated_listings_count": 1,
+    "new_listing_ids": [],
+    "updated_listing_ids": [
+      "amsterdamsestraat"
+    ]
   }
 ]
