@@ -1,5 +1,19 @@
 [
   {
+    "id": "schieweg",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a6f9c81d/schieweg",
+    "title": "Flat Schieweg",
+    "price": 925.0,
+    "size": 25,
+    "rooms": 1,
+    "location": "3038 AE Rotterdam (Bergpolder)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a6f9c81d-5c27-5cba-b6ae-2d83f2c7fcdc/388e2ff442f5b8e948e31c81bcfb2fac.jpg?width=600&auto=webp",
+    "agency": "Rotterdam Apartments",
+    "first_seen": "2025-05-26T15:13:43.004961",
+    "last_updated": "2025-05-26T15:13:43.004967"
+  },
+  {
     "id": "leeuwenstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/33bea6f3/leeuwenstraat",
     "title": "Flat Leeuwenstraat",
@@ -280,6 +294,20 @@
     "last_updated": "2025-05-05T01:05:28.512479"
   },
   {
+    "id": "bazarstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/c8d001f8/bazarstraat",
+    "title": "Flat Bazarstraat",
+    "price": 975.0,
+    "size": 33,
+    "rooms": 2,
+    "location": "2518 AE Den Haag (Zeeheldenkwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/c8d001f8-4bc7-5135-9b33-128531952505/c6b07fd9495b8c30a8a2534c572203ad.jpg?width=600&auto=webp",
+    "agency": "Rent Valley",
+    "first_seen": "2025-05-26T15:13:48.838839",
+    "last_updated": "2025-05-26T15:13:48.838845"
+  },
+  {
     "id": "paul-krugerlaan",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/80f88b19/paul-krugerlaan",
     "title": "Flat Paul Krugerlaan 141 C",
@@ -292,20 +320,6 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-05-20T12:27:08.897841",
     "last_updated": "2025-05-26T11:10:51.868333"
-  },
-  {
-    "id": "van-galenstraat",
-    "url": "https://www.pararius.com/studio-for-rent/den-haag/a140d97b/van-galenstraat",
-    "title": "Studio Van Galenstraat",
-    "price": 866.0,
-    "size": 15,
-    "rooms": 2,
-    "location": "2518 EN Den Haag (Zeeheldenkwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a140d97b-f388-5829-9d70-53d5b9acd3d3/31bccd97705e3f96e944d3528519e049.jpg?width=600&auto=webp",
-    "agency": "Homey Housing",
-    "first_seen": "2025-05-23T15:13:41.177366",
-    "last_updated": "2025-05-23T15:13:41.177373"
   },
   {
     "id": "noorderbeekdwarsstraat",
@@ -516,6 +530,20 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
+  },
+  {
+    "id": "van-galenstraat",
+    "url": "https://www.pararius.com/studio-for-rent/den-haag/a140d97b/van-galenstraat",
+    "title": "Studio Van Galenstraat",
+    "price": 866.0,
+    "size": 15,
+    "rooms": 2,
+    "location": "2518 EN Den Haag (Zeeheldenkwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a140d97b-f388-5829-9d70-53d5b9acd3d3/31bccd97705e3f96e944d3528519e049.jpg?width=600&auto=webp",
+    "agency": "Homey Housing",
+    "first_seen": "2025-05-23T15:13:41.177366",
+    "last_updated": "2025-05-23T15:13:41.177373"
   },
   {
     "id": "galileistraat",

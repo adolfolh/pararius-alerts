@@ -1081,5 +1081,15 @@
     "updated_listing_ids": [
       "amsterdamsestraat"
     ]
+  },
+  {
+    "timestamp": "2025-05-26T15:13:49.346519",
+    "new_listings_count": 2,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "schieweg",
+      "bazarstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
