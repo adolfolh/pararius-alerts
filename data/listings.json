@@ -280,6 +280,20 @@
     "last_updated": "2025-05-05T01:05:28.512479"
   },
   {
+    "id": "paul-krugerlaan",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/80f88b19/paul-krugerlaan",
+    "title": "Flat Paul Krugerlaan 141 C",
+    "price": 837.0,
+    "size": 24,
+    "rooms": 2,
+    "location": "2571 HD Den Haag (Transvaalkwartier-Noord)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/80f88b19-b6d4-52a5-9e60-d08de885b2f5/78554154b4988ef4bd7f9e9d498d82e8.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-05-20T12:27:08.897841",
+    "last_updated": "2025-05-26T11:10:51.868333"
+  },
+  {
     "id": "noorderbeekdwarsstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/1f845740/noorderbeekdwarsstraat",
     "title": "Flat Noorderbeekdwarsstraat 3",
@@ -670,20 +684,6 @@
     "agency": "NRW Wonen",
     "first_seen": "2025-05-21T13:26:38.620765",
     "last_updated": "2025-05-21T13:26:38.620768"
-  },
-  {
-    "id": "paul-krugerlaan",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/2eaf1ae5/paul-krugerlaan",
-    "title": "Flat Paul Krugerlaan",
-    "price": 975.0,
-    "size": 44,
-    "rooms": 2,
-    "location": "2571 HR Den Haag (Transvaalkwartier-Midden)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2eaf1ae5-9856-506c-a82c-c1b9c11d8f15/ae7fba5d1f56ae89f10f8a43f8d7b921.jpg?width=600&auto=webp",
-    "agency": "Homey Housing",
-    "first_seen": "2025-05-20T12:27:08.897841",
-    "last_updated": "2025-05-20T12:27:08.897847"
   },
   {
     "id": "suezkade",
