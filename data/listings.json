@@ -420,20 +420,6 @@
     "last_updated": "2025-05-27T11:11:57.103525"
   },
   {
-    "id": "vreeswijkstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/2a3430fd/vreeswijkstraat",
-    "title": "Flat Vreeswijkstraat",
-    "price": 995.0,
-    "size": 83,
-    "rooms": 4,
-    "location": "2546 AW Den Haag (Leyenburg)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2a3430fd-d3f7-5258-858b-002fe6ba85c7/4b6ff8b68666e504fd8fa25b347f027c.jpg?width=600&auto=webp",
-    "agency": "Immovita",
-    "first_seen": "2025-05-09T10:13:55.164687",
-    "last_updated": "2025-05-09T10:13:55.164691"
-  },
-  {
     "id": "waldorpstraat",
     "url": "https://www.pararius.com/house-for-rent/den-haag/e15d8e79/waldorpstraat",
     "title": "House Waldorpstraat 892",
@@ -516,6 +502,20 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
+  },
+  {
+    "id": "vreeswijkstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/2a3430fd/vreeswijkstraat",
+    "title": "Flat Vreeswijkstraat",
+    "price": 995.0,
+    "size": 83,
+    "rooms": 4,
+    "location": "2546 AW Den Haag (Leyenburg)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2a3430fd-d3f7-5258-858b-002fe6ba85c7/4b6ff8b68666e504fd8fa25b347f027c.jpg?width=600&auto=webp",
+    "agency": "Immovita",
+    "first_seen": "2025-05-09T10:13:55.164687",
+    "last_updated": "2025-05-09T10:13:55.164691"
   },
   {
     "id": "salvador-allendestraat",
