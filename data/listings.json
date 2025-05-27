@@ -98,20 +98,6 @@
     "last_updated": "2025-05-19T17:12:00.189454"
   },
   {
-    "id": "salvador-allendestraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f26dbe82/salvador-allendestraat",
-    "title": "Flat Salvador Allendestraat",
-    "price": 851.0,
-    "size": 10,
-    "rooms": 1,
-    "location": "3065 ED Rotterdam ('s-Gravenland)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f26dbe82-c580-57af-9179-8fbb32ff687c/c447884496b15289d8df4a1b8e7212fa.jpg?width=600&auto=webp",
-    "agency": "Rotterdam Apartments",
-    "first_seen": "2025-05-15T12:25:58.364904",
-    "last_updated": "2025-05-15T12:25:58.364907"
-  },
-  {
     "id": "jonker-fransstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/b3027efc/jonker-fransstraat",
     "title": "Flat Jonker Fransstraat",
@@ -423,7 +409,7 @@
     "id": "harstenhoekweg",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/6cf976eb/harstenhoekweg",
     "title": "Flat Harstenhoekweg 63 A",
-    "price": 949.0,
+    "price": 964.0,
     "size": 39,
     "rooms": 2,
     "location": "2587 SE Den Haag (Belgisch Park)",
@@ -431,7 +417,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/6cf976eb-43c8-5380-b349-6cfb772bf205/4f8c3869ea3a6baaf81a65e9e7154fa1.jpg?width=600&auto=webp",
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-05-09T15:13:32.558567",
-    "last_updated": "2025-05-09T15:13:32.558570"
+    "last_updated": "2025-05-27T11:11:57.103525"
   },
   {
     "id": "vreeswijkstraat",
@@ -530,6 +516,20 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
+  },
+  {
+    "id": "salvador-allendestraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f26dbe82/salvador-allendestraat",
+    "title": "Flat Salvador Allendestraat",
+    "price": 851.0,
+    "size": 10,
+    "rooms": 1,
+    "location": "3065 ED Rotterdam ('s-Gravenland)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f26dbe82-c580-57af-9179-8fbb32ff687c/c447884496b15289d8df4a1b8e7212fa.jpg?width=600&auto=webp",
+    "agency": "Rotterdam Apartments",
+    "first_seen": "2025-05-15T12:25:58.364904",
+    "last_updated": "2025-05-15T12:25:58.364907"
   },
   {
     "id": "van-galenstraat",
