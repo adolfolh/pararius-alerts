@@ -71,17 +71,17 @@
   },
   {
     "id": "wevershoekstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/d7f7ee1a/wevershoekstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/dedc357f/wevershoekstraat",
     "title": "Flat Wevershoekstraat",
-    "price": 800.0,
-    "size": 55,
+    "price": 851.0,
+    "size": 54,
     "rooms": 2,
-    "location": "3081 PB Rotterdam (Zuidplein)",
+    "location": "3081 PC Rotterdam (Zuidplein)",
     "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/d7f7ee1a-999c-50ac-9b1b-fba4d943c3a3/f7a5216f6d1b63fc6ae3b04f8dc52253.jpg?width=600&auto=webp",
-    "agency": "realestate.nl",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/dedc357f-1ea3-5ce9-9e0d-2ee941ea6a54/1938de87eb9d8a0b429e93de104c4f90.jpg?width=600&auto=webp",
+    "agency": "Properbee",
     "first_seen": "2025-05-05T01:05:28.513961",
-    "last_updated": "2025-05-20T08:18:48.419073"
+    "last_updated": "2025-05-28T12:27:10.426760"
   },
   {
     "id": "beijerlandselaan",
@@ -348,6 +348,20 @@
     "agency": "Immovita",
     "first_seen": "2025-05-08T11:11:31.040663",
     "last_updated": "2025-05-20T12:27:08.957561"
+  },
+  {
+    "id": "1e-van-der-kunstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/41413c75/1e-van-der-kunstraat",
+    "title": "Flat 1e Van der Kunstraat",
+    "price": 1044.0,
+    "size": 43,
+    "rooms": 2,
+    "location": "2521 AS Den Haag (Laakhaven-West)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/41413c75-9c37-5996-9834-e703de97ecd8/fad63fbd8b2de296711738de904016c9.jpg?width=600&auto=webp",
+    "agency": "Rent Valley",
+    "first_seen": "2025-05-05T01:05:34.081719",
+    "last_updated": "2025-05-28T12:27:10.426838"
   },
   {
     "id": "weteringkade",
@@ -1090,20 +1104,6 @@
     "agency": "Homey Housing",
     "first_seen": "2025-05-06T14:13:19.202632",
     "last_updated": "2025-05-06T14:13:19.202639"
-  },
-  {
-    "id": "1e-van-der-kunstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/fe51958b/1e-van-der-kunstraat",
-    "title": "Flat 1e Van der Kunstraat",
-    "price": 990.0,
-    "size": 28,
-    "rooms": 2,
-    "location": "2521 AS Den Haag (Laakhaven-West)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/fe51958b-247e-5b5f-87a1-7211901d618a/dea0a4e26d6cb635a0e4d46af63f7ad2.jpg?width=600&auto=webp",
-    "agency": "Rent Valley",
-    "first_seen": "2025-05-05T01:05:34.081719",
-    "last_updated": "2025-05-05T01:05:34.081721"
   },
   {
     "id": "nieuwe-binnenweg",

@@ -1100,5 +1100,15 @@
     "updated_listing_ids": [
       "harstenhoekweg"
     ]
+  },
+  {
+    "timestamp": "2025-05-28T12:27:11.019560",
+    "new_listings_count": 0,
+    "updated_listings_count": 2,
+    "new_listing_ids": [],
+    "updated_listing_ids": [
+      "wevershoekstraat",
+      "1e-van-der-kunstraat"
+    ]
   }
 ]
