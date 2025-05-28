@@ -1,5 +1,19 @@
 [
   {
+    "id": "glashaven",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/0fc52a63/glashaven",
+    "title": "Studio Glashaven",
+    "price": 920.0,
+    "size": 32,
+    "rooms": 1,
+    "location": "3011 XH Rotterdam (Stadsdriehoek)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0fc52a63-1732-5c18-b0ef-411c21c6cf4c/e8adeb35632a59f88be173d8c0af7edc.jpg?width=600&auto=webp",
+    "agency": "Perfect Rent",
+    "first_seen": "2025-05-06T14:13:19.204101",
+    "last_updated": "2025-05-28T23:12:44.107209"
+  },
+  {
     "id": "schieweg",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a6f9c81d/schieweg",
     "title": "Flat Schieweg",
@@ -488,20 +502,6 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
-  },
-  {
-    "id": "glashaven",
-    "url": "https://www.pararius.com/studio-for-rent/rotterdam/c04eedee/glashaven",
-    "title": "Studio Glashaven",
-    "price": 960.0,
-    "size": 35,
-    "rooms": 1,
-    "location": "3011 XH Rotterdam (Stadsdriehoek)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/c04eedee-7271-5e04-9bf0-7eb46361fe0e/2b561385bba752418575257bd5f4f6b2.jpg?width=600&auto=webp",
-    "agency": "Perfect Rent",
-    "first_seen": "2025-05-06T14:13:19.204101",
-    "last_updated": "2025-05-14T12:25:48.485370"
   },
   {
     "id": "strevelsweg",

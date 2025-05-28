@@ -1110,5 +1110,14 @@
       "wevershoekstraat",
       "1e-van-der-kunstraat"
     ]
+  },
+  {
+    "timestamp": "2025-05-28T23:12:44.614330",
+    "new_listings_count": 0,
+    "updated_listings_count": 1,
+    "new_listing_ids": [],
+    "updated_listing_ids": [
+      "glashaven"
+    ]
   }
 ]
