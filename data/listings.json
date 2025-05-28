@@ -168,20 +168,6 @@
     "last_updated": "2025-05-08T13:25:42.801798"
   },
   {
-    "id": "glashaven",
-    "url": "https://www.pararius.com/studio-for-rent/rotterdam/c04eedee/glashaven",
-    "title": "Studio Glashaven",
-    "price": 960.0,
-    "size": 35,
-    "rooms": 1,
-    "location": "3011 XH Rotterdam (Stadsdriehoek)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/c04eedee-7271-5e04-9bf0-7eb46361fe0e/2b561385bba752418575257bd5f4f6b2.jpg?width=600&auto=webp",
-    "agency": "Perfect Rent",
-    "first_seen": "2025-05-06T14:13:19.204101",
-    "last_updated": "2025-05-14T12:25:48.485370"
-  },
-  {
     "id": "vlietlaan",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/7ff455f6/vlietlaan",
     "title": "Flat Vlietlaan 34 B 01",
@@ -236,20 +222,6 @@
     "agency": "HouseHunting Randstad",
     "first_seen": "2025-05-05T01:05:28.496030",
     "last_updated": "2025-05-05T01:05:28.496032"
-  },
-  {
-    "id": "strevelsweg",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f44eec50/strevelsweg",
-    "title": "Flat Strevelsweg",
-    "price": 966.0,
-    "size": 56,
-    "rooms": 2,
-    "location": "3075 AJ Rotterdam (Vreewijk)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f44eec50-b1b1-5982-b3c8-184e7cf462c5/77eb7898a3ca44e3bbc39ccc45b77a6e.jpg?width=600&auto=webp",
-    "agency": "Rental Rotterdam",
-    "first_seen": "2025-05-22T10:14:24.815118",
-    "last_updated": "2025-05-22T10:14:24.815121"
   },
   {
     "id": "ruigenhoek",
@@ -516,6 +488,34 @@
     "agency": "Livable",
     "first_seen": "2025-05-05T01:05:34.083200",
     "last_updated": "2025-05-05T01:05:34.083203"
+  },
+  {
+    "id": "glashaven",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/c04eedee/glashaven",
+    "title": "Studio Glashaven",
+    "price": 960.0,
+    "size": 35,
+    "rooms": 1,
+    "location": "3011 XH Rotterdam (Stadsdriehoek)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/c04eedee-7271-5e04-9bf0-7eb46361fe0e/2b561385bba752418575257bd5f4f6b2.jpg?width=600&auto=webp",
+    "agency": "Perfect Rent",
+    "first_seen": "2025-05-06T14:13:19.204101",
+    "last_updated": "2025-05-14T12:25:48.485370"
+  },
+  {
+    "id": "strevelsweg",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f44eec50/strevelsweg",
+    "title": "Flat Strevelsweg",
+    "price": 966.0,
+    "size": 56,
+    "rooms": 2,
+    "location": "3075 AJ Rotterdam (Vreewijk)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f44eec50-b1b1-5982-b3c8-184e7cf462c5/77eb7898a3ca44e3bbc39ccc45b77a6e.jpg?width=600&auto=webp",
+    "agency": "Rental Rotterdam",
+    "first_seen": "2025-05-22T10:14:24.815118",
+    "last_updated": "2025-05-22T10:14:24.815121"
   },
   {
     "id": "vreeswijkstraat",
