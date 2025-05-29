@@ -266,6 +266,20 @@
     "last_updated": "2025-05-05T01:05:28.512479"
   },
   {
+    "id": "daguerrestraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/6189e668/daguerrestraat",
+    "title": "Flat Daguerrestraat",
+    "price": 920.0,
+    "size": 40,
+    "rooms": 2,
+    "location": "2561 TS Den Haag (Valkenboskwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6189e668-36da-5169-aff7-c4d0fe0975a7/2011a64ba0e696887879a10e1a256e5f.jpg?width=600&auto=webp",
+    "agency": "Immovita",
+    "first_seen": "2025-05-08T11:11:31.040663",
+    "last_updated": "2025-05-20T12:27:08.957561"
+  },
+  {
     "id": "bazarstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/c8d001f8/bazarstraat",
     "title": "Flat Bazarstraat",
@@ -320,20 +334,6 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-05-22T15:14:18.445174",
     "last_updated": "2025-05-22T15:14:18.445181"
-  },
-  {
-    "id": "daguerrestraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/6189e668/daguerrestraat",
-    "title": "Flat Daguerrestraat",
-    "price": 920.0,
-    "size": 40,
-    "rooms": 2,
-    "location": "2561 TS Den Haag (Valkenboskwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6189e668-36da-5169-aff7-c4d0fe0975a7/2011a64ba0e696887879a10e1a256e5f.jpg?width=600&auto=webp",
-    "agency": "Immovita",
-    "first_seen": "2025-05-08T11:11:31.040663",
-    "last_updated": "2025-05-20T12:27:08.957561"
   },
   {
     "id": "1e-van-der-kunstraat",
