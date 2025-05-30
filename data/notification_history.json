@@ -1119,5 +1119,14 @@
     "updated_listing_ids": [
       "glashaven"
     ]
+  },
+  {
+    "timestamp": "2025-05-30T11:11:07.364957",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "mallemolen"
+    ],
+    "updated_listing_ids": []
   }
 ]
