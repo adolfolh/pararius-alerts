@@ -1137,5 +1137,14 @@
     "updated_listing_ids": [
       "van-boecopkade"
     ]
+  },
+  {
+    "timestamp": "2025-06-01T21:11:31.548193",
+    "new_listings_count": 0,
+    "updated_listings_count": 1,
+    "new_listing_ids": [],
+    "updated_listing_ids": [
+      "treilerweg"
+    ]
   }
 ]
