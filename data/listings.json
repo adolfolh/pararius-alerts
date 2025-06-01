@@ -1118,19 +1118,5 @@
     "agency": "Rent an Apartment",
     "first_seen": "2025-05-05T09:14:23.061112",
     "last_updated": "2025-05-05T09:14:23.061118"
-  },
-  {
-    "id": "goereesestraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/71cd2982/goereesestraat",
-    "title": "Flat Goereesestraat",
-    "price": 694.0,
-    "size": 49,
-    "rooms": 2,
-    "location": "3083 DL Rotterdam (Carnisse)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/71cd2982-1ab3-5f99-8cb0-d181732dac4d/db2a19e769bd2019cdd896eca95990fe.jpg?width=600&auto=webp",
-    "agency": "Rent an Apartment",
-    "first_seen": "2025-05-02T13:23:16.694369",
-    "last_updated": "2025-05-02T13:23:16.694377"
   }
 ]
