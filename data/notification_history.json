@@ -1164,5 +1164,16 @@
       "rijklof-van-goensstraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-06-02T10:15:16.901841",
+    "new_listings_count": 1,
+    "updated_listings_count": 1,
+    "new_listing_ids": [
+      "trompstraat"
+    ],
+    "updated_listing_ids": [
+      "treilerweg"
+    ]
   }
 ]
