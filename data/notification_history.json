@@ -1184,5 +1184,15 @@
     "updated_listing_ids": [
       "wolphaertsbocht"
     ]
+  },
+  {
+    "timestamp": "2025-06-02T18:18:52.814440",
+    "new_listings_count": 2,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "bilderdijkstraat",
+      "westeinde"
+    ],
+    "updated_listing_ids": []
   }
 ]
