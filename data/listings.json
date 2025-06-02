@@ -1,5 +1,19 @@
 [
   {
+    "id": "wolphaertsbocht",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/8eb9ad27/wolphaertsbocht",
+    "title": "Studio Wolphaertsbocht",
+    "price": 925.0,
+    "size": 20,
+    "rooms": 2,
+    "location": "3083 MJ Rotterdam (Carnisse)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/8eb9ad27-13dd-5e30-8b69-f6bce6a93e82/f58954837f6359b19e87ba6e25413109.jpg?width=600&auto=webp",
+    "agency": "Homey Housing",
+    "first_seen": "2025-05-16T13:25:22.713854",
+    "last_updated": "2025-06-02T16:17:15.700195"
+  },
+  {
     "id": "zaagmolenstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/de93c111/zaagmolenstraat",
     "title": "Flat Zaagmolenstraat",
@@ -810,20 +824,6 @@
     "agency": "HouseConnect",
     "first_seen": "2025-05-05T01:05:34.074451",
     "last_updated": "2025-05-05T01:05:34.074453"
-  },
-  {
-    "id": "wolphaertsbocht",
-    "url": "https://www.pararius.com/studio-for-rent/rotterdam/f363c21e/wolphaertsbocht",
-    "title": "Studio Wolphaertsbocht 249 C",
-    "price": 650.0,
-    "size": 35,
-    "rooms": 2,
-    "location": "3083 ML Rotterdam (Carnisse)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f363c21e-d213-5610-a717-5b892634c498/ebe9a507853502bee50826b1584133ce.jpg?width=600&auto=webp",
-    "agency": "Riva Rentals",
-    "first_seen": "2025-05-16T13:25:22.713854",
-    "last_updated": "2025-05-16T13:25:22.713856"
   },
   {
     "id": "koningin-emmakade",
