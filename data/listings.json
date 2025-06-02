@@ -266,34 +266,6 @@
     "last_updated": "2025-05-05T01:05:28.512479"
   },
   {
-    "id": "bilderdijkstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/4d3968bc/bilderdijkstraat",
-    "title": "Flat Bilderdijkstraat",
-    "price": 975.0,
-    "size": 44,
-    "rooms": 2,
-    "location": "2513 CP Den Haag (Zeeheldenkwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4d3968bc-470c-5e4b-bc99-36e465b910f3/ce3deadce01734671788ff3ac994a8f4.jpg?width=600&auto=webp",
-    "agency": "Yoep Investments bv",
-    "first_seen": "2025-06-02T18:18:52.183732",
-    "last_updated": "2025-06-02T18:18:52.183737"
-  },
-  {
-    "id": "westeinde",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/b9b74377/westeinde",
-    "title": "Flat Westeinde",
-    "price": 975.0,
-    "size": 44,
-    "rooms": 2,
-    "location": "2512 HE Den Haag (Kortenbos)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b9b74377-5890-5ae2-ba3d-d92c3d107b32/971f99f0eeaf6c7ec5aad804aa7bf34b.jpg?width=600&auto=webp",
-    "agency": "Yoep Investments bv",
-    "first_seen": "2025-06-02T18:18:52.185293",
-    "last_updated": "2025-06-02T18:18:52.185296"
-  },
-  {
     "id": "rijklof-van-goensstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/05550e1f/rijklof-van-goensstraat",
     "title": "Flat Rijklof van Goensstraat",
@@ -516,6 +488,34 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-05-05T01:05:34.080248",
     "last_updated": "2025-05-05T01:05:34.080251"
+  },
+  {
+    "id": "bilderdijkstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/4d3968bc/bilderdijkstraat",
+    "title": "Flat Bilderdijkstraat",
+    "price": 975.0,
+    "size": 44,
+    "rooms": 2,
+    "location": "2513 CP Den Haag (Zeeheldenkwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4d3968bc-470c-5e4b-bc99-36e465b910f3/ce3deadce01734671788ff3ac994a8f4.jpg?width=600&auto=webp",
+    "agency": "Yoep Investments bv",
+    "first_seen": "2025-06-02T18:18:52.183732",
+    "last_updated": "2025-06-02T18:18:52.183737"
+  },
+  {
+    "id": "westeinde",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/b9b74377/westeinde",
+    "title": "Flat Westeinde",
+    "price": 975.0,
+    "size": 44,
+    "rooms": 2,
+    "location": "2512 HE Den Haag (Kortenbos)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b9b74377-5890-5ae2-ba3d-d92c3d107b32/971f99f0eeaf6c7ec5aad804aa7bf34b.jpg?width=600&auto=webp",
+    "agency": "Yoep Investments bv",
+    "first_seen": "2025-06-02T18:18:52.185293",
+    "last_updated": "2025-06-02T18:18:52.185296"
   },
   {
     "id": "treilerweg",
