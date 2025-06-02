@@ -308,20 +308,6 @@
     "last_updated": "2025-05-20T12:27:08.957561"
   },
   {
-    "id": "bazarstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/c8d001f8/bazarstraat",
-    "title": "Flat Bazarstraat",
-    "price": 975.0,
-    "size": 33,
-    "rooms": 2,
-    "location": "2518 AE Den Haag (Zeeheldenkwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/c8d001f8-4bc7-5135-9b33-128531952505/c6b07fd9495b8c30a8a2534c572203ad.jpg?width=600&auto=webp",
-    "agency": "Rent Valley",
-    "first_seen": "2025-05-26T15:13:48.838839",
-    "last_updated": "2025-05-26T15:13:48.838845"
-  },
-  {
     "id": "paul-krugerlaan",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/80f88b19/paul-krugerlaan",
     "title": "Flat Paul Krugerlaan 141 C",
@@ -516,6 +502,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-05-05T01:05:34.080248",
     "last_updated": "2025-05-05T01:05:34.080251"
+  },
+  {
+    "id": "bazarstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/c8d001f8/bazarstraat",
+    "title": "Flat Bazarstraat",
+    "price": 975.0,
+    "size": 33,
+    "rooms": 2,
+    "location": "2518 AE Den Haag (Zeeheldenkwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/c8d001f8-4bc7-5135-9b33-128531952505/c6b07fd9495b8c30a8a2534c572203ad.jpg?width=600&auto=webp",
+    "agency": "Rent Valley",
+    "first_seen": "2025-05-26T15:13:48.838839",
+    "last_updated": "2025-05-26T15:13:48.838845"
   },
   {
     "id": "vlietlaan",
