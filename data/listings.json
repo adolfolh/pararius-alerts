@@ -1,5 +1,19 @@
 [
   {
+    "id": "zaagmolenstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/de93c111/zaagmolenstraat",
+    "title": "Flat Zaagmolenstraat",
+    "price": 900.0,
+    "size": 44,
+    "rooms": 2,
+    "location": "3035 HH Rotterdam (Oude Noorden)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/de93c111-ee76-526f-98ba-cfe625992b67/8df136296ed92a9bbf1a8957053c3ff6.jpg?width=600&auto=webp",
+    "agency": "Perfect Rent",
+    "first_seen": "2025-06-02T01:07:29.500522",
+    "last_updated": "2025-06-02T01:07:29.500528"
+  },
+  {
     "id": "glashaven",
     "url": "https://www.pararius.com/studio-for-rent/rotterdam/0fc52a63/glashaven",
     "title": "Studio Glashaven",
