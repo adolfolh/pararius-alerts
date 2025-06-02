@@ -1155,5 +1155,14 @@
       "zaagmolenstraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-06-02T09:15:31.493400",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "rijklof-van-goensstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
