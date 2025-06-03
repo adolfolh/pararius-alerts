@@ -1221,5 +1221,16 @@
       "middelharnisstraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-06-03T16:18:17.544671",
+    "new_listings_count": 1,
+    "updated_listings_count": 1,
+    "new_listing_ids": [
+      "zuidhoek"
+    ],
+    "updated_listing_ids": [
+      "valkenboslaan"
+    ]
   }
 ]

@@ -1,5 +1,33 @@
 [
   {
+    "id": "glashaven",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/0fc52a63/glashaven",
+    "title": "Studio Glashaven",
+    "price": 920.0,
+    "size": 32,
+    "rooms": 1,
+    "location": "3011 XH Rotterdam (Stadsdriehoek)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0fc52a63-1732-5c18-b0ef-411c21c6cf4c/e8adeb35632a59f88be173d8c0af7edc.jpg?width=600&auto=webp",
+    "agency": "Perfect Rent",
+    "first_seen": "2025-05-06T14:13:19.204101",
+    "last_updated": "2025-05-28T23:12:44.107209"
+  },
+  {
+    "id": "zuidhoek",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/aa50fb5d/zuidhoek",
+    "title": "Flat Zuidhoek",
+    "price": 989.0,
+    "size": 48,
+    "rooms": 2,
+    "location": "3082 PV Rotterdam (Oud Charlois)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/aa50fb5d-2518-5a11-8db0-b71912315548/ba20035c38beb9519793afe908466c95.jpg?width=600&auto=webp",
+    "agency": "Rent an Apartment",
+    "first_seen": "2025-06-03T16:18:11.109959",
+    "last_updated": "2025-06-03T16:18:11.109962"
+  },
+  {
     "id": "middelharnisstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/87c55f13/middelharnisstraat",
     "title": "Flat Middelharnisstraat",
@@ -54,20 +82,6 @@
     "agency": "Perfect Rent",
     "first_seen": "2025-06-02T01:07:29.500522",
     "last_updated": "2025-06-02T01:07:29.500528"
-  },
-  {
-    "id": "glashaven",
-    "url": "https://www.pararius.com/studio-for-rent/rotterdam/0fc52a63/glashaven",
-    "title": "Studio Glashaven",
-    "price": 920.0,
-    "size": 32,
-    "rooms": 1,
-    "location": "3011 XH Rotterdam (Stadsdriehoek)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0fc52a63-1732-5c18-b0ef-411c21c6cf4c/e8adeb35632a59f88be173d8c0af7edc.jpg?width=600&auto=webp",
-    "agency": "Perfect Rent",
-    "first_seen": "2025-05-06T14:13:19.204101",
-    "last_updated": "2025-05-28T23:12:44.107209"
   },
   {
     "id": "schieweg",
@@ -292,6 +306,20 @@
     "agency": "Rotterdam Apartments",
     "first_seen": "2025-05-05T01:05:28.512476",
     "last_updated": "2025-05-05T01:05:28.512479"
+  },
+  {
+    "id": "valkenboslaan",
+    "url": "https://www.pararius.com/studio-for-rent/den-haag/bcdba379/valkenboslaan",
+    "title": "Studio Valkenboslaan",
+    "price": 990.0,
+    "size": 22,
+    "rooms": 2,
+    "location": "2563 CE Den Haag (Valkenboskwartier)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/bcdba379-9aa1-5e1e-85ba-286354f67dc5/a4d17d50a2082470eb88a07d76481df7.jpg?width=600&auto=webp",
+    "agency": "Homey Housing",
+    "first_seen": "2025-05-20T12:27:08.899326",
+    "last_updated": "2025-06-03T16:18:17.080905"
   },
   {
     "id": "rijklof-van-goensstraat",
@@ -838,20 +866,6 @@
     "agency": "Rotterdam Apartments",
     "first_seen": "2025-05-12T13:27:09.526461",
     "last_updated": "2025-05-12T13:27:09.526467"
-  },
-  {
-    "id": "valkenboslaan",
-    "url": "https://www.pararius.com/studio-for-rent/den-haag/f6892729/valkenboslaan",
-    "title": "Studio Valkenboslaan",
-    "price": 998.0,
-    "size": 22,
-    "rooms": 2,
-    "location": "2563 CE Den Haag (Valkenboskwartier)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f6892729-861b-5657-9d14-836e12167bb9/2fd07f40f173d924911c7e9728c4417b.jpg?width=600&auto=webp",
-    "agency": "Homey Housing",
-    "first_seen": "2025-05-20T12:27:08.899326",
-    "last_updated": "2025-05-20T12:27:08.899328"
   },
   {
     "id": "apeldoornselaan",
