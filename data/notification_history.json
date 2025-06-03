@@ -1212,5 +1212,14 @@
     "updated_listing_ids": [
       "lange-lombardstraat"
     ]
+  },
+  {
+    "timestamp": "2025-06-03T15:15:20.213516",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "middelharnisstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]

@@ -1,5 +1,19 @@
 [
   {
+    "id": "middelharnisstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/87c55f13/middelharnisstraat",
+    "title": "Flat Middelharnisstraat",
+    "price": 927.0,
+    "size": 57,
+    "rooms": 3,
+    "location": "3086 GH Rotterdam (Pendrecht)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/87c55f13-ef46-5f65-b32e-6655d1fff624/26b5d69945f80804ac51e9d939980fbe.jpg?width=600&auto=webp",
+    "agency": "Perfect Rent",
+    "first_seen": "2025-06-03T15:15:14.143234",
+    "last_updated": "2025-06-03T15:15:14.143241"
+  },
+  {
     "id": "ruwaardstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/e83c046f/ruwaardstraat",
     "title": "Flat Ruwaardstraat",
