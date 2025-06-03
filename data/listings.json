@@ -14,20 +14,6 @@
     "last_updated": "2025-05-28T23:12:44.107209"
   },
   {
-    "id": "zuidhoek",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/aa50fb5d/zuidhoek",
-    "title": "Flat Zuidhoek",
-    "price": 989.0,
-    "size": 48,
-    "rooms": 2,
-    "location": "3082 PV Rotterdam (Oud Charlois)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/aa50fb5d-2518-5a11-8db0-b71912315548/ba20035c38beb9519793afe908466c95.jpg?width=600&auto=webp",
-    "agency": "Rent an Apartment",
-    "first_seen": "2025-06-03T16:18:11.109959",
-    "last_updated": "2025-06-03T16:18:11.109962"
-  },
-  {
     "id": "middelharnisstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/87c55f13/middelharnisstraat",
     "title": "Flat Middelharnisstraat",
@@ -530,6 +516,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-05-05T01:05:34.080248",
     "last_updated": "2025-05-05T01:05:34.080251"
+  },
+  {
+    "id": "zuidhoek",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/aa50fb5d/zuidhoek",
+    "title": "Flat Zuidhoek",
+    "price": 989.0,
+    "size": 48,
+    "rooms": 2,
+    "location": "3082 PV Rotterdam (Oud Charlois)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/aa50fb5d-2518-5a11-8db0-b71912315548/ba20035c38beb9519793afe908466c95.jpg?width=600&auto=webp",
+    "agency": "Rent an Apartment",
+    "first_seen": "2025-06-03T16:18:11.109959",
+    "last_updated": "2025-06-03T16:18:11.109962"
   },
   {
     "id": "wevershoekstraat",
