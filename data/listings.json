@@ -154,20 +154,6 @@
     "last_updated": "2025-05-22T11:11:53.333394"
   },
   {
-    "id": "wevershoekstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/dedc357f/wevershoekstraat",
-    "title": "Flat Wevershoekstraat",
-    "price": 851.0,
-    "size": 54,
-    "rooms": 2,
-    "location": "3081 PC Rotterdam (Zuidplein)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/dedc357f-1ea3-5ce9-9e0d-2ee941ea6a54/1938de87eb9d8a0b429e93de104c4f90.jpg?width=600&auto=webp",
-    "agency": "Properbee",
-    "first_seen": "2025-05-05T01:05:28.513961",
-    "last_updated": "2025-05-28T12:27:10.426760"
-  },
-  {
     "id": "beijerlandselaan",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/68f5a2e1/beijerlandselaan",
     "title": "Flat Beijerlandselaan",
@@ -544,6 +530,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-05-05T01:05:34.080248",
     "last_updated": "2025-05-05T01:05:34.080251"
+  },
+  {
+    "id": "wevershoekstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/dedc357f/wevershoekstraat",
+    "title": "Flat Wevershoekstraat",
+    "price": 851.0,
+    "size": 54,
+    "rooms": 2,
+    "location": "3081 PC Rotterdam (Zuidplein)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/dedc357f-1ea3-5ce9-9e0d-2ee941ea6a54/1938de87eb9d8a0b429e93de104c4f90.jpg?width=600&auto=webp",
+    "agency": "Properbee",
+    "first_seen": "2025-05-05T01:05:28.513961",
+    "last_updated": "2025-05-28T12:27:10.426760"
   },
   {
     "id": "lange-lombardstraat",
