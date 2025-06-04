@@ -14,20 +14,6 @@
     "last_updated": "2025-05-28T23:12:44.107209"
   },
   {
-    "id": "straatweg",
-    "url": "https://www.pararius.com/studio-for-rent/rotterdam/e855fa3b/straatweg",
-    "title": "Studio Straatweg",
-    "price": 700.0,
-    "size": 45,
-    "rooms": 2,
-    "location": "3051 BG Rotterdam (Hillegersberg Zuid)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e855fa3b-865b-5af5-96bf-88f873310dc3/c727d9e1e8fd05158ba5ff52af86b72e.jpg?width=600&auto=webp",
-    "agency": "City Limit Vastgoedbeheer",
-    "first_seen": "2025-06-04T12:26:58.820011",
-    "last_updated": "2025-06-04T12:26:58.820014"
-  },
-  {
     "id": "middelharnisstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/87c55f13/middelharnisstraat",
     "title": "Flat Middelharnisstraat",
@@ -516,6 +502,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-06-04T03:12:01.938552",
     "last_updated": "2025-06-04T03:12:01.938554"
+  },
+  {
+    "id": "straatweg",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/e855fa3b/straatweg",
+    "title": "Studio Straatweg",
+    "price": 700.0,
+    "size": 45,
+    "rooms": 2,
+    "location": "3051 BG Rotterdam (Hillegersberg Zuid)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e855fa3b-865b-5af5-96bf-88f873310dc3/c727d9e1e8fd05158ba5ff52af86b72e.jpg?width=600&auto=webp",
+    "agency": "City Limit Vastgoedbeheer",
+    "first_seen": "2025-06-04T12:26:58.820011",
+    "last_updated": "2025-06-04T12:26:58.820014"
   },
   {
     "id": "wolphaertsbocht",
