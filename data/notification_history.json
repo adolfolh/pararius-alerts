@@ -1266,5 +1266,14 @@
       "straatweg"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-06-04T17:12:33.997251",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "polderlaan"
+    ],
+    "updated_listing_ids": []
   }
 ]

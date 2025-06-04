@@ -1,5 +1,19 @@
 [
   {
+    "id": "polderlaan",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/aacc7dd1/polderlaan",
+    "title": "Flat Polderlaan",
+    "price": 997.0,
+    "size": 58,
+    "rooms": 2,
+    "location": "3074 MH Rotterdam (Hillesluis)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/aacc7dd1-978f-5dc2-adb6-877dd197df8f/6a20386ec04c3cd92cc31b74b73760a5.jpg?width=600&auto=webp",
+    "agency": "Rent an Apartment",
+    "first_seen": "2025-06-04T17:12:27.316500",
+    "last_updated": "2025-06-04T17:12:27.316506"
+  },
+  {
     "id": "glashaven",
     "url": "https://www.pararius.com/studio-for-rent/rotterdam/0fc52a63/glashaven",
     "title": "Studio Glashaven",
@@ -1048,20 +1062,6 @@
     "agency": "Immovita",
     "first_seen": "2025-05-06T08:18:25.724259",
     "last_updated": "2025-05-06T08:18:25.724266"
-  },
-  {
-    "id": "dorpsweg",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/683e4e96/dorpsweg",
-    "title": "Flat Dorpsweg 34 B",
-    "price": 972.0,
-    "size": 58,
-    "rooms": 2,
-    "location": "3083 LB Rotterdam (Oud Charlois)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/683e4e96-5ae2-5018-8f33-553adb081c74/1460175f3cf719acf42b1ffe0e12fe19.jpg?width=600&auto=webp",
-    "agency": "Nationaal Grondbezit",
-    "first_seen": "2025-05-05T16:16:56.702721",
-    "last_updated": "2025-05-05T16:16:56.702727"
   },
   {
     "id": "portlandstraat",
