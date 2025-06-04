@@ -220,8 +220,8 @@
     "interior": "Unknown",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/15fea00d-896f-5cf0-b901-925a07b4b8df/3f693c9ed1036b65ade687e5944ff314.jpg?width=600&auto=webp",
     "agency": "D&S Vastgoed",
-    "first_seen": "2025-05-05T01:05:28.493103",
-    "last_updated": "2025-05-05T01:05:28.493110"
+    "first_seen": "2025-06-04T03:11:56.341056",
+    "last_updated": "2025-06-04T03:11:56.341058"
   },
   {
     "id": "vijverhofstraat",
@@ -234,8 +234,8 @@
     "interior": "Furnished",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/a58c5ff9-e133-5581-bf9c-8c29d37c59ff/e88aeb6d9d43baaac6a8b69f50316559.jpg?width=600&auto=webp",
     "agency": "HouseHunting Randstad",
-    "first_seen": "2025-05-05T01:05:28.494536",
-    "last_updated": "2025-05-05T01:05:28.494538"
+    "first_seen": "2025-06-04T03:11:56.342525",
+    "last_updated": "2025-06-04T03:11:56.342527"
   },
   {
     "id": "zegwaardstraat",
@@ -248,8 +248,8 @@
     "interior": "Furnished",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/a9c33130-1763-579c-8ca1-6af9b4483452/215e258e75e47253bad4e9a99d093ad5.jpg?width=600&auto=webp",
     "agency": "HouseHunting Randstad",
-    "first_seen": "2025-05-05T01:05:28.496030",
-    "last_updated": "2025-05-05T01:05:28.496032"
+    "first_seen": "2025-06-04T03:11:56.344000",
+    "last_updated": "2025-06-04T03:11:56.344002"
   },
   {
     "id": "ruigenhoek",
@@ -276,8 +276,8 @@
     "interior": "Shell",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/6180aaea-7f89-55a9-9262-cea7612453d1/8869c406f53f974ac6111e4bf930910a.jpg?width=600&auto=webp",
     "agency": "Rotterdam Apartments",
-    "first_seen": "2025-05-05T01:05:28.512476",
-    "last_updated": "2025-05-05T01:05:28.512479"
+    "first_seen": "2025-06-04T03:11:56.346948",
+    "last_updated": "2025-06-04T03:11:56.346950"
   },
   {
     "id": "valkenboslaan",
@@ -374,8 +374,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/41413c75-9c37-5996-9834-e703de97ecd8/fad63fbd8b2de296711738de904016c9.jpg?width=600&auto=webp",
     "agency": "Rent Valley",
-    "first_seen": "2025-05-05T01:05:34.081719",
-    "last_updated": "2025-05-28T12:27:10.426838"
+    "first_seen": "2025-06-04T03:12:01.915696",
+    "last_updated": "2025-06-04T03:12:01.915698"
   },
   {
     "id": "weteringkade",
@@ -472,8 +472,8 @@
     "interior": "Furnished",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/ef6951a8-d512-51cc-a841-97a29940f462/e1d5b1312ee8df0a73023eb1d9372fc5.jpg?width=600&auto=webp",
     "agency": "Woonzeker Rentals",
-    "first_seen": "2025-05-05T01:05:34.062489",
-    "last_updated": "2025-05-05T01:05:34.062492"
+    "first_seen": "2025-06-04T03:12:01.934109",
+    "last_updated": "2025-06-04T03:12:01.934111"
   },
   {
     "id": "mallemolen",
@@ -500,8 +500,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/12383c9a-7ab9-5007-a651-a26490d16dbc/640e56b4708ac40608a9f2b44db6e07e.jpg?width=600&auto=webp",
     "agency": "Key Vastbeheer",
-    "first_seen": "2025-05-05T01:05:34.078797",
-    "last_updated": "2025-05-05T01:05:34.078799"
+    "first_seen": "2025-06-04T03:12:01.937069",
+    "last_updated": "2025-06-04T03:12:01.937071"
   },
   {
     "id": "hoogveen",
@@ -514,8 +514,8 @@
     "interior": "Shell",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/35557101-0bae-5ba6-ae26-4fa2b9f66294/5c9f65355f8feb55367ef4824b7c5cc6.jpg?width=600&auto=webp",
     "agency": "Ad Hoc Den Haag",
-    "first_seen": "2025-05-05T01:05:34.080248",
-    "last_updated": "2025-05-05T01:05:34.080251"
+    "first_seen": "2025-06-04T03:12:01.938552",
+    "last_updated": "2025-06-04T03:12:01.938554"
   },
   {
     "id": "zuidhoek",
@@ -642,20 +642,6 @@
     "agency": "Rent an Apartment",
     "first_seen": "2025-05-12T08:18:56.171674",
     "last_updated": "2025-05-30T12:25:45.292485"
-  },
-  {
-    "id": "schrijnwerkersgaarde",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/ef4a2134/schrijnwerkersgaarde",
-    "title": "Flat Schrijnwerkersgaarde",
-    "price": 480.0,
-    "size": 63,
-    "rooms": 3,
-    "location": "2542 TZ Den Haag (Dreven en Gaarden)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ef4a2134-9fa0-50ce-8d6a-358a280de4d1/ed913942555d73faa90fac879d934674.jpg?width=600&auto=webp",
-    "agency": "Livable",
-    "first_seen": "2025-05-05T01:05:34.083200",
-    "last_updated": "2025-05-05T01:05:34.083203"
   },
   {
     "id": "jonker-fransstraat",
@@ -880,20 +866,6 @@
     "agency": "NRW Wonen",
     "first_seen": "2025-05-21T13:26:38.620765",
     "last_updated": "2025-05-21T13:26:38.620768"
-  },
-  {
-    "id": "suezkade",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/0d5f3406/suezkade",
-    "title": "Flat Suezkade",
-    "price": 975.0,
-    "size": 69,
-    "rooms": 2,
-    "location": "2517 CC Den Haag (Sweelinckplein en omgeving)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0d5f3406-c499-5675-b31e-699d6ae273b0/82dc153745f0056cfd5c8c2ca1ab7148.jpg?width=600&auto=webp",
-    "agency": "HouseConnect",
-    "first_seen": "2025-05-05T01:05:34.074451",
-    "last_updated": "2025-05-05T01:05:34.074453"
   },
   {
     "id": "koningin-emmakade",
@@ -1132,34 +1104,6 @@
     "agency": "NRW Wonen",
     "first_seen": "2025-05-09T10:13:55.162801",
     "last_updated": "2025-05-09T10:13:55.162810"
-  },
-  {
-    "id": "hazelaarstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/6f83516c/hazelaarstraat",
-    "title": "Flat Hazelaarstraat 123",
-    "price": 888.0,
-    "size": 36,
-    "rooms": 2,
-    "location": "2563 VK Den Haag (Heesterbuurt)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6f83516c-1394-5cdb-b748-75e2608d10c5/0bf79b0976dc525afd4adcfdfe736d8a.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-05-05T01:05:34.069868",
-    "last_updated": "2025-05-05T01:05:34.069870"
-  },
-  {
-    "id": "waldeck-pyrmontkade",
-    "url": "https://www.pararius.com/studio-for-rent/den-haag/21cfbbdc/waldeck-pyrmontkade",
-    "title": "Studio Waldeck Pyrmontkade 942 B",
-    "price": 859.0,
-    "size": 28,
-    "rooms": 1,
-    "location": "2518 JW Den Haag (Sweelinckplein en omgeving)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/21cfbbdc-24c4-5a1e-8873-89b3d3deacb4/e41513e0553555ba90f551dd8c71e018.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-05-05T01:05:34.077340",
-    "last_updated": "2025-05-05T01:05:34.077342"
   },
   {
     "id": "loosduinseweg",

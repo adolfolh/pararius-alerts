@@ -1232,5 +1232,21 @@
     "updated_listing_ids": [
       "valkenboslaan"
     ]
+  },
+  {
+    "timestamp": "2025-06-04T03:12:02.337125",
+    "new_listings_count": 8,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "zuidplein",
+      "vijverhofstraat",
+      "zegwaardstraat",
+      "bree",
+      "1e-van-der-kunstraat",
+      "copernicuslaan",
+      "loosduinsekade",
+      "hoogveen"
+    ],
+    "updated_listing_ids": []
   }
 ]
