@@ -266,20 +266,6 @@
     "last_updated": "2025-06-04T03:11:56.346950"
   },
   {
-    "id": "valkenboslaan",
-    "url": "https://www.pararius.com/studio-for-rent/den-haag/bcdba379/valkenboslaan",
-    "title": "Studio Valkenboslaan",
-    "price": 990.0,
-    "size": 22,
-    "rooms": 2,
-    "location": "2563 CE Den Haag (Valkenboskwartier)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/bcdba379-9aa1-5e1e-85ba-286354f67dc5/a4d17d50a2082470eb88a07d76481df7.jpg?width=600&auto=webp",
-    "agency": "Homey Housing",
-    "first_seen": "2025-05-20T12:27:08.899326",
-    "last_updated": "2025-06-03T16:18:17.080905"
-  },
-  {
     "id": "rijklof-van-goensstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/05550e1f/rijklof-van-goensstraat",
     "title": "Flat Rijklof van Goensstraat",
@@ -502,6 +488,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-06-04T03:12:01.938552",
     "last_updated": "2025-06-04T03:12:01.938554"
+  },
+  {
+    "id": "valkenboslaan",
+    "url": "https://www.pararius.com/studio-for-rent/den-haag/bcdba379/valkenboslaan",
+    "title": "Studio Valkenboslaan",
+    "price": 990.0,
+    "size": 22,
+    "rooms": 2,
+    "location": "2563 CE Den Haag (Valkenboskwartier)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/bcdba379-9aa1-5e1e-85ba-286354f67dc5/a4d17d50a2082470eb88a07d76481df7.jpg?width=600&auto=webp",
+    "agency": "Homey Housing",
+    "first_seen": "2025-05-20T12:27:08.899326",
+    "last_updated": "2025-06-03T16:18:17.080905"
   },
   {
     "id": "straatweg",
