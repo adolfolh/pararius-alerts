@@ -1,5 +1,19 @@
 [
   {
+    "id": "gouvernestraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/c8686225/gouvernestraat",
+    "title": "Flat Gouvernestraat 117 03",
+    "price": 893.0,
+    "size": 72,
+    "rooms": 3,
+    "location": "3014 PL Rotterdam (Oude Westen)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/c8686225-8782-5994-8bb8-86cded31c719/57035e5dab2f5cc1da56a14226cfb1e3.jpg?width=600&auto=webp",
+    "agency": "Kolpa V.V.S. Beheer",
+    "first_seen": "2025-06-04T10:14:37.967667",
+    "last_updated": "2025-06-04T10:14:37.967674"
+  },
+  {
     "id": "glashaven",
     "url": "https://www.pararius.com/studio-for-rent/rotterdam/0fc52a63/glashaven",
     "title": "Studio Glashaven",
@@ -194,20 +208,6 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-05-08T15:13:53.322971",
     "last_updated": "2025-05-08T15:13:53.322976"
-  },
-  {
-    "id": "bredestraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/629f3a9b/bredestraat",
-    "title": "Flat Bredestraat",
-    "price": 790.0,
-    "size": 45,
-    "rooms": 2,
-    "location": "3011 RC Rotterdam (Stadsdriehoek)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/629f3a9b-4f44-53e4-bef2-374031881430/52c467615157c229dcb64a8765845b53.jpg?width=600&auto=webp",
-    "agency": "realestate.nl",
-    "first_seen": "2025-05-08T13:25:42.801791",
-    "last_updated": "2025-05-08T13:25:42.801798"
   },
   {
     "id": "zuidplein",
@@ -516,6 +516,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-06-04T03:12:01.938552",
     "last_updated": "2025-06-04T03:12:01.938554"
+  },
+  {
+    "id": "bredestraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/629f3a9b/bredestraat",
+    "title": "Flat Bredestraat",
+    "price": 790.0,
+    "size": 45,
+    "rooms": 2,
+    "location": "3011 RC Rotterdam (Stadsdriehoek)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/629f3a9b-4f44-53e4-bef2-374031881430/52c467615157c229dcb64a8765845b53.jpg?width=600&auto=webp",
+    "agency": "realestate.nl",
+    "first_seen": "2025-05-08T13:25:42.801791",
+    "last_updated": "2025-05-08T13:25:42.801798"
   },
   {
     "id": "zuidhoek",
