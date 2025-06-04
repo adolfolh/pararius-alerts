@@ -1257,5 +1257,14 @@
       "gouvernestraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-06-04T12:27:05.382543",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "straatweg"
+    ],
+    "updated_listing_ids": []
   }
 ]
