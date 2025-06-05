@@ -1,5 +1,19 @@
 [
   {
+    "id": "noorderhavenkade",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/279366af/noorderhavenkade",
+    "title": "Flat Noorderhavenkade 151 B",
+    "price": 917.0,
+    "size": 49,
+    "rooms": 2,
+    "location": "3039 RR Rotterdam (Blijdorp)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/279366af-351b-51fe-8373-195f8d9aef9d/5799bceab58822a2270592a8558d4f9c.jpg?width=600&auto=webp",
+    "agency": "Properbee",
+    "first_seen": "2025-06-05T13:27:37.853732",
+    "last_updated": "2025-06-05T13:27:37.853739"
+  },
+  {
     "id": "glashaven",
     "url": "https://www.pararius.com/studio-for-rent/rotterdam/0fc52a63/glashaven",
     "title": "Studio Glashaven",
