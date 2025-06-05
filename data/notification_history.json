@@ -1293,5 +1293,14 @@
       "noorderhavenkade"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-06-05T14:13:32.593657",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "glashaven"
+    ],
+    "updated_listing_ids": []
   }
 ]

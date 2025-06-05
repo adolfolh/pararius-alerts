@@ -24,8 +24,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/0fc52a63-1732-5c18-b0ef-411c21c6cf4c/e8adeb35632a59f88be173d8c0af7edc.jpg?width=600&auto=webp",
     "agency": "Perfect Rent",
-    "first_seen": "2025-05-06T14:13:19.204101",
-    "last_updated": "2025-05-28T23:12:44.107209"
+    "first_seen": "2025-06-05T14:13:26.312917",
+    "last_updated": "2025-06-05T14:13:26.312920"
   },
   {
     "id": "middelharnisstraat",
@@ -1132,19 +1132,5 @@
     "agency": "NRW Wonen",
     "first_seen": "2025-05-07T10:14:19.877557",
     "last_updated": "2025-05-07T10:14:19.877561"
-  },
-  {
-    "id": "schonebergerweg",
-    "url": "https://www.pararius.com/studio-for-rent/rotterdam/0c9256fc/schonebergerweg",
-    "title": "Studio Schonebergerweg",
-    "price": 908.0,
-    "size": 45,
-    "rooms": 2,
-    "location": "3023 ZG Rotterdam (Nieuwe Westen)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0c9256fc-de5d-5e15-9664-14654f7ccb25/7df2eaccc67ae7b193be52df70743be1.jpg?width=600&auto=webp",
-    "agency": "Homey Housing",
-    "first_seen": "2025-05-06T14:13:19.202632",
-    "last_updated": "2025-05-06T14:13:19.202639"
   }
 ]
