@@ -1,19 +1,5 @@
 [
   {
-    "id": "polderlaan",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/aacc7dd1/polderlaan",
-    "title": "Flat Polderlaan",
-    "price": 997.0,
-    "size": 58,
-    "rooms": 2,
-    "location": "3074 MH Rotterdam (Hillesluis)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/aacc7dd1-978f-5dc2-adb6-877dd197df8f/6a20386ec04c3cd92cc31b74b73760a5.jpg?width=600&auto=webp",
-    "agency": "Rent an Apartment",
-    "first_seen": "2025-06-04T17:12:27.316500",
-    "last_updated": "2025-06-04T17:12:27.316506"
-  },
-  {
     "id": "glashaven",
     "url": "https://www.pararius.com/studio-for-rent/rotterdam/0fc52a63/glashaven",
     "title": "Studio Glashaven",
@@ -502,6 +488,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-06-04T03:12:01.938552",
     "last_updated": "2025-06-04T03:12:01.938554"
+  },
+  {
+    "id": "polderlaan",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/aacc7dd1/polderlaan",
+    "title": "Flat Polderlaan",
+    "price": 997.0,
+    "size": 58,
+    "rooms": 2,
+    "location": "3074 MH Rotterdam (Hillesluis)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/aacc7dd1-978f-5dc2-adb6-877dd197df8f/6a20386ec04c3cd92cc31b74b73760a5.jpg?width=600&auto=webp",
+    "agency": "Rent an Apartment",
+    "first_seen": "2025-06-04T17:12:27.316500",
+    "last_updated": "2025-06-04T17:12:27.316506"
   },
   {
     "id": "valkenboslaan",
@@ -1048,20 +1048,6 @@
     "agency": "Rental Rotterdam",
     "first_seen": "2025-05-08T16:16:44.901606",
     "last_updated": "2025-05-08T16:16:44.901608"
-  },
-  {
-    "id": "laan-van-meerdervoort",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/e43ded6f/laan-van-meerdervoort",
-    "title": "Flat Laan van Meerdervoort",
-    "price": 850.0,
-    "size": 35,
-    "rooms": 2,
-    "location": "2563 AA Den Haag (Sweelinckplein en omgeving)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e43ded6f-183a-5e06-ade3-94df5619a221/5e3968f952ed1a2e392c53ff950ea212.jpg?width=600&auto=webp",
-    "agency": "Immovita",
-    "first_seen": "2025-05-06T08:18:25.724259",
-    "last_updated": "2025-05-06T08:18:25.724266"
   },
   {
     "id": "portlandstraat",
