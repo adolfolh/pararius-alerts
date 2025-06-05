@@ -1275,5 +1275,14 @@
       "polderlaan"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-06-05T01:04:37.813353",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "waldorpstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
