@@ -98,20 +98,6 @@
     "last_updated": "2025-05-26T15:13:43.004967"
   },
   {
-    "id": "leeuwenstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/33bea6f3/leeuwenstraat",
-    "title": "Flat Leeuwenstraat",
-    "price": 796.0,
-    "size": 16,
-    "rooms": 1,
-    "location": "3011 AL Rotterdam (Stadsdriehoek)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/33bea6f3-79e1-53e3-852d-edc9027ca18a/75fa4300cda0b6d9cd38596fa2621f6a.jpg?width=600&auto=webp",
-    "agency": "Rotterdam Apartments",
-    "first_seen": "2025-05-26T09:40:02.008205",
-    "last_updated": "2025-05-26T09:40:02.008212"
-  },
-  {
     "id": "van-speykstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/7d1a03dd/van-speykstraat",
     "title": "Flat Van Speykstraat 151 E",
@@ -292,20 +278,6 @@
     "agency": "Rotterdam Apartments",
     "first_seen": "2025-06-04T03:11:56.346948",
     "last_updated": "2025-06-04T03:11:56.346950"
-  },
-  {
-    "id": "1e-lulofsdwarsstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/4cfabb77/1e-lulofsdwarsstraat",
-    "title": "Flat 1e Lulofsdwarsstraat",
-    "price": 1000.0,
-    "size": 42,
-    "rooms": 2,
-    "location": "2521 AZ Den Haag (Laakhaven-West)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4cfabb77-4e7b-5712-93d2-23e3e65258ce/8a70a2f1276490d7c89734949fd72c81.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-06-05T15:14:18.860488",
-    "last_updated": "2025-06-05T15:14:18.860495"
   },
   {
     "id": "rijklof-van-goensstraat",
@@ -530,6 +502,34 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-06-04T03:12:01.938552",
     "last_updated": "2025-06-04T03:12:01.938554"
+  },
+  {
+    "id": "leeuwenstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/33bea6f3/leeuwenstraat",
+    "title": "Flat Leeuwenstraat",
+    "price": 796.0,
+    "size": 16,
+    "rooms": 1,
+    "location": "3011 AL Rotterdam (Stadsdriehoek)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/33bea6f3-79e1-53e3-852d-edc9027ca18a/75fa4300cda0b6d9cd38596fa2621f6a.jpg?width=600&auto=webp",
+    "agency": "Rotterdam Apartments",
+    "first_seen": "2025-05-26T09:40:02.008205",
+    "last_updated": "2025-05-26T09:40:02.008212"
+  },
+  {
+    "id": "1e-lulofsdwarsstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/4cfabb77/1e-lulofsdwarsstraat",
+    "title": "Flat 1e Lulofsdwarsstraat",
+    "price": 1000.0,
+    "size": 42,
+    "rooms": 2,
+    "location": "2521 AZ Den Haag (Laakhaven-West)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4cfabb77-4e7b-5712-93d2-23e3e65258ce/8a70a2f1276490d7c89734949fd72c81.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-06-05T15:14:18.860488",
+    "last_updated": "2025-06-05T15:14:18.860495"
   },
   {
     "id": "polderlaan",
