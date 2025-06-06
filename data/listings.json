@@ -1,5 +1,19 @@
 [
   {
+    "id": "augustinusstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/ccd8193a/augustinusstraat",
+    "title": "Flat Augustinusstraat",
+    "price": 1030.0,
+    "size": 83,
+    "rooms": 2,
+    "location": "3076 NE Rotterdam (Lombardijen)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ccd8193a-a9b5-561d-a61a-0f78c7daf4d5/b5f1358b822e106d504a5baca4b9a890.jpg?width=600&auto=webp",
+    "agency": "Pactum Vastgoed",
+    "first_seen": "2025-06-06T08:17:59.891557",
+    "last_updated": "2025-06-06T08:17:59.891565"
+  },
+  {
     "id": "noorderhavenkade",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/279366af/noorderhavenkade",
     "title": "Flat Noorderhavenkade 151 B",
