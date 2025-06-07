@@ -192,8 +192,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/629f3a9b-4f44-53e4-bef2-374031881430/52c467615157c229dcb64a8765845b53.jpg?width=600&auto=webp",
     "agency": "realestate.nl",
-    "first_seen": "2025-05-08T13:25:42.801791",
-    "last_updated": "2025-05-08T13:25:42.801798"
+    "first_seen": "2025-06-07T14:11:23.351566",
+    "last_updated": "2025-06-07T14:11:23.351570"
   },
   {
     "id": "zuidplein",
@@ -810,20 +810,6 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-05-22T16:16:50.562974",
     "last_updated": "2025-05-22T16:16:50.562980"
-  },
-  {
-    "id": "marconistraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/b6922bde/marconistraat",
-    "title": "Flat Marconistraat 96 kamer 10",
-    "price": 625.0,
-    "size": 25,
-    "rooms": 2,
-    "location": "2562 JG Den Haag (Valkenboskwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b6922bde-332a-5ecc-8b04-0fe9172e6338/c58962bf7cc01451d305348942870cbb.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-05-08T13:25:48.474644",
-    "last_updated": "2025-05-08T13:25:48.474651"
   },
   {
     "id": "monstersestraat",
