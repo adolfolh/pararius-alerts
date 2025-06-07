@@ -164,8 +164,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/00cccf8b-7c63-5ca5-a0e0-46f3963486d2/eaccceb237a38e950bc725dd5149d7b2.jpg?width=600&auto=webp",
     "agency": "Woonzeker Rentals",
-    "first_seen": "2025-05-08T16:16:39.045176",
-    "last_updated": "2025-05-08T16:16:39.045182"
+    "first_seen": "2025-06-07T17:10:48.721462",
+    "last_updated": "2025-06-07T17:10:48.721465"
   },
   {
     "id": "willebrordusplein",
@@ -1048,20 +1048,6 @@
     "agency": "NRW Wonen",
     "first_seen": "2025-05-16T13:25:28.894413",
     "last_updated": "2025-05-16T13:25:28.894418"
-  },
-  {
-    "id": "ieplaan",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/6b330135/ieplaan",
-    "title": "Flat Ieplaan",
-    "price": 695.0,
-    "size": 41,
-    "rooms": 2,
-    "location": "2565 LC Den Haag (Bomenbuurt)",
-    "interior": "Upholstered or furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6b330135-008b-59a7-b59a-71f1fd3c23ec/62f3d78895f2bdac251b4441eed2e235.jpg?width=600&auto=webp",
-    "agency": "Rental Rotterdam",
-    "first_seen": "2025-05-08T16:16:44.901606",
-    "last_updated": "2025-05-08T16:16:44.901608"
   },
   {
     "id": "portlandstraat",
