@@ -420,6 +420,20 @@
     "last_updated": "2025-05-27T11:11:57.103525"
   },
   {
+    "id": "waldorpstraat",
+    "url": "https://www.pararius.com/house-for-rent/den-haag/e15d8e79/waldorpstraat",
+    "title": "House Waldorpstraat 892",
+    "price": 866.0,
+    "size": 23,
+    "rooms": 1,
+    "location": "2521 CW Den Haag (Laakhaven-West)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e15d8e79-f074-5afc-9f94-405f6707ce62/d549a908949acd81d2a79872ebad3c3e.jpg?width=600&auto=webp",
+    "agency": "LIV Residential",
+    "first_seen": "2025-06-05T01:04:37.201357",
+    "last_updated": "2025-06-05T01:04:37.201359"
+  },
+  {
     "id": "copernicuslaan",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/ef6951a8/copernicuslaan",
     "title": "Flat Copernicuslaan 107 B",
@@ -474,20 +488,6 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-06-04T03:12:01.938552",
     "last_updated": "2025-06-04T03:12:01.938554"
-  },
-  {
-    "id": "waldorpstraat",
-    "url": "https://www.pararius.com/house-for-rent/den-haag/e15d8e79/waldorpstraat",
-    "title": "House Waldorpstraat 892",
-    "price": 866.0,
-    "size": 23,
-    "rooms": 1,
-    "location": "2521 CW Den Haag (Laakhaven-West)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e15d8e79-f074-5afc-9f94-405f6707ce62/d549a908949acd81d2a79872ebad3c3e.jpg?width=600&auto=webp",
-    "agency": "LIV Residential",
-    "first_seen": "2025-06-05T01:04:37.201357",
-    "last_updated": "2025-06-05T01:04:37.201359"
   },
   {
     "id": "augustinusstraat",
