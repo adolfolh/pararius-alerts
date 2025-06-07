@@ -1320,5 +1320,14 @@
       "augustinusstraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-06-07T12:23:20.789323",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "daguerrestraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
