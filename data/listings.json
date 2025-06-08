@@ -742,20 +742,6 @@
     "last_updated": "2025-05-22T10:14:24.815121"
   },
   {
-    "id": "vreeswijkstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/2a3430fd/vreeswijkstraat",
-    "title": "Flat Vreeswijkstraat",
-    "price": 995.0,
-    "size": 83,
-    "rooms": 4,
-    "location": "2546 AW Den Haag (Leyenburg)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2a3430fd-d3f7-5258-858b-002fe6ba85c7/4b6ff8b68666e504fd8fa25b347f027c.jpg?width=600&auto=webp",
-    "agency": "Immovita",
-    "first_seen": "2025-05-09T10:13:55.164687",
-    "last_updated": "2025-05-09T10:13:55.164691"
-  },
-  {
     "id": "salvador-allendestraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f26dbe82/salvador-allendestraat",
     "title": "Flat Salvador Allendestraat",
@@ -1076,19 +1062,5 @@
     "agency": "123Wonen Den Haag",
     "first_seen": "2025-05-13T12:26:58.716174",
     "last_updated": "2025-05-13T12:26:58.716183"
-  },
-  {
-    "id": "jan-van-der-heijdenstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/fc730768/jan-van-der-heijdenstraat",
-    "title": "Flat Jan van der Heijdenstraat",
-    "price": 907.0,
-    "size": 74,
-    "rooms": 4,
-    "location": "2522 EM Den Haag (Noordpolderbuurt)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/fc730768-9a4e-5a8e-b705-22c5dce3e957/eb9873c09774262575fea64158d609e6.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-05-09T10:13:55.162801",
-    "last_updated": "2025-05-09T10:13:55.162810"
   }
 ]
