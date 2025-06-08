@@ -1356,5 +1356,14 @@
       "meekrapstraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-06-08T04:24:58.126810",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "nieuwstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
