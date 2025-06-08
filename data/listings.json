@@ -1,5 +1,19 @@
 [
   {
+    "id": "zuidplein",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/15fea00d/zuidplein",
+    "title": "Flat Zuidplein",
+    "price": 840.0,
+    "size": 50,
+    "rooms": 3,
+    "location": "3083 CR Rotterdam (Zuidplein)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/15fea00d-896f-5cf0-b901-925a07b4b8df/3f693c9ed1036b65ade687e5944ff314.jpg?width=600&auto=webp",
+    "agency": "D&S Vastgoed",
+    "first_seen": "2025-06-04T03:11:56.341056",
+    "last_updated": "2025-06-04T03:11:56.341058"
+  },
+  {
     "id": "noorderhavenkade",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/279366af/noorderhavenkade",
     "title": "Flat Noorderhavenkade 151 B",
@@ -194,20 +208,6 @@
     "agency": "realestate.nl",
     "first_seen": "2025-06-07T14:11:23.351566",
     "last_updated": "2025-06-07T14:11:23.351570"
-  },
-  {
-    "id": "zuidplein",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/15fea00d/zuidplein",
-    "title": "Flat Zuidplein",
-    "price": 840.0,
-    "size": 50,
-    "rooms": 3,
-    "location": "3083 CR Rotterdam (Zuidplein)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/15fea00d-896f-5cf0-b901-925a07b4b8df/3f693c9ed1036b65ade687e5944ff314.jpg?width=600&auto=webp",
-    "agency": "D&S Vastgoed",
-    "first_seen": "2025-06-04T03:11:56.341056",
-    "last_updated": "2025-06-04T03:11:56.341058"
   },
   {
     "id": "vijverhofstraat",
@@ -628,20 +628,6 @@
     "agency": "Rent an Apartment",
     "first_seen": "2025-06-03T16:18:11.109959",
     "last_updated": "2025-06-03T16:18:11.109962"
-  },
-  {
-    "id": "lange-lombardstraat",
-    "url": "https://www.pararius.com/studio-for-rent/den-haag/5d39036a/lange-lombardstraat",
-    "title": "Studio Lange Lombardstraat",
-    "price": 959.0,
-    "size": 31,
-    "rooms": 1,
-    "location": "2512 VP Den Haag (Kortenbos)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/5d39036a-83b5-583f-ad62-533a629d2688/7d51dc1fefb4dfbca3f3c7592670844b.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-05-09T12:25:02.624609",
-    "last_updated": "2025-06-03T13:28:46.079620"
   },
   {
     "id": "bilderdijkstraat",
