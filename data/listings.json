@@ -112,20 +112,6 @@
     "last_updated": "2025-05-22T16:16:44.525263"
   },
   {
-    "id": "putsebocht",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/ea2efc47/putsebocht",
-    "title": "Flat Putsebocht 145",
-    "price": 741.0,
-    "size": 62,
-    "rooms": 3,
-    "location": "3073 HH Rotterdam (Bloemhof)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ea2efc47-0e8c-5643-ae47-afa519a4308e/0bdf8419d6dc7a2566eda7c1f2e500c5.jpg?width=600&auto=webp",
-    "agency": "Properbee",
-    "first_seen": "2025-05-22T12:26:58.605846",
-    "last_updated": "2025-05-22T12:26:58.605853"
-  },
-  {
     "id": "hooidrift",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/be97c3f3/hooidrift",
     "title": "Flat Hooidrift 15 C",
@@ -502,6 +488,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-06-04T03:12:01.938552",
     "last_updated": "2025-06-04T03:12:01.938554"
+  },
+  {
+    "id": "putsebocht",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/ea2efc47/putsebocht",
+    "title": "Flat Putsebocht 145",
+    "price": 741.0,
+    "size": 62,
+    "rooms": 3,
+    "location": "3073 HH Rotterdam (Bloemhof)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ea2efc47-0e8c-5643-ae47-afa519a4308e/0bdf8419d6dc7a2566eda7c1f2e500c5.jpg?width=600&auto=webp",
+    "agency": "Properbee",
+    "first_seen": "2025-05-22T12:26:58.605846",
+    "last_updated": "2025-05-22T12:26:58.605853"
   },
   {
     "id": "augustinusstraat",
