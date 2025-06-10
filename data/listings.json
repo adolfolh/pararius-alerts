@@ -714,20 +714,6 @@
     "last_updated": "2025-05-30T12:25:45.292485"
   },
   {
-    "id": "jonker-fransstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/b3027efc/jonker-fransstraat",
-    "title": "Flat Jonker Fransstraat",
-    "price": 662.0,
-    "size": 13,
-    "rooms": 1,
-    "location": "3031 AX Rotterdam (Rubroek)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b3027efc-66c8-5bfd-91e7-bba02663fc6d/c32633426286fecde506916a02b50392.jpg?width=600&auto=webp",
-    "agency": "Rotterdam Apartments",
-    "first_seen": "2025-05-11T17:10:22.837282",
-    "last_updated": "2025-05-11T17:10:22.837284"
-  },
-  {
     "id": "strevelsweg",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f44eec50/strevelsweg",
     "title": "Flat Strevelsweg",
@@ -978,20 +964,6 @@
     "agency": "UBERHOUSE",
     "first_seen": "2025-05-19T10:14:55.783819",
     "last_updated": "2025-05-19T10:14:55.783826"
-  },
-  {
-    "id": "hugo-de-grootstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/83481548/hugo-de-grootstraat",
-    "title": "Flat Hugo de Grootstraat 62 C",
-    "price": 995.0,
-    "size": 38,
-    "rooms": 3,
-    "location": "2518 EE Den Haag (Zeeheldenkwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/83481548-3cae-53af-99f1-9a33d4f8ca7f/457bf6d9ee0fa92f678274c548aa6616.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-05-11T17:10:28.579462",
-    "last_updated": "2025-05-11T17:10:28.579464"
   },
   {
     "id": "escamplaan",
