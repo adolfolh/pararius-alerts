@@ -252,6 +252,20 @@
     "last_updated": "2025-06-04T03:11:56.346950"
   },
   {
+    "id": "mosveen",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/407cb0e1/mosveen",
+    "title": "Flat Mosveen",
+    "price": 477.0,
+    "size": 53,
+    "rooms": 2,
+    "location": "2544 RW Den Haag (Venen, Oorden en Raden)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/407cb0e1-2763-5ae3-a66e-09c62c30c2e0/7c50ec58e785db74be6bfd92b76d47fa.jpg?width=600&auto=webp",
+    "agency": "Ad Hoc Den Haag",
+    "first_seen": "2025-06-10T13:29:05.901135",
+    "last_updated": "2025-06-10T13:29:05.901144"
+  },
+  {
     "id": "loosduinsekade",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/e7413a0f/loosduinsekade",
     "title": "Flat Loosduinsekade",
