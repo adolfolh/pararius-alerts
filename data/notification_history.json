@@ -1412,5 +1412,17 @@
       "prins-hendrikstraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-06-11T15:14:42.952256",
+    "new_listings_count": 2,
+    "updated_listings_count": 1,
+    "new_listing_ids": [
+      "madeliefstraat",
+      "laan-van-nieuw-oost-indie"
+    ],
+    "updated_listing_ids": [
+      "zoutmanstraat"
+    ]
   }
 ]

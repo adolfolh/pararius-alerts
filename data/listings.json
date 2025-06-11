@@ -136,8 +136,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/a0426822-201b-534e-abb4-c8cfecca270c/dbf1881d92013c5126ac7d6f0884a118.png?width=600&auto=webp",
     "agency": "HouseHunting Randstad",
-    "first_seen": "2025-05-12T14:13:58.451074",
-    "last_updated": "2025-05-12T14:13:58.451081"
+    "first_seen": "2025-06-11T15:14:36.253283",
+    "last_updated": "2025-06-11T15:14:36.253286"
   },
   {
     "id": "meekrapstraat",
@@ -236,6 +236,34 @@
     "agency": "Rotterdam Apartments",
     "first_seen": "2025-06-04T03:11:56.346948",
     "last_updated": "2025-06-04T03:11:56.346950"
+  },
+  {
+    "id": "laan-van-nieuw-oost-indie",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/72e11e6d/laan-van-nieuw-oost-indie",
+    "title": "Flat Laan van Nieuw-Oost-Indi\u00eb",
+    "price": 997.0,
+    "size": 32,
+    "rooms": 2,
+    "location": "2593 BT Den Haag (Bezuidenhout-Oost)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/72e11e6d-5d18-5b9e-9d21-7c7642733a6d/e593f97262c9fa49959b333c080b4e75.jpg?width=600&auto=webp",
+    "agency": "Rent Valley",
+    "first_seen": "2025-06-11T15:14:42.285666",
+    "last_updated": "2025-06-11T15:14:42.285677"
+  },
+  {
+    "id": "zoutmanstraat",
+    "url": "https://www.pararius.com/studio-for-rent/den-haag/3546d498/zoutmanstraat",
+    "title": "Studio Zoutmanstraat",
+    "price": 725.0,
+    "size": 38,
+    "rooms": 2,
+    "location": "2518 GP Den Haag (Zeeheldenkwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/3546d498-f48b-539e-b460-377db0005af2/3e270bde1d8bb73851a9c400c7c41145.jpg?width=600&auto=webp",
+    "agency": "Living Today",
+    "first_seen": "2025-06-11T10:14:49.493296",
+    "last_updated": "2025-06-11T15:14:42.342592"
   },
   {
     "id": "mosveen",
@@ -488,20 +516,6 @@
     "agency": "Perfect Rent",
     "first_seen": "2025-06-02T01:07:29.500522",
     "last_updated": "2025-06-02T01:07:29.500528"
-  },
-  {
-    "id": "zoutmanstraat",
-    "url": "https://www.pararius.com/studio-for-rent/den-haag/3546d498/zoutmanstraat",
-    "title": "Studio Zoutmanstraat",
-    "price": 600.0,
-    "size": 38,
-    "rooms": 2,
-    "location": "2518 GP Den Haag (Zeeheldenkwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/3546d498-f48b-539e-b460-377db0005af2/3e270bde1d8bb73851a9c400c7c41145.jpg?width=600&auto=webp",
-    "agency": "Living Today",
-    "first_seen": "2025-06-11T10:14:49.493296",
-    "last_updated": "2025-06-11T10:14:49.493302"
   },
   {
     "id": "hoogveen",
@@ -908,20 +922,6 @@
     "agency": "NRW Wonen",
     "first_seen": "2025-05-17T12:22:47.918285",
     "last_updated": "2025-05-17T12:22:47.918287"
-  },
-  {
-    "id": "ametisthorst",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/74d1d2a4/ametisthorst",
-    "title": "Flat Ametisthorst 347",
-    "price": 939.0,
-    "size": 72,
-    "rooms": 3,
-    "location": "2592 HM Den Haag (Burgen en Horsten)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/74d1d2a4-d4d6-55b7-b297-6b330c29feef/5094c7d75664815184c1c41e4c66426a.jpg?width=600&auto=webp",
-    "agency": "Nationaal Grondbezit",
-    "first_seen": "2025-05-12T14:14:04.346271",
-    "last_updated": "2025-05-12T14:14:04.346279"
   },
   {
     "id": "kornalijnhorst",
