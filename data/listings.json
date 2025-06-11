@@ -70,20 +70,6 @@
     "last_updated": "2025-06-03T10:15:00.051063"
   },
   {
-    "id": "zaagmolenstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/de93c111/zaagmolenstraat",
-    "title": "Flat Zaagmolenstraat",
-    "price": 900.0,
-    "size": 44,
-    "rooms": 2,
-    "location": "3035 HH Rotterdam (Oude Noorden)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/de93c111-ee76-526f-98ba-cfe625992b67/8df136296ed92a9bbf1a8957053c3ff6.jpg?width=600&auto=webp",
-    "agency": "Perfect Rent",
-    "first_seen": "2025-06-02T01:07:29.500522",
-    "last_updated": "2025-06-02T01:07:29.500528"
-  },
-  {
     "id": "schieweg",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a6f9c81d/schieweg",
     "title": "Flat Schieweg",
@@ -490,6 +476,20 @@
     "last_updated": "2025-05-30T11:11:06.916225"
   },
   {
+    "id": "zaagmolenstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/de93c111/zaagmolenstraat",
+    "title": "Flat Zaagmolenstraat",
+    "price": 900.0,
+    "size": 44,
+    "rooms": 2,
+    "location": "3035 HH Rotterdam (Oude Noorden)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/de93c111-ee76-526f-98ba-cfe625992b67/8df136296ed92a9bbf1a8957053c3ff6.jpg?width=600&auto=webp",
+    "agency": "Perfect Rent",
+    "first_seen": "2025-06-02T01:07:29.500522",
+    "last_updated": "2025-06-02T01:07:29.500528"
+  },
+  {
     "id": "zoutmanstraat",
     "url": "https://www.pararius.com/studio-for-rent/den-haag/3546d498/zoutmanstraat",
     "title": "Studio Zoutmanstraat",
@@ -838,20 +838,6 @@
     "agency": "Rent an Apartment",
     "first_seen": "2025-05-14T09:14:02.549773",
     "last_updated": "2025-05-14T09:14:02.549780"
-  },
-  {
-    "id": "waterloostraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a4bd0abd/waterloostraat",
-    "title": "Flat Waterloostraat",
-    "price": 899.0,
-    "size": 13,
-    "rooms": 1,
-    "location": "3062 TS Rotterdam (Kralingen Oost)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a4bd0abd-4d2a-552b-9c43-1ac634e7a09e/7f6b1fa303054192e5362e4f650ef1ee.jpg?width=600&auto=webp",
-    "agency": "Rotterdam Apartments",
-    "first_seen": "2025-05-12T13:27:09.526461",
-    "last_updated": "2025-05-12T13:27:09.526467"
   },
   {
     "id": "apeldoornselaan",
