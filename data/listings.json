@@ -252,20 +252,6 @@
     "last_updated": "2025-06-11T15:14:42.285677"
   },
   {
-    "id": "zoutmanstraat",
-    "url": "https://www.pararius.com/studio-for-rent/den-haag/3546d498/zoutmanstraat",
-    "title": "Studio Zoutmanstraat",
-    "price": 725.0,
-    "size": 38,
-    "rooms": 2,
-    "location": "2518 GP Den Haag (Zeeheldenkwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/3546d498-f48b-539e-b460-377db0005af2/3e270bde1d8bb73851a9c400c7c41145.jpg?width=600&auto=webp",
-    "agency": "Living Today",
-    "first_seen": "2025-06-11T10:14:49.493296",
-    "last_updated": "2025-06-11T15:14:42.342592"
-  },
-  {
     "id": "mosveen",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/407cb0e1/mosveen",
     "title": "Flat Mosveen",
@@ -502,6 +488,20 @@
     "agency": "Immovita",
     "first_seen": "2025-05-30T11:11:06.916223",
     "last_updated": "2025-05-30T11:11:06.916225"
+  },
+  {
+    "id": "zoutmanstraat",
+    "url": "https://www.pararius.com/studio-for-rent/den-haag/3546d498/zoutmanstraat",
+    "title": "Studio Zoutmanstraat",
+    "price": 725.0,
+    "size": 38,
+    "rooms": 2,
+    "location": "2518 GP Den Haag (Zeeheldenkwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/3546d498-f48b-539e-b460-377db0005af2/3e270bde1d8bb73851a9c400c7c41145.jpg?width=600&auto=webp",
+    "agency": "Living Today",
+    "first_seen": "2025-06-11T10:14:49.493296",
+    "last_updated": "2025-06-11T15:14:42.342592"
   },
   {
     "id": "zaagmolenstraat",
