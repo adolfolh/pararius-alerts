@@ -1392,5 +1392,15 @@
       "mosveen"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-06-11T10:14:49.892934",
+    "new_listings_count": 2,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "zoutmanstraat",
+      "amsterdamsestraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
