@@ -1,5 +1,19 @@
 [
   {
+    "id": "dordtselaan",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/1e26d609/dordtselaan",
+    "title": "Flat Dordtselaan",
+    "price": 985.0,
+    "size": 65,
+    "rooms": 2,
+    "location": "3073 GK Rotterdam (Bloemhof)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/1e26d609-2b15-51dd-93b2-44c36e9c3b19/980a51860d8950aedd3f1dfdf938591a.jpg?width=600&auto=webp",
+    "agency": "Rent an Apartment",
+    "first_seen": "2025-06-12T15:14:22.412600",
+    "last_updated": "2025-06-12T15:14:22.412609"
+  },
+  {
     "id": "bredestraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/629f3a9b/bredestraat",
     "title": "Flat Bredestraat",
@@ -54,20 +68,6 @@
     "agency": "Perfect Rent",
     "first_seen": "2025-06-05T14:13:26.312917",
     "last_updated": "2025-06-05T14:13:26.312920"
-  },
-  {
-    "id": "middelharnisstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/87c55f13/middelharnisstraat",
-    "title": "Flat Middelharnisstraat",
-    "price": 927.0,
-    "size": 57,
-    "rooms": 3,
-    "location": "3086 GH Rotterdam (Pendrecht)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/87c55f13-ef46-5f65-b32e-6655d1fff624/26b5d69945f80804ac51e9d939980fbe.jpg?width=600&auto=webp",
-    "agency": "Perfect Rent",
-    "first_seen": "2025-06-03T15:15:14.143234",
-    "last_updated": "2025-06-03T15:15:14.143241"
   },
   {
     "id": "ruwaardstraat",
@@ -516,6 +516,20 @@
     "agency": "Immovita",
     "first_seen": "2025-05-30T11:11:06.916223",
     "last_updated": "2025-05-30T11:11:06.916225"
+  },
+  {
+    "id": "middelharnisstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/87c55f13/middelharnisstraat",
+    "title": "Flat Middelharnisstraat",
+    "price": 927.0,
+    "size": 57,
+    "rooms": 3,
+    "location": "3086 GH Rotterdam (Pendrecht)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/87c55f13-ef46-5f65-b32e-6655d1fff624/26b5d69945f80804ac51e9d939980fbe.jpg?width=600&auto=webp",
+    "agency": "Perfect Rent",
+    "first_seen": "2025-06-03T15:15:14.143234",
+    "last_updated": "2025-06-03T15:15:14.143241"
   },
   {
     "id": "zoutmanstraat",
@@ -992,19 +1006,5 @@
     "agency": "NRW Wonen",
     "first_seen": "2025-05-16T13:25:28.894413",
     "last_updated": "2025-05-16T13:25:28.894418"
-  },
-  {
-    "id": "portlandstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f92acfeb/portlandstraat",
-    "title": "Flat Portlandstraat",
-    "price": 860.0,
-    "size": 45,
-    "rooms": 2,
-    "location": "3082 XE Rotterdam (Oud Charlois)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f92acfeb-59b9-50e8-b1ff-7cf2e403032b/93ead828fb6336009f32eedb6aea0a77.jpg?width=600&auto=webp",
-    "agency": "Teylinger Vastgoed",
-    "first_seen": "2025-05-13T15:13:44.810059",
-    "last_updated": "2025-05-13T15:13:44.810065"
   }
 ]
