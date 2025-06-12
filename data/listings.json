@@ -238,6 +238,20 @@
     "last_updated": "2025-06-04T03:11:56.346950"
   },
   {
+    "id": "van-hogendorpstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/1ae76aaa/van-hogendorpstraat",
+    "title": "Flat Van Hogendorpstraat",
+    "price": 907.0,
+    "size": 62,
+    "rooms": 2,
+    "location": "2515 NX Den Haag (Huygenspark)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/1ae76aaa-1d30-5aa0-a651-8574621684ef/23ceabae132a8fd2d645457dbfdd3cec.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-06-12T13:28:21.532526",
+    "last_updated": "2025-06-12T13:28:21.532532"
+  },
+  {
     "id": "laan-van-nieuw-oost-indie",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/72e11e6d/laan-van-nieuw-oost-indie",
     "title": "Flat Laan van Nieuw-Oost-Indi\u00eb",
@@ -978,19 +992,5 @@
     "agency": "Teylinger Vastgoed",
     "first_seen": "2025-05-13T15:13:44.810059",
     "last_updated": "2025-05-13T15:13:44.810065"
-  },
-  {
-    "id": "louis-davidsstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/7f657cea/louis-davidsstraat",
-    "title": "Flat Louis Davidsstraat",
-    "price": 852.0,
-    "size": 50,
-    "rooms": 2,
-    "location": "2551 EC Den Haag (Waldeck-Zuid)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7f657cea-2c80-5d91-82ca-55d079116889/e6510a8eb96bc6e178cae93aceba4bb9.jpg?width=600&auto=webp",
-    "agency": "123Wonen Den Haag",
-    "first_seen": "2025-05-13T12:26:58.716174",
-    "last_updated": "2025-05-13T12:26:58.716183"
   }
 ]

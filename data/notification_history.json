@@ -1424,5 +1424,14 @@
     "updated_listing_ids": [
       "zoutmanstraat"
     ]
+  },
+  {
+    "timestamp": "2025-06-12T13:28:21.980699",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "van-hogendorpstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
