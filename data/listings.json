@@ -84,6 +84,20 @@
     "last_updated": "2025-06-03T10:15:00.051063"
   },
   {
+    "id": "schieweg",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/9a58d8f4/schieweg",
+    "title": "Flat Schieweg",
+    "price": 927.0,
+    "size": 25,
+    "rooms": 1,
+    "location": "3038 AE Rotterdam (Bergpolder)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9a58d8f4-2329-5754-9227-27e8f2702414/14df5c8125bc5bb1010ccb08e13dc73a.jpg?width=600&auto=webp",
+    "agency": "Rotterdam Apartments",
+    "first_seen": "2025-05-26T15:13:43.004961",
+    "last_updated": "2025-06-13T13:27:00.016802"
+  },
+  {
     "id": "van-speykstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/7d1a03dd/van-speykstraat",
     "title": "Flat Van Speykstraat 151 E",
@@ -516,20 +530,6 @@
     "agency": "Immovita",
     "first_seen": "2025-05-30T11:11:06.916223",
     "last_updated": "2025-05-30T11:11:06.916225"
-  },
-  {
-    "id": "schieweg",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a6f9c81d/schieweg",
-    "title": "Flat Schieweg",
-    "price": 925.0,
-    "size": 25,
-    "rooms": 1,
-    "location": "3038 AE Rotterdam (Bergpolder)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a6f9c81d-5c27-5cba-b6ae-2d83f2c7fcdc/388e2ff442f5b8e948e31c81bcfb2fac.jpg?width=600&auto=webp",
-    "agency": "Rotterdam Apartments",
-    "first_seen": "2025-05-26T15:13:43.004961",
-    "last_updated": "2025-05-26T15:13:43.004967"
   },
   {
     "id": "van-hogendorpstraat",
