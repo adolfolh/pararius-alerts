@@ -238,6 +238,20 @@
     "last_updated": "2025-06-04T03:11:56.346950"
   },
   {
+    "id": "zoutmanstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/d58087f5/zoutmanstraat",
+    "title": "Flat Zoutmanstraat 8 kamer 5 en 6",
+    "price": 675.0,
+    "size": 27,
+    "rooms": 2,
+    "location": "2518 GP Den Haag (Zeeheldenkwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/d58087f5-514b-55b6-b7ae-23bb22210a87/930548eee1a0099669cd1fd0e4ffa57a.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-06-11T10:14:49.493296",
+    "last_updated": "2025-06-13T10:14:40.751652"
+  },
+  {
     "id": "esdoornstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/f5915d10/esdoornstraat",
     "title": "Flat Esdoornstraat",
@@ -544,20 +558,6 @@
     "agency": "Perfect Rent",
     "first_seen": "2025-06-03T15:15:14.143234",
     "last_updated": "2025-06-03T15:15:14.143241"
-  },
-  {
-    "id": "zoutmanstraat",
-    "url": "https://www.pararius.com/studio-for-rent/den-haag/3546d498/zoutmanstraat",
-    "title": "Studio Zoutmanstraat",
-    "price": 725.0,
-    "size": 38,
-    "rooms": 2,
-    "location": "2518 GP Den Haag (Zeeheldenkwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/3546d498-f48b-539e-b460-377db0005af2/3e270bde1d8bb73851a9c400c7c41145.jpg?width=600&auto=webp",
-    "agency": "Living Today",
-    "first_seen": "2025-06-11T10:14:49.493296",
-    "last_updated": "2025-06-11T15:14:42.342592"
   },
   {
     "id": "zaagmolenstraat",

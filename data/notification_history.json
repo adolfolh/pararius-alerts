@@ -1460,5 +1460,14 @@
       "vreeswijkstraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-06-13T10:14:41.302477",
+    "new_listings_count": 0,
+    "updated_listings_count": 1,
+    "new_listing_ids": [],
+    "updated_listing_ids": [
+      "zoutmanstraat"
+    ]
   }
 ]
