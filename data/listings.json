@@ -462,6 +462,20 @@
     "last_updated": "2025-06-08T16:15:02.022789"
   },
   {
+    "id": "vreeswijkstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/2a3430fd/vreeswijkstraat",
+    "title": "Flat Vreeswijkstraat",
+    "price": 995.0,
+    "size": 83,
+    "rooms": 4,
+    "location": "2546 AW Den Haag (Leyenburg)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2a3430fd-d3f7-5258-858b-002fe6ba85c7/4b6ff8b68666e504fd8fa25b347f027c.jpg?width=600&auto=webp",
+    "agency": "Immovita",
+    "first_seen": "2025-06-13T09:14:43.357752",
+    "last_updated": "2025-06-13T09:14:43.357754"
+  },
+  {
     "id": "waldorpstraat",
     "url": "https://www.pararius.com/house-for-rent/den-haag/e15d8e79/waldorpstraat",
     "title": "House Waldorpstraat 892",
@@ -880,20 +894,6 @@
     "agency": "Rent an Apartment",
     "first_seen": "2025-05-21T15:14:41.313144",
     "last_updated": "2025-05-21T15:14:41.313152"
-  },
-  {
-    "id": "hoogstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/d7cd9504/hoogstraat",
-    "title": "Flat Hoogstraat",
-    "price": 995.0,
-    "size": 60,
-    "rooms": 2,
-    "location": "3011 PG Rotterdam (Stadsdriehoek)",
-    "interior": "Upholstered or furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/d7cd9504-d250-5095-9055-9a29b5bda6b8/9a23c3e6f42a211b6e2064016ce6e8a5.jpg?width=600&auto=webp",
-    "agency": "Rent an Apartment",
-    "first_seen": "2025-05-14T09:14:02.549773",
-    "last_updated": "2025-05-14T09:14:02.549780"
   },
   {
     "id": "apeldoornselaan",
