@@ -1478,5 +1478,14 @@
     "updated_listing_ids": [
       "schieweg"
     ]
+  },
+  {
+    "timestamp": "2025-06-13T16:16:42.787582",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "van-speijkstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
