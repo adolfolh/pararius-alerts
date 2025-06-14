@@ -238,6 +238,20 @@
     "last_updated": "2025-06-04T03:11:56.346950"
   },
   {
+    "id": "vreeswijkstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/2a3430fd/vreeswijkstraat",
+    "title": "Flat Vreeswijkstraat",
+    "price": 995.0,
+    "size": 83,
+    "rooms": 4,
+    "location": "2546 AW Den Haag (Leyenburg)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2a3430fd-d3f7-5258-858b-002fe6ba85c7/4b6ff8b68666e504fd8fa25b347f027c.jpg?width=600&auto=webp",
+    "agency": "Immovita",
+    "first_seen": "2025-06-13T09:14:43.357752",
+    "last_updated": "2025-06-13T09:14:43.357754"
+  },
+  {
     "id": "van-speijkstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/fbf0baad/van-speijkstraat",
     "title": "Flat Van Speijkstraat",
@@ -488,20 +502,6 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-06-08T16:15:02.022786",
     "last_updated": "2025-06-08T16:15:02.022789"
-  },
-  {
-    "id": "vreeswijkstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/2a3430fd/vreeswijkstraat",
-    "title": "Flat Vreeswijkstraat",
-    "price": 995.0,
-    "size": 83,
-    "rooms": 4,
-    "location": "2546 AW Den Haag (Leyenburg)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2a3430fd-d3f7-5258-858b-002fe6ba85c7/4b6ff8b68666e504fd8fa25b347f027c.jpg?width=600&auto=webp",
-    "agency": "Immovita",
-    "first_seen": "2025-06-13T09:14:43.357752",
-    "last_updated": "2025-06-13T09:14:43.357754"
   },
   {
     "id": "copernicuslaan",
