@@ -700,20 +700,6 @@
     "last_updated": "2025-06-04T12:26:58.820014"
   },
   {
-    "id": "wolphaertsbocht",
-    "url": "https://www.pararius.com/studio-for-rent/rotterdam/8eb9ad27/wolphaertsbocht",
-    "title": "Studio Wolphaertsbocht",
-    "price": 925.0,
-    "size": 20,
-    "rooms": 2,
-    "location": "3083 MJ Rotterdam (Carnisse)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/8eb9ad27-13dd-5e30-8b69-f6bce6a93e82/f58954837f6359b19e87ba6e25413109.jpg?width=600&auto=webp",
-    "agency": "Homey Housing",
-    "first_seen": "2025-05-16T13:25:22.713854",
-    "last_updated": "2025-06-02T16:17:15.700195"
-  },
-  {
     "id": "gouvernestraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/c8686225/gouvernestraat",
     "title": "Flat Gouvernestraat 117 03",
@@ -992,19 +978,5 @@
     "agency": "UBERHOUSE",
     "first_seen": "2025-05-19T10:14:55.783819",
     "last_updated": "2025-05-19T10:14:55.783826"
-  },
-  {
-    "id": "escamplaan",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/001b5135/escamplaan",
-    "title": "Flat Escamplaan",
-    "price": 854.0,
-    "size": 72,
-    "rooms": 3,
-    "location": "2547 GM Den Haag (Rustenburg)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/001b5135-9668-5240-bbe7-45fa889f8af3/fd0da9fe0aa73d1107b66f6de29e6c4f.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-05-16T13:25:28.894413",
-    "last_updated": "2025-05-16T13:25:28.894418"
   }
 ]
