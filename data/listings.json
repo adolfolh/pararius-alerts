@@ -238,6 +238,20 @@
     "last_updated": "2025-06-04T03:11:56.346950"
   },
   {
+    "id": "loosduinsekade",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/e7413a0f/loosduinsekade",
+    "title": "Flat Loosduinsekade",
+    "price": 760.0,
+    "size": 29,
+    "rooms": 2,
+    "location": "2571 BN Den Haag (Schildersbuurt-West)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e7413a0f-f4c1-5e99-835d-c86f65751c1c/640e56b4708ac40608a9f2b44db6e07e.jpg?width=600&auto=webp",
+    "agency": "Key Vastbeheer",
+    "first_seen": "2025-06-04T03:12:01.937069",
+    "last_updated": "2025-06-10T12:27:36.401498"
+  },
+  {
     "id": "weteringkade",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/a6f3d635/weteringkade",
     "title": "Flat Weteringkade",
@@ -320,20 +334,6 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-06-10T13:29:05.901135",
     "last_updated": "2025-06-10T13:29:05.901144"
-  },
-  {
-    "id": "loosduinsekade",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/e7413a0f/loosduinsekade",
-    "title": "Flat Loosduinsekade",
-    "price": 760.0,
-    "size": 29,
-    "rooms": 2,
-    "location": "2571 BN Den Haag (Schildersbuurt-West)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e7413a0f-f4c1-5e99-835d-c86f65751c1c/640e56b4708ac40608a9f2b44db6e07e.jpg?width=600&auto=webp",
-    "agency": "Key Vastbeheer",
-    "first_seen": "2025-06-04T03:12:01.937069",
-    "last_updated": "2025-06-10T12:27:36.401498"
   },
   {
     "id": "nieuwstraat",
