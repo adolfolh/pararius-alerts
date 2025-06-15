@@ -266,20 +266,6 @@
     "last_updated": "2025-06-13T09:14:43.357754"
   },
   {
-    "id": "van-speijkstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/fbf0baad/van-speijkstraat",
-    "title": "Flat Van Speijkstraat",
-    "price": 1000.0,
-    "size": 42,
-    "rooms": 2,
-    "location": "2518 GG Den Haag (Zeeheldenkwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/fbf0baad-bcf5-5a9e-b5fc-cd35474bcc2c/1e7ea7df8e84d5d45809f34cf4d79c8b.jpg?width=600&auto=webp",
-    "agency": "'t Hart & Nijveldt BV",
-    "first_seen": "2025-06-13T16:16:42.200250",
-    "last_updated": "2025-06-13T16:16:42.200258"
-  },
-  {
     "id": "zoutmanstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/d58087f5/zoutmanstraat",
     "title": "Flat Zoutmanstraat 8 kamer 5 en 6",
@@ -530,6 +516,20 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-06-04T03:12:01.934109",
     "last_updated": "2025-06-04T03:12:01.934111"
+  },
+  {
+    "id": "van-speijkstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/fbf0baad/van-speijkstraat",
+    "title": "Flat Van Speijkstraat",
+    "price": 1000.0,
+    "size": 42,
+    "rooms": 2,
+    "location": "2518 GG Den Haag (Zeeheldenkwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/fbf0baad-bcf5-5a9e-b5fc-cd35474bcc2c/1e7ea7df8e84d5d45809f34cf4d79c8b.jpg?width=600&auto=webp",
+    "agency": "'t Hart & Nijveldt BV",
+    "first_seen": "2025-06-13T16:16:42.200250",
+    "last_updated": "2025-06-13T16:16:42.200258"
   },
   {
     "id": "mallemolen",
