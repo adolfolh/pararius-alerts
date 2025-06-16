@@ -210,6 +210,34 @@
     "last_updated": "2025-06-04T03:11:56.346950"
   },
   {
+    "id": "treilerweg",
+    "url": "https://www.pararius.com/studio-for-rent/den-haag/801d8e62/treilerweg",
+    "title": "Studio Treilerweg",
+    "price": 900.0,
+    "size": 26,
+    "rooms": 1,
+    "location": "2583 DB Den Haag (Vissershaven)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/801d8e62-84f6-5076-8ebc-3b2402c26342/e41b93d1153b55c2f3cac27c1727b854.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-06-16T15:14:41.077039",
+    "last_updated": "2025-06-16T15:14:41.077046"
+  },
+  {
+    "id": "waldorpstraat",
+    "url": "https://www.pararius.com/house-for-rent/den-haag/e15d8e79/waldorpstraat",
+    "title": "House Waldorpstraat 892",
+    "price": 866.0,
+    "size": 23,
+    "rooms": 1,
+    "location": "2521 CW Den Haag (Laakhaven-West)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e15d8e79-f074-5afc-9f94-405f6707ce62/d549a908949acd81d2a79872ebad3c3e.jpg?width=600&auto=webp",
+    "agency": "LIV Residential",
+    "first_seen": "2025-06-05T01:04:37.201357",
+    "last_updated": "2025-06-05T01:04:37.201359"
+  },
+  {
     "id": "weteringkade",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/a6f3d635/weteringkade",
     "title": "Flat Weteringkade",
@@ -460,20 +488,6 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-06-08T16:15:02.022786",
     "last_updated": "2025-06-08T16:15:02.022789"
-  },
-  {
-    "id": "waldorpstraat",
-    "url": "https://www.pararius.com/house-for-rent/den-haag/e15d8e79/waldorpstraat",
-    "title": "House Waldorpstraat 892",
-    "price": 866.0,
-    "size": 23,
-    "rooms": 1,
-    "location": "2521 CW Den Haag (Laakhaven-West)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e15d8e79-f074-5afc-9f94-405f6707ce62/d549a908949acd81d2a79872ebad3c3e.jpg?width=600&auto=webp",
-    "agency": "LIV Residential",
-    "first_seen": "2025-06-05T01:04:37.201357",
-    "last_updated": "2025-06-05T01:04:37.201359"
   },
   {
     "id": "copernicuslaan",

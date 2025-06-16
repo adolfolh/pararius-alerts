@@ -1514,5 +1514,14 @@
     "updated_listing_ids": [
       "strevelsweg"
     ]
+  },
+  {
+    "timestamp": "2025-06-16T15:14:47.160697",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "treilerweg"
+    ],
+    "updated_listing_ids": []
   }
 ]
