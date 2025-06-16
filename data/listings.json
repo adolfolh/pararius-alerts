@@ -1,5 +1,19 @@
 [
   {
+    "id": "strevelsweg",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/9f02e697/strevelsweg",
+    "title": "Studio Strevelsweg",
+    "price": 699.0,
+    "size": 25,
+    "rooms": 2,
+    "location": "3073 DS Rotterdam (Bloemhof)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9f02e697-75d6-55ea-97fc-96d1e0941985/f3c2c9a2ab23abac8d0e645fdeba603f.jpg?width=600&auto=webp",
+    "agency": "YouSpace",
+    "first_seen": "2025-05-22T10:14:24.815118",
+    "last_updated": "2025-06-16T12:27:51.426689"
+  },
+  {
     "id": "dordtselaan",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/1e26d609/dordtselaan",
     "title": "Flat Dordtselaan",
@@ -68,20 +82,6 @@
     "agency": "Perfect Rent",
     "first_seen": "2025-06-05T14:13:26.312917",
     "last_updated": "2025-06-05T14:13:26.312920"
-  },
-  {
-    "id": "ruwaardstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/e83c046f/ruwaardstraat",
-    "title": "Flat Ruwaardstraat",
-    "price": 950.0,
-    "size": 15,
-    "rooms": 1,
-    "location": "3023 PV Rotterdam (Nieuwe Westen)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e83c046f-4163-52a0-b200-8ac3a7d1645c/9042855b4d77536f1f336a24fb656606.jpg?width=600&auto=webp",
-    "agency": "Rotterdam Apartments",
-    "first_seen": "2025-06-03T10:15:00.051057",
-    "last_updated": "2025-06-03T10:15:00.051063"
   },
   {
     "id": "schieweg",
@@ -504,6 +504,20 @@
     "last_updated": "2025-06-04T03:12:01.934111"
   },
   {
+    "id": "ruwaardstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/e83c046f/ruwaardstraat",
+    "title": "Flat Ruwaardstraat",
+    "price": 950.0,
+    "size": 15,
+    "rooms": 1,
+    "location": "3023 PV Rotterdam (Nieuwe Westen)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e83c046f-4163-52a0-b200-8ac3a7d1645c/9042855b4d77536f1f336a24fb656606.jpg?width=600&auto=webp",
+    "agency": "Rotterdam Apartments",
+    "first_seen": "2025-06-03T10:15:00.051057",
+    "last_updated": "2025-06-03T10:15:00.051063"
+  },
+  {
     "id": "hooidrift",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/be97c3f3/hooidrift",
     "title": "Flat Hooidrift 15 C",
@@ -784,20 +798,6 @@
     "last_updated": "2025-05-26T15:13:48.838845"
   },
   {
-    "id": "strevelsweg",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f44eec50/strevelsweg",
-    "title": "Flat Strevelsweg",
-    "price": 966.0,
-    "size": 56,
-    "rooms": 2,
-    "location": "3075 AJ Rotterdam (Vreewijk)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f44eec50-b1b1-5982-b3c8-184e7cf462c5/77eb7898a3ca44e3bbc39ccc45b77a6e.jpg?width=600&auto=webp",
-    "agency": "Rental Rotterdam",
-    "first_seen": "2025-05-22T10:14:24.815118",
-    "last_updated": "2025-05-22T10:14:24.815121"
-  },
-  {
     "id": "van-galenstraat",
     "url": "https://www.pararius.com/studio-for-rent/den-haag/a140d97b/van-galenstraat",
     "title": "Studio Van Galenstraat",
@@ -936,20 +936,6 @@
     "agency": "NRW Wonen",
     "first_seen": "2025-05-20T11:11:43.735089",
     "last_updated": "2025-05-20T11:11:43.735092"
-  },
-  {
-    "id": "keizerstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/a2a1152e/keizerstraat",
-    "title": "Flat Keizerstraat",
-    "price": 959.0,
-    "size": 35,
-    "rooms": 1,
-    "location": "2584 BE Den Haag (Oud Scheveningen)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a2a1152e-4497-574e-8eef-4931aa4a533c/41cd5e1e11fffcf3154c52e5371dc309.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-05-17T12:22:47.918285",
-    "last_updated": "2025-05-17T12:22:47.918287"
   },
   {
     "id": "kornalijnhorst",
