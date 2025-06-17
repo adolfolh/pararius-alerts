@@ -1,5 +1,19 @@
 [
   {
+    "id": "korhaanstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/5ad6b4f0/korhaanstraat",
+    "title": "Flat Korhaanstraat 24 B",
+    "price": 701.0,
+    "size": 47,
+    "rooms": 3,
+    "location": "3083 XP Rotterdam (Carnisse)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/5ad6b4f0-5666-591a-b615-dc2c3a6bb701/77ceda2c70e77e1d32a109f465f1b22a.jpg?width=600&auto=webp",
+    "agency": "Kolpa V.V.S. Beheer",
+    "first_seen": "2025-06-17T15:14:30.922269",
+    "last_updated": "2025-06-17T15:14:30.922273"
+  },
+  {
     "id": "pleinweg",
     "url": "https://www.pararius.com/studio-for-rent/rotterdam/24a3de2a/pleinweg",
     "title": "Studio Pleinweg",
@@ -224,20 +238,6 @@
     "last_updated": "2025-06-04T03:11:56.346950"
   },
   {
-    "id": "granaathorst",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/e69406db/granaathorst",
-    "title": "Flat Granaathorst 347",
-    "price": 800.0,
-    "size": 55,
-    "rooms": 2,
-    "location": "2592 SZ Den Haag (Burgen en Horsten)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e69406db-0469-52ac-996d-29e88593f602/7259b6dd991af5981b151b0e438cef99.jpg?width=600&auto=webp",
-    "agency": "Nationaal Grondbezit",
-    "first_seen": "2025-06-17T11:12:05.318658",
-    "last_updated": "2025-06-17T11:12:05.318663"
-  },
-  {
     "id": "waldorpstraat",
     "url": "https://www.pararius.com/house-for-rent/den-haag/e15d8e79/waldorpstraat",
     "title": "House Waldorpstraat 892",
@@ -250,6 +250,48 @@
     "agency": "LIV Residential",
     "first_seen": "2025-06-05T01:04:37.201357",
     "last_updated": "2025-06-05T01:04:37.201359"
+  },
+  {
+    "id": "ieplaan",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/26e66b1c/ieplaan",
+    "title": "Flat Ieplaan",
+    "price": 995.0,
+    "size": 74,
+    "rooms": 3,
+    "location": "2565 LK Den Haag (Bomenbuurt)",
+    "interior": "Upholstered or furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/26e66b1c-1793-5325-8215-a28651cfbda8/fc1dd09bf7b4e9f0f96380256b52337d.jpg?width=600&auto=webp",
+    "agency": "Rental Rotterdam",
+    "first_seen": "2025-06-17T15:14:36.908176",
+    "last_updated": "2025-06-17T15:14:36.908179"
+  },
+  {
+    "id": "laan-van-meerdervoort",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/1160d263/laan-van-meerdervoort",
+    "title": "Flat Laan van Meerdervoort",
+    "price": 885.0,
+    "size": 46,
+    "rooms": 2,
+    "location": "2564 AK Den Haag (Vruchtenbuurt)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/1160d263-497f-50c4-9dd9-af7fcf8f2afe/a1b575d918987278ac4bd0deb3660a3a.jpg?width=600&auto=webp",
+    "agency": "Rental Rotterdam",
+    "first_seen": "2025-06-17T15:14:36.909931",
+    "last_updated": "2025-06-17T15:14:36.909935"
+  },
+  {
+    "id": "granaathorst",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/e69406db/granaathorst",
+    "title": "Flat Granaathorst 347",
+    "price": 800.0,
+    "size": 55,
+    "rooms": 2,
+    "location": "2592 SZ Den Haag (Burgen en Horsten)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e69406db-0469-52ac-996d-29e88593f602/7259b6dd991af5981b151b0e438cef99.jpg?width=600&auto=webp",
+    "agency": "Nationaal Grondbezit",
+    "first_seen": "2025-06-17T11:12:05.318658",
+    "last_updated": "2025-06-17T11:12:05.318663"
   },
   {
     "id": "weteringkade",

@@ -1545,5 +1545,16 @@
     "updated_listing_ids": [
       "glashaven"
     ]
+  },
+  {
+    "timestamp": "2025-06-17T15:14:43.438759",
+    "new_listings_count": 3,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "korhaanstraat",
+      "ieplaan",
+      "laan-van-meerdervoort"
+    ],
+    "updated_listing_ids": []
   }
 ]
