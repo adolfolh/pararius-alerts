@@ -1,5 +1,19 @@
 [
   {
+    "id": "pleinweg",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/24a3de2a/pleinweg",
+    "title": "Studio Pleinweg",
+    "price": 821.0,
+    "size": 20,
+    "rooms": 1,
+    "location": "3081 JB Rotterdam (Tarwewijk)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/24a3de2a-f7b1-5ecf-84bb-73af45adc3dc/950ef859efad7f73804dd452dce0d1ed.jpg?width=600&auto=webp",
+    "agency": "Homey Housing",
+    "first_seen": "2025-06-17T12:27:50.527191",
+    "last_updated": "2025-06-17T12:27:50.527198"
+  },
+  {
     "id": "dordtselaan",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/1e26d609/dordtselaan",
     "title": "Flat Dordtselaan",
@@ -57,17 +71,17 @@
   },
   {
     "id": "glashaven",
-    "url": "https://www.pararius.com/studio-for-rent/rotterdam/0fc52a63/glashaven",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/65acb5a2/glashaven",
     "title": "Studio Glashaven",
-    "price": 920.0,
+    "price": 946.0,
     "size": 32,
     "rooms": 1,
     "location": "3011 XH Rotterdam (Stadsdriehoek)",
     "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0fc52a63-1732-5c18-b0ef-411c21c6cf4c/e8adeb35632a59f88be173d8c0af7edc.jpg?width=600&auto=webp",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/65acb5a2-269e-57a1-af33-31ca028d7e5e/a58d5d559fc163df8553d2fa75af13bc.jpg?width=600&auto=webp",
     "agency": "Perfect Rent",
     "first_seen": "2025-06-05T14:13:26.312917",
-    "last_updated": "2025-06-05T14:13:26.312920"
+    "last_updated": "2025-06-17T12:28:01.778702"
   },
   {
     "id": "schieweg",
@@ -222,20 +236,6 @@
     "agency": "Nationaal Grondbezit",
     "first_seen": "2025-06-17T11:12:05.318658",
     "last_updated": "2025-06-17T11:12:05.318663"
-  },
-  {
-    "id": "treilerweg",
-    "url": "https://www.pararius.com/studio-for-rent/den-haag/801d8e62/treilerweg",
-    "title": "Studio Treilerweg",
-    "price": 900.0,
-    "size": 26,
-    "rooms": 1,
-    "location": "2583 DB Den Haag (Vissershaven)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/801d8e62-84f6-5076-8ebc-3b2402c26342/e41b93d1153b55c2f3cac27c1727b854.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-06-16T15:14:41.077039",
-    "last_updated": "2025-06-16T15:14:41.077046"
   },
   {
     "id": "waldorpstraat",
@@ -516,6 +516,20 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-06-04T03:12:01.934109",
     "last_updated": "2025-06-04T03:12:01.934111"
+  },
+  {
+    "id": "treilerweg",
+    "url": "https://www.pararius.com/studio-for-rent/den-haag/801d8e62/treilerweg",
+    "title": "Studio Treilerweg",
+    "price": 900.0,
+    "size": 26,
+    "rooms": 1,
+    "location": "2583 DB Den Haag (Vissershaven)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/801d8e62-84f6-5076-8ebc-3b2402c26342/e41b93d1153b55c2f3cac27c1727b854.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-06-16T15:14:41.077039",
+    "last_updated": "2025-06-16T15:14:41.077046"
   },
   {
     "id": "strevelsweg",

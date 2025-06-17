@@ -1534,5 +1534,16 @@
     "updated_listing_ids": [
       "zoutmanstraat"
     ]
+  },
+  {
+    "timestamp": "2025-06-17T12:28:02.162602",
+    "new_listings_count": 1,
+    "updated_listings_count": 1,
+    "new_listing_ids": [
+      "pleinweg"
+    ],
+    "updated_listing_ids": [
+      "glashaven"
+    ]
   }
 ]
