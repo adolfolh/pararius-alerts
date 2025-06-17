@@ -154,34 +154,6 @@
     "last_updated": "2025-06-11T15:14:36.253286"
   },
   {
-    "id": "meekrapstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/00cccf8b/meekrapstraat",
-    "title": "Flat Meekrapstraat 41 A",
-    "price": 751.0,
-    "size": 36,
-    "rooms": 2,
-    "location": "3073 DL Rotterdam (Bloemhof)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/00cccf8b-7c63-5ca5-a0e0-46f3963486d2/eaccceb237a38e950bc725dd5149d7b2.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-06-07T17:10:48.721462",
-    "last_updated": "2025-06-07T17:10:48.721465"
-  },
-  {
-    "id": "willebrordusplein",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/0d6c344a/willebrordusplein",
-    "title": "Flat Willebrordusplein 23 B",
-    "price": 867.0,
-    "size": 34,
-    "rooms": 2,
-    "location": "3037 TD Rotterdam (Liskwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0d6c344a-1fe0-5c27-9a31-627221489403/c74cfc9121e0d7e6733bea12d7c4e175.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-06-07T16:14:40.313197",
-    "last_updated": "2025-06-07T16:14:40.313199"
-  },
-  {
     "id": "vijverhofstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a58c5ff9/vijverhofstraat",
     "title": "Flat Vijverhofstraat",
@@ -462,20 +434,6 @@
     "last_updated": "2025-05-23T13:24:50.017068"
   },
   {
-    "id": "lutherse-burgwal",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/823764c6/lutherse-burgwal",
-    "title": "Flat Lutherse Burgwal 11 D",
-    "price": 905.0,
-    "size": 45,
-    "rooms": 3,
-    "location": "2512 CB Den Haag (Zuidwal)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/823764c6-3dee-5966-b462-ad02cf78393f/f3545d1f5647b819e2e5868d40ae7938.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-05-22T15:14:18.445174",
-    "last_updated": "2025-05-22T15:14:18.445181"
-  },
-  {
     "id": "1e-van-der-kunstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/41413c75/1e-van-der-kunstraat",
     "title": "Flat 1e Van der Kunstraat",
@@ -558,6 +516,48 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-06-04T03:12:01.934109",
     "last_updated": "2025-06-04T03:12:01.934111"
+  },
+  {
+    "id": "meekrapstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/00cccf8b/meekrapstraat",
+    "title": "Flat Meekrapstraat 41 A",
+    "price": 751.0,
+    "size": 36,
+    "rooms": 2,
+    "location": "3073 DL Rotterdam (Bloemhof)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/00cccf8b-7c63-5ca5-a0e0-46f3963486d2/eaccceb237a38e950bc725dd5149d7b2.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-06-07T17:10:48.721462",
+    "last_updated": "2025-06-07T17:10:48.721465"
+  },
+  {
+    "id": "willebrordusplein",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/0d6c344a/willebrordusplein",
+    "title": "Flat Willebrordusplein 23 B",
+    "price": 867.0,
+    "size": 34,
+    "rooms": 2,
+    "location": "3037 TD Rotterdam (Liskwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0d6c344a-1fe0-5c27-9a31-627221489403/c74cfc9121e0d7e6733bea12d7c4e175.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-06-07T16:14:40.313197",
+    "last_updated": "2025-06-07T16:14:40.313199"
+  },
+  {
+    "id": "lutherse-burgwal",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/823764c6/lutherse-burgwal",
+    "title": "Flat Lutherse Burgwal 11 D",
+    "price": 905.0,
+    "size": 45,
+    "rooms": 3,
+    "location": "2512 CB Den Haag (Zuidwal)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/823764c6-3dee-5966-b462-ad02cf78393f/f3545d1f5647b819e2e5868d40ae7938.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-05-22T15:14:18.445174",
+    "last_updated": "2025-05-22T15:14:18.445181"
   },
   {
     "id": "treilerweg",
