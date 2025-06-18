@@ -1596,5 +1596,16 @@
     "updated_listing_ids": [
       "waldorpstraat"
     ]
+  },
+  {
+    "timestamp": "2025-06-18T17:13:55.618175",
+    "new_listings_count": 3,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "beijerlandsestraat",
+      "beijerlandselaan",
+      "valkenboskade"
+    ],
+    "updated_listing_ids": []
   }
 ]
