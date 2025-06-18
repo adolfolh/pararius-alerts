@@ -1,19 +1,5 @@
 [
   {
-    "id": "korhaanstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/5ad6b4f0/korhaanstraat",
-    "title": "Flat Korhaanstraat 24 B",
-    "price": 701.0,
-    "size": 47,
-    "rooms": 3,
-    "location": "3083 XP Rotterdam (Carnisse)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/5ad6b4f0-5666-591a-b615-dc2c3a6bb701/77ceda2c70e77e1d32a109f465f1b22a.jpg?width=600&auto=webp",
-    "agency": "Kolpa V.V.S. Beheer",
-    "first_seen": "2025-06-17T15:14:30.922269",
-    "last_updated": "2025-06-17T15:14:30.922273"
-  },
-  {
     "id": "pleinweg",
     "url": "https://www.pararius.com/studio-for-rent/rotterdam/24a3de2a/pleinweg",
     "title": "Studio Pleinweg",
@@ -516,6 +502,20 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-06-04T03:12:01.934109",
     "last_updated": "2025-06-04T03:12:01.934111"
+  },
+  {
+    "id": "korhaanstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/5ad6b4f0/korhaanstraat",
+    "title": "Flat Korhaanstraat 24 B",
+    "price": 701.0,
+    "size": 47,
+    "rooms": 3,
+    "location": "3083 XP Rotterdam (Carnisse)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/5ad6b4f0-5666-591a-b615-dc2c3a6bb701/77ceda2c70e77e1d32a109f465f1b22a.jpg?width=600&auto=webp",
+    "agency": "Kolpa V.V.S. Beheer",
+    "first_seen": "2025-06-17T15:14:30.922269",
+    "last_updated": "2025-06-17T15:14:30.922273"
   },
   {
     "id": "meekrapstraat",
