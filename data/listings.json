@@ -182,18 +182,18 @@
     "last_updated": "2025-06-04T03:11:56.346950"
   },
   {
-    "id": "nunspeetlaan",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/37240081/nunspeetlaan",
-    "title": "Flat Nunspeetlaan",
-    "price": 960.0,
-    "size": 75,
+    "id": "de-gheijnstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/54268284/de-gheijnstraat",
+    "title": "Flat De Gheijnstraat",
+    "price": 925.0,
+    "size": 40,
     "rooms": 2,
-    "location": "2573 GT Den Haag (Oostbroek-Zuid)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/37240081-388f-52e5-9f21-96207115458f/4b0d2a8dabe5ef6d7876670239c096d5.jpg?width=600&auto=webp",
+    "location": "2562 NS Den Haag (Rond de Energiecentrale)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/54268284-8dbf-5273-a994-c0d869394ccb/7ac74d1ea17967f5676b17d1a7da0ba3.jpg?width=600&auto=webp",
     "agency": "NRW Wonen",
-    "first_seen": "2025-06-18T10:14:35.827639",
-    "last_updated": "2025-06-18T10:14:35.827655"
+    "first_seen": "2025-06-18T11:12:16.273460",
+    "last_updated": "2025-06-18T11:12:16.273466"
   },
   {
     "id": "ieplaan",
@@ -502,6 +502,20 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-06-04T03:12:01.934109",
     "last_updated": "2025-06-04T03:12:01.934111"
+  },
+  {
+    "id": "nunspeetlaan",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/37240081/nunspeetlaan",
+    "title": "Flat Nunspeetlaan",
+    "price": 960.0,
+    "size": 75,
+    "rooms": 2,
+    "location": "2573 GT Den Haag (Oostbroek-Zuid)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/37240081-388f-52e5-9f21-96207115458f/4b0d2a8dabe5ef6d7876670239c096d5.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-06-18T10:14:35.827639",
+    "last_updated": "2025-06-18T10:14:35.827655"
   },
   {
     "id": "pleinweg",
@@ -1034,19 +1048,5 @@
     "agency": "NRW Wonen",
     "first_seen": "2025-05-20T11:11:43.735089",
     "last_updated": "2025-05-20T11:11:43.735092"
-  },
-  {
-    "id": "beukelsdijk",
-    "url": "https://www.pararius.com/studio-for-rent/rotterdam/baca92e0/beukelsdijk",
-    "title": "Studio Beukelsdijk",
-    "price": 950.0,
-    "size": 35,
-    "rooms": 2,
-    "location": "3022 DM Rotterdam (Nieuwe Westen)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/baca92e0-4ba2-5134-8693-61b18fb8a3c4/02a78b9403f107dd7895974b30de4f78.jpg?width=600&auto=webp",
-    "agency": "UBERHOUSE",
-    "first_seen": "2025-05-19T10:14:55.783819",
-    "last_updated": "2025-05-19T10:14:55.783826"
   }
 ]
