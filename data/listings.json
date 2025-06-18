@@ -224,6 +224,20 @@
     "last_updated": "2025-06-04T03:11:56.346950"
   },
   {
+    "id": "regentesselaan",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/0c152340/regentesselaan",
+    "title": "Flat Regentesselaan 93 B",
+    "price": 613.0,
+    "size": 34,
+    "rooms": 2,
+    "location": "2562 CR Den Haag (Koningsplein en omgeving)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0c152340-a66a-585e-99e8-eb7ff35a4994/ea2417bc7c571d63fcd3d11b1a848351.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-06-11T11:12:21.334410",
+    "last_updated": "2025-06-11T11:12:21.334412"
+  },
+  {
     "id": "ieplaan",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/26e66b1c/ieplaan",
     "title": "Flat Ieplaan",
@@ -460,20 +474,6 @@
     "agency": "Rent Valley",
     "first_seen": "2025-06-04T03:12:01.915696",
     "last_updated": "2025-06-04T03:12:01.915698"
-  },
-  {
-    "id": "regentesselaan",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/0c152340/regentesselaan",
-    "title": "Flat Regentesselaan 93 B",
-    "price": 613.0,
-    "size": 34,
-    "rooms": 2,
-    "location": "2562 CR Den Haag (Koningsplein en omgeving)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0c152340-a66a-585e-99e8-eb7ff35a4994/ea2417bc7c571d63fcd3d11b1a848351.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-06-11T11:12:21.334410",
-    "last_updated": "2025-06-11T11:12:21.334412"
   },
   {
     "id": "prins-hendrikstraat",
