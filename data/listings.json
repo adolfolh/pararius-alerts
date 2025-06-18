@@ -1,17 +1,17 @@
 [
   {
-    "id": "pleinweg",
-    "url": "https://www.pararius.com/studio-for-rent/rotterdam/24a3de2a/pleinweg",
-    "title": "Studio Pleinweg",
-    "price": 821.0,
-    "size": 20,
+    "id": "schieweg",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/b7b3fb43/schieweg",
+    "title": "Flat Schieweg",
+    "price": 925.0,
+    "size": 25,
     "rooms": 1,
-    "location": "3081 JB Rotterdam (Tarwewijk)",
+    "location": "3038 AE Rotterdam (Bergpolder)",
     "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/24a3de2a-f7b1-5ecf-84bb-73af45adc3dc/950ef859efad7f73804dd452dce0d1ed.jpg?width=600&auto=webp",
-    "agency": "Homey Housing",
-    "first_seen": "2025-06-17T12:27:50.527191",
-    "last_updated": "2025-06-17T12:27:50.527198"
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b7b3fb43-90a8-5fdc-8d8e-f50feb56854f/388e2ff442f5b8e948e31c81bcfb2fac.jpg?width=600&auto=webp",
+    "agency": "Rotterdam Apartments",
+    "first_seen": "2025-05-26T15:13:43.004961",
+    "last_updated": "2025-06-18T09:15:17.723721"
   },
   {
     "id": "dordtselaan",
@@ -82,20 +82,6 @@
     "agency": "Perfect Rent",
     "first_seen": "2025-06-05T14:13:26.312917",
     "last_updated": "2025-06-17T12:28:01.778702"
-  },
-  {
-    "id": "schieweg",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/9a58d8f4/schieweg",
-    "title": "Flat Schieweg",
-    "price": 927.0,
-    "size": 25,
-    "rooms": 1,
-    "location": "3038 AE Rotterdam (Bergpolder)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9a58d8f4-2329-5754-9227-27e8f2702414/14df5c8125bc5bb1010ccb08e13dc73a.jpg?width=600&auto=webp",
-    "agency": "Rotterdam Apartments",
-    "first_seen": "2025-05-26T15:13:43.004961",
-    "last_updated": "2025-06-13T13:27:00.016802"
   },
   {
     "id": "van-speykstraat",
@@ -502,6 +488,20 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-06-04T03:12:01.934109",
     "last_updated": "2025-06-04T03:12:01.934111"
+  },
+  {
+    "id": "pleinweg",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/24a3de2a/pleinweg",
+    "title": "Studio Pleinweg",
+    "price": 821.0,
+    "size": 20,
+    "rooms": 1,
+    "location": "3081 JB Rotterdam (Tarwewijk)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/24a3de2a-f7b1-5ecf-84bb-73af45adc3dc/950ef859efad7f73804dd452dce0d1ed.jpg?width=600&auto=webp",
+    "agency": "Homey Housing",
+    "first_seen": "2025-06-17T12:27:50.527191",
+    "last_updated": "2025-06-17T12:27:50.527198"
   },
   {
     "id": "korhaanstraat",
