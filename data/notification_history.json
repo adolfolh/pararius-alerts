@@ -1583,5 +1583,18 @@
       "de-gheijnstraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-06-18T15:14:39.302672",
+    "new_listings_count": 3,
+    "updated_listings_count": 1,
+    "new_listing_ids": [
+      "vierambachtsstraat",
+      "verschoorstraat",
+      "waterloostraat"
+    ],
+    "updated_listing_ids": [
+      "waldorpstraat"
+    ]
   }
 ]
