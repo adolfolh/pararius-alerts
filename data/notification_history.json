@@ -1646,5 +1646,16 @@
       "bergweg"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-06-19T12:27:02.631630",
+    "new_listings_count": 1,
+    "updated_listings_count": 1,
+    "new_listing_ids": [
+      "obrechtstraat"
+    ],
+    "updated_listing_ids": [
+      "regentesselaan"
+    ]
   }
 ]

@@ -14,20 +14,6 @@
     "last_updated": "2025-06-19T11:12:00.856214"
   },
   {
-    "id": "bergweg",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/004ba7ce/bergweg",
-    "title": "Flat Bergweg 226 B",
-    "price": 972.0,
-    "size": 73,
-    "rooms": 2,
-    "location": "3035 BP Rotterdam (Oude Noorden)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/004ba7ce-8d62-57d6-869d-b569dcb9f45f/240cf1782c6dc23af7a19081e36d8a46.jpg?width=600&auto=webp",
-    "agency": "Properbee",
-    "first_seen": "2025-06-19T11:12:00.857726",
-    "last_updated": "2025-06-19T11:12:00.857729"
-  },
-  {
     "id": "beijerlandsestraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/8a18e0fd/beijerlandsestraat",
     "title": "Flat Beijerlandsestraat 23",
@@ -140,20 +126,6 @@
     "last_updated": "2025-06-17T12:28:01.778702"
   },
   {
-    "id": "van-speykstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/7d1a03dd/van-speykstraat",
-    "title": "Flat Van Speykstraat 151 E",
-    "price": 926.0,
-    "size": 32,
-    "rooms": 2,
-    "location": "3014 VJ Rotterdam (Oude Westen)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7d1a03dd-f5df-5a75-958d-d35214755c85/632416318eb6d53976300cfbd8c5dafa.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-05-22T16:16:44.525256",
-    "last_updated": "2025-05-22T16:16:44.525263"
-  },
-  {
     "id": "beijerlandselaan",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/68f5a2e1/beijerlandselaan",
     "title": "Flat Beijerlandselaan",
@@ -252,6 +224,20 @@
     "last_updated": "2025-06-04T03:11:56.346950"
   },
   {
+    "id": "obrechtstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/661608b1/obrechtstraat",
+    "title": "Flat Obrechtstraat",
+    "price": 1107.0,
+    "size": 31,
+    "rooms": 2,
+    "location": "2517 VH Den Haag (Sweelinckplein en omgeving)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/661608b1-0c4e-5bd7-9441-54aa7a151108/a47347ce60683818e55eb7ca24b30f77.jpg?width=600&auto=webp",
+    "agency": "Rent Valley",
+    "first_seen": "2025-06-19T12:27:02.202245",
+    "last_updated": "2025-06-19T12:27:02.202252"
+  },
+  {
     "id": "bleijenburg",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/727c1b9e/bleijenburg",
     "title": "Flat Bleijenburg",
@@ -281,17 +267,17 @@
   },
   {
     "id": "regentesselaan",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/0c152340/regentesselaan",
-    "title": "Flat Regentesselaan 93 B",
-    "price": 614.0,
-    "size": 34,
-    "rooms": 2,
-    "location": "2562 CR Den Haag (Koningsplein en omgeving)",
+    "url": "https://www.pararius.com/studio-for-rent/den-haag/4e1f8086/regentesselaan",
+    "title": "Studio Regentesselaan 161 A",
+    "price": 558.0,
+    "size": 23,
+    "rooms": 1,
+    "location": "2562 CX Den Haag (Rond de Energiecentrale)",
     "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0c152340-a66a-585e-99e8-eb7ff35a4994/ea2417bc7c571d63fcd3d11b1a848351.jpg?width=600&auto=webp",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4e1f8086-62c3-5088-b934-786b2dd1ec08/8926edac6ae4f7148d9323752b882e42.jpg?width=600&auto=webp",
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-06-11T11:12:21.334410",
-    "last_updated": "2025-06-19T08:18:31.591766"
+    "last_updated": "2025-06-19T12:27:02.261732"
   },
   {
     "id": "ieplaan",
@@ -392,20 +378,6 @@
     "last_updated": "2025-06-17T11:12:11.344527"
   },
   {
-    "id": "esdoornstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/f5915d10/esdoornstraat",
-    "title": "Flat Esdoornstraat",
-    "price": 975.0,
-    "size": 46,
-    "rooms": 2,
-    "location": "2565 HP Den Haag (Bomenbuurt)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f5915d10-1117-5af7-affd-3f314e0e771b/2226d5b1582f1463c0fb4528bbed4328.jpg?width=600&auto=webp",
-    "agency": "Rent Valley",
-    "first_seen": "2025-06-12T14:13:47.004531",
-    "last_updated": "2025-06-12T14:13:47.004539"
-  },
-  {
     "id": "laan-van-nieuw-oost-indie",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/72e11e6d/laan-van-nieuw-oost-indie",
     "title": "Flat Laan van Nieuw-Oost-Indi\u00eb",
@@ -490,6 +462,62 @@
     "last_updated": "2025-06-07T12:23:20.386308"
   },
   {
+    "id": "1e-van-der-kunstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/41413c75/1e-van-der-kunstraat",
+    "title": "Flat 1e Van der Kunstraat",
+    "price": 1044.0,
+    "size": 43,
+    "rooms": 2,
+    "location": "2521 AS Den Haag (Laakhaven-West)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/41413c75-9c37-5996-9834-e703de97ecd8/fad63fbd8b2de296711738de904016c9.jpg?width=600&auto=webp",
+    "agency": "Rent Valley",
+    "first_seen": "2025-06-04T03:12:01.915696",
+    "last_updated": "2025-06-04T03:12:01.915698"
+  },
+  {
+    "id": "bergweg",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/004ba7ce/bergweg",
+    "title": "Flat Bergweg 226 B",
+    "price": 972.0,
+    "size": 73,
+    "rooms": 2,
+    "location": "3035 BP Rotterdam (Oude Noorden)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/004ba7ce-8d62-57d6-869d-b569dcb9f45f/240cf1782c6dc23af7a19081e36d8a46.jpg?width=600&auto=webp",
+    "agency": "Properbee",
+    "first_seen": "2025-06-19T11:12:00.857726",
+    "last_updated": "2025-06-19T11:12:00.857729"
+  },
+  {
+    "id": "van-speykstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/7d1a03dd/van-speykstraat",
+    "title": "Flat Van Speykstraat 151 E",
+    "price": 926.0,
+    "size": 32,
+    "rooms": 2,
+    "location": "3014 VJ Rotterdam (Oude Westen)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7d1a03dd-f5df-5a75-958d-d35214755c85/632416318eb6d53976300cfbd8c5dafa.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-05-22T16:16:44.525256",
+    "last_updated": "2025-05-22T16:16:44.525263"
+  },
+  {
+    "id": "esdoornstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/f5915d10/esdoornstraat",
+    "title": "Flat Esdoornstraat",
+    "price": 975.0,
+    "size": 46,
+    "rooms": 2,
+    "location": "2565 HP Den Haag (Bomenbuurt)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f5915d10-1117-5af7-affd-3f314e0e771b/2226d5b1582f1463c0fb4528bbed4328.jpg?width=600&auto=webp",
+    "agency": "Rent Valley",
+    "first_seen": "2025-06-12T14:13:47.004531",
+    "last_updated": "2025-06-12T14:13:47.004539"
+  },
+  {
     "id": "paul-krugerlaan",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/80f88b19/paul-krugerlaan",
     "title": "Flat Paul Krugerlaan 141 C",
@@ -516,20 +544,6 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-05-23T13:24:50.017063",
     "last_updated": "2025-05-23T13:24:50.017068"
-  },
-  {
-    "id": "1e-van-der-kunstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/41413c75/1e-van-der-kunstraat",
-    "title": "Flat 1e Van der Kunstraat",
-    "price": 1044.0,
-    "size": 43,
-    "rooms": 2,
-    "location": "2521 AS Den Haag (Laakhaven-West)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/41413c75-9c37-5996-9834-e703de97ecd8/fad63fbd8b2de296711738de904016c9.jpg?width=600&auto=webp",
-    "agency": "Rent Valley",
-    "first_seen": "2025-06-04T03:12:01.915696",
-    "last_updated": "2025-06-04T03:12:01.915698"
   },
   {
     "id": "prins-hendrikstraat",
