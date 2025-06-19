@@ -1666,5 +1666,15 @@
     "updated_listing_ids": [
       "waldorpstraat"
     ]
+  },
+  {
+    "timestamp": "2025-06-19T15:13:49.980176",
+    "new_listings_count": 0,
+    "updated_listings_count": 2,
+    "new_listing_ids": [],
+    "updated_listing_ids": [
+      "valkenboskade",
+      "waldorpstraat"
+    ]
   }
 ]
