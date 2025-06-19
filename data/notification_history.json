@@ -1676,5 +1676,14 @@
       "valkenboskade",
       "waldorpstraat"
     ]
+  },
+  {
+    "timestamp": "2025-06-19T16:16:29.210431",
+    "new_listings_count": 0,
+    "updated_listings_count": 1,
+    "new_listing_ids": [],
+    "updated_listing_ids": [
+      "waldorpstraat"
+    ]
   }
 ]
