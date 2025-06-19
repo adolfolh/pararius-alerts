@@ -323,17 +323,17 @@
   },
   {
     "id": "waldorpstraat",
-    "url": "https://www.pararius.com/house-for-rent/den-haag/f6cda83a/waldorpstraat",
-    "title": "House Waldorpstraat 886",
-    "price": 860.0,
-    "size": 23,
+    "url": "https://www.pararius.com/house-for-rent/den-haag/e09d698e/waldorpstraat",
+    "title": "House Waldorpstraat 1212",
+    "price": 900.0,
+    "size": 32,
     "rooms": 1,
-    "location": "2521 CW Den Haag (Laakhaven-West)",
+    "location": "2521 CZ Den Haag (Laakhaven-West)",
     "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f6cda83a-aa51-50d2-9ae4-7e9b0960cc6b/e5785442899be2b8af21c10c05a5f80c.jpg?width=600&auto=webp",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e09d698e-2fac-51bf-9188-d9e8419d9c09/d549a908949acd81d2a79872ebad3c3e.jpg?width=600&auto=webp",
     "agency": "LIV Residential",
     "first_seen": "2025-06-05T01:04:37.201357",
-    "last_updated": "2025-06-18T15:14:38.955406"
+    "last_updated": "2025-06-19T13:27:14.217642"
   },
   {
     "id": "weteringkade",
@@ -516,20 +516,6 @@
     "agency": "Rent Valley",
     "first_seen": "2025-06-12T14:13:47.004531",
     "last_updated": "2025-06-12T14:13:47.004539"
-  },
-  {
-    "id": "paul-krugerlaan",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/80f88b19/paul-krugerlaan",
-    "title": "Flat Paul Krugerlaan 141 C",
-    "price": 837.0,
-    "size": 24,
-    "rooms": 2,
-    "location": "2571 HD Den Haag (Transvaalkwartier-Noord)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/80f88b19-b6d4-52a5-9e60-d08de885b2f5/78554154b4988ef4bd7f9e9d498d82e8.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-05-20T12:27:08.897841",
-    "last_updated": "2025-05-26T11:10:51.868333"
   },
   {
     "id": "noorderbeekdwarsstraat",
@@ -922,20 +908,6 @@
     "agency": "Rent an Apartment",
     "first_seen": "2025-06-04T17:12:27.316500",
     "last_updated": "2025-06-04T17:12:27.316506"
-  },
-  {
-    "id": "valkenboslaan",
-    "url": "https://www.pararius.com/studio-for-rent/den-haag/bcdba379/valkenboslaan",
-    "title": "Studio Valkenboslaan",
-    "price": 990.0,
-    "size": 22,
-    "rooms": 2,
-    "location": "2563 CE Den Haag (Valkenboskwartier)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/bcdba379-9aa1-5e1e-85ba-286354f67dc5/a4d17d50a2082470eb88a07d76481df7.jpg?width=600&auto=webp",
-    "agency": "Homey Housing",
-    "first_seen": "2025-05-20T12:27:08.899326",
-    "last_updated": "2025-06-03T16:18:17.080905"
   },
   {
     "id": "straatweg",
