@@ -1616,5 +1616,16 @@
       "bleijenburg"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-06-19T08:18:31.939310",
+    "new_listings_count": 0,
+    "updated_listings_count": 3,
+    "new_listing_ids": [],
+    "updated_listing_ids": [
+      "regentesselaan",
+      "amsterdamsestraat",
+      "harstenhoekweg"
+    ]
   }
 ]
