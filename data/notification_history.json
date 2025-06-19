@@ -1636,5 +1636,15 @@
     "updated_listing_ids": [
       "granaathorst"
     ]
+  },
+  {
+    "timestamp": "2025-06-19T11:12:12.881786",
+    "new_listings_count": 2,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "ericastraat",
+      "bergweg"
+    ],
+    "updated_listing_ids": []
   }
 ]
