@@ -1741,5 +1741,14 @@
       "pasteurplein"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-06-20T15:13:40.954241",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "laan"
+    ],
+    "updated_listing_ids": []
   }
 ]
