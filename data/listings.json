@@ -1146,19 +1146,5 @@
     "agency": "Rent an Apartment",
     "first_seen": "2025-05-21T20:14:30.224608",
     "last_updated": "2025-05-21T20:14:30.224615"
-  },
-  {
-    "id": "kortgenestraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/932a4f4c/kortgenestraat",
-    "title": "Flat Kortgenestraat",
-    "price": 880.0,
-    "size": 62,
-    "rooms": 2,
-    "location": "3086 JD Rotterdam (Pendrecht)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/932a4f4c-a13f-5365-b200-762698fe284e/f1a5107c9ce4fe9a9b5e16f8045c77ba.jpg?width=600&auto=webp",
-    "agency": "Rent an Apartment",
-    "first_seen": "2025-05-21T15:14:41.313144",
-    "last_updated": "2025-05-21T15:14:41.313152"
   }
 ]
