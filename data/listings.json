@@ -365,17 +365,17 @@
   },
   {
     "id": "waldorpstraat",
-    "url": "https://www.pararius.com/house-for-rent/den-haag/e09d698e/waldorpstraat",
-    "title": "House Waldorpstraat 1212",
-    "price": 900.0,
-    "size": 32,
+    "url": "https://www.pararius.com/house-for-rent/den-haag/9a826e24/waldorpstraat",
+    "title": "House Waldorpstraat 828",
+    "price": 860.0,
+    "size": 23,
     "rooms": 1,
-    "location": "2521 CZ Den Haag (Laakhaven-West)",
+    "location": "2521 CW Den Haag (Laakhaven-West)",
     "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e09d698e-2fac-51bf-9188-d9e8419d9c09/d549a908949acd81d2a79872ebad3c3e.jpg?width=600&auto=webp",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9a826e24-6c78-5544-ad3c-4fb3d04af55b/d549a908949acd81d2a79872ebad3c3e.jpg?width=600&auto=webp",
     "agency": "LIV Residential",
     "first_seen": "2025-06-05T01:04:37.201357",
-    "last_updated": "2025-06-20T08:18:15.491609"
+    "last_updated": "2025-06-20T19:10:40.487847"
   },
   {
     "id": "weteringkade",
@@ -1118,20 +1118,6 @@
     "agency": "NRW Wonen",
     "first_seen": "2025-05-22T12:27:04.404523",
     "last_updated": "2025-05-22T12:27:04.404529"
-  },
-  {
-    "id": "oudedijk",
-    "url": "https://www.pararius.com/studio-for-rent/rotterdam/587caacf/oudedijk",
-    "title": "Studio Oudedijk 143 A 04V",
-    "price": 807.0,
-    "size": 28,
-    "rooms": 2,
-    "location": "3061 AA Rotterdam (Kralingen West)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/587caacf-b282-5c76-bc65-8745aa2a0ee6/ac7ab9e50e8de81308854435cbff8465.jpg?width=600&auto=webp",
-    "agency": "Properbee",
-    "first_seen": "2025-05-21T18:18:49.005912",
-    "last_updated": "2025-05-21T18:18:49.005914"
   },
   {
     "id": "rijsoordstraat",
