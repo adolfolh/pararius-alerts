@@ -224,20 +224,6 @@
     "last_updated": "2025-06-04T03:11:56.346950"
   },
   {
-    "id": "reinwardtstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/ac4410cb/reinwardtstraat",
-    "title": "Flat Reinwardtstraat",
-    "price": 952.0,
-    "size": 60,
-    "rooms": 3,
-    "location": "2522 AG Den Haag (Laakkwartier-Oost)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ac4410cb-a423-50b4-8906-ecf90acd3a91/106fda987f8015bd7a823c3e29a1c2d2.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-06-20T01:05:32.748921",
-    "last_updated": "2025-06-20T01:05:32.748928"
-  },
-  {
     "id": "obrechtstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/661608b1/obrechtstraat",
     "title": "Flat Obrechtstraat",
@@ -488,6 +474,20 @@
     "agency": "Rent Valley",
     "first_seen": "2025-06-04T03:12:01.915696",
     "last_updated": "2025-06-04T03:12:01.915698"
+  },
+  {
+    "id": "reinwardtstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/ac4410cb/reinwardtstraat",
+    "title": "Flat Reinwardtstraat",
+    "price": 952.0,
+    "size": 60,
+    "rooms": 3,
+    "location": "2522 AG Den Haag (Laakkwartier-Oost)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ac4410cb-a423-50b4-8906-ecf90acd3a91/106fda987f8015bd7a823c3e29a1c2d2.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-06-20T01:05:32.748921",
+    "last_updated": "2025-06-20T01:05:32.748928"
   },
   {
     "id": "bergweg",
