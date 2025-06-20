@@ -238,6 +238,20 @@
     "last_updated": "2025-06-04T03:11:56.346950"
   },
   {
+    "id": "pasteurplein",
+    "url": "https://www.pararius.com/studio-for-rent/den-haag/9a955f62/pasteurplein",
+    "title": "Studio Pasteurplein 11",
+    "price": 746.0,
+    "size": 24,
+    "rooms": 1,
+    "location": "2522 RB Den Haag (Noordpolderbuurt)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9a955f62-79eb-58b6-b212-13e81939daef/b41f76c48b41e47efe747626d5f44291.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-06-20T14:12:53.360445",
+    "last_updated": "2025-06-20T14:12:53.360451"
+  },
+  {
     "id": "regentesselaan",
     "url": "https://www.pararius.com/studio-for-rent/den-haag/4e1f8086/regentesselaan",
     "title": "Studio Regentesselaan 161 A",
@@ -1132,33 +1146,5 @@
     "agency": "Rent an Apartment",
     "first_seen": "2025-05-21T15:14:41.313144",
     "last_updated": "2025-05-21T15:14:41.313152"
-  },
-  {
-    "id": "apeldoornselaan",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/24c8773e/apeldoornselaan",
-    "title": "Flat Apeldoornselaan",
-    "price": 825.0,
-    "size": 60,
-    "rooms": 2,
-    "location": "2573 LZ Den Haag (Oostbroek-Zuid)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/24c8773e-5771-524d-ac87-5458830bbf62/e893a25af80b988985674061edf8c13d.jpg?width=600&auto=webp",
-    "agency": "Karens Real Estate",
-    "first_seen": "2025-05-21T13:26:38.619272",
-    "last_updated": "2025-05-21T13:26:38.619279"
-  },
-  {
-    "id": "pasteurstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/fd03257c/pasteurstraat",
-    "title": "Flat Pasteurstraat",
-    "price": 973.0,
-    "size": 45,
-    "rooms": 3,
-    "location": "2522 RS Den Haag (Noordpolderbuurt)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/fd03257c-f918-5165-9039-3a3078527289/1d0fbdb11eb802f9ce097b10c9a82499.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-05-21T13:26:38.620765",
-    "last_updated": "2025-05-21T13:26:38.620768"
   }
 ]

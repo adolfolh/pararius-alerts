@@ -1732,5 +1732,14 @@
     "updated_listing_ids": [
       "zoutmanstraat"
     ]
+  },
+  {
+    "timestamp": "2025-06-20T14:12:53.773183",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "pasteurplein"
+    ],
+    "updated_listing_ids": []
   }
 ]
