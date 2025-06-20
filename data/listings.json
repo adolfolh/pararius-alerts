@@ -238,6 +238,34 @@
     "last_updated": "2025-06-04T03:11:56.346950"
   },
   {
+    "id": "regentesselaan",
+    "url": "https://www.pararius.com/studio-for-rent/den-haag/4e1f8086/regentesselaan",
+    "title": "Studio Regentesselaan 161 A",
+    "price": 558.0,
+    "size": 23,
+    "rooms": 1,
+    "location": "2562 CX Den Haag (Rond de Energiecentrale)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4e1f8086-62c3-5088-b934-786b2dd1ec08/8926edac6ae4f7148d9323752b882e42.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-06-11T11:12:21.334410",
+    "last_updated": "2025-06-19T12:27:02.261732"
+  },
+  {
+    "id": "weimarstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/178e2663/weimarstraat",
+    "title": "Flat Weimarstraat 291 B",
+    "price": 687.0,
+    "size": 21,
+    "rooms": 2,
+    "location": "2562 HJ Den Haag (Valkenboskwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/178e2663-79e8-5c91-b767-f9550b1457dd/9803f553fc636b1dd9e6224ddb83c552.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-06-20T12:26:55.492930",
+    "last_updated": "2025-06-20T12:26:55.492932"
+  },
+  {
     "id": "obrechtstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/661608b1/obrechtstraat",
     "title": "Flat Obrechtstraat",
@@ -278,20 +306,6 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-06-18T17:13:49.192880",
     "last_updated": "2025-06-19T15:13:49.591139"
-  },
-  {
-    "id": "regentesselaan",
-    "url": "https://www.pararius.com/studio-for-rent/den-haag/4e1f8086/regentesselaan",
-    "title": "Studio Regentesselaan 161 A",
-    "price": 558.0,
-    "size": 23,
-    "rooms": 1,
-    "location": "2562 CX Den Haag (Rond de Energiecentrale)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4e1f8086-62c3-5088-b934-786b2dd1ec08/8926edac6ae4f7148d9323752b882e42.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-06-11T11:12:21.334410",
-    "last_updated": "2025-06-19T12:27:02.261732"
   },
   {
     "id": "ieplaan",
@@ -365,17 +379,17 @@
   },
   {
     "id": "zoutmanstraat",
-    "url": "https://www.pararius.com/studio-for-rent/den-haag/3546d498/zoutmanstraat",
-    "title": "Studio Zoutmanstraat",
-    "price": 725.0,
-    "size": 38,
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/d58087f5/zoutmanstraat",
+    "title": "Flat Zoutmanstraat 8 kamer 5 en 6",
+    "price": 675.0,
+    "size": 27,
     "rooms": 2,
     "location": "2518 GP Den Haag (Zeeheldenkwartier)",
     "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/3546d498-f48b-539e-b460-377db0005af2/3e270bde1d8bb73851a9c400c7c41145.jpg?width=600&auto=webp",
-    "agency": "Living Today",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/d58087f5-514b-55b6-b7ae-23bb22210a87/930548eee1a0099669cd1fd0e4ffa57a.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
     "first_seen": "2025-06-11T10:14:49.493296",
-    "last_updated": "2025-06-17T11:12:11.344527"
+    "last_updated": "2025-06-20T12:26:55.549439"
   },
   {
     "id": "laan-van-nieuw-oost-indie",

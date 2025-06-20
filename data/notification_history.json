@@ -1721,5 +1721,16 @@
       "soetendaalsekade"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-06-20T12:26:56.258942",
+    "new_listings_count": 1,
+    "updated_listings_count": 1,
+    "new_listing_ids": [
+      "weimarstraat"
+    ],
+    "updated_listing_ids": [
+      "zoutmanstraat"
+    ]
   }
 ]
