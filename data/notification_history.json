@@ -1694,5 +1694,14 @@
     "updated_listing_ids": [
       "waldorpstraat"
     ]
+  },
+  {
+    "timestamp": "2025-06-20T01:05:33.148809",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "reinwardtstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
