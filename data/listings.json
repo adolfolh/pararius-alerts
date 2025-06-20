@@ -308,32 +308,18 @@
     "last_updated": "2025-06-17T15:14:36.909935"
   },
   {
-    "id": "granaathorst",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/e69406db/granaathorst",
-    "title": "Flat Granaathorst 347",
-    "price": 801.0,
-    "size": 55,
-    "rooms": 2,
-    "location": "2592 SZ Den Haag (Burgen en Horsten)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e69406db-0469-52ac-996d-29e88593f602/7259b6dd991af5981b151b0e438cef99.jpg?width=600&auto=webp",
-    "agency": "Nationaal Grondbezit",
-    "first_seen": "2025-06-17T11:12:05.318658",
-    "last_updated": "2025-06-19T10:15:02.125503"
-  },
-  {
     "id": "waldorpstraat",
-    "url": "https://www.pararius.com/house-for-rent/den-haag/9a826e24/waldorpstraat",
-    "title": "House Waldorpstraat 828",
-    "price": 860.0,
-    "size": 23,
+    "url": "https://www.pararius.com/house-for-rent/den-haag/e09d698e/waldorpstraat",
+    "title": "House Waldorpstraat 1212",
+    "price": 900.0,
+    "size": 32,
     "rooms": 1,
-    "location": "2521 CW Den Haag (Laakhaven-West)",
+    "location": "2521 CZ Den Haag (Laakhaven-West)",
     "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9a826e24-6c78-5544-ad3c-4fb3d04af55b/d549a908949acd81d2a79872ebad3c3e.jpg?width=600&auto=webp",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e09d698e-2fac-51bf-9188-d9e8419d9c09/d549a908949acd81d2a79872ebad3c3e.jpg?width=600&auto=webp",
     "agency": "LIV Residential",
     "first_seen": "2025-06-05T01:04:37.201357",
-    "last_updated": "2025-06-19T17:12:00.653467"
+    "last_updated": "2025-06-20T08:18:15.491609"
   },
   {
     "id": "weteringkade",
@@ -474,6 +460,20 @@
     "agency": "Rent Valley",
     "first_seen": "2025-06-04T03:12:01.915696",
     "last_updated": "2025-06-04T03:12:01.915698"
+  },
+  {
+    "id": "granaathorst",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/e69406db/granaathorst",
+    "title": "Flat Granaathorst 347",
+    "price": 801.0,
+    "size": 55,
+    "rooms": 2,
+    "location": "2592 SZ Den Haag (Burgen en Horsten)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e69406db-0469-52ac-996d-29e88593f602/7259b6dd991af5981b151b0e438cef99.jpg?width=600&auto=webp",
+    "agency": "Nationaal Grondbezit",
+    "first_seen": "2025-06-17T11:12:05.318658",
+    "last_updated": "2025-06-19T10:15:02.125503"
   },
   {
     "id": "reinwardtstraat",
