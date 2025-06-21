@@ -882,20 +882,6 @@
     "last_updated": "2025-06-04T03:12:01.938554"
   },
   {
-    "id": "putsebocht",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/ea2efc47/putsebocht",
-    "title": "Flat Putsebocht 145",
-    "price": 741.0,
-    "size": 62,
-    "rooms": 3,
-    "location": "3073 HH Rotterdam (Bloemhof)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ea2efc47-0e8c-5643-ae47-afa519a4308e/0bdf8419d6dc7a2566eda7c1f2e500c5.jpg?width=600&auto=webp",
-    "agency": "Properbee",
-    "first_seen": "2025-05-22T12:26:58.605846",
-    "last_updated": "2025-05-22T12:26:58.605853"
-  },
-  {
     "id": "augustinusstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/ccd8193a/augustinusstraat",
     "title": "Flat Augustinusstraat",
@@ -1076,19 +1062,5 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-05-22T16:16:50.562974",
     "last_updated": "2025-05-22T16:16:50.562980"
-  },
-  {
-    "id": "monstersestraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/c6d1f4d6/monstersestraat",
-    "title": "Flat Monstersestraat",
-    "price": 841.0,
-    "size": 35,
-    "rooms": 2,
-    "location": "2512 PD Den Haag (Schildersbuurt-West)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/c6d1f4d6-5935-5aad-ba0b-03045999cf86/f05bf96bd140ca631aeeb03ad9ae6412.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-05-22T12:27:04.404523",
-    "last_updated": "2025-05-22T12:27:04.404529"
   }
 ]
