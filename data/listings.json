@@ -560,20 +560,6 @@
     "last_updated": "2025-06-19T11:12:00.857729"
   },
   {
-    "id": "van-speykstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/7d1a03dd/van-speykstraat",
-    "title": "Flat Van Speykstraat 151 E",
-    "price": 926.0,
-    "size": 32,
-    "rooms": 2,
-    "location": "3014 VJ Rotterdam (Oude Westen)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7d1a03dd-f5df-5a75-958d-d35214755c85/632416318eb6d53976300cfbd8c5dafa.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-05-22T16:16:44.525256",
-    "last_updated": "2025-05-22T16:16:44.525263"
-  },
-  {
     "id": "esdoornstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/f5915d10/esdoornstraat",
     "title": "Flat Esdoornstraat",
@@ -1034,19 +1020,5 @@
     "agency": "Homey Housing",
     "first_seen": "2025-05-23T15:13:41.177366",
     "last_updated": "2025-05-23T15:13:41.177373"
-  },
-  {
-    "id": "gevers-deynootweg",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/a6bcdf40/gevers-deynootweg",
-    "title": "Flat Gevers Deynootweg 1200",
-    "price": 300.0,
-    "size": 18,
-    "rooms": 1,
-    "location": "2586 HN Den Haag (Belgisch Park)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a6bcdf40-e59e-5843-a8e8-1bcd15663490/777542f1398f0a95c681c6cbfb46820d.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-05-22T16:16:50.562974",
-    "last_updated": "2025-05-22T16:16:50.562980"
   }
 ]
