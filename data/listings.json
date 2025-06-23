@@ -238,34 +238,6 @@
     "last_updated": "2025-06-04T03:11:56.346950"
   },
   {
-    "id": "laan-van-meerdervoort",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/1160d263/laan-van-meerdervoort",
-    "title": "Flat Laan van Meerdervoort",
-    "price": 885.0,
-    "size": 46,
-    "rooms": 2,
-    "location": "2564 AK Den Haag (Vruchtenbuurt)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/1160d263-497f-50c4-9dd9-af7fcf8f2afe/a1b575d918987278ac4bd0deb3660a3a.jpg?width=600&auto=webp",
-    "agency": "Rental Rotterdam",
-    "first_seen": "2025-06-17T15:14:36.909931",
-    "last_updated": "2025-06-17T15:14:36.909935"
-  },
-  {
-    "id": "laan",
-    "url": "https://www.pararius.com/studio-for-rent/den-haag/01060fa3/laan",
-    "title": "Studio Laan",
-    "price": 1087.0,
-    "size": 23,
-    "rooms": 2,
-    "location": "2512 GN Den Haag (Kortenbos)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/01060fa3-640a-5243-8797-bd9acad4f391/2e4abef942a2e41cc03faaf4a435832b.jpg?width=600&auto=webp",
-    "agency": "Homey Housing",
-    "first_seen": "2025-06-20T15:13:40.517962",
-    "last_updated": "2025-06-20T15:13:40.517964"
-  },
-  {
     "id": "pasteurplein",
     "url": "https://www.pararius.com/studio-for-rent/den-haag/9a955f62/pasteurplein",
     "title": "Studio Pasteurplein 11",
@@ -362,6 +334,20 @@
     "agency": "Rental Rotterdam",
     "first_seen": "2025-06-17T15:14:36.908176",
     "last_updated": "2025-06-17T15:14:36.908179"
+  },
+  {
+    "id": "laan-van-meerdervoort",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/1160d263/laan-van-meerdervoort",
+    "title": "Flat Laan van Meerdervoort",
+    "price": 885.0,
+    "size": 46,
+    "rooms": 2,
+    "location": "2564 AK Den Haag (Vruchtenbuurt)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/1160d263-497f-50c4-9dd9-af7fcf8f2afe/a1b575d918987278ac4bd0deb3660a3a.jpg?width=600&auto=webp",
+    "agency": "Rental Rotterdam",
+    "first_seen": "2025-06-17T15:14:36.909931",
+    "last_updated": "2025-06-17T15:14:36.909935"
   },
   {
     "id": "waldorpstraat",
@@ -516,6 +502,20 @@
     "agency": "Rent Valley",
     "first_seen": "2025-06-04T03:12:01.915696",
     "last_updated": "2025-06-04T03:12:01.915698"
+  },
+  {
+    "id": "laan",
+    "url": "https://www.pararius.com/studio-for-rent/den-haag/01060fa3/laan",
+    "title": "Studio Laan",
+    "price": 1087.0,
+    "size": 23,
+    "rooms": 2,
+    "location": "2512 GN Den Haag (Kortenbos)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/01060fa3-640a-5243-8797-bd9acad4f391/2e4abef942a2e41cc03faaf4a435832b.jpg?width=600&auto=webp",
+    "agency": "Homey Housing",
+    "first_seen": "2025-06-20T15:13:40.517962",
+    "last_updated": "2025-06-20T15:13:40.517964"
   },
   {
     "id": "granaathorst",
