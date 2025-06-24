@@ -1804,5 +1804,14 @@
     "updated_listing_ids": [
       "valkenboskade"
     ]
+  },
+  {
+    "timestamp": "2025-06-24T16:17:05.805153",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "laan-van-eik-en-duinen"
+    ],
+    "updated_listing_ids": []
   }
 ]
