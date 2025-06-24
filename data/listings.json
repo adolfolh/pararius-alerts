@@ -14,20 +14,6 @@
     "last_updated": "2025-06-18T09:15:17.723721"
   },
   {
-    "id": "soetendaalsekade",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f0b5e0c7/soetendaalsekade",
-    "title": "Flat Soetendaalsekade",
-    "price": 860.0,
-    "size": 55,
-    "rooms": 2,
-    "location": "3036 EA Rotterdam (Oude Noorden)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f0b5e0c7-5b13-5cf4-9812-208b8aa81af5/559ee4aa1edcfcd100ead7cca79035f9.jpg?width=600&auto=webp",
-    "agency": "realestate.nl",
-    "first_seen": "2025-06-20T09:14:08.226616",
-    "last_updated": "2025-06-20T09:14:08.226623"
-  },
-  {
     "id": "ericastraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/17cf491c/ericastraat",
     "title": "Flat Ericastraat 11 02",
@@ -502,6 +488,20 @@
     "agency": "Rent Valley",
     "first_seen": "2025-06-04T03:12:01.915696",
     "last_updated": "2025-06-04T03:12:01.915698"
+  },
+  {
+    "id": "soetendaalsekade",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f0b5e0c7/soetendaalsekade",
+    "title": "Flat Soetendaalsekade",
+    "price": 860.0,
+    "size": 55,
+    "rooms": 2,
+    "location": "3036 EA Rotterdam (Oude Noorden)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f0b5e0c7-5b13-5cf4-9812-208b8aa81af5/559ee4aa1edcfcd100ead7cca79035f9.jpg?width=600&auto=webp",
+    "agency": "realestate.nl",
+    "first_seen": "2025-06-20T09:14:08.226616",
+    "last_updated": "2025-06-20T09:14:08.226623"
   },
   {
     "id": "laan",
