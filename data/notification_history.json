@@ -1822,5 +1822,14 @@
       "zwijndrechtsestraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-06-25T15:15:09.667736",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "schieweg"
+    ],
+    "updated_listing_ids": []
   }
 ]

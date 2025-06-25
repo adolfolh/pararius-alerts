@@ -24,8 +24,8 @@
     "interior": "Furnished",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/b7b3fb43-90a8-5fdc-8d8e-f50feb56854f/388e2ff442f5b8e948e31c81bcfb2fac.jpg?width=600&auto=webp",
     "agency": "Rotterdam Apartments",
-    "first_seen": "2025-05-26T15:13:43.004961",
-    "last_updated": "2025-06-18T09:15:17.723721"
+    "first_seen": "2025-06-25T15:15:02.783560",
+    "last_updated": "2025-06-25T15:15:02.783563"
   },
   {
     "id": "ericastraat",
@@ -992,19 +992,5 @@
     "agency": "NRW Wonen",
     "first_seen": "2025-06-02T10:15:16.298599",
     "last_updated": "2025-06-02T10:15:16.298602"
-  },
-  {
-    "id": "bazarstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/c8d001f8/bazarstraat",
-    "title": "Flat Bazarstraat",
-    "price": 975.0,
-    "size": 33,
-    "rooms": 2,
-    "location": "2518 AE Den Haag (Zeeheldenkwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/c8d001f8-4bc7-5135-9b33-128531952505/c6b07fd9495b8c30a8a2534c572203ad.jpg?width=600&auto=webp",
-    "agency": "Rent Valley",
-    "first_seen": "2025-05-26T15:13:48.838839",
-    "last_updated": "2025-05-26T15:13:48.838845"
   }
 ]
