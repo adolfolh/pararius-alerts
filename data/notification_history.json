@@ -1849,5 +1849,14 @@
     "updated_listing_ids": [
       "1e-van-der-kunstraat"
     ]
+  },
+  {
+    "timestamp": "2025-06-26T10:14:46.058343",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "watervlierstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
