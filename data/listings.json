@@ -14,34 +14,6 @@
     "last_updated": "2025-06-25T18:19:18.283778"
   },
   {
-    "id": "zwijndrechtsestraat",
-    "url": "https://www.pararius.com/house-for-rent/rotterdam/bd3700ec/zwijndrechtsestraat",
-    "title": "House Zwijndrechtsestraat",
-    "price": null,
-    "size": 72,
-    "rooms": 3,
-    "location": "3073 RK Rotterdam (Bloemhof)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/bd3700ec-e147-56d8-8b27-e1ae0d25e949/91aa06c4e42a0dab4a23949a4eb43875.jpg?width=600&auto=webp",
-    "agency": "Rotsvast Rotterdam",
-    "first_seen": "2025-06-25T13:29:43.632272",
-    "last_updated": "2025-06-25T13:29:43.632280"
-  },
-  {
-    "id": "schieweg",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/b7b3fb43/schieweg",
-    "title": "Flat Schieweg",
-    "price": 925.0,
-    "size": 25,
-    "rooms": 1,
-    "location": "3038 AE Rotterdam (Bergpolder)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b7b3fb43-90a8-5fdc-8d8e-f50feb56854f/388e2ff442f5b8e948e31c81bcfb2fac.jpg?width=600&auto=webp",
-    "agency": "Rotterdam Apartments",
-    "first_seen": "2025-06-25T15:15:02.783560",
-    "last_updated": "2025-06-25T15:15:02.783563"
-  },
-  {
     "id": "ericastraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/17cf491c/ericastraat",
     "title": "Flat Ericastraat 11 02",
@@ -96,6 +68,20 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-06-18T15:14:27.463637",
     "last_updated": "2025-06-18T15:14:27.463641"
+  },
+  {
+    "id": "schieweg",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/b7b3fb43/schieweg",
+    "title": "Flat Schieweg",
+    "price": 925.0,
+    "size": 25,
+    "rooms": 1,
+    "location": "3038 AE Rotterdam (Bergpolder)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b7b3fb43-90a8-5fdc-8d8e-f50feb56854f/388e2ff442f5b8e948e31c81bcfb2fac.jpg?width=600&auto=webp",
+    "agency": "Rotterdam Apartments",
+    "first_seen": "2025-06-25T15:15:02.783560",
+    "last_updated": "2025-06-25T15:15:02.783563"
   },
   {
     "id": "dordtselaan",
@@ -250,6 +236,20 @@
     "agency": "Rotterdam Apartments",
     "first_seen": "2025-06-04T03:11:56.346948",
     "last_updated": "2025-06-04T03:11:56.346950"
+  },
+  {
+    "id": "1e-van-der-kunstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/41413c75/1e-van-der-kunstraat",
+    "title": "Flat 1e Van der Kunstraat",
+    "price": 1044.0,
+    "size": 43,
+    "rooms": 2,
+    "location": "2521 AS Den Haag (Laakhaven-West)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/41413c75-9c37-5996-9834-e703de97ecd8/fad63fbd8b2de296711738de904016c9.jpg?width=600&auto=webp",
+    "agency": "Rent Valley",
+    "first_seen": "2025-06-04T03:12:01.915696",
+    "last_updated": "2025-06-04T03:12:01.915698"
   },
   {
     "id": "laan-van-eik-en-duinen",
@@ -518,18 +518,18 @@
     "last_updated": "2025-06-07T12:23:20.386308"
   },
   {
-    "id": "1e-van-der-kunstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/41413c75/1e-van-der-kunstraat",
-    "title": "Flat 1e Van der Kunstraat",
-    "price": 1044.0,
-    "size": 43,
-    "rooms": 2,
-    "location": "2521 AS Den Haag (Laakhaven-West)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/41413c75-9c37-5996-9834-e703de97ecd8/fad63fbd8b2de296711738de904016c9.jpg?width=600&auto=webp",
-    "agency": "Rent Valley",
-    "first_seen": "2025-06-04T03:12:01.915696",
-    "last_updated": "2025-06-04T03:12:01.915698"
+    "id": "zwijndrechtsestraat",
+    "url": "https://www.pararius.com/house-for-rent/rotterdam/bd3700ec/zwijndrechtsestraat",
+    "title": "House Zwijndrechtsestraat",
+    "price": null,
+    "size": 72,
+    "rooms": 3,
+    "location": "3073 RK Rotterdam (Bloemhof)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/bd3700ec-e147-56d8-8b27-e1ae0d25e949/91aa06c4e42a0dab4a23949a4eb43875.jpg?width=600&auto=webp",
+    "agency": "Rotsvast Rotterdam",
+    "first_seen": "2025-06-25T13:29:43.632272",
+    "last_updated": "2025-06-25T13:29:43.632280"
   },
   {
     "id": "soetendaalsekade",
