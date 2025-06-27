@@ -70,20 +70,6 @@
     "last_updated": "2025-06-18T15:14:27.463641"
   },
   {
-    "id": "schieweg",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/b7b3fb43/schieweg",
-    "title": "Flat Schieweg",
-    "price": 925.0,
-    "size": 25,
-    "rooms": 1,
-    "location": "3038 AE Rotterdam (Bergpolder)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b7b3fb43-90a8-5fdc-8d8e-f50feb56854f/388e2ff442f5b8e948e31c81bcfb2fac.jpg?width=600&auto=webp",
-    "agency": "Rotterdam Apartments",
-    "first_seen": "2025-06-25T15:15:02.783560",
-    "last_updated": "2025-06-25T15:15:02.783563"
-  },
-  {
     "id": "dordtselaan",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/1e26d609/dordtselaan",
     "title": "Flat Dordtselaan",
@@ -222,20 +208,6 @@
     "agency": "Rent an Apartment",
     "first_seen": "2025-06-14T13:21:56.894636",
     "last_updated": "2025-06-14T13:21:56.894639"
-  },
-  {
-    "id": "bree",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/6180aaea/bree",
-    "title": "Flat Bree",
-    "price": 678.0,
-    "size": 17,
-    "rooms": 1,
-    "location": "3074 BB Rotterdam (Hillesluis)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6180aaea-7f89-55a9-9262-cea7612453d1/8869c406f53f974ac6111e4bf930910a.jpg?width=600&auto=webp",
-    "agency": "Rotterdam Apartments",
-    "first_seen": "2025-06-04T03:11:56.346948",
-    "last_updated": "2025-06-04T03:11:56.346950"
   },
   {
     "id": "arnhemsestraat",
@@ -530,6 +502,34 @@
     "agency": "Immovita",
     "first_seen": "2025-06-07T12:23:20.386306",
     "last_updated": "2025-06-07T12:23:20.386308"
+  },
+  {
+    "id": "schieweg",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/b7b3fb43/schieweg",
+    "title": "Flat Schieweg",
+    "price": 925.0,
+    "size": 25,
+    "rooms": 1,
+    "location": "3038 AE Rotterdam (Bergpolder)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b7b3fb43-90a8-5fdc-8d8e-f50feb56854f/388e2ff442f5b8e948e31c81bcfb2fac.jpg?width=600&auto=webp",
+    "agency": "Rotterdam Apartments",
+    "first_seen": "2025-06-25T15:15:02.783560",
+    "last_updated": "2025-06-25T15:15:02.783563"
+  },
+  {
+    "id": "bree",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/6180aaea/bree",
+    "title": "Flat Bree",
+    "price": 678.0,
+    "size": 17,
+    "rooms": 1,
+    "location": "3074 BB Rotterdam (Hillesluis)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6180aaea-7f89-55a9-9262-cea7612453d1/8869c406f53f974ac6111e4bf930910a.jpg?width=600&auto=webp",
+    "agency": "Rotterdam Apartments",
+    "first_seen": "2025-06-04T03:11:56.346948",
+    "last_updated": "2025-06-04T03:11:56.346950"
   },
   {
     "id": "watervlierstraat",
