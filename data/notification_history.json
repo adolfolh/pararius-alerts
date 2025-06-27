@@ -1877,5 +1877,16 @@
       "amperestraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-06-27T16:17:18.575376",
+    "new_listings_count": 1,
+    "updated_listings_count": 1,
+    "new_listing_ids": [
+      "maaswijkstraat"
+    ],
+    "updated_listing_ids": [
+      "bilderdijkstraat"
+    ]
   }
 ]
