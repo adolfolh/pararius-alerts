@@ -1867,5 +1867,15 @@
       "arnhemsestraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-06-27T15:13:55.304712",
+    "new_listings_count": 2,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "johan-gramstraat",
+      "amperestraat"
+    ],
+    "updated_listing_ids": []
   }
 ]

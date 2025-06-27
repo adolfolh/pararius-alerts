@@ -196,6 +196,34 @@
     "last_updated": "2025-06-14T13:21:56.894639"
   },
   {
+    "id": "johan-gramstraat",
+    "url": "https://www.pararius.com/studio-for-rent/den-haag/1baeb30d/johan-gramstraat",
+    "title": "Studio Johan Gramstraat 40 B, kamer 2",
+    "price": 706.0,
+    "size": 16,
+    "rooms": 1,
+    "location": "2522 XA Den Haag (Laakkwartier-Oost)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/1baeb30d-eaff-5bae-9974-61453e39e985/e7375564f0cab6946ab55bf87b0eda30.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-06-27T15:13:54.889627",
+    "last_updated": "2025-06-27T15:13:54.889633"
+  },
+  {
+    "id": "amperestraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/b4e584e1/amperestraat",
+    "title": "Flat Amp\u00e8restraat 116 A",
+    "price": 814.0,
+    "size": 35,
+    "rooms": 2,
+    "location": "2563 ZW Den Haag (Valkenboskwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b4e584e1-af36-5439-8957-ed8d97c88a86/d4e0673eec6ce63021fad720361ebfb0.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-06-27T15:13:54.891133",
+    "last_updated": "2025-06-27T15:13:54.891136"
+  },
+  {
     "id": "arnhemsestraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/ffb1f2a2/arnhemsestraat",
     "title": "Flat Arnhemsestraat",
