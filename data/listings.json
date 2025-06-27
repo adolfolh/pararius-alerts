@@ -70,20 +70,6 @@
     "last_updated": "2025-06-18T15:14:27.463641"
   },
   {
-    "id": "dordtselaan",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/1e26d609/dordtselaan",
-    "title": "Flat Dordtselaan",
-    "price": 985.0,
-    "size": 65,
-    "rooms": 2,
-    "location": "3073 GK Rotterdam (Bloemhof)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/1e26d609-2b15-51dd-93b2-44c36e9c3b19/980a51860d8950aedd3f1dfdf938591a.jpg?width=600&auto=webp",
-    "agency": "Rent an Apartment",
-    "first_seen": "2025-06-12T15:14:22.412600",
-    "last_updated": "2025-06-12T15:14:22.412609"
-  },
-  {
     "id": "bredestraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/629f3a9b/bredestraat",
     "title": "Flat Bredestraat",
@@ -502,6 +488,20 @@
     "agency": "Immovita",
     "first_seen": "2025-06-07T12:23:20.386306",
     "last_updated": "2025-06-07T12:23:20.386308"
+  },
+  {
+    "id": "dordtselaan",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/1e26d609/dordtselaan",
+    "title": "Flat Dordtselaan",
+    "price": 985.0,
+    "size": 65,
+    "rooms": 2,
+    "location": "3073 GK Rotterdam (Bloemhof)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/1e26d609-2b15-51dd-93b2-44c36e9c3b19/980a51860d8950aedd3f1dfdf938591a.jpg?width=600&auto=webp",
+    "agency": "Rent an Apartment",
+    "first_seen": "2025-06-12T15:14:22.412600",
+    "last_updated": "2025-06-12T15:14:22.412609"
   },
   {
     "id": "schieweg",
