@@ -490,20 +490,6 @@
     "last_updated": "2025-06-10T12:27:36.401498"
   },
   {
-    "id": "nieuwstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/7b8373f6/nieuwstraat",
-    "title": "Flat Nieuwstraat",
-    "price": 745.0,
-    "size": 48,
-    "rooms": 3,
-    "location": "2511 AV Den Haag (Kortenbos)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7b8373f6-c539-57c4-850c-854278dcbc8f/8455ffd8279e10893f5f0e27f7f8a354.jpg?width=600&auto=webp",
-    "agency": "Immovita",
-    "first_seen": "2025-06-08T04:24:57.678415",
-    "last_updated": "2025-06-08T04:24:57.678420"
-  },
-  {
     "id": "rijklof-van-goensstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/05550e1f/rijklof-van-goensstraat",
     "title": "Flat Rijklof van Goensstraat",
@@ -530,6 +516,20 @@
     "agency": "Immovita",
     "first_seen": "2025-06-07T12:23:20.386306",
     "last_updated": "2025-06-07T12:23:20.386308"
+  },
+  {
+    "id": "nieuwstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/7b8373f6/nieuwstraat",
+    "title": "Flat Nieuwstraat",
+    "price": 745.0,
+    "size": 48,
+    "rooms": 3,
+    "location": "2511 AV Den Haag (Kortenbos)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7b8373f6-c539-57c4-850c-854278dcbc8f/8455ffd8279e10893f5f0e27f7f8a354.jpg?width=600&auto=webp",
+    "agency": "Immovita",
+    "first_seen": "2025-06-08T04:24:57.678415",
+    "last_updated": "2025-06-08T04:24:57.678420"
   },
   {
     "id": "vreeswijkstraat",
