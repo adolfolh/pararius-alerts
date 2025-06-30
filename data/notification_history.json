@@ -1888,5 +1888,14 @@
     "updated_listing_ids": [
       "bilderdijkstraat"
     ]
+  },
+  {
+    "timestamp": "2025-06-30T09:16:42.003129",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "rhododendronstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
