@@ -1915,5 +1915,14 @@
       "benedenrijweg"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-07-01T07:15:22.686501",
+    "new_listings_count": 0,
+    "updated_listings_count": 1,
+    "new_listing_ids": [],
+    "updated_listing_ids": [
+      "beeklaan"
+    ]
   }
 ]
