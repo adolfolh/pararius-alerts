@@ -1,5 +1,19 @@
 [
   {
+    "id": "beijerlandselaan",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/68f5a2e1/beijerlandselaan",
+    "title": "Flat Beijerlandselaan",
+    "price": 867.0,
+    "size": 53,
+    "rooms": 2,
+    "location": "3074 EK Rotterdam (Hillesluis)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/68f5a2e1-e6ea-5512-9be9-ee9b8eb09fbf/cbc5c9f2c9aac19f8941c45ad20f5d83.jpg?width=600&auto=webp",
+    "agency": "Perfect Rent",
+    "first_seen": "2025-06-18T17:13:42.860352",
+    "last_updated": "2025-06-18T17:13:42.860354"
+  },
+  {
     "id": "adrien-mildersstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/4a8a7cea/adrien-mildersstraat",
     "title": "Flat Adrien Mildersstraat",
@@ -110,20 +124,6 @@
     "agency": "Perfect Rent",
     "first_seen": "2025-06-05T14:13:26.312917",
     "last_updated": "2025-06-17T12:28:01.778702"
-  },
-  {
-    "id": "beijerlandselaan",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/68f5a2e1/beijerlandselaan",
-    "title": "Flat Beijerlandselaan",
-    "price": 867.0,
-    "size": 53,
-    "rooms": 2,
-    "location": "3074 EK Rotterdam (Hillesluis)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/68f5a2e1-e6ea-5512-9be9-ee9b8eb09fbf/cbc5c9f2c9aac19f8941c45ad20f5d83.jpg?width=600&auto=webp",
-    "agency": "Perfect Rent",
-    "first_seen": "2025-06-18T17:13:42.860352",
-    "last_updated": "2025-06-18T17:13:42.860354"
   },
   {
     "id": "madeliefstraat",
