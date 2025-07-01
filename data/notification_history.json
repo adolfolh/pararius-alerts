@@ -1924,5 +1924,14 @@
     "updated_listing_ids": [
       "beeklaan"
     ]
+  },
+  {
+    "timestamp": "2025-07-01T13:28:55.182628",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "groot-hertoginnelaan"
+    ],
+    "updated_listing_ids": []
   }
 ]
