@@ -1,19 +1,5 @@
 [
   {
-    "id": "benedenrijweg",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/88e9ea39/benedenrijweg",
-    "title": "Flat Benedenrijweg",
-    "price": 1450.0,
-    "size": 53,
-    "rooms": 2,
-    "location": "3077 CE Rotterdam (Oud IJsselmonde)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/88e9ea39-4de5-52da-875c-e802074cd7ba/f00523f1c2a378c5b67ecaaa982f4edc.jpg?width=600&auto=webp",
-    "agency": "Homeland Real Estate",
-    "first_seen": "2025-06-30T14:13:35.633031",
-    "last_updated": "2025-06-30T14:13:35.633035"
-  },
-  {
     "id": "adrien-mildersstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/4a8a7cea/adrien-mildersstraat",
     "title": "Flat Adrien Mildersstraat",
@@ -544,6 +530,20 @@
     "agency": "Immovita",
     "first_seen": "2025-06-07T12:23:20.386306",
     "last_updated": "2025-06-07T12:23:20.386308"
+  },
+  {
+    "id": "benedenrijweg",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/88e9ea39/benedenrijweg",
+    "title": "Flat Benedenrijweg",
+    "price": 1450.0,
+    "size": 53,
+    "rooms": 2,
+    "location": "3077 CE Rotterdam (Oud IJsselmonde)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/88e9ea39-4de5-52da-875c-e802074cd7ba/f00523f1c2a378c5b67ecaaa982f4edc.jpg?width=600&auto=webp",
+    "agency": "Homeland Real Estate",
+    "first_seen": "2025-06-30T14:13:35.633031",
+    "last_updated": "2025-06-30T14:13:35.633035"
   },
   {
     "id": "laan-van-nieuw-oost-indie",
