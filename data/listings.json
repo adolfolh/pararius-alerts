@@ -1,5 +1,19 @@
 [
   {
+    "id": "bergse-dorpsstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/5e2f5793/bergse-dorpsstraat",
+    "title": "Flat Bergse Dorpsstraat",
+    "price": 794.0,
+    "size": 40,
+    "rooms": 2,
+    "location": "3054 GD Rotterdam (Hillegersberg Noord)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/5e2f5793-c7ed-5542-a1b0-119ff4111e31/78be0afba8a49fd39d3e612c9dca38b2.jpg?width=600&auto=webp",
+    "agency": "Wonen Hartje -",
+    "first_seen": "2025-07-01T18:18:29.780210",
+    "last_updated": "2025-07-01T18:18:29.780216"
+  },
+  {
     "id": "beijerlandselaan",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/68f5a2e1/beijerlandselaan",
     "title": "Flat Beijerlandselaan",
