@@ -490,20 +490,6 @@
     "last_updated": "2025-06-20T12:26:55.549439"
   },
   {
-    "id": "laan-van-nieuw-oost-indie",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/72e11e6d/laan-van-nieuw-oost-indie",
-    "title": "Flat Laan van Nieuw-Oost-Indi\u00eb",
-    "price": 997.0,
-    "size": 32,
-    "rooms": 2,
-    "location": "2593 BT Den Haag (Bezuidenhout-Oost)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/72e11e6d-5d18-5b9e-9d21-7c7642733a6d/e593f97262c9fa49959b333c080b4e75.jpg?width=600&auto=webp",
-    "agency": "Rent Valley",
-    "first_seen": "2025-06-11T15:14:42.285666",
-    "last_updated": "2025-06-11T15:14:42.285677"
-  },
-  {
     "id": "mosveen",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/407cb0e1/mosveen",
     "title": "Flat Mosveen",
@@ -558,6 +544,20 @@
     "agency": "Immovita",
     "first_seen": "2025-06-07T12:23:20.386306",
     "last_updated": "2025-06-07T12:23:20.386308"
+  },
+  {
+    "id": "laan-van-nieuw-oost-indie",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/72e11e6d/laan-van-nieuw-oost-indie",
+    "title": "Flat Laan van Nieuw-Oost-Indi\u00eb",
+    "price": 997.0,
+    "size": 32,
+    "rooms": 2,
+    "location": "2593 BT Den Haag (Bezuidenhout-Oost)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/72e11e6d-5d18-5b9e-9d21-7c7642733a6d/e593f97262c9fa49959b333c080b4e75.jpg?width=600&auto=webp",
+    "agency": "Rent Valley",
+    "first_seen": "2025-06-11T15:14:42.285666",
+    "last_updated": "2025-06-11T15:14:42.285677"
   },
   {
     "id": "nieuwstraat",
