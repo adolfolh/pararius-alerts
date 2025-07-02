@@ -1118,19 +1118,5 @@
     "agency": "Yoep Investments bv",
     "first_seen": "2025-06-02T18:18:52.185293",
     "last_updated": "2025-06-02T18:18:52.185296"
-  },
-  {
-    "id": "trompstraat",
-    "url": "https://www.pararius.com/studio-for-rent/den-haag/070c324a/trompstraat",
-    "title": "Studio Trompstraat",
-    "price": 897.0,
-    "size": 26,
-    "rooms": 1,
-    "location": "2518 BL Den Haag (Zeeheldenkwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/070c324a-3266-5498-bc12-ce4e52920b7a/4cc974f0e6d58fe04accd33b83f110af.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-06-02T10:15:16.298599",
-    "last_updated": "2025-06-02T10:15:16.298602"
   }
 ]
