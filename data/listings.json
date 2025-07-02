@@ -406,20 +406,6 @@
     "last_updated": "2025-06-19T12:27:02.261732"
   },
   {
-    "id": "obrechtstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/661608b1/obrechtstraat",
-    "title": "Flat Obrechtstraat",
-    "price": 1107.0,
-    "size": 31,
-    "rooms": 2,
-    "location": "2517 VH Den Haag (Sweelinckplein en omgeving)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/661608b1-0c4e-5bd7-9441-54aa7a151108/a47347ce60683818e55eb7ca24b30f77.jpg?width=600&auto=webp",
-    "agency": "Rent Valley",
-    "first_seen": "2025-06-19T12:27:02.202245",
-    "last_updated": "2025-06-19T12:27:02.202252"
-  },
-  {
     "id": "bleijenburg",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/727c1b9e/bleijenburg",
     "title": "Flat Bleijenburg",
@@ -558,6 +544,20 @@
     "agency": "Immovita",
     "first_seen": "2025-06-07T12:23:20.386306",
     "last_updated": "2025-06-07T12:23:20.386308"
+  },
+  {
+    "id": "obrechtstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/661608b1/obrechtstraat",
+    "title": "Flat Obrechtstraat",
+    "price": 1107.0,
+    "size": 31,
+    "rooms": 2,
+    "location": "2517 VH Den Haag (Sweelinckplein en omgeving)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/661608b1-0c4e-5bd7-9441-54aa7a151108/a47347ce60683818e55eb7ca24b30f77.jpg?width=600&auto=webp",
+    "agency": "Rent Valley",
+    "first_seen": "2025-06-19T12:27:02.202245",
+    "last_updated": "2025-06-19T12:27:02.202252"
   },
   {
     "id": "bergse-dorpsstraat",
