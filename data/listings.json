@@ -304,8 +304,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/14611fc1-b4dd-57f0-8dc9-20fb2899a26c/073b3455814f306120a97fa0097e7265.jpg?width=600&auto=webp",
     "agency": "Woonzeker Rentals",
-    "first_seen": "2025-06-02T18:18:52.183732",
-    "last_updated": "2025-06-27T16:17:18.130460"
+    "first_seen": "2025-07-02T18:19:30.966604",
+    "last_updated": "2025-07-02T18:19:30.966607"
   },
   {
     "id": "johan-gramstraat",
@@ -1104,19 +1104,5 @@
     "agency": "Rent an Apartment",
     "first_seen": "2025-06-03T16:18:11.109959",
     "last_updated": "2025-06-03T16:18:11.109962"
-  },
-  {
-    "id": "westeinde",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/b9b74377/westeinde",
-    "title": "Flat Westeinde",
-    "price": 975.0,
-    "size": 44,
-    "rooms": 2,
-    "location": "2512 HE Den Haag (Kortenbos)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b9b74377-5890-5ae2-ba3d-d92c3d107b32/971f99f0eeaf6c7ec5aad804aa7bf34b.jpg?width=600&auto=webp",
-    "agency": "Yoep Investments bv",
-    "first_seen": "2025-06-02T18:18:52.185293",
-    "last_updated": "2025-06-02T18:18:52.185296"
   }
 ]
