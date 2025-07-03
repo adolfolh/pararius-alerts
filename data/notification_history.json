@@ -1969,5 +1969,14 @@
       "bilderdijkstraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-07-03T08:18:29.485302",
+    "new_listings_count": 0,
+    "updated_listings_count": 1,
+    "new_listing_ids": [],
+    "updated_listing_ids": [
+      "beeklaan"
+    ]
   }
 ]
