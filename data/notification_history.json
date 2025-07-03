@@ -1978,5 +1978,14 @@
     "updated_listing_ids": [
       "beeklaan"
     ]
+  },
+  {
+    "timestamp": "2025-07-03T11:12:30.147408",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "essenburgsingel"
+    ],
+    "updated_listing_ids": []
   }
 ]
