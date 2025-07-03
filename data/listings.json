@@ -1,5 +1,19 @@
 [
   {
+    "id": "groene-hilledijk",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/d17157bc/groene-hilledijk",
+    "title": "Flat Groene Hilledijk",
+    "price": 991.0,
+    "size": 66,
+    "rooms": 2,
+    "location": "3074 AB Rotterdam (Hillesluis)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/d17157bc-7918-5c94-9e15-2796024a6d0a/ed112dd86ccb29d71989455a83937e8a.jpg?width=600&auto=webp",
+    "agency": "Rent an Apartment",
+    "first_seen": "2025-07-03T16:16:52.794364",
+    "last_updated": "2025-07-03T16:16:52.794371"
+  },
+  {
     "id": "dorpsweg",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/ad6f2fe7/dorpsweg",
     "title": "Flat Dorpsweg 108 A.",
@@ -194,20 +208,6 @@
     "agency": "HouseHunting Randstad",
     "first_seen": "2025-06-04T03:11:56.344000",
     "last_updated": "2025-06-04T03:11:56.344002"
-  },
-  {
-    "id": "ruigenhoek",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/9480c18e/ruigenhoek",
-    "title": "Flat Ruigenhoek",
-    "price": 864.0,
-    "size": 61,
-    "rooms": 3,
-    "location": "3085 EN Rotterdam (Zuidwijk)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9480c18e-5611-59d6-8895-818630b40f65/3e8249aa07df7e415dc67334ee5d5251.jpg?width=600&auto=webp",
-    "agency": "Rent an Apartment",
-    "first_seen": "2025-06-14T13:21:56.894636",
-    "last_updated": "2025-06-14T13:21:56.894639"
   },
   {
     "id": "leyweg",
@@ -544,6 +544,20 @@
     "agency": "Immovita",
     "first_seen": "2025-06-07T12:23:20.386306",
     "last_updated": "2025-06-07T12:23:20.386308"
+  },
+  {
+    "id": "ruigenhoek",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/9480c18e/ruigenhoek",
+    "title": "Flat Ruigenhoek",
+    "price": 864.0,
+    "size": 61,
+    "rooms": 3,
+    "location": "3085 EN Rotterdam (Zuidwijk)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9480c18e-5611-59d6-8895-818630b40f65/3e8249aa07df7e415dc67334ee5d5251.jpg?width=600&auto=webp",
+    "agency": "Rent an Apartment",
+    "first_seen": "2025-06-14T13:21:56.894636",
+    "last_updated": "2025-06-14T13:21:56.894639"
   },
   {
     "id": "bredestraat",
@@ -1006,20 +1020,6 @@
     "agency": "NRW Wonen",
     "first_seen": "2025-06-12T13:28:21.532526",
     "last_updated": "2025-06-12T13:28:21.532532"
-  },
-  {
-    "id": "middelharnisstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/87c55f13/middelharnisstraat",
-    "title": "Flat Middelharnisstraat",
-    "price": 927.0,
-    "size": 57,
-    "rooms": 3,
-    "location": "3086 GH Rotterdam (Pendrecht)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/87c55f13-ef46-5f65-b32e-6655d1fff624/26b5d69945f80804ac51e9d939980fbe.jpg?width=600&auto=webp",
-    "agency": "Perfect Rent",
-    "first_seen": "2025-06-03T15:15:14.143234",
-    "last_updated": "2025-06-03T15:15:14.143241"
   },
   {
     "id": "hoogveen",
