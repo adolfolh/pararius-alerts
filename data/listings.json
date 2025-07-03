@@ -1,5 +1,19 @@
 [
   {
+    "id": "dorpsweg",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/ad6f2fe7/dorpsweg",
+    "title": "Flat Dorpsweg 108 A.",
+    "price": 940.0,
+    "size": 30,
+    "rooms": 1,
+    "location": "3083 LG Rotterdam (Carnisse)",
+    "interior": "Upholstered or furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ad6f2fe7-5efd-5d7c-9944-4e3db3528c4f/013d7eb1159c1d604bbee19077bbe0af.jpg?width=600&auto=webp",
+    "agency": "SMG Housing",
+    "first_seen": "2025-07-03T13:26:33.451065",
+    "last_updated": "2025-07-03T13:26:33.451073"
+  },
+  {
     "id": "essenburgsingel",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/1b5fcd60/essenburgsingel",
     "title": "Flat Essenburgsingel",
