@@ -1020,19 +1020,5 @@
     "agency": "NRW Wonen",
     "first_seen": "2025-06-05T15:14:18.860488",
     "last_updated": "2025-06-05T15:14:18.860495"
-  },
-  {
-    "id": "polderlaan",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/aacc7dd1/polderlaan",
-    "title": "Flat Polderlaan",
-    "price": 997.0,
-    "size": 58,
-    "rooms": 2,
-    "location": "3074 MH Rotterdam (Hillesluis)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/aacc7dd1-978f-5dc2-adb6-877dd197df8f/6a20386ec04c3cd92cc31b74b73760a5.jpg?width=600&auto=webp",
-    "agency": "Rent an Apartment",
-    "first_seen": "2025-06-04T17:12:27.316500",
-    "last_updated": "2025-06-04T17:12:27.316506"
   }
 ]
