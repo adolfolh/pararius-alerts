@@ -2005,5 +2005,18 @@
       "groene-hilledijk"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-07-04T03:13:59.298051",
+    "new_listings_count": 5,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "zuidplein",
+      "vijverhofstraat",
+      "zegwaardstraat",
+      "1e-van-der-kunstraat",
+      "loosduinsekade"
+    ],
+    "updated_listing_ids": []
   }
 ]

@@ -136,8 +136,8 @@
     "interior": "Unknown",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/15fea00d-896f-5cf0-b901-925a07b4b8df/3f693c9ed1036b65ade687e5944ff314.jpg?width=600&auto=webp",
     "agency": "D&S Vastgoed",
-    "first_seen": "2025-06-04T03:11:56.341056",
-    "last_updated": "2025-06-04T03:11:56.341058"
+    "first_seen": "2025-07-04T03:13:47.542523",
+    "last_updated": "2025-07-04T03:13:47.542525"
   },
   {
     "id": "glashaven",
@@ -192,8 +192,8 @@
     "interior": "Furnished",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/a58c5ff9-e133-5581-bf9c-8c29d37c59ff/e88aeb6d9d43baaac6a8b69f50316559.jpg?width=600&auto=webp",
     "agency": "HouseHunting Randstad",
-    "first_seen": "2025-06-04T03:11:56.342525",
-    "last_updated": "2025-06-04T03:11:56.342527"
+    "first_seen": "2025-07-04T03:13:47.543964",
+    "last_updated": "2025-07-04T03:13:47.543966"
   },
   {
     "id": "zegwaardstraat",
@@ -206,8 +206,8 @@
     "interior": "Furnished",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/a9c33130-1763-579c-8ca1-6af9b4483452/215e258e75e47253bad4e9a99d093ad5.jpg?width=600&auto=webp",
     "agency": "HouseHunting Randstad",
-    "first_seen": "2025-06-04T03:11:56.344000",
-    "last_updated": "2025-06-04T03:11:56.344002"
+    "first_seen": "2025-07-04T03:13:47.545408",
+    "last_updated": "2025-07-04T03:13:47.545410"
   },
   {
     "id": "leyweg",
@@ -374,8 +374,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/ba07a099-3c1e-591f-a4c1-37d7def2eafd/84940a0555715e237f2a007d0ea2f1d5.jpg?width=600&auto=webp",
     "agency": "Rent Valley",
-    "first_seen": "2025-06-04T03:12:01.915696",
-    "last_updated": "2025-06-26T09:15:10.667641"
+    "first_seen": "2025-07-04T03:13:53.474824",
+    "last_updated": "2025-07-04T03:13:53.474827"
   },
   {
     "id": "laan-van-eik-en-duinen",
@@ -514,8 +514,8 @@
     "interior": "Unknown",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/e7413a0f-f4c1-5e99-835d-c86f65751c1c/640e56b4708ac40608a9f2b44db6e07e.jpg?width=600&auto=webp",
     "agency": "Key Vastbeheer",
-    "first_seen": "2025-06-04T03:12:01.937069",
-    "last_updated": "2025-06-10T12:27:36.401498"
+    "first_seen": "2025-07-04T03:13:53.500194",
+    "last_updated": "2025-07-04T03:13:53.500196"
   },
   {
     "id": "rijklof-van-goensstraat",
@@ -700,20 +700,6 @@
     "last_updated": "2025-06-25T15:15:02.783563"
   },
   {
-    "id": "bree",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/6180aaea/bree",
-    "title": "Flat Bree",
-    "price": 678.0,
-    "size": 17,
-    "rooms": 1,
-    "location": "3074 BB Rotterdam (Hillesluis)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6180aaea-7f89-55a9-9262-cea7612453d1/8869c406f53f974ac6111e4bf930910a.jpg?width=600&auto=webp",
-    "agency": "Rotterdam Apartments",
-    "first_seen": "2025-06-04T03:11:56.346948",
-    "last_updated": "2025-06-04T03:11:56.346950"
-  },
-  {
     "id": "watervlierstraat",
     "url": "https://www.pararius.com/studio-for-rent/den-haag/c6b03393/watervlierstraat",
     "title": "Studio Watervlierstraat",
@@ -868,20 +854,6 @@
     "last_updated": "2025-06-19T08:18:31.591918"
   },
   {
-    "id": "copernicuslaan",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/ef6951a8/copernicuslaan",
-    "title": "Flat Copernicuslaan 107 B",
-    "price": 912.0,
-    "size": 26,
-    "rooms": 1,
-    "location": "2561 VC Den Haag (Valkenboskwartier)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ef6951a8-d512-51cc-a841-97a29940f462/e1d5b1312ee8df0a73023eb1d9372fc5.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-06-04T03:12:01.934109",
-    "last_updated": "2025-06-04T03:12:01.934111"
-  },
-  {
     "id": "noorderhavenkade",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/279366af/noorderhavenkade",
     "title": "Flat Noorderhavenkade 151 B",
@@ -1020,20 +992,6 @@
     "agency": "NRW Wonen",
     "first_seen": "2025-06-12T13:28:21.532526",
     "last_updated": "2025-06-12T13:28:21.532532"
-  },
-  {
-    "id": "hoogveen",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/35557101/hoogveen",
-    "title": "Flat Hoogveen",
-    "price": 477.0,
-    "size": 53,
-    "rooms": 2,
-    "location": "2544 SX Den Haag (Venen, Oorden en Raden)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/35557101-0bae-5ba6-ae26-4fa2b9f66294/5c9f65355f8feb55367ef4824b7c5cc6.jpg?width=600&auto=webp",
-    "agency": "Ad Hoc Den Haag",
-    "first_seen": "2025-06-04T03:12:01.938552",
-    "last_updated": "2025-06-04T03:12:01.938554"
   },
   {
     "id": "augustinusstraat",
