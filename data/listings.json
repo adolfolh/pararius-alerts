@@ -1,19 +1,5 @@
 [
   {
-    "id": "groene-hilledijk",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/d17157bc/groene-hilledijk",
-    "title": "Flat Groene Hilledijk",
-    "price": 991.0,
-    "size": 66,
-    "rooms": 2,
-    "location": "3074 AB Rotterdam (Hillesluis)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/d17157bc-7918-5c94-9e15-2796024a6d0a/ed112dd86ccb29d71989455a83937e8a.jpg?width=600&auto=webp",
-    "agency": "Rent an Apartment",
-    "first_seen": "2025-07-03T16:16:52.794364",
-    "last_updated": "2025-07-03T16:16:52.794371"
-  },
-  {
     "id": "dorpsweg",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/ad6f2fe7/dorpsweg",
     "title": "Flat Dorpsweg 108 A.",
@@ -544,6 +530,20 @@
     "agency": "Immovita",
     "first_seen": "2025-06-07T12:23:20.386306",
     "last_updated": "2025-06-07T12:23:20.386308"
+  },
+  {
+    "id": "groene-hilledijk",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/d17157bc/groene-hilledijk",
+    "title": "Flat Groene Hilledijk",
+    "price": 991.0,
+    "size": 66,
+    "rooms": 2,
+    "location": "3074 AB Rotterdam (Hillesluis)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/d17157bc-7918-5c94-9e15-2796024a6d0a/ed112dd86ccb29d71989455a83937e8a.jpg?width=600&auto=webp",
+    "agency": "Rent an Apartment",
+    "first_seen": "2025-07-03T16:16:52.794364",
+    "last_updated": "2025-07-03T16:16:52.794371"
   },
   {
     "id": "ruigenhoek",
