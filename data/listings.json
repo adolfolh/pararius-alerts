@@ -1048,19 +1048,5 @@
     "agency": "City Limit Vastgoedbeheer",
     "first_seen": "2025-06-04T12:26:58.820011",
     "last_updated": "2025-06-04T12:26:58.820014"
-  },
-  {
-    "id": "gouvernestraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/c8686225/gouvernestraat",
-    "title": "Flat Gouvernestraat 117 03",
-    "price": 893.0,
-    "size": 72,
-    "rooms": 3,
-    "location": "3014 PL Rotterdam (Oude Westen)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/c8686225-8782-5994-8bb8-86cded31c719/57035e5dab2f5cc1da56a14226cfb1e3.jpg?width=600&auto=webp",
-    "agency": "Kolpa V.V.S. Beheer",
-    "first_seen": "2025-06-04T10:14:37.967667",
-    "last_updated": "2025-06-04T10:14:37.967674"
   }
 ]
