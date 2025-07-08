@@ -224,20 +224,6 @@
     "last_updated": "2025-07-08T09:16:04.366699"
   },
   {
-    "id": "leyweg",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/f49fc630/leyweg",
-    "title": "Flat Leyweg 794",
-    "price": 1000.0,
-    "size": 60,
-    "rooms": 2,
-    "location": "2545 GR Den Haag (Morgenstond-Oost)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f49fc630-952a-58f5-9a13-e281a08e95e1/b34549d8f159ad76c0213f2082b9a83d.jpg?width=600&auto=webp",
-    "agency": "Expat & Real Estate B.V.",
-    "first_seen": "2025-07-01T16:17:39.256289",
-    "last_updated": "2025-07-01T16:17:39.256295"
-  },
-  {
     "id": "groot-hertoginnelaan",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/e68a2f8e/groot-hertoginnelaan",
     "title": "Flat Groot Hertoginnelaan",
@@ -544,6 +530,20 @@
     "agency": "Immovita",
     "first_seen": "2025-07-07T12:27:32.247455",
     "last_updated": "2025-07-07T12:27:32.247457"
+  },
+  {
+    "id": "leyweg",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/f49fc630/leyweg",
+    "title": "Flat Leyweg 794",
+    "price": 1000.0,
+    "size": 60,
+    "rooms": 2,
+    "location": "2545 GR Den Haag (Morgenstond-Oost)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f49fc630-952a-58f5-9a13-e281a08e95e1/b34549d8f159ad76c0213f2082b9a83d.jpg?width=600&auto=webp",
+    "agency": "Expat & Real Estate B.V.",
+    "first_seen": "2025-07-01T16:17:39.256289",
+    "last_updated": "2025-07-01T16:17:39.256295"
   },
   {
     "id": "waldorpstraat",
