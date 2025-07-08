@@ -196,6 +196,20 @@
     "last_updated": "2025-07-04T03:13:47.545410"
   },
   {
+    "id": "deltaplein",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/611238c9/deltaplein",
+    "title": "Flat Deltaplein 45",
+    "price": 734.0,
+    "size": 50,
+    "rooms": 2,
+    "location": "2554 ED Den Haag (Kijkduin)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/611238c9-86f1-50a4-8e80-501d540b09b8/e69f6aa9dd13da8d4647d2f025c821fa.jpg?width=600&auto=webp",
+    "agency": "Nationaal Grondbezit",
+    "first_seen": "2025-07-08T13:29:49.460442",
+    "last_updated": "2025-07-08T13:29:49.460447"
+  },
+  {
     "id": "conradkade",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/2d8d2783/conradkade",
     "title": "Flat Conradkade",
@@ -448,20 +462,6 @@
     "last_updated": "2025-06-24T09:15:55.497832"
   },
   {
-    "id": "waldorpstraat",
-    "url": "https://www.pararius.com/house-for-rent/den-haag/9a826e24/waldorpstraat",
-    "title": "House Waldorpstraat 828",
-    "price": 860.0,
-    "size": 23,
-    "rooms": 1,
-    "location": "2521 CW Den Haag (Laakhaven-West)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9a826e24-6c78-5544-ad3c-4fb3d04af55b/d549a908949acd81d2a79872ebad3c3e.jpg?width=600&auto=webp",
-    "agency": "LIV Residential",
-    "first_seen": "2025-07-05T23:12:51.964559",
-    "last_updated": "2025-07-05T23:12:51.964561"
-  },
-  {
     "id": "weteringkade",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/a6f3d635/weteringkade",
     "title": "Flat Weteringkade",
@@ -544,6 +544,20 @@
     "agency": "Immovita",
     "first_seen": "2025-07-07T12:27:32.247455",
     "last_updated": "2025-07-07T12:27:32.247457"
+  },
+  {
+    "id": "waldorpstraat",
+    "url": "https://www.pararius.com/house-for-rent/den-haag/9a826e24/waldorpstraat",
+    "title": "House Waldorpstraat 828",
+    "price": 860.0,
+    "size": 23,
+    "rooms": 1,
+    "location": "2521 CW Den Haag (Laakhaven-West)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9a826e24-6c78-5544-ad3c-4fb3d04af55b/d549a908949acd81d2a79872ebad3c3e.jpg?width=600&auto=webp",
+    "agency": "LIV Residential",
+    "first_seen": "2025-07-05T23:12:51.964559",
+    "last_updated": "2025-07-05T23:12:51.964561"
   },
   {
     "id": "dorpsweg",
