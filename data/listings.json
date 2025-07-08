@@ -1,5 +1,19 @@
 [
   {
+    "id": "glashaven",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/f3bb080c/glashaven",
+    "title": "Studio Glashaven",
+    "price": 960.0,
+    "size": 35,
+    "rooms": 1,
+    "location": "3011 XH Rotterdam (Stadsdriehoek)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f3bb080c-feb5-560f-910c-aa820a10cc78/ba1ecdd48d3d77a5100452de96631377.jpg?width=600&auto=webp",
+    "agency": "Perfect Rent",
+    "first_seen": "2025-07-05T15:12:19.420534",
+    "last_updated": "2025-07-08T15:14:32.931318"
+  },
+  {
     "id": "essenburgsingel",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/1b5fcd60/essenburgsingel",
     "title": "Flat Essenburgsingel",
@@ -124,20 +138,6 @@
     "agency": "D&S Vastgoed",
     "first_seen": "2025-07-04T03:13:47.542523",
     "last_updated": "2025-07-04T03:13:47.542525"
-  },
-  {
-    "id": "glashaven",
-    "url": "https://www.pararius.com/studio-for-rent/rotterdam/65acb5a2/glashaven",
-    "title": "Studio Glashaven",
-    "price": 946.0,
-    "size": 32,
-    "rooms": 1,
-    "location": "3011 XH Rotterdam (Stadsdriehoek)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/65acb5a2-269e-57a1-af33-31ca028d7e5e/a58d5d559fc163df8553d2fa75af13bc.jpg?width=600&auto=webp",
-    "agency": "Perfect Rent",
-    "first_seen": "2025-07-05T15:12:19.420534",
-    "last_updated": "2025-07-05T15:12:19.420537"
   },
   {
     "id": "madeliefstraat",
