@@ -238,6 +238,20 @@
     "last_updated": "2025-07-04T03:13:47.545410"
   },
   {
+    "id": "laan-van-meerdervoort",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/1160d263/laan-van-meerdervoort",
+    "title": "Flat Laan van Meerdervoort",
+    "price": 885.0,
+    "size": 46,
+    "rooms": 2,
+    "location": "2564 AK Den Haag (Vruchtenbuurt)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/1160d263-497f-50c4-9dd9-af7fcf8f2afe/a1b575d918987278ac4bd0deb3660a3a.jpg?width=600&auto=webp",
+    "agency": "Rental Rotterdam",
+    "first_seen": "2025-06-17T15:14:36.909931",
+    "last_updated": "2025-06-17T15:14:36.909935"
+  },
+  {
     "id": "van-boecopkade",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/7236369d/van-boecopkade",
     "title": "Flat Van Boecopkade",
@@ -320,20 +334,6 @@
     "agency": "Immovita",
     "first_seen": "2025-06-30T09:16:36.156386",
     "last_updated": "2025-06-30T09:16:36.156391"
-  },
-  {
-    "id": "laan-van-meerdervoort",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/1160d263/laan-van-meerdervoort",
-    "title": "Flat Laan van Meerdervoort",
-    "price": 885.0,
-    "size": 46,
-    "rooms": 2,
-    "location": "2564 AK Den Haag (Vruchtenbuurt)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/1160d263-497f-50c4-9dd9-af7fcf8f2afe/a1b575d918987278ac4bd0deb3660a3a.jpg?width=600&auto=webp",
-    "agency": "Rental Rotterdam",
-    "first_seen": "2025-06-17T15:14:36.909931",
-    "last_updated": "2025-06-17T15:14:36.909935"
   },
   {
     "id": "maaswijkstraat",
