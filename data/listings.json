@@ -1,5 +1,19 @@
 [
   {
+    "id": "wolphaertsbocht",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/c2af9c59/wolphaertsbocht",
+    "title": "Flat Wolphaertsbocht",
+    "price": 848.0,
+    "size": 45,
+    "rooms": 2,
+    "location": "3081 KH Rotterdam (Tarwewijk)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/c2af9c59-d99a-5017-901e-e728aec76532/3e4683407cb84b00b4e967d51e0c457f.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-07-09T14:13:37.097492",
+    "last_updated": "2025-07-09T14:13:37.097499"
+  },
+  {
     "id": "gaesbeekstraat",
     "url": "https://www.pararius.com/studio-for-rent/rotterdam/0b21a514/gaesbeekstraat",
     "title": "Studio Gaesbeekstraat",
