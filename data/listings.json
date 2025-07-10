@@ -280,20 +280,6 @@
     "last_updated": "2025-07-09T12:27:42.005230"
   },
   {
-    "id": "deltaplein",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/611238c9/deltaplein",
-    "title": "Flat Deltaplein 45",
-    "price": 734.0,
-    "size": 50,
-    "rooms": 2,
-    "location": "2554 ED Den Haag (Kijkduin)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/611238c9-86f1-50a4-8e80-501d540b09b8/e69f6aa9dd13da8d4647d2f025c821fa.jpg?width=600&auto=webp",
-    "agency": "Nationaal Grondbezit",
-    "first_seen": "2025-07-08T13:29:49.460442",
-    "last_updated": "2025-07-08T13:29:49.460447"
-  },
-  {
     "id": "conradkade",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/2d8d2783/conradkade",
     "title": "Flat Conradkade",
@@ -586,6 +572,20 @@
     "agency": "Immovita",
     "first_seen": "2025-07-07T12:27:32.247455",
     "last_updated": "2025-07-07T12:27:32.247457"
+  },
+  {
+    "id": "deltaplein",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/611238c9/deltaplein",
+    "title": "Flat Deltaplein 45",
+    "price": 734.0,
+    "size": 50,
+    "rooms": 2,
+    "location": "2554 ED Den Haag (Kijkduin)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/611238c9-86f1-50a4-8e80-501d540b09b8/e69f6aa9dd13da8d4647d2f025c821fa.jpg?width=600&auto=webp",
+    "agency": "Nationaal Grondbezit",
+    "first_seen": "2025-07-08T13:29:49.460442",
+    "last_updated": "2025-07-08T13:29:49.460447"
   },
   {
     "id": "schrijnwerkersgaarde",
