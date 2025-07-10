@@ -2126,5 +2126,14 @@
     "updated_listing_ids": [
       "laan-van-meerdervoort"
     ]
+  },
+  {
+    "timestamp": "2025-07-10T13:29:59.515900",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "mosveen"
+    ],
+    "updated_listing_ids": []
   }
 ]
