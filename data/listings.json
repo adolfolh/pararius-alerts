@@ -252,6 +252,34 @@
     "last_updated": "2025-07-04T03:13:47.545410"
   },
   {
+    "id": "prins-hendrikstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/4ede2b1d/prins-hendrikstraat",
+    "title": "Flat Prins Hendrikstraat 70 A",
+    "price": 693.0,
+    "size": 38,
+    "rooms": 2,
+    "location": "2518 HV Den Haag (Zeeheldenkwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4ede2b1d-ac68-5f32-bf61-6ea09c939d06/71e59f01c2fe678a4ff22693eaac6b6e.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-06-11T11:12:21.335867",
+    "last_updated": "2025-07-10T16:17:37.877598"
+  },
+  {
+    "id": "kepplerstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/2a5892c3/kepplerstraat",
+    "title": "Flat Kepplerstraat 249",
+    "price": 920.0,
+    "size": 35,
+    "rooms": 2,
+    "location": "2562 VM Den Haag (Valkenboskwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2a5892c3-4d72-52ad-9998-2715e4621b7b/8e3ca89db781036243bcee5b81673ab9.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-07-10T16:17:32.149016",
+    "last_updated": "2025-07-10T16:17:32.149018"
+  },
+  {
     "id": "laan-van-meerdervoort",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/d8654c69/laan-van-meerdervoort",
     "title": "Flat Laan van Meerdervoort",
@@ -894,20 +922,6 @@
     "agency": "Rent Valley",
     "first_seen": "2025-06-12T14:13:47.004531",
     "last_updated": "2025-06-12T14:13:47.004539"
-  },
-  {
-    "id": "prins-hendrikstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/0851c04c/prins-hendrikstraat",
-    "title": "Flat Prins Hendrikstraat 17 C",
-    "price": 951.0,
-    "size": 45,
-    "rooms": 2,
-    "location": "2518 HD Den Haag (Zeeheldenkwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0851c04c-68f7-5894-90d5-996c655075d6/6dcdef578067ee8f2d3bae5cf95afabd.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-06-11T11:12:21.335867",
-    "last_updated": "2025-06-11T11:12:21.335870"
   },
   {
     "id": "amsterdamsestraat",

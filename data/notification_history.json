@@ -2144,5 +2144,16 @@
       "oostmaasstraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-07-10T16:17:38.319646",
+    "new_listings_count": 1,
+    "updated_listings_count": 1,
+    "new_listing_ids": [
+      "kepplerstraat"
+    ],
+    "updated_listing_ids": [
+      "prins-hendrikstraat"
+    ]
   }
 ]
