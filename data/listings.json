@@ -294,20 +294,6 @@
     "last_updated": "2025-07-10T10:15:30.421444"
   },
   {
-    "id": "van-boecopkade",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/7236369d/van-boecopkade",
-    "title": "Flat Van Boecopkade",
-    "price": 995.0,
-    "size": 50,
-    "rooms": 2,
-    "location": "2518 LD Den Haag (Rond de Energiecentrale)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7236369d-4008-56b9-bd96-1e2960b864dc/a028ca9ee85eeac14f3e50b62bdc7d6a.jpg?width=600&auto=webp",
-    "agency": "Rent an Apartment",
-    "first_seen": "2025-07-09T12:27:42.005223",
-    "last_updated": "2025-07-09T12:27:42.005230"
-  },
-  {
     "id": "conradkade",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/2d8d2783/conradkade",
     "title": "Flat Conradkade",
@@ -556,8 +542,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/d58087f5-514b-55b6-b7ae-23bb22210a87/930548eee1a0099669cd1fd0e4ffa57a.jpg?width=600&auto=webp",
     "agency": "Woonzeker Rentals",
-    "first_seen": "2025-06-11T10:14:49.493296",
-    "last_updated": "2025-06-20T12:26:55.549439"
+    "first_seen": "2025-07-11T10:15:04.009292",
+    "last_updated": "2025-07-11T10:15:04.009294"
   },
   {
     "id": "mosveen",
@@ -614,6 +600,20 @@
     "agency": "Immovita",
     "first_seen": "2025-07-07T12:27:32.247455",
     "last_updated": "2025-07-07T12:27:32.247457"
+  },
+  {
+    "id": "van-boecopkade",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/7236369d/van-boecopkade",
+    "title": "Flat Van Boecopkade",
+    "price": 995.0,
+    "size": 50,
+    "rooms": 2,
+    "location": "2518 LD Den Haag (Rond de Energiecentrale)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7236369d-4008-56b9-bd96-1e2960b864dc/a028ca9ee85eeac14f3e50b62bdc7d6a.jpg?width=600&auto=webp",
+    "agency": "Rent an Apartment",
+    "first_seen": "2025-07-09T12:27:42.005223",
+    "last_updated": "2025-07-09T12:27:42.005230"
   },
   {
     "id": "deltaplein",
@@ -922,20 +922,6 @@
     "agency": "Rent Valley",
     "first_seen": "2025-06-12T14:13:47.004531",
     "last_updated": "2025-06-12T14:13:47.004539"
-  },
-  {
-    "id": "amsterdamsestraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/5068ee47/amsterdamsestraat",
-    "title": "Flat Amsterdamsestraat 44 C",
-    "price": 857.0,
-    "size": 67,
-    "rooms": 3,
-    "location": "2587 CR Den Haag (Belgisch Park)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/5068ee47-2d5c-5ce2-bd2a-55a023e0e728/edbbe45565101c68922922f84448a0b9.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-06-11T10:14:49.515442",
-    "last_updated": "2025-06-19T08:18:31.591866"
   },
   {
     "id": "de-gheijnstraat",

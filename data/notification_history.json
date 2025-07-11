@@ -2155,5 +2155,14 @@
     "updated_listing_ids": [
       "prins-hendrikstraat"
     ]
+  },
+  {
+    "timestamp": "2025-07-11T10:15:04.399722",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "zoutmanstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
