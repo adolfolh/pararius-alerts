@@ -14,20 +14,6 @@
     "last_updated": "2025-07-10T15:15:02.110101"
   },
   {
-    "id": "wolphaertsbocht",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/c2af9c59/wolphaertsbocht",
-    "title": "Flat Wolphaertsbocht",
-    "price": 848.0,
-    "size": 45,
-    "rooms": 2,
-    "location": "3081 KH Rotterdam (Tarwewijk)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/c2af9c59-d99a-5017-901e-e728aec76532/3e4683407cb84b00b4e967d51e0c457f.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-07-09T14:13:37.097492",
-    "last_updated": "2025-07-09T14:13:37.097499"
-  },
-  {
     "id": "gaesbeekstraat",
     "url": "https://www.pararius.com/studio-for-rent/rotterdam/0b21a514/gaesbeekstraat",
     "title": "Studio Gaesbeekstraat",
@@ -96,6 +82,20 @@
     "agency": "Perfect Rent",
     "first_seen": "2025-06-18T17:13:42.860352",
     "last_updated": "2025-06-18T17:13:42.860354"
+  },
+  {
+    "id": "benedenrijweg",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/88e9ea39/benedenrijweg",
+    "title": "Flat Benedenrijweg",
+    "price": 1450.0,
+    "size": 53,
+    "rooms": 2,
+    "location": "3077 CE Rotterdam (Oud IJsselmonde)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/88e9ea39-4de5-52da-875c-e802074cd7ba/f00523f1c2a378c5b67ecaaa982f4edc.jpg?width=600&auto=webp",
+    "agency": "Homeland Real Estate",
+    "first_seen": "2025-06-30T14:13:35.633031",
+    "last_updated": "2025-06-30T14:13:35.633035"
   },
   {
     "id": "adrien-mildersstraat",
@@ -602,6 +602,20 @@
     "last_updated": "2025-07-07T12:27:32.247457"
   },
   {
+    "id": "wolphaertsbocht",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/c2af9c59/wolphaertsbocht",
+    "title": "Flat Wolphaertsbocht",
+    "price": 848.0,
+    "size": 45,
+    "rooms": 2,
+    "location": "3081 KH Rotterdam (Tarwewijk)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/c2af9c59-d99a-5017-901e-e728aec76532/3e4683407cb84b00b4e967d51e0c457f.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-07-09T14:13:37.097492",
+    "last_updated": "2025-07-09T14:13:37.097499"
+  },
+  {
     "id": "van-boecopkade",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/7236369d/van-boecopkade",
     "title": "Flat Van Boecopkade",
@@ -754,20 +768,6 @@
     "agency": "Wonen Hartje -",
     "first_seen": "2025-07-01T18:18:29.780210",
     "last_updated": "2025-07-01T18:18:29.780216"
-  },
-  {
-    "id": "benedenrijweg",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/88e9ea39/benedenrijweg",
-    "title": "Flat Benedenrijweg",
-    "price": 1450.0,
-    "size": 53,
-    "rooms": 2,
-    "location": "3077 CE Rotterdam (Oud IJsselmonde)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/88e9ea39-4de5-52da-875c-e802074cd7ba/f00523f1c2a378c5b67ecaaa982f4edc.jpg?width=600&auto=webp",
-    "agency": "Homeland Real Estate",
-    "first_seen": "2025-06-30T14:13:35.633031",
-    "last_updated": "2025-06-30T14:13:35.633035"
   },
   {
     "id": "laan-van-nieuw-oost-indie",
