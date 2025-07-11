@@ -2164,5 +2164,15 @@
       "zoutmanstraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-07-11T11:12:50.565276",
+    "new_listings_count": 2,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "prins-hendrikstraat",
+      "regentesselaan"
+    ],
+    "updated_listing_ids": []
   }
 ]
