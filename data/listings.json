@@ -192,8 +192,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/a0426822-201b-534e-abb4-c8cfecca270c/dbf1881d92013c5126ac7d6f0884a118.png?width=600&auto=webp",
     "agency": "HouseHunting Randstad",
-    "first_seen": "2025-06-11T15:14:36.253283",
-    "last_updated": "2025-06-11T15:14:36.253286"
+    "first_seen": "2025-07-11T16:16:51.552941",
+    "last_updated": "2025-07-11T16:16:51.552944"
   },
   {
     "id": "waterloostraat",
@@ -236,6 +236,48 @@
     "agency": "HouseHunting Randstad",
     "first_seen": "2025-07-04T03:13:47.545408",
     "last_updated": "2025-07-04T03:13:47.545410"
+  },
+  {
+    "id": "drijfriemstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/1b3b773c/drijfriemstraat",
+    "title": "Flat Drijfriemstraat",
+    "price": 980.0,
+    "size": 66,
+    "rooms": 3,
+    "location": "2516 XL Den Haag (Noordpolderbuurt)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/1b3b773c-bc4d-5292-bb28-55102edb69b3/3339b64fc5b2e7673e10fd795351df61.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-07-11T16:16:57.470698",
+    "last_updated": "2025-07-11T16:16:57.470704"
+  },
+  {
+    "id": "regentesseplein",
+    "url": "https://www.pararius.com/studio-for-rent/den-haag/b2e196c0/regentesseplein",
+    "title": "Studio Regentesseplein",
+    "price": 891.0,
+    "size": 24,
+    "rooms": 2,
+    "location": "2562 EZ Den Haag (Koningsplein en omgeving)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b2e196c0-cbd4-5521-89a5-574224cecba3/ca299a0fffe07c2266e3fe2569207f92.jpg?width=600&auto=webp",
+    "agency": "Homey Housing",
+    "first_seen": "2025-07-11T16:16:57.472174",
+    "last_updated": "2025-07-11T16:16:57.472176"
+  },
+  {
+    "id": "van-galenstraat",
+    "url": "https://www.pararius.com/studio-for-rent/den-haag/fbd136dc/van-galenstraat",
+    "title": "Studio Van Galenstraat",
+    "price": 793.0,
+    "size": 15,
+    "rooms": 2,
+    "location": "2518 EN Den Haag (Zeeheldenkwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/fbd136dc-3c87-57b1-ad2c-8bb53b7d25e1/31bccd97705e3f96e944d3528519e049.jpg?width=600&auto=webp",
+    "agency": "Homey Housing",
+    "first_seen": "2025-07-11T16:16:57.473729",
+    "last_updated": "2025-07-11T16:16:57.473732"
   },
   {
     "id": "prins-hendrikstraat",
@@ -768,20 +810,6 @@
     "agency": "Wonen Hartje -",
     "first_seen": "2025-07-01T18:18:29.780210",
     "last_updated": "2025-07-01T18:18:29.780216"
-  },
-  {
-    "id": "laan-van-nieuw-oost-indie",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/72e11e6d/laan-van-nieuw-oost-indie",
-    "title": "Flat Laan van Nieuw-Oost-Indi\u00eb",
-    "price": 997.0,
-    "size": 32,
-    "rooms": 2,
-    "location": "2593 BT Den Haag (Bezuidenhout-Oost)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/72e11e6d-5d18-5b9e-9d21-7c7642733a6d/e593f97262c9fa49959b333c080b4e75.jpg?width=600&auto=webp",
-    "agency": "Rent Valley",
-    "first_seen": "2025-06-11T15:14:42.285666",
-    "last_updated": "2025-06-11T15:14:42.285677"
   },
   {
     "id": "vreeswijkstraat",

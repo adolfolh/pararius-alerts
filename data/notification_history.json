@@ -2174,5 +2174,17 @@
       "regentesselaan"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-07-11T16:17:03.435847",
+    "new_listings_count": 4,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "madeliefstraat",
+      "drijfriemstraat",
+      "regentesseplein",
+      "van-galenstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
