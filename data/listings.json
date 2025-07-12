@@ -252,20 +252,6 @@
     "last_updated": "2025-07-11T16:16:57.472176"
   },
   {
-    "id": "van-galenstraat",
-    "url": "https://www.pararius.com/studio-for-rent/den-haag/fbd136dc/van-galenstraat",
-    "title": "Studio Van Galenstraat",
-    "price": 793.0,
-    "size": 15,
-    "rooms": 2,
-    "location": "2518 EN Den Haag (Zeeheldenkwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/fbd136dc-3c87-57b1-ad2c-8bb53b7d25e1/31bccd97705e3f96e944d3528519e049.jpg?width=600&auto=webp",
-    "agency": "Homey Housing",
-    "first_seen": "2025-07-11T16:16:57.473729",
-    "last_updated": "2025-07-11T16:16:57.473732"
-  },
-  {
     "id": "prins-hendrikstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/4ede2b1d/prins-hendrikstraat",
     "title": "Flat Prins Hendrikstraat 70 A",
@@ -614,6 +600,20 @@
     "agency": "Immovita",
     "first_seen": "2025-07-07T12:27:32.247455",
     "last_updated": "2025-07-07T12:27:32.247457"
+  },
+  {
+    "id": "van-galenstraat",
+    "url": "https://www.pararius.com/studio-for-rent/den-haag/fbd136dc/van-galenstraat",
+    "title": "Studio Van Galenstraat",
+    "price": 793.0,
+    "size": 15,
+    "rooms": 2,
+    "location": "2518 EN Den Haag (Zeeheldenkwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/fbd136dc-3c87-57b1-ad2c-8bb53b7d25e1/31bccd97705e3f96e944d3528519e049.jpg?width=600&auto=webp",
+    "agency": "Homey Housing",
+    "first_seen": "2025-07-11T16:16:57.473729",
+    "last_updated": "2025-07-11T16:16:57.473732"
   },
   {
     "id": "drijfriemstraat",
