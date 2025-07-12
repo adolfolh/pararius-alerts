@@ -238,20 +238,6 @@
     "last_updated": "2025-07-04T03:13:47.545410"
   },
   {
-    "id": "drijfriemstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/1b3b773c/drijfriemstraat",
-    "title": "Flat Drijfriemstraat",
-    "price": 980.0,
-    "size": 66,
-    "rooms": 3,
-    "location": "2516 XL Den Haag (Noordpolderbuurt)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/1b3b773c-bc4d-5292-bb28-55102edb69b3/3339b64fc5b2e7673e10fd795351df61.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-07-11T16:16:57.470698",
-    "last_updated": "2025-07-11T16:16:57.470704"
-  },
-  {
     "id": "regentesseplein",
     "url": "https://www.pararius.com/studio-for-rent/den-haag/b2e196c0/regentesseplein",
     "title": "Studio Regentesseplein",
@@ -628,6 +614,20 @@
     "agency": "Immovita",
     "first_seen": "2025-07-07T12:27:32.247455",
     "last_updated": "2025-07-07T12:27:32.247457"
+  },
+  {
+    "id": "drijfriemstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/1b3b773c/drijfriemstraat",
+    "title": "Flat Drijfriemstraat",
+    "price": 980.0,
+    "size": 66,
+    "rooms": 3,
+    "location": "2516 XL Den Haag (Noordpolderbuurt)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/1b3b773c-bc4d-5292-bb28-55102edb69b3/3339b64fc5b2e7673e10fd795351df61.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-07-11T16:16:57.470698",
+    "last_updated": "2025-07-11T16:16:57.470704"
   },
   {
     "id": "gaesbeekstraat",
