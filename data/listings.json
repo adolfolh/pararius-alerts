@@ -154,20 +154,6 @@
     "last_updated": "2025-06-18T17:13:42.842348"
   },
   {
-    "id": "vierambachtsstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/ac9c9274/vierambachtsstraat",
-    "title": "Flat Vierambachtsstraat 62 A",
-    "price": 980.0,
-    "size": 58,
-    "rooms": 2,
-    "location": "3023 AR Rotterdam (Nieuwe Westen)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ac9c9274-1372-5202-8274-e4f1b73416f6/bc7ce88c006e2350ec4fa213d8b30b73.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-06-18T15:14:27.462089",
-    "last_updated": "2025-06-18T15:14:27.462098"
-  },
-  {
     "id": "verschoorstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/9217389d/verschoorstraat",
     "title": "Flat Verschoorstraat 68 A01 (VZ",
@@ -336,20 +322,6 @@
     "last_updated": "2025-07-01T13:28:49.296744"
   },
   {
-    "id": "beeklaan",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/408f5b39/beeklaan",
-    "title": "Flat Beeklaan 84 A",
-    "price": 991.0,
-    "size": 35,
-    "rooms": 2,
-    "location": "2562 AM Den Haag (Valkenboskwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/408f5b39-b9db-52c5-94ad-888183c189ce/8adaa819a688ffdad19c4f5f15948170.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-06-30T12:27:18.628463",
-    "last_updated": "2025-07-03T08:18:29.196805"
-  },
-  {
     "id": "rhododendronstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/f785305d/rhododendronstraat",
     "title": "Flat Rhododendronstraat",
@@ -490,20 +462,6 @@
     "last_updated": "2025-06-20T14:12:53.360451"
   },
   {
-    "id": "regentesselaan",
-    "url": "https://www.pararius.com/studio-for-rent/den-haag/4e1f8086/regentesselaan",
-    "title": "Studio Regentesselaan 161 A",
-    "price": 558.0,
-    "size": 23,
-    "rooms": 1,
-    "location": "2562 CX Den Haag (Rond de Energiecentrale)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4e1f8086-62c3-5088-b934-786b2dd1ec08/8926edac6ae4f7148d9323752b882e42.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-07-11T11:12:50.059610",
-    "last_updated": "2025-07-11T11:12:50.059613"
-  },
-  {
     "id": "bleijenburg",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/727c1b9e/bleijenburg",
     "title": "Flat Bleijenburg",
@@ -518,18 +476,18 @@
     "last_updated": "2025-06-19T05:13:53.316721"
   },
   {
-    "id": "valkenboskade",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/186feaa8/valkenboskade",
-    "title": "Flat Valkenboskade 205 kamer 3",
-    "price": 843.0,
-    "size": 21,
+    "id": "regentesselaan",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/fd8f217e/regentesselaan",
+    "title": "Flat Regentesselaan 161 C",
+    "price": 591.0,
+    "size": 25,
     "rooms": 2,
-    "location": "2563 HB Den Haag (Valkenboskwartier)",
+    "location": "2562 CX Den Haag (Rond de Energiecentrale)",
     "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/186feaa8-2dd3-5522-a615-464da4311c48/512b8887c025ab57a288195e9e2855b8.jpg?width=600&auto=webp",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/fd8f217e-48de-5951-9e2f-b3a3057eda8c/03e4e764e459d1d665f9ce1378973eba.jpg?width=600&auto=webp",
     "agency": "Woonzeker Rentals",
-    "first_seen": "2025-06-18T17:13:49.192880",
-    "last_updated": "2025-06-24T09:15:55.497832"
+    "first_seen": "2025-07-11T11:12:50.059610",
+    "last_updated": "2025-07-14T16:17:59.526986"
   },
   {
     "id": "weteringkade",
@@ -600,6 +558,48 @@
     "agency": "Immovita",
     "first_seen": "2025-07-07T12:27:32.247455",
     "last_updated": "2025-07-07T12:27:32.247457"
+  },
+  {
+    "id": "vierambachtsstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/ac9c9274/vierambachtsstraat",
+    "title": "Flat Vierambachtsstraat 62 A",
+    "price": 980.0,
+    "size": 58,
+    "rooms": 2,
+    "location": "3023 AR Rotterdam (Nieuwe Westen)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ac9c9274-1372-5202-8274-e4f1b73416f6/bc7ce88c006e2350ec4fa213d8b30b73.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-06-18T15:14:27.462089",
+    "last_updated": "2025-06-18T15:14:27.462098"
+  },
+  {
+    "id": "beeklaan",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/408f5b39/beeklaan",
+    "title": "Flat Beeklaan 84 A",
+    "price": 991.0,
+    "size": 35,
+    "rooms": 2,
+    "location": "2562 AM Den Haag (Valkenboskwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/408f5b39-b9db-52c5-94ad-888183c189ce/8adaa819a688ffdad19c4f5f15948170.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-06-30T12:27:18.628463",
+    "last_updated": "2025-07-03T08:18:29.196805"
+  },
+  {
+    "id": "valkenboskade",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/186feaa8/valkenboskade",
+    "title": "Flat Valkenboskade 205 kamer 3",
+    "price": 843.0,
+    "size": 21,
+    "rooms": 2,
+    "location": "2563 HB Den Haag (Valkenboskwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/186feaa8-2dd3-5522-a615-464da4311c48/512b8887c025ab57a288195e9e2855b8.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-06-18T17:13:49.192880",
+    "last_updated": "2025-06-24T09:15:55.497832"
   },
   {
     "id": "regentesseplein",
