@@ -770,20 +770,6 @@
     "last_updated": "2025-07-03T16:16:52.794371"
   },
   {
-    "id": "ruigenhoek",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/9480c18e/ruigenhoek",
-    "title": "Flat Ruigenhoek",
-    "price": 864.0,
-    "size": 61,
-    "rooms": 3,
-    "location": "3085 EN Rotterdam (Zuidwijk)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9480c18e-5611-59d6-8895-818630b40f65/3e8249aa07df7e415dc67334ee5d5251.jpg?width=600&auto=webp",
-    "agency": "Rent an Apartment",
-    "first_seen": "2025-06-14T13:21:56.894636",
-    "last_updated": "2025-06-14T13:21:56.894639"
-  },
-  {
     "id": "ieplaan",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/26e66b1c/ieplaan",
     "title": "Flat Ieplaan",
