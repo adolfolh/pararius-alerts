@@ -2195,5 +2195,16 @@
       "weteringkade"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-07-14T12:28:42.906335",
+    "new_listings_count": 1,
+    "updated_listings_count": 1,
+    "new_listing_ids": [
+      "coolhaven"
+    ],
+    "updated_listing_ids": [
+      "waldorpstraat"
+    ]
   }
 ]

@@ -1,5 +1,19 @@
 [
   {
+    "id": "coolhaven",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/0814344f/coolhaven",
+    "title": "Flat Coolhaven",
+    "price": 954.0,
+    "size": 50,
+    "rooms": 2,
+    "location": "3024 AA Rotterdam (Delfshaven)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0814344f-4ebc-5d60-8d3c-9a8ee1567f39/6ead3723fb2f7f14d28028fcc6414490.jpg?width=600&auto=webp",
+    "agency": "Rotterdam Apartments",
+    "first_seen": "2025-07-14T12:28:36.435309",
+    "last_updated": "2025-07-14T12:28:36.435316"
+  },
+  {
     "id": "oostmaasstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/7cc82acf/oostmaasstraat",
     "title": "Flat Oostmaasstraat",
@@ -236,6 +250,20 @@
     "agency": "HouseHunting Randstad",
     "first_seen": "2025-07-04T03:13:47.545408",
     "last_updated": "2025-07-04T03:13:47.545410"
+  },
+  {
+    "id": "waldorpstraat",
+    "url": "https://www.pararius.com/house-for-rent/den-haag/982e349e/waldorpstraat",
+    "title": "House Waldorpstraat 1268",
+    "price": 906.0,
+    "size": 23,
+    "rooms": 1,
+    "location": "2521 CZ Den Haag (Laakhaven-West)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/982e349e-6ec8-5d71-86b8-b626d822be98/d549a908949acd81d2a79872ebad3c3e.jpg?width=600&auto=webp",
+    "agency": "LIV Residential",
+    "first_seen": "2025-07-05T23:12:51.964559",
+    "last_updated": "2025-07-14T12:28:42.484741"
   },
   {
     "id": "prins-hendrikstraat",
@@ -712,20 +740,6 @@
     "agency": "Expat & Real Estate B.V.",
     "first_seen": "2025-07-01T16:17:39.256289",
     "last_updated": "2025-07-01T16:17:39.256295"
-  },
-  {
-    "id": "waldorpstraat",
-    "url": "https://www.pararius.com/house-for-rent/den-haag/9a826e24/waldorpstraat",
-    "title": "House Waldorpstraat 828",
-    "price": 860.0,
-    "size": 23,
-    "rooms": 1,
-    "location": "2521 CW Den Haag (Laakhaven-West)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9a826e24-6c78-5544-ad3c-4fb3d04af55b/d549a908949acd81d2a79872ebad3c3e.jpg?width=600&auto=webp",
-    "agency": "LIV Residential",
-    "first_seen": "2025-07-05T23:12:51.964559",
-    "last_updated": "2025-07-05T23:12:51.964561"
   },
   {
     "id": "dorpsweg",
