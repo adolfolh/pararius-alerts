@@ -28,20 +28,6 @@
     "last_updated": "2025-07-10T15:15:02.110101"
   },
   {
-    "id": "polslandstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/27fd3f4c/polslandstraat",
-    "title": "Flat Polslandstraat",
-    "price": 985.0,
-    "size": 55,
-    "rooms": 2,
-    "location": "3081 TR Rotterdam (Tarwewijk)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/27fd3f4c-0500-56df-b230-c93b9738d6d6/2424cf812b80e4ce9aa01a385c5b7770.jpg?width=600&auto=webp",
-    "agency": "Nell Vastgoed",
-    "first_seen": "2025-07-08T19:10:50.288181",
-    "last_updated": "2025-07-08T19:10:50.288187"
-  },
-  {
     "id": "glashaven",
     "url": "https://www.pararius.com/studio-for-rent/rotterdam/f3bb080c/glashaven",
     "title": "Studio Glashaven",
@@ -558,6 +544,20 @@
     "agency": "Immovita",
     "first_seen": "2025-07-07T12:27:32.247455",
     "last_updated": "2025-07-07T12:27:32.247457"
+  },
+  {
+    "id": "polslandstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/27fd3f4c/polslandstraat",
+    "title": "Flat Polslandstraat",
+    "price": 985.0,
+    "size": 55,
+    "rooms": 2,
+    "location": "3081 TR Rotterdam (Tarwewijk)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/27fd3f4c-0500-56df-b230-c93b9738d6d6/2424cf812b80e4ce9aa01a385c5b7770.jpg?width=600&auto=webp",
+    "agency": "Nell Vastgoed",
+    "first_seen": "2025-07-08T19:10:50.288181",
+    "last_updated": "2025-07-08T19:10:50.288187"
   },
   {
     "id": "vierambachtsstraat",
