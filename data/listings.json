@@ -238,20 +238,6 @@
     "last_updated": "2025-07-04T03:13:47.545410"
   },
   {
-    "id": "regentesseplein",
-    "url": "https://www.pararius.com/studio-for-rent/den-haag/b2e196c0/regentesseplein",
-    "title": "Studio Regentesseplein",
-    "price": 891.0,
-    "size": 24,
-    "rooms": 2,
-    "location": "2562 EZ Den Haag (Koningsplein en omgeving)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b2e196c0-cbd4-5521-89a5-574224cecba3/ca299a0fffe07c2266e3fe2569207f92.jpg?width=600&auto=webp",
-    "agency": "Homey Housing",
-    "first_seen": "2025-07-11T16:16:57.472174",
-    "last_updated": "2025-07-11T16:16:57.472176"
-  },
-  {
     "id": "prins-hendrikstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/4ede2b1d/prins-hendrikstraat",
     "title": "Flat Prins Hendrikstraat 70 A",
@@ -574,20 +560,6 @@
     "last_updated": "2025-07-04T03:13:53.500196"
   },
   {
-    "id": "rijklof-van-goensstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/05550e1f/rijklof-van-goensstraat",
-    "title": "Flat Rijklof van Goensstraat",
-    "price": 925.0,
-    "size": 76,
-    "rooms": 3,
-    "location": "2593 EE Den Haag (Bezuidenhout-Oost)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/05550e1f-4a46-55fb-8488-9d43678049e6/86fd6c9e751cc0d9504a8b58116dcb6f.jpg?width=600&auto=webp",
-    "agency": "Rental Rotterdam",
-    "first_seen": "2025-07-02T09:16:33.683690",
-    "last_updated": "2025-07-02T09:16:33.683692"
-  },
-  {
     "id": "daguerrestraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/6189e668/daguerrestraat",
     "title": "Flat Daguerrestraat",
@@ -600,6 +572,34 @@
     "agency": "Immovita",
     "first_seen": "2025-07-07T12:27:32.247455",
     "last_updated": "2025-07-07T12:27:32.247457"
+  },
+  {
+    "id": "regentesseplein",
+    "url": "https://www.pararius.com/studio-for-rent/den-haag/b2e196c0/regentesseplein",
+    "title": "Studio Regentesseplein",
+    "price": 891.0,
+    "size": 24,
+    "rooms": 2,
+    "location": "2562 EZ Den Haag (Koningsplein en omgeving)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b2e196c0-cbd4-5521-89a5-574224cecba3/ca299a0fffe07c2266e3fe2569207f92.jpg?width=600&auto=webp",
+    "agency": "Homey Housing",
+    "first_seen": "2025-07-11T16:16:57.472174",
+    "last_updated": "2025-07-11T16:16:57.472176"
+  },
+  {
+    "id": "rijklof-van-goensstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/05550e1f/rijklof-van-goensstraat",
+    "title": "Flat Rijklof van Goensstraat",
+    "price": 925.0,
+    "size": 76,
+    "rooms": 3,
+    "location": "2593 EE Den Haag (Bezuidenhout-Oost)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/05550e1f-4a46-55fb-8488-9d43678049e6/86fd6c9e751cc0d9504a8b58116dcb6f.jpg?width=600&auto=webp",
+    "agency": "Rental Rotterdam",
+    "first_seen": "2025-07-02T09:16:33.683690",
+    "last_updated": "2025-07-02T09:16:33.683692"
   },
   {
     "id": "van-galenstraat",
