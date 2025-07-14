@@ -2186,5 +2186,14 @@
       "van-galenstraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-07-14T11:12:53.289551",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "weteringkade"
+    ],
+    "updated_listing_ids": []
   }
 ]
