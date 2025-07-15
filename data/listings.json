@@ -1,5 +1,19 @@
 [
   {
+    "id": "bredestraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/448ba2f9/bredestraat",
+    "title": "Flat Bredestraat",
+    "price": 950.0,
+    "size": 50,
+    "rooms": 3,
+    "location": "3011 RB Rotterdam (Stadsdriehoek)",
+    "interior": "Upholstered or furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/448ba2f9-8505-51bb-97e8-f1476d3a641c/8afab4604b5559d6850302bd3b3d0d63.jpg?width=600&auto=webp",
+    "agency": "Rental Rotterdam",
+    "first_seen": "2025-07-15T12:28:44.253311",
+    "last_updated": "2025-07-15T12:28:44.253321"
+  },
+  {
     "id": "pleinweg",
     "url": "https://www.pararius.com/studio-for-rent/rotterdam/7a53788a/pleinweg",
     "title": "Studio Pleinweg",

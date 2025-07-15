@@ -2233,5 +2233,14 @@
     "updated_listing_ids": [
       "pleinweg"
     ]
+  },
+  {
+    "timestamp": "2025-07-15T12:28:50.648172",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "bredestraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
