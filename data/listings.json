@@ -266,20 +266,6 @@
     "last_updated": "2025-07-10T10:15:30.421444"
   },
   {
-    "id": "conradkade",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/2d8d2783/conradkade",
-    "title": "Flat Conradkade",
-    "price": 795.0,
-    "size": 30,
-    "rooms": 3,
-    "location": "2517 BR Den Haag (Koningsplein en omgeving)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2d8d2783-8479-50be-94e6-4a288dcc3f17/f833379f6ee0a3393a8a0a9a193e9fd3.jpg?width=600&auto=webp",
-    "agency": "Immovita",
-    "first_seen": "2025-07-08T09:16:04.366691",
-    "last_updated": "2025-07-08T09:16:04.366699"
-  },
-  {
     "id": "groot-hertoginnelaan",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/e68a2f8e/groot-hertoginnelaan",
     "title": "Flat Groot Hertoginnelaan",
@@ -516,6 +502,20 @@
     "agency": "Key Vastbeheer",
     "first_seen": "2025-07-04T03:13:53.500194",
     "last_updated": "2025-07-04T03:13:53.500196"
+  },
+  {
+    "id": "conradkade",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/2d8d2783/conradkade",
+    "title": "Flat Conradkade",
+    "price": 795.0,
+    "size": 30,
+    "rooms": 3,
+    "location": "2517 BR Den Haag (Koningsplein en omgeving)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2d8d2783-8479-50be-94e6-4a288dcc3f17/f833379f6ee0a3393a8a0a9a193e9fd3.jpg?width=600&auto=webp",
+    "agency": "Immovita",
+    "first_seen": "2025-07-08T09:16:04.366691",
+    "last_updated": "2025-07-08T09:16:04.366699"
   },
   {
     "id": "daguerrestraat",
