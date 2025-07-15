@@ -1,5 +1,19 @@
 [
   {
+    "id": "pleinweg",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/7a53788a/pleinweg",
+    "title": "Studio Pleinweg",
+    "price": 866.0,
+    "size": 20,
+    "rooms": 1,
+    "location": "3083 EH Rotterdam (Carnisse)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7a53788a-df20-503e-b084-4d071d5e825b/442be741ebd4bb50cb5e3b4bc6a45079.jpg?width=600&auto=webp",
+    "agency": "Homey Housing",
+    "first_seen": "2025-06-17T12:27:50.527191",
+    "last_updated": "2025-07-15T10:15:17.389008"
+  },
+  {
     "id": "willebrordusplein",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/8f8ba306/willebrordusplein",
     "title": "Flat Willebrordusplein 23 C",
@@ -950,20 +964,6 @@
     "agency": "NRW Wonen",
     "first_seen": "2025-06-18T10:14:35.827639",
     "last_updated": "2025-06-18T10:14:35.827655"
-  },
-  {
-    "id": "pleinweg",
-    "url": "https://www.pararius.com/studio-for-rent/rotterdam/24a3de2a/pleinweg",
-    "title": "Studio Pleinweg",
-    "price": 821.0,
-    "size": 20,
-    "rooms": 1,
-    "location": "3081 JB Rotterdam (Tarwewijk)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/24a3de2a-f7b1-5ecf-84bb-73af45adc3dc/950ef859efad7f73804dd452dce0d1ed.jpg?width=600&auto=webp",
-    "agency": "Homey Housing",
-    "first_seen": "2025-06-17T12:27:50.527191",
-    "last_updated": "2025-06-17T12:27:50.527198"
   },
   {
     "id": "korhaanstraat",
