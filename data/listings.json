@@ -1,5 +1,19 @@
 [
   {
+    "id": "pleinweg",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/1aa5c871/pleinweg",
+    "title": "Flat Pleinweg",
+    "price": 930.0,
+    "size": 46,
+    "rooms": 3,
+    "location": "3081 JR Rotterdam (Tarwewijk)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/1aa5c871-951b-58c7-9dfb-b4fd189a4584/bf5509d928821fc3c5d2ef7518c8714c.jpg?width=600&auto=webp",
+    "agency": "Rent an Apartment",
+    "first_seen": "2025-06-17T12:27:50.527191",
+    "last_updated": "2025-07-15T16:18:05.234168"
+  },
+  {
     "id": "katendrechtse-lagedijk",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/96e59b1f/katendrechtse-lagedijk",
     "title": "Flat Katendrechtse Lagedijk 57 A",
@@ -530,20 +544,6 @@
     "agency": "Key Vastbeheer",
     "first_seen": "2025-07-04T03:13:53.500194",
     "last_updated": "2025-07-04T03:13:53.500196"
-  },
-  {
-    "id": "pleinweg",
-    "url": "https://www.pararius.com/studio-for-rent/rotterdam/7a53788a/pleinweg",
-    "title": "Studio Pleinweg",
-    "price": 866.0,
-    "size": 20,
-    "rooms": 1,
-    "location": "3083 EH Rotterdam (Carnisse)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7a53788a-df20-503e-b084-4d071d5e825b/442be741ebd4bb50cb5e3b4bc6a45079.jpg?width=600&auto=webp",
-    "agency": "Homey Housing",
-    "first_seen": "2025-06-17T12:27:50.527191",
-    "last_updated": "2025-07-15T10:15:17.389008"
   },
   {
     "id": "ericastraat",
