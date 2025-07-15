@@ -2215,5 +2215,14 @@
     "updated_listing_ids": [
       "regentesselaan"
     ]
+  },
+  {
+    "timestamp": "2025-07-15T09:23:09.991086",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "willebrordusplein"
+    ],
+    "updated_listing_ids": []
   }
 ]

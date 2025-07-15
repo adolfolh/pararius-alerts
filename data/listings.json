@@ -1,5 +1,19 @@
 [
   {
+    "id": "willebrordusplein",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/8f8ba306/willebrordusplein",
+    "title": "Flat Willebrordusplein 23 C",
+    "price": 874.0,
+    "size": 34,
+    "rooms": 2,
+    "location": "3037 TD Rotterdam (Liskwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/8f8ba306-47da-5be4-b11a-e928d741508d/40417ed3c9352200d2f44bdd62552b8c.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-07-15T09:23:03.381235",
+    "last_updated": "2025-07-15T09:23:03.381243"
+  },
+  {
     "id": "coolhaven",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/0814344f/coolhaven",
     "title": "Flat Coolhaven",
