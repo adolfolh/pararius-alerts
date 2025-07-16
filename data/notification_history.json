@@ -2278,5 +2278,16 @@
       "noordmolenstraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-07-16T11:12:41.060471",
+    "new_listings_count": 1,
+    "updated_listings_count": 1,
+    "new_listing_ids": [
+      "trompstraat"
+    ],
+    "updated_listing_ids": [
+      "groene-hilledijk"
+    ]
   }
 ]

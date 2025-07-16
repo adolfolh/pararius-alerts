@@ -1,5 +1,19 @@
 [
   {
+    "id": "groene-hilledijk",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f1f8c3ba/groene-hilledijk",
+    "title": "Flat Groene Hilledijk 218 A-03",
+    "price": 990.0,
+    "size": 55,
+    "rooms": 3,
+    "location": "3074 AC Rotterdam (Hillesluis)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f1f8c3ba-c22b-5c6c-837a-abe42e1a9a6d/c5bda4f8854dda0d120f6f7003c1d283.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-07-03T16:16:52.794364",
+    "last_updated": "2025-07-16T11:12:40.638827"
+  },
+  {
     "id": "noordmolenstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a30f9465/noordmolenstraat",
     "title": "Flat Noordmolenstraat 56 A 03",
@@ -264,6 +278,20 @@
     "agency": "HouseHunting Randstad",
     "first_seen": "2025-07-04T03:13:47.545408",
     "last_updated": "2025-07-04T03:13:47.545410"
+  },
+  {
+    "id": "trompstraat",
+    "url": "https://www.pararius.com/studio-for-rent/den-haag/8030c489/trompstraat",
+    "title": "Studio Trompstraat",
+    "price": 897.0,
+    "size": 26,
+    "rooms": 1,
+    "location": "2518 BL Den Haag (Zeeheldenkwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/8030c489-713a-579a-b32d-3832e4491aac/4cc974f0e6d58fe04accd33b83f110af.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-07-16T11:12:40.581371",
+    "last_updated": "2025-07-16T11:12:40.581379"
   },
   {
     "id": "waldorpstraat",
@@ -838,20 +866,6 @@
     "agency": "SMG Housing",
     "first_seen": "2025-07-03T13:26:33.451065",
     "last_updated": "2025-07-03T13:26:33.451073"
-  },
-  {
-    "id": "groene-hilledijk",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/d17157bc/groene-hilledijk",
-    "title": "Flat Groene Hilledijk",
-    "price": 991.0,
-    "size": 66,
-    "rooms": 2,
-    "location": "3074 AB Rotterdam (Hillesluis)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/d17157bc-7918-5c94-9e15-2796024a6d0a/ed112dd86ccb29d71989455a83937e8a.jpg?width=600&auto=webp",
-    "agency": "Rent an Apartment",
-    "first_seen": "2025-07-03T16:16:52.794364",
-    "last_updated": "2025-07-03T16:16:52.794371"
   },
   {
     "id": "ieplaan",
