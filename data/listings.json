@@ -322,20 +322,6 @@
     "last_updated": "2025-07-11T11:12:50.023443"
   },
   {
-    "id": "kepplerstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/2a5892c3/kepplerstraat",
-    "title": "Flat Kepplerstraat 249",
-    "price": 920.0,
-    "size": 35,
-    "rooms": 2,
-    "location": "2562 VM Den Haag (Valkenboskwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2a5892c3-4d72-52ad-9998-2715e4621b7b/8e3ca89db781036243bcee5b81673ab9.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-07-10T16:17:32.149016",
-    "last_updated": "2025-07-10T16:17:32.149018"
-  },
-  {
     "id": "laan-van-meerdervoort",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/d8654c69/laan-van-meerdervoort",
     "title": "Flat Laan van Meerdervoort",
@@ -586,6 +572,20 @@
     "agency": "Key Vastbeheer",
     "first_seen": "2025-07-04T03:13:53.500194",
     "last_updated": "2025-07-04T03:13:53.500196"
+  },
+  {
+    "id": "kepplerstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/2a5892c3/kepplerstraat",
+    "title": "Flat Kepplerstraat 249",
+    "price": 920.0,
+    "size": 35,
+    "rooms": 2,
+    "location": "2562 VM Den Haag (Valkenboskwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2a5892c3-4d72-52ad-9998-2715e4621b7b/8e3ca89db781036243bcee5b81673ab9.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-07-10T16:17:32.149016",
+    "last_updated": "2025-07-10T16:17:32.149018"
   },
   {
     "id": "pleinweg",
