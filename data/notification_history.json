@@ -2260,5 +2260,14 @@
     "updated_listing_ids": [
       "pleinweg"
     ]
+  },
+  {
+    "timestamp": "2025-07-16T09:19:03.541460",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "van-malsenstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
