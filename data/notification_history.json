@@ -2289,5 +2289,15 @@
     "updated_listing_ids": [
       "groene-hilledijk"
     ]
+  },
+  {
+    "timestamp": "2025-07-17T15:15:09.577905",
+    "new_listings_count": 2,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "noorderhavenkade",
+      "laan-van-meerdervoort"
+    ],
+    "updated_listing_ids": []
   }
 ]

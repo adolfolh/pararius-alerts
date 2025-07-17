@@ -1,5 +1,19 @@
 [
   {
+    "id": "noorderhavenkade",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/4683ed08/noorderhavenkade",
+    "title": "Flat Noorderhavenkade 61 B",
+    "price": 911.0,
+    "size": 50,
+    "rooms": 2,
+    "location": "3039 RH Rotterdam (Blijdorp)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4683ed08-9ce7-574c-a1cc-bd72a896608e/b94269a1d4cd77f9e3eb1f6e8b558c4c.jpg?width=600&auto=webp",
+    "agency": "Properbee",
+    "first_seen": "2025-07-17T15:15:02.914913",
+    "last_updated": "2025-07-17T15:15:02.914920"
+  },
+  {
     "id": "groene-hilledijk",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f1f8c3ba/groene-hilledijk",
     "title": "Flat Groene Hilledijk 218 A-03",
@@ -290,8 +304,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/d8654c69-d138-552d-97ee-5bb3226c1e77/2e1a84c6214ef222ce635e9abf63c5eb.jpg?width=600&auto=webp",
     "agency": "Immovita",
-    "first_seen": "2025-06-17T15:14:36.909931",
-    "last_updated": "2025-07-10T10:15:30.421444"
+    "first_seen": "2025-07-17T15:15:09.081815",
+    "last_updated": "2025-07-17T15:15:09.081818"
   },
   {
     "id": "schrijnwerkersgaarde",
@@ -854,20 +868,6 @@
     "last_updated": "2025-07-03T13:26:33.451073"
   },
   {
-    "id": "ieplaan",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/26e66b1c/ieplaan",
-    "title": "Flat Ieplaan",
-    "price": 995.0,
-    "size": 74,
-    "rooms": 3,
-    "location": "2565 LK Den Haag (Bomenbuurt)",
-    "interior": "Upholstered or furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/26e66b1c-1793-5325-8215-a28651cfbda8/fc1dd09bf7b4e9f0f96380256b52337d.jpg?width=600&auto=webp",
-    "agency": "Rental Rotterdam",
-    "first_seen": "2025-06-17T15:14:36.908176",
-    "last_updated": "2025-06-17T15:14:36.908179"
-  },
-  {
     "id": "obrechtstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/661608b1/obrechtstraat",
     "title": "Flat Obrechtstraat",
@@ -1006,19 +1006,5 @@
     "agency": "NRW Wonen",
     "first_seen": "2025-06-18T10:14:35.827639",
     "last_updated": "2025-06-18T10:14:35.827655"
-  },
-  {
-    "id": "korhaanstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/5ad6b4f0/korhaanstraat",
-    "title": "Flat Korhaanstraat 24 B",
-    "price": 701.0,
-    "size": 47,
-    "rooms": 3,
-    "location": "3083 XP Rotterdam (Carnisse)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/5ad6b4f0-5666-591a-b615-dc2c3a6bb701/77ceda2c70e77e1d32a109f465f1b22a.jpg?width=600&auto=webp",
-    "agency": "Kolpa V.V.S. Beheer",
-    "first_seen": "2025-06-17T15:14:30.922269",
-    "last_updated": "2025-06-17T15:14:30.922273"
   }
 ]
