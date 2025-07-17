@@ -266,20 +266,6 @@
     "last_updated": "2025-07-04T03:13:47.545410"
   },
   {
-    "id": "waldorpstraat",
-    "url": "https://www.pararius.com/house-for-rent/den-haag/982e349e/waldorpstraat",
-    "title": "House Waldorpstraat 1268",
-    "price": 906.0,
-    "size": 23,
-    "rooms": 1,
-    "location": "2521 CZ Den Haag (Laakhaven-West)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/982e349e-6ec8-5d71-86b8-b626d822be98/d549a908949acd81d2a79872ebad3c3e.jpg?width=600&auto=webp",
-    "agency": "LIV Residential",
-    "first_seen": "2025-07-05T23:12:51.964559",
-    "last_updated": "2025-07-14T12:28:42.484741"
-  },
-  {
     "id": "prins-hendrikstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/4ede2b1d/prins-hendrikstraat",
     "title": "Flat Prins Hendrikstraat 70 A",
@@ -560,6 +546,20 @@
     "last_updated": "2025-07-04T03:13:53.500196"
   },
   {
+    "id": "waldorpstraat",
+    "url": "https://www.pararius.com/house-for-rent/den-haag/982e349e/waldorpstraat",
+    "title": "House Waldorpstraat 1268",
+    "price": 906.0,
+    "size": 23,
+    "rooms": 1,
+    "location": "2521 CZ Den Haag (Laakhaven-West)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/982e349e-6ec8-5d71-86b8-b626d822be98/d549a908949acd81d2a79872ebad3c3e.jpg?width=600&auto=webp",
+    "agency": "LIV Residential",
+    "first_seen": "2025-07-05T23:12:51.964559",
+    "last_updated": "2025-07-14T12:28:42.484741"
+  },
+  {
     "id": "glashaven",
     "url": "https://www.pararius.com/studio-for-rent/rotterdam/f3bb080c/glashaven",
     "title": "Studio Glashaven",
@@ -600,20 +600,6 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-07-10T16:17:32.149016",
     "last_updated": "2025-07-10T16:17:32.149018"
-  },
-  {
-    "id": "pleinweg",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/1aa5c871/pleinweg",
-    "title": "Flat Pleinweg",
-    "price": 930.0,
-    "size": 46,
-    "rooms": 3,
-    "location": "3081 JR Rotterdam (Tarwewijk)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/1aa5c871-951b-58c7-9dfb-b4fd189a4584/bf5509d928821fc3c5d2ef7518c8714c.jpg?width=600&auto=webp",
-    "agency": "Rent an Apartment",
-    "first_seen": "2025-06-17T12:27:50.527191",
-    "last_updated": "2025-07-15T16:18:05.234168"
   },
   {
     "id": "ericastraat",
