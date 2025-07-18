@@ -168,20 +168,6 @@
     "last_updated": "2025-06-30T14:13:35.633035"
   },
   {
-    "id": "adrien-mildersstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/4a8a7cea/adrien-mildersstraat",
-    "title": "Flat Adrien Mildersstraat",
-    "price": 550.0,
-    "size": 12,
-    "rooms": 1,
-    "location": "3022 NK Rotterdam (Nieuwe Westen)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4a8a7cea-e499-5220-842c-1a0314866a73/db36abf46cd71bf1a9e5c611bcad1080.jpg?width=600&auto=webp",
-    "agency": "Rotterdam Apartments",
-    "first_seen": "2025-06-25T18:19:18.283759",
-    "last_updated": "2025-06-25T18:19:18.283778"
-  },
-  {
     "id": "zwijndrechtsestraat",
     "url": "https://www.pararius.com/house-for-rent/rotterdam/bd3700ec/zwijndrechtsestraat",
     "title": "House Zwijndrechtsestraat",
@@ -572,6 +558,20 @@
     "agency": "Key Vastbeheer",
     "first_seen": "2025-07-04T03:13:53.500194",
     "last_updated": "2025-07-04T03:13:53.500196"
+  },
+  {
+    "id": "adrien-mildersstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/4a8a7cea/adrien-mildersstraat",
+    "title": "Flat Adrien Mildersstraat",
+    "price": 550.0,
+    "size": 12,
+    "rooms": 1,
+    "location": "3022 NK Rotterdam (Nieuwe Westen)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4a8a7cea-e499-5220-842c-1a0314866a73/db36abf46cd71bf1a9e5c611bcad1080.jpg?width=600&auto=webp",
+    "agency": "Rotterdam Apartments",
+    "first_seen": "2025-06-25T18:19:18.283759",
+    "last_updated": "2025-06-25T18:19:18.283778"
   },
   {
     "id": "schrijnwerkersgaarde",
