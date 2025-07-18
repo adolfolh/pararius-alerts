@@ -2318,5 +2318,15 @@
       "waterloostraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-07-18T17:15:51.842085",
+    "new_listings_count": 2,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "beijerlandselaan",
+      "beijerlandsestraat"
+    ],
+    "updated_listing_ids": []
   }
 ]

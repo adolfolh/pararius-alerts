@@ -141,17 +141,17 @@
   },
   {
     "id": "beijerlandselaan",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/68f5a2e1/beijerlandselaan",
-    "title": "Flat Beijerlandselaan",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/6746edc6/beijerlandselaan",
+    "title": "Flat Beijerlandselaan 167 B",
     "price": 867.0,
-    "size": 53,
+    "size": 42,
     "rooms": 2,
-    "location": "3074 EK Rotterdam (Hillesluis)",
+    "location": "3074 EH Rotterdam (Hillesluis)",
     "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/68f5a2e1-e6ea-5512-9be9-ee9b8eb09fbf/cbc5c9f2c9aac19f8941c45ad20f5d83.jpg?width=600&auto=webp",
-    "agency": "Perfect Rent",
-    "first_seen": "2025-06-18T17:13:42.860352",
-    "last_updated": "2025-06-18T17:13:42.860354"
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6746edc6-aa1b-516e-bb5e-8ba1892ded54/a3522df51708ebaa92ebd57497964e6e.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-07-18T17:15:45.542603",
+    "last_updated": "2025-07-18T17:15:45.542605"
   },
   {
     "id": "benedenrijweg",
@@ -206,8 +206,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/8a18e0fd-875c-5006-b713-548864717450/07f04b00dc1341021d7483cced47fdfb.jpg?width=600&auto=webp",
     "agency": "Woonzeker Rentals",
-    "first_seen": "2025-06-18T17:13:42.842342",
-    "last_updated": "2025-06-18T17:13:42.842348"
+    "first_seen": "2025-07-18T17:15:45.548704",
+    "last_updated": "2025-07-18T17:15:45.548707"
   },
   {
     "id": "verschoorstraat",
@@ -712,20 +712,6 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-06-30T12:27:18.628463",
     "last_updated": "2025-07-03T08:18:29.196805"
-  },
-  {
-    "id": "valkenboskade",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/186feaa8/valkenboskade",
-    "title": "Flat Valkenboskade 205 kamer 3",
-    "price": 843.0,
-    "size": 21,
-    "rooms": 2,
-    "location": "2563 HB Den Haag (Valkenboskwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/186feaa8-2dd3-5522-a615-464da4311c48/512b8887c025ab57a288195e9e2855b8.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-06-18T17:13:49.192880",
-    "last_updated": "2025-06-24T09:15:55.497832"
   },
   {
     "id": "regentesseplein",
