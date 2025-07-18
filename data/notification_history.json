@@ -2308,5 +2308,15 @@
       "zandblokstraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-07-18T16:18:54.372610",
+    "new_listings_count": 2,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "verschoorstraat",
+      "waterloostraat"
+    ],
+    "updated_listing_ids": []
   }
 ]

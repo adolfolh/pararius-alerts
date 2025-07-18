@@ -220,8 +220,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/9217389d-f05c-55e0-90ee-2549dae1e67b/6b35a0588d1747c6d1a93db99245b0a9.jpg?width=600&auto=webp",
     "agency": "Woonzeker Rentals",
-    "first_seen": "2025-06-18T15:14:27.463637",
-    "last_updated": "2025-06-18T15:14:27.463641"
+    "first_seen": "2025-07-18T16:18:47.637828",
+    "last_updated": "2025-07-18T16:18:47.637830"
   },
   {
     "id": "zuidplein",
@@ -262,8 +262,8 @@
     "interior": "Furnished",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/a4bd0abd-4d2a-552b-9c43-1ac634e7a09e/7f6b1fa303054192e5362e4f650ef1ee.jpg?width=600&auto=webp",
     "agency": "Rotterdam Apartments",
-    "first_seen": "2025-06-18T15:14:27.481938",
-    "last_updated": "2025-06-18T15:14:27.481940"
+    "first_seen": "2025-07-18T16:18:47.642457",
+    "last_updated": "2025-07-18T16:18:47.642459"
   },
   {
     "id": "vijverhofstraat",
@@ -698,20 +698,6 @@
     "agency": "Nell Vastgoed",
     "first_seen": "2025-07-08T19:10:50.288181",
     "last_updated": "2025-07-08T19:10:50.288187"
-  },
-  {
-    "id": "vierambachtsstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/ac9c9274/vierambachtsstraat",
-    "title": "Flat Vierambachtsstraat 62 A",
-    "price": 980.0,
-    "size": 58,
-    "rooms": 2,
-    "location": "3023 AR Rotterdam (Nieuwe Westen)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ac9c9274-1372-5202-8274-e4f1b73416f6/bc7ce88c006e2350ec4fa213d8b30b73.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-06-18T15:14:27.462089",
-    "last_updated": "2025-06-18T15:14:27.462098"
   },
   {
     "id": "beeklaan",
