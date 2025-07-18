@@ -978,19 +978,5 @@
     "agency": "Properbee",
     "first_seen": "2025-06-19T11:12:00.857726",
     "last_updated": "2025-06-19T11:12:00.857729"
-  },
-  {
-    "id": "de-gheijnstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/54268284/de-gheijnstraat",
-    "title": "Flat De Gheijnstraat",
-    "price": 925.0,
-    "size": 40,
-    "rooms": 2,
-    "location": "2562 NS Den Haag (Rond de Energiecentrale)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/54268284-8dbf-5273-a994-c0d869394ccb/7ac74d1ea17967f5676b17d1a7da0ba3.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-06-18T11:12:16.273460",
-    "last_updated": "2025-06-18T11:12:16.273466"
   }
 ]
