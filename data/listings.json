@@ -1,5 +1,19 @@
 [
   {
+    "id": "zandblokstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a88d63fa/zandblokstraat",
+    "title": "Flat Zandblokstraat 6 C",
+    "price": 787.0,
+    "size": 52,
+    "rooms": 3,
+    "location": "3083 MZ Rotterdam (Carnisse)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a88d63fa-cd6e-5264-8843-f0d6d6c603f2/bda73299d7c873d25bd158abcf51aeb7.jpg?width=600&auto=webp",
+    "agency": "Kolpa V.V.S. Beheer",
+    "first_seen": "2025-07-18T15:14:16.373175",
+    "last_updated": "2025-07-18T15:14:16.373182"
+  },
+  {
     "id": "noorderhavenkade",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/4683ed08/noorderhavenkade",
     "title": "Flat Noorderhavenkade 61 B",
@@ -280,6 +294,20 @@
     "last_updated": "2025-07-04T03:13:47.545410"
   },
   {
+    "id": "bilderdijkstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/14611fc1/bilderdijkstraat",
+    "title": "Flat Bilderdijkstraat 4 B",
+    "price": 844.0,
+    "size": 30,
+    "rooms": 2,
+    "location": "2513 CP Den Haag (Zeeheldenkwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/14611fc1-b4dd-57f0-8dc9-20fb2899a26c/073b3455814f306120a97fa0097e7265.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-07-02T18:19:30.966604",
+    "last_updated": "2025-07-02T18:19:30.966607"
+  },
+  {
     "id": "prins-hendrikstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/4ede2b1d/prins-hendrikstraat",
     "title": "Flat Prins Hendrikstraat 70 A",
@@ -376,20 +404,6 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-06-20T12:26:55.492930",
     "last_updated": "2025-06-20T12:26:55.492932"
-  },
-  {
-    "id": "bilderdijkstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/14611fc1/bilderdijkstraat",
-    "title": "Flat Bilderdijkstraat 4 B",
-    "price": 844.0,
-    "size": 30,
-    "rooms": 2,
-    "location": "2513 CP Den Haag (Zeeheldenkwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/14611fc1-b4dd-57f0-8dc9-20fb2899a26c/073b3455814f306120a97fa0097e7265.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-07-02T18:19:30.966604",
-    "last_updated": "2025-07-02T18:19:30.966607"
   },
   {
     "id": "johan-gramstraat",
