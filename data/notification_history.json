@@ -2328,5 +2328,14 @@
       "beijerlandsestraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-07-19T05:16:44.278860",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "bleijenburg"
+    ],
+    "updated_listing_ids": []
   }
 ]
