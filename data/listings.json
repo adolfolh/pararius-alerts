@@ -644,20 +644,6 @@
     "last_updated": "2025-07-10T16:17:32.149018"
   },
   {
-    "id": "ericastraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/17cf491c/ericastraat",
-    "title": "Flat Ericastraat 11 02",
-    "price": 946.0,
-    "size": 87,
-    "rooms": 2,
-    "location": "3073 HC Rotterdam (Bloemhof)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/17cf491c-9d13-5510-87ed-a5522879cbff/1d0b347fdccf3a74bc6cea30974257d8.jpg?width=600&auto=webp",
-    "agency": "Properbee",
-    "first_seen": "2025-06-19T11:12:00.856206",
-    "last_updated": "2025-06-19T11:12:00.856214"
-  },
-  {
     "id": "daguerrestraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/6189e668/daguerrestraat",
     "title": "Flat Daguerrestraat",
@@ -950,19 +936,5 @@
     "agency": "NRW Wonen",
     "first_seen": "2025-06-20T01:05:32.748921",
     "last_updated": "2025-06-20T01:05:32.748928"
-  },
-  {
-    "id": "bergweg",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/004ba7ce/bergweg",
-    "title": "Flat Bergweg 226 B",
-    "price": 972.0,
-    "size": 73,
-    "rooms": 2,
-    "location": "3035 BP Rotterdam (Oude Noorden)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/004ba7ce-8d62-57d6-869d-b569dcb9f45f/240cf1782c6dc23af7a19081e36d8a46.jpg?width=600&auto=webp",
-    "agency": "Properbee",
-    "first_seen": "2025-06-19T11:12:00.857726",
-    "last_updated": "2025-06-19T11:12:00.857729"
   }
 ]
