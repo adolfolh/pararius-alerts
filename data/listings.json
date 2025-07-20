@@ -880,19 +880,5 @@
     "agency": "Homey Housing",
     "first_seen": "2025-06-26T10:14:45.610186",
     "last_updated": "2025-06-26T10:14:45.610192"
-  },
-  {
-    "id": "laan",
-    "url": "https://www.pararius.com/studio-for-rent/den-haag/01060fa3/laan",
-    "title": "Studio Laan",
-    "price": 1087.0,
-    "size": 23,
-    "rooms": 2,
-    "location": "2512 GN Den Haag (Kortenbos)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/01060fa3-640a-5243-8797-bd9acad4f391/2e4abef942a2e41cc03faaf4a435832b.jpg?width=600&auto=webp",
-    "agency": "Homey Housing",
-    "first_seen": "2025-06-20T15:13:40.517962",
-    "last_updated": "2025-06-20T15:13:40.517964"
   }
 ]
