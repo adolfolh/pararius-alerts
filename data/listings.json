@@ -908,19 +908,5 @@
     "agency": "Homey Housing",
     "first_seen": "2025-06-20T15:13:40.517962",
     "last_updated": "2025-06-20T15:13:40.517964"
-  },
-  {
-    "id": "reinwardtstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/ac4410cb/reinwardtstraat",
-    "title": "Flat Reinwardtstraat",
-    "price": 952.0,
-    "size": 60,
-    "rooms": 3,
-    "location": "2522 AG Den Haag (Laakkwartier-Oost)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ac4410cb-a423-50b4-8906-ecf90acd3a91/106fda987f8015bd7a823c3e29a1c2d2.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-06-20T01:05:32.748921",
-    "last_updated": "2025-06-20T01:05:32.748928"
   }
 ]
