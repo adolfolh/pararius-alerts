@@ -1,5 +1,19 @@
 [
   {
+    "id": "hooglandstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/2aab56d0/hooglandstraat",
+    "title": "Flat Hooglandstraat",
+    "price": 998.0,
+    "size": 50,
+    "rooms": 2,
+    "location": "3036 PH Rotterdam (Oude Noorden)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2aab56d0-fd03-5bdc-850e-1920beb68caa/e236db26b68121436605d40a34f3c9a8.jpg?width=600&auto=webp",
+    "agency": "City Limit Vastgoedbeheer",
+    "first_seen": "2025-07-21T08:22:19.849279",
+    "last_updated": "2025-07-21T08:22:19.849287"
+  },
+  {
     "id": "zandblokstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a88d63fa/zandblokstraat",
     "title": "Flat Zandblokstraat 6 C",
