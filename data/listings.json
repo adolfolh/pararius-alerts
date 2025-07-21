@@ -1,19 +1,5 @@
 [
   {
-    "id": "wolphaertsbocht",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/eb59c447/wolphaertsbocht",
-    "title": "Flat Wolphaertsbocht",
-    "price": 940.0,
-    "size": 45,
-    "rooms": 2,
-    "location": "3081 KJ Rotterdam (Tarwewijk)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/eb59c447-2f0b-5d95-8814-5e38337dafbf/a4cee328ec88427b250b18034e922490.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-07-09T14:13:37.097492",
-    "last_updated": "2025-07-21T11:13:01.002403"
-  },
-  {
     "id": "hooidrift",
     "url": "https://www.pararius.com/studio-for-rent/rotterdam/38c548e7/hooidrift",
     "title": "Studio Hooidrift 15 D",
@@ -308,6 +294,34 @@
     "last_updated": "2025-07-04T03:13:47.545410"
   },
   {
+    "id": "newtonstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/2227e866/newtonstraat",
+    "title": "Flat Newtonstraat",
+    "price": 772.0,
+    "size": 43,
+    "rooms": 2,
+    "location": "2562 KG Den Haag (Koningsplein en omgeving)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2227e866-4efb-55af-b062-a2b323c6eb77/a3c9febc3bfe4bff1e757eea26c5fba3.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-07-21T12:29:35.075626",
+    "last_updated": "2025-07-21T12:29:35.075634"
+  },
+  {
+    "id": "soestdijksekade",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/72b0605a/soestdijksekade",
+    "title": "Flat Soestdijksekade",
+    "price": 834.0,
+    "size": 61,
+    "rooms": 3,
+    "location": "2574 AN Den Haag (Rustenburg)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/72b0605a-eacd-5f64-8f57-3cc100597cfe/09464b51ca0e5c300a079aeca6a01cae.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-07-21T12:29:35.077097",
+    "last_updated": "2025-07-21T12:29:35.077099"
+  },
+  {
     "id": "prins-hendrikstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/4ede2b1d/prins-hendrikstraat",
     "title": "Flat Prins Hendrikstraat 70 A",
@@ -586,6 +600,20 @@
     "agency": "Key Vastbeheer",
     "first_seen": "2025-07-04T03:13:53.500194",
     "last_updated": "2025-07-04T03:13:53.500196"
+  },
+  {
+    "id": "wolphaertsbocht",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/eb59c447/wolphaertsbocht",
+    "title": "Flat Wolphaertsbocht",
+    "price": 940.0,
+    "size": 45,
+    "rooms": 2,
+    "location": "3081 KJ Rotterdam (Tarwewijk)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/eb59c447-2f0b-5d95-8814-5e38337dafbf/a4cee328ec88427b250b18034e922490.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-07-09T14:13:37.097492",
+    "last_updated": "2025-07-21T11:13:01.002403"
   },
   {
     "id": "hooglandstraat",
