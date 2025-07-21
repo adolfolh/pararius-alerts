@@ -1,5 +1,19 @@
 [
   {
+    "id": "van-malsenstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/efb24e97/van-malsenstraat",
+    "title": "Flat Van Malsenstraat 68 A",
+    "price": 887.0,
+    "size": 37,
+    "rooms": 2,
+    "location": "3074 PX Rotterdam (Hillesluis)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/efb24e97-aa0d-519c-b3ad-4170eae241fc/fa1bd67c4e70c0dcd1f47188a035543e.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-07-16T09:18:57.135587",
+    "last_updated": "2025-07-16T09:18:57.135595"
+  },
+  {
     "id": "hooidrift",
     "url": "https://www.pararius.com/studio-for-rent/rotterdam/38c548e7/hooidrift",
     "title": "Studio Hooidrift 15 D",
@@ -68,20 +82,6 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-07-16T10:15:16.084842",
     "last_updated": "2025-07-16T10:15:16.084848"
-  },
-  {
-    "id": "van-malsenstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/efb24e97/van-malsenstraat",
-    "title": "Flat Van Malsenstraat 68 A",
-    "price": 887.0,
-    "size": 37,
-    "rooms": 2,
-    "location": "3074 PX Rotterdam (Hillesluis)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/efb24e97-aa0d-519c-b3ad-4170eae241fc/fa1bd67c4e70c0dcd1f47188a035543e.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-07-16T09:18:57.135587",
-    "last_updated": "2025-07-16T09:18:57.135595"
   },
   {
     "id": "katendrechtse-lagedijk",
