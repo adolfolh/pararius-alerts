@@ -2373,5 +2373,14 @@
       "hooidrift"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-07-21T11:13:01.375479",
+    "new_listings_count": 0,
+    "updated_listings_count": 1,
+    "new_listing_ids": [],
+    "updated_listing_ids": [
+      "wolphaertsbocht"
+    ]
   }
 ]

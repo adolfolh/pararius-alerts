@@ -1,5 +1,19 @@
 [
   {
+    "id": "wolphaertsbocht",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/eb59c447/wolphaertsbocht",
+    "title": "Flat Wolphaertsbocht",
+    "price": 940.0,
+    "size": 45,
+    "rooms": 2,
+    "location": "3081 KJ Rotterdam (Tarwewijk)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/eb59c447-2f0b-5d95-8814-5e38337dafbf/a4cee328ec88427b250b18034e922490.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-07-09T14:13:37.097492",
+    "last_updated": "2025-07-21T11:13:01.002403"
+  },
+  {
     "id": "hooidrift",
     "url": "https://www.pararius.com/studio-for-rent/rotterdam/38c548e7/hooidrift",
     "title": "Studio Hooidrift 15 D",
@@ -796,20 +810,6 @@
     "agency": "Homey Housing",
     "first_seen": "2025-07-09T11:12:44.523788",
     "last_updated": "2025-07-09T11:12:44.523796"
-  },
-  {
-    "id": "wolphaertsbocht",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/c2af9c59/wolphaertsbocht",
-    "title": "Flat Wolphaertsbocht",
-    "price": 848.0,
-    "size": 45,
-    "rooms": 2,
-    "location": "3081 KH Rotterdam (Tarwewijk)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/c2af9c59-d99a-5017-901e-e728aec76532/3e4683407cb84b00b4e967d51e0c457f.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-07-09T14:13:37.097492",
-    "last_updated": "2025-07-09T14:13:37.097499"
   },
   {
     "id": "van-boecopkade",
