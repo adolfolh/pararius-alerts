@@ -364,20 +364,6 @@
     "last_updated": "2025-07-08T09:16:04.366699"
   },
   {
-    "id": "groot-hertoginnelaan",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/e68a2f8e/groot-hertoginnelaan",
-    "title": "Flat Groot Hertoginnelaan",
-    "price": 1102.0,
-    "size": 30,
-    "rooms": 2,
-    "location": "2517 ED Den Haag (Stadhoudersplantsoen)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e68a2f8e-ce0b-5992-a217-c6d6c40de97e/fcccb52acc26cc36c664b2b477cf067b.jpg?width=600&auto=webp",
-    "agency": "Rent Valley",
-    "first_seen": "2025-07-01T13:28:49.296736",
-    "last_updated": "2025-07-01T13:28:49.296744"
-  },
-  {
     "id": "rhododendronstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/f785305d/rhododendronstraat",
     "title": "Flat Rhododendronstraat",
@@ -600,6 +586,20 @@
     "agency": "Key Vastbeheer",
     "first_seen": "2025-07-04T03:13:53.500194",
     "last_updated": "2025-07-04T03:13:53.500196"
+  },
+  {
+    "id": "groot-hertoginnelaan",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/e68a2f8e/groot-hertoginnelaan",
+    "title": "Flat Groot Hertoginnelaan",
+    "price": 1102.0,
+    "size": 30,
+    "rooms": 2,
+    "location": "2517 ED Den Haag (Stadhoudersplantsoen)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e68a2f8e-ce0b-5992-a217-c6d6c40de97e/fcccb52acc26cc36c664b2b477cf067b.jpg?width=600&auto=webp",
+    "agency": "Rent Valley",
+    "first_seen": "2025-07-01T13:28:49.296736",
+    "last_updated": "2025-07-01T13:28:49.296744"
   },
   {
     "id": "wolphaertsbocht",
