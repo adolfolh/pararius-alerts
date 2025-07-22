@@ -1,5 +1,19 @@
 [
   {
+    "id": "zuidhoek",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/326a4e34/zuidhoek",
+    "title": "Flat Zuidhoek",
+    "price": 898.0,
+    "size": 60,
+    "rooms": 2,
+    "location": "3082 PM Rotterdam (Oud Charlois)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/326a4e34-4934-5cae-9e79-c0a150b22bb3/16917f33ceb7151068cd3880b075ca8e.jpg?width=600&auto=webp",
+    "agency": "Rent an Apartment",
+    "first_seen": "2025-07-22T19:13:15.800953",
+    "last_updated": "2025-07-22T19:13:15.800959"
+  },
+  {
     "id": "franselaan",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f91cee24/franselaan",
     "title": "Flat Franselaan",
