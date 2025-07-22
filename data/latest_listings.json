@@ -10,8 +10,8 @@
     "interior": "Unknown",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/462140fd-0ca8-568e-9695-5ce237080ff8/985adf3bd6da315d0aa448d19aad9fc1.jpg?width=600&auto=webp",
     "agency": "D&S Vastgoed",
-    "first_seen": "2025-07-22T08:20:16.843156",
-    "last_updated": "2025-07-22T08:20:16.843162"
+    "first_seen": "2025-07-22T09:19:09.562853",
+    "last_updated": "2025-07-22T09:19:09.562860"
   },
   {
     "id": "hooidrift",
@@ -24,22 +24,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/38c548e7-3492-56b1-9cb1-ba62d626e321/a2210e8a66f77bbf74a02f7c44b84a61.jpg?width=600&auto=webp",
     "agency": "Properbee",
-    "first_seen": "2025-07-22T08:20:16.844968",
-    "last_updated": "2025-07-22T08:20:16.844971"
-  },
-  {
-    "id": "hooglandstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/2aab56d0/hooglandstraat",
-    "title": "Flat Hooglandstraat",
-    "price": 998.0,
-    "size": 50,
-    "rooms": 2,
-    "location": "3036 PH Rotterdam (Oude Noorden)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2aab56d0-fd03-5bdc-850e-1920beb68caa/e236db26b68121436605d40a34f3c9a8.jpg?width=600&auto=webp",
-    "agency": "City Limit Vastgoedbeheer",
-    "first_seen": "2025-07-22T08:20:16.846499",
-    "last_updated": "2025-07-22T08:20:16.846502"
+    "first_seen": "2025-07-22T09:19:09.565100",
+    "last_updated": "2025-07-22T09:19:09.565104"
   },
   {
     "id": "zandblokstraat",
@@ -52,8 +38,8 @@
     "interior": "Shell",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/a88d63fa-cd6e-5264-8843-f0d6d6c603f2/bda73299d7c873d25bd158abcf51aeb7.jpg?width=600&auto=webp",
     "agency": "Kolpa V.V.S. Beheer",
-    "first_seen": "2025-07-22T08:20:16.847969",
-    "last_updated": "2025-07-22T08:20:16.847972"
+    "first_seen": "2025-07-22T09:19:09.566631",
+    "last_updated": "2025-07-22T09:19:09.566634"
   },
   {
     "id": "noorderhavenkade",
@@ -66,8 +52,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/4683ed08-9ce7-574c-a1cc-bd72a896608e/b94269a1d4cd77f9e3eb1f6e8b558c4c.jpg?width=600&auto=webp",
     "agency": "Properbee",
-    "first_seen": "2025-07-22T08:20:16.849771",
-    "last_updated": "2025-07-22T08:20:16.849774"
+    "first_seen": "2025-07-22T09:19:09.568436",
+    "last_updated": "2025-07-22T09:19:09.568438"
   },
   {
     "id": "groene-hilledijk",
@@ -80,8 +66,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/f1f8c3ba-c22b-5c6c-837a-abe42e1a9a6d/c5bda4f8854dda0d120f6f7003c1d283.jpg?width=600&auto=webp",
     "agency": "Woonzeker Rentals",
-    "first_seen": "2025-07-22T08:20:16.851254",
-    "last_updated": "2025-07-22T08:20:16.851256"
+    "first_seen": "2025-07-22T09:19:09.569957",
+    "last_updated": "2025-07-22T09:19:09.569960"
   },
   {
     "id": "noordmolenstraat",
@@ -94,8 +80,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/a30f9465-8897-5aca-866f-f822c11d40de/584c4e8f9df63874ce5c97af71aa6e80.jpg?width=600&auto=webp",
     "agency": "Woonzeker Rentals",
-    "first_seen": "2025-07-22T08:20:16.852732",
-    "last_updated": "2025-07-22T08:20:16.852735"
+    "first_seen": "2025-07-22T09:19:09.571432",
+    "last_updated": "2025-07-22T09:19:09.571435"
   },
   {
     "id": "van-malsenstraat",
@@ -108,8 +94,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/efb24e97-aa0d-519c-b3ad-4170eae241fc/fa1bd67c4e70c0dcd1f47188a035543e.jpg?width=600&auto=webp",
     "agency": "Woonzeker Rentals",
-    "first_seen": "2025-07-22T08:20:16.854199",
-    "last_updated": "2025-07-22T08:20:16.854201"
+    "first_seen": "2025-07-22T09:19:09.572915",
+    "last_updated": "2025-07-22T09:19:09.572917"
   },
   {
     "id": "katendrechtse-lagedijk",
@@ -122,8 +108,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/96e59b1f-ad8b-5eb3-a9ce-c0390c4714f4/f4b430ca9814b88ea5e2c4356c981b3d.jpg?width=600&auto=webp",
     "agency": "Woonzeker Rentals",
-    "first_seen": "2025-07-22T08:20:16.855678",
-    "last_updated": "2025-07-22T08:20:16.855680"
+    "first_seen": "2025-07-22T09:19:09.574412",
+    "last_updated": "2025-07-22T09:19:09.574414"
   },
   {
     "id": "bredestraat",
@@ -136,8 +122,8 @@
     "interior": "Upholstered or furnished",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/448ba2f9-8505-51bb-97e8-f1476d3a641c/8afab4604b5559d6850302bd3b3d0d63.jpg?width=600&auto=webp",
     "agency": "Rental Rotterdam",
-    "first_seen": "2025-07-22T08:20:16.857139",
-    "last_updated": "2025-07-22T08:20:16.857142"
+    "first_seen": "2025-07-22T09:19:09.575926",
+    "last_updated": "2025-07-22T09:19:09.575928"
   },
   {
     "id": "willebrordusplein",
@@ -150,8 +136,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/8f8ba306-47da-5be4-b11a-e928d741508d/40417ed3c9352200d2f44bdd62552b8c.jpg?width=600&auto=webp",
     "agency": "Woonzeker Rentals",
-    "first_seen": "2025-07-22T08:20:16.858593",
-    "last_updated": "2025-07-22T08:20:16.858596"
+    "first_seen": "2025-07-22T09:19:09.577437",
+    "last_updated": "2025-07-22T09:19:09.577439"
   },
   {
     "id": "coolhaven",
@@ -164,8 +150,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/0814344f-4ebc-5d60-8d3c-9a8ee1567f39/6ead3723fb2f7f14d28028fcc6414490.jpg?width=600&auto=webp",
     "agency": "Rotterdam Apartments",
-    "first_seen": "2025-07-22T08:20:16.860050",
-    "last_updated": "2025-07-22T08:20:16.860052"
+    "first_seen": "2025-07-22T09:19:09.578960",
+    "last_updated": "2025-07-22T09:19:09.578962"
   },
   {
     "id": "essenburgsingel",
@@ -178,8 +164,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/1b5fcd60-8f80-525c-956e-ee7633b4d3e1/43714ed792fbbff7688eb21fc224acb5.jpg?width=600&auto=webp",
     "agency": "Fransen Vastgoed",
-    "first_seen": "2025-07-22T08:20:16.861799",
-    "last_updated": "2025-07-22T08:20:16.861801"
+    "first_seen": "2025-07-22T09:19:09.580739",
+    "last_updated": "2025-07-22T09:19:09.580742"
   },
   {
     "id": "benedenrijweg",
@@ -192,8 +178,8 @@
     "interior": "Furnished",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/88e9ea39-4de5-52da-875c-e802074cd7ba/f00523f1c2a378c5b67ecaaa982f4edc.jpg?width=600&auto=webp",
     "agency": "Homeland Real Estate",
-    "first_seen": "2025-07-22T08:20:16.863569",
-    "last_updated": "2025-07-22T08:20:16.863571"
+    "first_seen": "2025-07-22T09:19:09.582526",
+    "last_updated": "2025-07-22T09:19:09.582528"
   },
   {
     "id": "zwijndrechtsestraat",
@@ -206,8 +192,8 @@
     "interior": "Furnished",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/bd3700ec-e147-56d8-8b27-e1ae0d25e949/91aa06c4e42a0dab4a23949a4eb43875.jpg?width=600&auto=webp",
     "agency": "Rotsvast Rotterdam",
-    "first_seen": "2025-07-22T08:20:16.865047",
-    "last_updated": "2025-07-22T08:20:16.865050"
+    "first_seen": "2025-07-22T09:19:09.583997",
+    "last_updated": "2025-07-22T09:19:09.583999"
   },
   {
     "id": "zuidplein",
@@ -220,8 +206,8 @@
     "interior": "Unknown",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/7b783ae6-a117-5436-adc6-c5ef0ad489b8/477892f803bf546fadb417790c47e769.jpg?width=600&auto=webp",
     "agency": "D&S Vastgoed",
-    "first_seen": "2025-07-22T08:20:16.866534",
-    "last_updated": "2025-07-22T08:20:16.866537"
+    "first_seen": "2025-07-22T09:19:09.585468",
+    "last_updated": "2025-07-22T09:19:09.585471"
   },
   {
     "id": "madeliefstraat",
@@ -234,8 +220,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/a0426822-201b-534e-abb4-c8cfecca270c/dbf1881d92013c5126ac7d6f0884a118.png?width=600&auto=webp",
     "agency": "HouseHunting Randstad",
-    "first_seen": "2025-07-22T08:20:16.868318",
-    "last_updated": "2025-07-22T08:20:16.868321"
+    "first_seen": "2025-07-22T09:19:09.587268",
+    "last_updated": "2025-07-22T09:19:09.587270"
   },
   {
     "id": "waterloostraat",
@@ -248,8 +234,8 @@
     "interior": "Furnished",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/a4bd0abd-4d2a-552b-9c43-1ac634e7a09e/7f6b1fa303054192e5362e4f650ef1ee.jpg?width=600&auto=webp",
     "agency": "Rotterdam Apartments",
-    "first_seen": "2025-07-22T08:20:16.869798",
-    "last_updated": "2025-07-22T08:20:16.869801"
+    "first_seen": "2025-07-22T09:19:09.588761",
+    "last_updated": "2025-07-22T09:19:09.588763"
   },
   {
     "id": "zuidplein",
@@ -262,8 +248,8 @@
     "interior": "Unknown",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/15fea00d-896f-5cf0-b901-925a07b4b8df/3f693c9ed1036b65ade687e5944ff314.jpg?width=600&auto=webp",
     "agency": "D&S Vastgoed",
-    "first_seen": "2025-07-22T08:20:16.871264",
-    "last_updated": "2025-07-22T08:20:16.871266"
+    "first_seen": "2025-07-22T09:19:09.590236",
+    "last_updated": "2025-07-22T09:19:09.590239"
   },
   {
     "id": "vijverhofstraat",
@@ -276,8 +262,8 @@
     "interior": "Furnished",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/a58c5ff9-e133-5581-bf9c-8c29d37c59ff/e88aeb6d9d43baaac6a8b69f50316559.jpg?width=600&auto=webp",
     "agency": "HouseHunting Randstad",
-    "first_seen": "2025-07-22T08:20:16.872739",
-    "last_updated": "2025-07-22T08:20:16.872742"
+    "first_seen": "2025-07-22T09:19:09.591746",
+    "last_updated": "2025-07-22T09:19:09.591748"
   },
   {
     "id": "zegwaardstraat",
@@ -290,36 +276,22 @@
     "interior": "Furnished",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/a9c33130-1763-579c-8ca1-6af9b4483452/215e258e75e47253bad4e9a99d093ad5.jpg?width=600&auto=webp",
     "agency": "HouseHunting Randstad",
-    "first_seen": "2025-07-22T08:20:16.874197",
-    "last_updated": "2025-07-22T08:20:16.874199"
+    "first_seen": "2025-07-22T09:19:09.593234",
+    "last_updated": "2025-07-22T09:19:09.593237"
   },
   {
-    "id": "conradkade",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/2d8d2783/conradkade",
-    "title": "Flat Conradkade",
-    "price": 795.0,
-    "size": 30,
-    "rooms": 3,
-    "location": "2517 BR Den Haag (Koningsplein en omgeving)",
+    "id": "daguerrestraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/f51fb029/daguerrestraat",
+    "title": "Flat Daguerrestraat 45 D",
+    "price": 819.0,
+    "size": 53,
+    "rooms": 2,
+    "location": "2561 TN Den Haag (Koningsplein en omgeving)",
     "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2d8d2783-8479-50be-94e6-4a288dcc3f17/f833379f6ee0a3393a8a0a9a193e9fd3.jpg?width=600&auto=webp",
-    "agency": "Immovita",
-    "first_seen": "2025-07-22T08:20:24.113879",
-    "last_updated": "2025-07-22T08:20:24.113885"
-  },
-  {
-    "id": "rhododendronstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/f785305d/rhododendronstraat",
-    "title": "Flat Rhododendronstraat",
-    "price": 995.0,
-    "size": 51,
-    "rooms": 3,
-    "location": "2563 SV Den Haag (Heesterbuurt)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f785305d-2d43-5ae3-984b-900ad208ee56/ea62f5321282d47f6ff699bdef742e2e.jpg?width=600&auto=webp",
-    "agency": "Immovita",
-    "first_seen": "2025-07-22T08:20:24.115238",
-    "last_updated": "2025-07-22T08:20:24.115240"
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f51fb029-132b-5f6b-936c-2336fae5b8f6/1e2a601d984e475ba740145ed7e5c218.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-07-22T09:19:15.085308",
+    "last_updated": "2025-07-22T09:19:15.085315"
   },
   {
     "id": "laan-van-meerdervoort",
@@ -332,8 +304,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/d8654c69-d138-552d-97ee-5bb3226c1e77/2e1a84c6214ef222ce635e9abf63c5eb.jpg?width=600&auto=webp",
     "agency": "Immovita",
-    "first_seen": "2025-07-22T08:20:24.116984",
-    "last_updated": "2025-07-22T08:20:24.116986"
+    "first_seen": "2025-07-22T09:19:15.087071",
+    "last_updated": "2025-07-22T09:19:15.087074"
   },
   {
     "id": "arnhemsestraat",
@@ -346,8 +318,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/ffb1f2a2-099f-5c44-ae07-e05764b1de3f/d041dbb4b358d5f6a3771735ad906610.jpg?width=600&auto=webp",
     "agency": "Immovita",
-    "first_seen": "2025-07-22T08:20:24.118754",
-    "last_updated": "2025-07-22T08:20:24.118757"
+    "first_seen": "2025-07-22T09:19:15.088897",
+    "last_updated": "2025-07-22T09:19:15.088899"
   },
   {
     "id": "1e-van-der-kunstraat",
@@ -360,8 +332,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/ba07a099-3c1e-591f-a4c1-37d7def2eafd/84940a0555715e237f2a007d0ea2f1d5.jpg?width=600&auto=webp",
     "agency": "Rent Valley",
-    "first_seen": "2025-07-22T08:20:24.120498",
-    "last_updated": "2025-07-22T08:20:24.120501"
+    "first_seen": "2025-07-22T09:19:15.090672",
+    "last_updated": "2025-07-22T09:19:15.090674"
   },
   {
     "id": "laan-van-eik-en-duinen",
@@ -374,36 +346,8 @@
     "interior": "Unknown",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/be62b253-b251-55f1-af31-35b0c8f5ee1e/51714a7a2d7fd800c5f6056812f545db.jpg?width=600&auto=webp",
     "agency": "Woonzeker Rentals",
-    "first_seen": "2025-07-22T08:20:24.121953",
-    "last_updated": "2025-07-22T08:20:24.121956"
-  },
-  {
-    "id": "bleijenburg",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/727c1b9e/bleijenburg",
-    "title": "Flat Bleijenburg",
-    "price": 950.0,
-    "size": 52,
-    "rooms": 2,
-    "location": "2511 VD Den Haag (Voorhout)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/727c1b9e-59b3-5a63-b7ac-1f447fabb290/3d5634d2d7d72f42ef5d23c1c79573c1.jpg?width=600&auto=webp",
-    "agency": "Immovita",
-    "first_seen": "2025-07-22T08:20:24.123701",
-    "last_updated": "2025-07-22T08:20:24.123704"
-  },
-  {
-    "id": "weteringkade",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/a6f3d635/weteringkade",
-    "title": "Flat Weteringkade",
-    "price": 932.0,
-    "size": 58,
-    "rooms": 2,
-    "location": "2515 AR Den Haag (Rivierenbuurt-Noord)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a6f3d635-c8a4-5064-8b80-6268fd6e908b/3d1f49ecc8612fe3c6c1792843af79df.jpg?width=600&auto=webp",
-    "agency": "Immovita",
-    "first_seen": "2025-07-22T08:20:24.125470",
-    "last_updated": "2025-07-22T08:20:24.125473"
+    "first_seen": "2025-07-22T09:19:15.092136",
+    "last_updated": "2025-07-22T09:19:15.092139"
   },
   {
     "id": "zoutmanstraat",
@@ -416,8 +360,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/d58087f5-514b-55b6-b7ae-23bb22210a87/930548eee1a0099669cd1fd0e4ffa57a.jpg?width=600&auto=webp",
     "agency": "Woonzeker Rentals",
-    "first_seen": "2025-07-22T08:20:24.126896",
-    "last_updated": "2025-07-22T08:20:24.126898"
+    "first_seen": "2025-07-22T09:19:15.093612",
+    "last_updated": "2025-07-22T09:19:15.093614"
   },
   {
     "id": "mosveen",
@@ -430,8 +374,8 @@
     "interior": "Shell",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/407cb0e1-2763-5ae3-a66e-09c62c30c2e0/7c50ec58e785db74be6bfd92b76d47fa.jpg?width=600&auto=webp",
     "agency": "Ad Hoc Den Haag",
-    "first_seen": "2025-07-22T08:20:24.128332",
-    "last_updated": "2025-07-22T08:20:24.128334"
+    "first_seen": "2025-07-22T09:19:15.095085",
+    "last_updated": "2025-07-22T09:19:15.095087"
   },
   {
     "id": "loosduinsekade",
@@ -444,7 +388,7 @@
     "interior": "Unknown",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/e7413a0f-f4c1-5e99-835d-c86f65751c1c/640e56b4708ac40608a9f2b44db6e07e.jpg?width=600&auto=webp",
     "agency": "Key Vastbeheer",
-    "first_seen": "2025-07-22T08:20:24.129784",
-    "last_updated": "2025-07-22T08:20:24.129787"
+    "first_seen": "2025-07-22T09:19:15.096553",
+    "last_updated": "2025-07-22T09:19:15.096555"
   }
 ]
