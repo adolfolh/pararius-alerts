@@ -2401,5 +2401,15 @@
     "updated_listing_ids": [
       "daguerrestraat"
     ]
+  },
+  {
+    "timestamp": "2025-07-22T14:16:20.015328",
+    "new_listings_count": 2,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "goereesestraat",
+      "habsburgstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]

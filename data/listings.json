@@ -1,5 +1,33 @@
 [
   {
+    "id": "goereesestraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/111e1df8/goereesestraat",
+    "title": "Flat Goereesestraat",
+    "price": 995.0,
+    "size": 56,
+    "rooms": 3,
+    "location": "3083 DM Rotterdam (Carnisse)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/111e1df8-ef10-5325-93c8-0b62bd1becb0/813326fae915ab48a93304525848228c.jpg?width=600&auto=webp",
+    "agency": "Rental Rotterdam",
+    "first_seen": "2025-07-22T14:16:14.040475",
+    "last_updated": "2025-07-22T14:16:14.040483"
+  },
+  {
+    "id": "habsburgstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/54e8b0b4/habsburgstraat",
+    "title": "Flat Habsburgstraat 13 A",
+    "price": 815.0,
+    "size": 45,
+    "rooms": 2,
+    "location": "3082 LP Rotterdam (Oud Charlois)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/54e8b0b4-2a55-5151-9862-67ce588ea126/cc0c37796b44d5c4caefac62aba761ee.jpg?width=600&auto=webp",
+    "agency": "LIV Residential",
+    "first_seen": "2025-07-22T14:16:14.042001",
+    "last_updated": "2025-07-22T14:16:14.042004"
+  },
+  {
     "id": "van-malsenstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/efb24e97/van-malsenstraat",
     "title": "Flat Van Malsenstraat 68 A",
