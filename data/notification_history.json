@@ -2422,5 +2422,14 @@
     "updated_listing_ids": [
       "beeklaan"
     ]
+  },
+  {
+    "timestamp": "2025-07-22T16:18:03.935604",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "franselaan"
+    ],
+    "updated_listing_ids": []
   }
 ]
