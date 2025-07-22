@@ -280,6 +280,34 @@
     "last_updated": "2025-07-04T03:13:47.545410"
   },
   {
+    "id": "beeklaan",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/63c20dfa/beeklaan",
+    "title": "Flat Beeklaan 13",
+    "price": 983.0,
+    "size": 55,
+    "rooms": 2,
+    "location": "2562 AA Den Haag (Rond de Energiecentrale)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/63c20dfa-c026-5171-a670-915f49d6febe/1a95fa0ee6fd47e21efaa4b4f6146a71.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-06-30T12:27:18.628463",
+    "last_updated": "2025-07-22T15:15:18.349640"
+  },
+  {
+    "id": "edisonstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/8f9d4a4b/edisonstraat",
+    "title": "Flat Edisonstraat 43",
+    "price": 976.0,
+    "size": 45,
+    "rooms": 2,
+    "location": "2561 BA Den Haag (Valkenboskwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/8f9d4a4b-6b2b-5330-91b8-c1ac2999cc55/ad5dd44df6d10e37caf852869ccd2836.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-07-22T15:15:18.323881",
+    "last_updated": "2025-07-22T15:15:18.323884"
+  },
+  {
     "id": "daguerrestraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/f51fb029/daguerrestraat",
     "title": "Flat Daguerrestraat 45 D",
@@ -782,20 +810,6 @@
     "agency": "Nell Vastgoed",
     "first_seen": "2025-07-08T19:10:50.288181",
     "last_updated": "2025-07-08T19:10:50.288187"
-  },
-  {
-    "id": "beeklaan",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/408f5b39/beeklaan",
-    "title": "Flat Beeklaan 84 A",
-    "price": 991.0,
-    "size": 35,
-    "rooms": 2,
-    "location": "2562 AM Den Haag (Valkenboskwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/408f5b39-b9db-52c5-94ad-888183c189ce/8adaa819a688ffdad19c4f5f15948170.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-06-30T12:27:18.628463",
-    "last_updated": "2025-07-03T08:18:29.196805"
   },
   {
     "id": "regentesseplein",
