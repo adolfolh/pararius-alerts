@@ -196,6 +196,20 @@
     "last_updated": "2025-07-14T12:28:36.435316"
   },
   {
+    "id": "gaesbeekstraat",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/0b21a514/gaesbeekstraat",
+    "title": "Studio Gaesbeekstraat",
+    "price": 920.0,
+    "size": 21,
+    "rooms": 2,
+    "location": "3081 NM Rotterdam (Tarwewijk)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0b21a514-57b8-5b09-a758-be1f893d7fc7/6147e22324ef9ab29dff89a00506ddcc.jpg?width=600&auto=webp",
+    "agency": "Homey Housing",
+    "first_seen": "2025-07-09T11:12:44.523788",
+    "last_updated": "2025-07-09T11:12:44.523796"
+  },
+  {
     "id": "essenburgsingel",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/1b5fcd60/essenburgsingel",
     "title": "Flat Essenburgsingel",
@@ -894,20 +908,6 @@
     "agency": "NRW Wonen",
     "first_seen": "2025-07-11T16:16:57.470698",
     "last_updated": "2025-07-11T16:16:57.470704"
-  },
-  {
-    "id": "gaesbeekstraat",
-    "url": "https://www.pararius.com/studio-for-rent/rotterdam/0b21a514/gaesbeekstraat",
-    "title": "Studio Gaesbeekstraat",
-    "price": 920.0,
-    "size": 21,
-    "rooms": 2,
-    "location": "3081 NM Rotterdam (Tarwewijk)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0b21a514-57b8-5b09-a758-be1f893d7fc7/6147e22324ef9ab29dff89a00506ddcc.jpg?width=600&auto=webp",
-    "agency": "Homey Housing",
-    "first_seen": "2025-07-09T11:12:44.523788",
-    "last_updated": "2025-07-09T11:12:44.523796"
   },
   {
     "id": "van-boecopkade",
