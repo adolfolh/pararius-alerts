@@ -1,5 +1,19 @@
 [
   {
+    "id": "suze-groeneweglaan",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/aaa9bcf6/suze-groeneweglaan",
+    "title": "Studio Suze Groeneweglaan",
+    "price": 989.0,
+    "size": 36,
+    "rooms": 1,
+    "location": "3021 DT Rotterdam (Middelland)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/aaa9bcf6-b8d9-51e8-a853-34fc70c991e0/10d9370e63d3dad37ecf303ec5053907.jpg?width=600&auto=webp",
+    "agency": "Fransen Vastgoed",
+    "first_seen": "2025-07-23T15:15:35.829539",
+    "last_updated": "2025-07-23T15:15:35.829547"
+  },
+  {
     "id": "zuidplein",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/15fea00d/zuidplein",
     "title": "Flat Zuidplein",
@@ -320,6 +334,20 @@
     "agency": "HouseHunting Randstad",
     "first_seen": "2025-07-04T03:13:47.545408",
     "last_updated": "2025-07-04T03:13:47.545410"
+  },
+  {
+    "id": "westerbaenstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/1d7817d9/westerbaenstraat",
+    "title": "Flat Westerbaenstraat",
+    "price": 985.0,
+    "size": 36,
+    "rooms": 2,
+    "location": "2513 GG Den Haag (Zeeheldenkwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/1d7817d9-0d40-5b13-8097-ed2670c21633/f4ea1c0c2b8d357502338ba34e7ddb39.jpg?width=600&auto=webp",
+    "agency": "Rent Valley",
+    "first_seen": "2025-07-23T15:15:41.629365",
+    "last_updated": "2025-07-23T15:15:41.629371"
   },
   {
     "id": "pasteurstraat",
