@@ -2449,5 +2449,14 @@
       "wolfhezestraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-07-23T12:29:03.200660",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "pasteurstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]

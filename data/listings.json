@@ -322,6 +322,20 @@
     "last_updated": "2025-07-04T03:13:47.545410"
   },
   {
+    "id": "pasteurstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/283d5a71/pasteurstraat",
+    "title": "Flat Pasteurstraat",
+    "price": 939.0,
+    "size": 73,
+    "rooms": 3,
+    "location": "2522 RT Den Haag (Noordpolderbuurt)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/283d5a71-5d36-5390-981e-bc48d54d6ff9/6c7347653cefc366127356870f310866.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-07-23T12:29:02.714492",
+    "last_updated": "2025-07-23T12:29:02.714498"
+  },
+  {
     "id": "wolfhezestraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/f693e9ca/wolfhezestraat",
     "title": "Flat Wolfhezestraat",
