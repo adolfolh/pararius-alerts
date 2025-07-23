@@ -1,5 +1,19 @@
 [
   {
+    "id": "zuidplein",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/15fea00d/zuidplein",
+    "title": "Flat Zuidplein",
+    "price": 840.0,
+    "size": 50,
+    "rooms": 3,
+    "location": "3083 CR Rotterdam (Zuidplein)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/15fea00d-896f-5cf0-b901-925a07b4b8df/3f693c9ed1036b65ade687e5944ff314.jpg?width=600&auto=webp",
+    "agency": "D&S Vastgoed",
+    "first_seen": "2025-07-04T03:13:47.542523",
+    "last_updated": "2025-07-04T03:13:47.542525"
+  },
+  {
     "id": "zuidhoek",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/326a4e34/zuidhoek",
     "title": "Flat Zuidhoek",
@@ -252,20 +266,6 @@
     "last_updated": "2025-06-25T13:29:43.632280"
   },
   {
-    "id": "zuidplein",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/15fea00d/zuidplein",
-    "title": "Flat Zuidplein",
-    "price": 840.0,
-    "size": 50,
-    "rooms": 3,
-    "location": "3083 CR Rotterdam (Zuidplein)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/15fea00d-896f-5cf0-b901-925a07b4b8df/3f693c9ed1036b65ade687e5944ff314.jpg?width=600&auto=webp",
-    "agency": "D&S Vastgoed",
-    "first_seen": "2025-07-04T03:13:47.542523",
-    "last_updated": "2025-07-04T03:13:47.542525"
-  },
-  {
     "id": "madeliefstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a0426822/madeliefstraat",
     "title": "Flat Madeliefstraat",
@@ -320,6 +320,20 @@
     "agency": "HouseHunting Randstad",
     "first_seen": "2025-07-04T03:13:47.545408",
     "last_updated": "2025-07-04T03:13:47.545410"
+  },
+  {
+    "id": "wolfhezestraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/f693e9ca/wolfhezestraat",
+    "title": "Flat Wolfhezestraat",
+    "price": 980.0,
+    "size": 64,
+    "rooms": 3,
+    "location": "2573 NV Den Haag (Oostbroek-Noord)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f693e9ca-d411-52e2-8a7b-dac2aaa3c3f4/4412de666b870c4184169a25127c3117.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-07-23T10:15:40.659074",
+    "last_updated": "2025-07-23T10:15:40.659079"
   },
   {
     "id": "beeklaan",
