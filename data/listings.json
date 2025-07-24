@@ -1,5 +1,19 @@
 [
   {
+    "id": "bollandstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/ee59b361/bollandstraat",
+    "title": "Flat Bollandstraat 65",
+    "price": 860.0,
+    "size": 69,
+    "rooms": 3,
+    "location": "3076 CC Rotterdam (Lombardijen)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ee59b361-ed90-562e-9fcd-03b540df41e2/f30755a34c53ba514d3514392764fc82.jpg?width=600&auto=webp",
+    "agency": "Nationaal Grondbezit",
+    "first_seen": "2025-07-24T11:13:15.095239",
+    "last_updated": "2025-07-24T11:13:15.095244"
+  },
+  {
     "id": "suze-groeneweglaan",
     "url": "https://www.pararius.com/studio-for-rent/rotterdam/aaa9bcf6/suze-groeneweglaan",
     "title": "Studio Suze Groeneweglaan",
@@ -336,20 +350,6 @@
     "last_updated": "2025-07-23T15:15:41.629371"
   },
   {
-    "id": "pasteurstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/283d5a71/pasteurstraat",
-    "title": "Flat Pasteurstraat",
-    "price": 939.0,
-    "size": 73,
-    "rooms": 3,
-    "location": "2522 RT Den Haag (Noordpolderbuurt)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/283d5a71-5d36-5390-981e-bc48d54d6ff9/6c7347653cefc366127356870f310866.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-07-23T12:29:02.714492",
-    "last_updated": "2025-07-23T12:29:02.714498"
-  },
-  {
     "id": "beeklaan",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/63c20dfa/beeklaan",
     "title": "Flat Beeklaan 13",
@@ -488,6 +488,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-07-10T13:29:59.010931",
     "last_updated": "2025-07-10T13:29:59.010934"
+  },
+  {
+    "id": "pasteurstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/283d5a71/pasteurstraat",
+    "title": "Flat Pasteurstraat",
+    "price": 939.0,
+    "size": 73,
+    "rooms": 3,
+    "location": "2522 RT Den Haag (Noordpolderbuurt)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/283d5a71-5d36-5390-981e-bc48d54d6ff9/6c7347653cefc366127356870f310866.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-07-23T12:29:02.714492",
+    "last_updated": "2025-07-23T12:29:02.714498"
   },
   {
     "id": "essenburgsingel",
