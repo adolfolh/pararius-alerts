@@ -154,20 +154,6 @@
     "last_updated": "2025-07-17T15:15:02.914920"
   },
   {
-    "id": "groene-hilledijk",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f1f8c3ba/groene-hilledijk",
-    "title": "Flat Groene Hilledijk 218 A-03",
-    "price": 990.0,
-    "size": 55,
-    "rooms": 3,
-    "location": "3074 AC Rotterdam (Hillesluis)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f1f8c3ba-c22b-5c6c-837a-abe42e1a9a6d/c5bda4f8854dda0d120f6f7003c1d283.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-07-03T16:16:52.794364",
-    "last_updated": "2025-07-16T11:12:40.638827"
-  },
-  {
     "id": "noordmolenstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a30f9465/noordmolenstraat",
     "title": "Flat Noordmolenstraat 56 A 03",
@@ -472,8 +458,8 @@
     "interior": "Unknown",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/be62b253-b251-55f1-af31-35b0c8f5ee1e/51714a7a2d7fd800c5f6056812f545db.jpg?width=600&auto=webp",
     "agency": "Woonzeker Rentals",
-    "first_seen": "2025-06-24T16:17:05.264511",
-    "last_updated": "2025-06-24T16:17:05.264513"
+    "first_seen": "2025-07-24T17:14:29.030753",
+    "last_updated": "2025-07-24T17:14:29.030755"
   },
   {
     "id": "zoutmanstraat",
@@ -502,6 +488,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-07-10T13:29:59.010931",
     "last_updated": "2025-07-10T13:29:59.010934"
+  },
+  {
+    "id": "groene-hilledijk",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/f1f8c3ba/groene-hilledijk",
+    "title": "Flat Groene Hilledijk 218 A-03",
+    "price": 990.0,
+    "size": 55,
+    "rooms": 3,
+    "location": "3074 AC Rotterdam (Hillesluis)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f1f8c3ba-c22b-5c6c-837a-abe42e1a9a6d/c5bda4f8854dda0d120f6f7003c1d283.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-07-03T16:16:52.794364",
+    "last_updated": "2025-07-16T11:12:40.638827"
   },
   {
     "id": "pasteurstraat",
