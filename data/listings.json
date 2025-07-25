@@ -1,5 +1,19 @@
 [
   {
+    "id": "strevelsweg",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/180bffbc/strevelsweg",
+    "title": "Flat Strevelsweg",
+    "price": 800.0,
+    "size": 86,
+    "rooms": 2,
+    "location": "3075 AP Rotterdam (Vreewijk)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/180bffbc-6978-5b93-8165-78c004346662/dbe7e62caffe6d56494ecb9f9984d03c.jpg?width=600&auto=webp",
+    "agency": "realestate.nl",
+    "first_seen": "2025-07-25T15:15:01.093345",
+    "last_updated": "2025-07-25T15:15:01.093353"
+  },
+  {
     "id": "haspelsstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/8a059751/haspelsstraat",
     "title": "Flat Haspelsstraat 15 E",
@@ -1104,20 +1118,6 @@
     "agency": "Wonen Hartje -",
     "first_seen": "2025-07-01T18:18:29.780210",
     "last_updated": "2025-07-01T18:18:29.780216"
-  },
-  {
-    "id": "schieweg",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/b7b3fb43/schieweg",
-    "title": "Flat Schieweg",
-    "price": 925.0,
-    "size": 25,
-    "rooms": 1,
-    "location": "3038 AE Rotterdam (Bergpolder)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b7b3fb43-90a8-5fdc-8d8e-f50feb56854f/388e2ff442f5b8e948e31c81bcfb2fac.jpg?width=600&auto=webp",
-    "agency": "Rotterdam Apartments",
-    "first_seen": "2025-06-25T15:15:02.783560",
-    "last_updated": "2025-06-25T15:15:02.783563"
   },
   {
     "id": "watervlierstraat",
