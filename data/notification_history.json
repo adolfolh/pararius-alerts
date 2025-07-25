@@ -2514,5 +2514,14 @@
       "haspelsstraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-07-25T13:32:03.259270",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "zwijndrechtsestraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
