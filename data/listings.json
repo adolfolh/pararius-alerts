@@ -1,5 +1,19 @@
 [
   {
+    "id": "haspelsstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/8a059751/haspelsstraat",
+    "title": "Flat Haspelsstraat 15 E",
+    "price": 649.0,
+    "size": 23,
+    "rooms": 2,
+    "location": "3025 PA Rotterdam (Bospolder)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/8a059751-5c22-55f6-9457-239c68e4a05a/87009ec83bd802202d73379506f702c0.jpg?width=600&auto=webp",
+    "agency": "Properbee",
+    "first_seen": "2025-07-25T12:28:12.024651",
+    "last_updated": "2025-07-25T12:28:12.024658"
+  },
+  {
     "id": "sternstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a464ef98/sternstraat",
     "title": "Flat Sternstraat",
@@ -280,20 +294,6 @@
     "last_updated": "2025-06-25T13:29:43.632280"
   },
   {
-    "id": "madeliefstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a0426822/madeliefstraat",
-    "title": "Flat Madeliefstraat",
-    "price": 840.0,
-    "size": 62,
-    "rooms": 4,
-    "location": "3083 TC Rotterdam (Carnisse)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a0426822-201b-534e-abb4-c8cfecca270c/dbf1881d92013c5126ac7d6f0884a118.png?width=600&auto=webp",
-    "agency": "HouseHunting Randstad",
-    "first_seen": "2025-07-11T16:16:51.552941",
-    "last_updated": "2025-07-11T16:16:51.552944"
-  },
-  {
     "id": "waterloostraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a4bd0abd/waterloostraat",
     "title": "Flat Waterloostraat",
@@ -502,6 +502,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-07-10T13:29:59.010931",
     "last_updated": "2025-07-10T13:29:59.010934"
+  },
+  {
+    "id": "madeliefstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a0426822/madeliefstraat",
+    "title": "Flat Madeliefstraat",
+    "price": 840.0,
+    "size": 62,
+    "rooms": 4,
+    "location": "3083 TC Rotterdam (Carnisse)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a0426822-201b-534e-abb4-c8cfecca270c/dbf1881d92013c5126ac7d6f0884a118.png?width=600&auto=webp",
+    "agency": "HouseHunting Randstad",
+    "first_seen": "2025-07-11T16:16:51.552941",
+    "last_updated": "2025-07-11T16:16:51.552944"
   },
   {
     "id": "laan-van-meerdervoort",
