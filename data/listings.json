@@ -1,5 +1,19 @@
 [
   {
+    "id": "sternstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a464ef98/sternstraat",
+    "title": "Flat Sternstraat",
+    "price": 815.0,
+    "size": 45,
+    "rooms": 2,
+    "location": "3083 ZT Rotterdam (Carnisse)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a464ef98-e6ae-541e-85e9-5813c69eeddd/0b7c480710ca7ce8062605fea38d8422.jpg?width=600&auto=webp",
+    "agency": "Rent an Apartment",
+    "first_seen": "2025-07-25T09:17:55.933722",
+    "last_updated": "2025-07-25T09:17:55.933729"
+  },
+  {
     "id": "bollandstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/ee59b361/bollandstraat",
     "title": "Flat Bollandstraat 65",
@@ -322,6 +336,20 @@
     "last_updated": "2025-07-04T03:13:47.545410"
   },
   {
+    "id": "van-lansbergestraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/02b6de08/van-lansbergestraat",
+    "title": "Flat Van Lansbergestraat",
+    "price": 695.0,
+    "size": 28,
+    "rooms": 2,
+    "location": "2593 SG Den Haag (Bezuidenhout-Oost)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/02b6de08-6e22-54cb-ba6c-7280ba993600/245326ea2e8a486799478031d3afa29f.jpg?width=600&auto=webp",
+    "agency": "Immovita",
+    "first_seen": "2025-07-25T09:18:01.743771",
+    "last_updated": "2025-07-25T09:18:01.743778"
+  },
+  {
     "id": "jan-van-nassaustraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/177b65d6/jan-van-nassaustraat",
     "title": "Flat Jan van Nassaustraat",
@@ -406,20 +434,6 @@
     "last_updated": "2025-07-09T10:15:45.130707"
   },
   {
-    "id": "laan-van-meerdervoort",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/d8654c69/laan-van-meerdervoort",
-    "title": "Flat Laan van Meerdervoort",
-    "price": 700.0,
-    "size": 50,
-    "rooms": 3,
-    "location": "2517 BH Den Haag (Koningsplein en omgeving)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/d8654c69-d138-552d-97ee-5bb3226c1e77/2e1a84c6214ef222ce635e9abf63c5eb.jpg?width=600&auto=webp",
-    "agency": "Immovita",
-    "first_seen": "2025-07-17T15:15:09.081815",
-    "last_updated": "2025-07-17T15:15:09.081818"
-  },
-  {
     "id": "arnhemsestraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/ffb1f2a2/arnhemsestraat",
     "title": "Flat Arnhemsestraat",
@@ -488,6 +502,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-07-10T13:29:59.010931",
     "last_updated": "2025-07-10T13:29:59.010934"
+  },
+  {
+    "id": "laan-van-meerdervoort",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/d8654c69/laan-van-meerdervoort",
+    "title": "Flat Laan van Meerdervoort",
+    "price": 700.0,
+    "size": 50,
+    "rooms": 3,
+    "location": "2517 BH Den Haag (Koningsplein en omgeving)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/d8654c69-d138-552d-97ee-5bb3226c1e77/2e1a84c6214ef222ce635e9abf63c5eb.jpg?width=600&auto=webp",
+    "agency": "Immovita",
+    "first_seen": "2025-07-17T15:15:09.081815",
+    "last_updated": "2025-07-17T15:15:09.081818"
   },
   {
     "id": "groene-hilledijk",
