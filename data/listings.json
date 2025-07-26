@@ -1104,19 +1104,5 @@
     "agency": "Wonen Hartje -",
     "first_seen": "2025-07-01T18:18:29.780210",
     "last_updated": "2025-07-01T18:18:29.780216"
-  },
-  {
-    "id": "watervlierstraat",
-    "url": "https://www.pararius.com/studio-for-rent/den-haag/c6b03393/watervlierstraat",
-    "title": "Studio Watervlierstraat",
-    "price": 856.0,
-    "size": 20,
-    "rooms": 2,
-    "location": "2563 PX Den Haag (Heesterbuurt)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/c6b03393-2a91-596c-ac2f-443bcaeada9a/2bc6787c0106c11635192bf4288e9770.jpg?width=600&auto=webp",
-    "agency": "Homey Housing",
-    "first_seen": "2025-06-26T10:14:45.610186",
-    "last_updated": "2025-06-26T10:14:45.610192"
   }
 ]
