@@ -2532,5 +2532,14 @@
       "strevelsweg"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-07-27T12:26:42.925660",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "arnhemsestraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
