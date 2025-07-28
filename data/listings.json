@@ -364,20 +364,6 @@
     "last_updated": "2025-07-25T09:18:01.743778"
   },
   {
-    "id": "jan-van-nassaustraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/177b65d6/jan-van-nassaustraat",
-    "title": "Flat Jan van Nassaustraat",
-    "price": 1158.0,
-    "size": 48,
-    "rooms": 2,
-    "location": "2596 BL Den Haag (Haagse Bos)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/177b65d6-33df-5cbf-bd5c-6803ce43ac21/696c4266c9fdba8dd20de41adc98ce32.jpg?width=600&auto=webp",
-    "agency": "Rent Valley",
-    "first_seen": "2025-07-24T14:16:21.643475",
-    "last_updated": "2025-07-24T14:16:21.643481"
-  },
-  {
     "id": "westerbaenstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/1d7817d9/westerbaenstraat",
     "title": "Flat Westerbaenstraat",
@@ -516,6 +502,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-07-10T13:29:59.010931",
     "last_updated": "2025-07-10T13:29:59.010934"
+  },
+  {
+    "id": "jan-van-nassaustraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/177b65d6/jan-van-nassaustraat",
+    "title": "Flat Jan van Nassaustraat",
+    "price": 1158.0,
+    "size": 48,
+    "rooms": 2,
+    "location": "2596 BL Den Haag (Haagse Bos)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/177b65d6-33df-5cbf-bd5c-6803ce43ac21/696c4266c9fdba8dd20de41adc98ce32.jpg?width=600&auto=webp",
+    "agency": "Rent Valley",
+    "first_seen": "2025-07-24T14:16:21.643475",
+    "last_updated": "2025-07-24T14:16:21.643481"
   },
   {
     "id": "madeliefstraat",
