@@ -1,5 +1,19 @@
 [
   {
+    "id": "mijnsherenplein",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/64f39190/mijnsherenplein",
+    "title": "Flat Mijnsherenplein 18 C",
+    "price": 995.0,
+    "size": 56,
+    "rooms": 2,
+    "location": "3081 CP Rotterdam (Tarwewijk)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/64f39190-f446-56aa-9f73-c5ed8bdf0de4/488b3bdf92bd92704100e76e01c5cca4.jpg?width=600&auto=webp",
+    "agency": "In de Stad",
+    "first_seen": "2025-07-28T21:13:31.506805",
+    "last_updated": "2025-07-28T21:13:31.506813"
+  },
+  {
     "id": "poolsestraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/e85f45c5/poolsestraat",
     "title": "Flat Poolsestraat 17 B",
