@@ -1,5 +1,19 @@
 [
   {
+    "id": "poolsestraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/e85f45c5/poolsestraat",
+    "title": "Flat Poolsestraat 17 B",
+    "price": 715.0,
+    "size": 50,
+    "rooms": 2,
+    "location": "3028 EM Rotterdam (Oud Mathenesse)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e85f45c5-1c39-5017-940b-e124f5a3bf5d/6c263ceea6ccb191b06308eec82e3392.jpg?width=600&auto=webp",
+    "agency": "Kolpa V.V.S. Beheer",
+    "first_seen": "2025-07-28T15:15:53.931632",
+    "last_updated": "2025-07-28T15:15:53.931641"
+  },
+  {
     "id": "strevelsweg",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/180bffbc/strevelsweg",
     "title": "Flat Strevelsweg",

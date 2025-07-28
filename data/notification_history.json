@@ -2541,5 +2541,14 @@
       "arnhemsestraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-07-28T15:16:00.109506",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "poolsestraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
