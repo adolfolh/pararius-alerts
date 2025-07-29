@@ -1,5 +1,19 @@
 [
   {
+    "id": "grote-visserijstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/90011633/grote-visserijstraat",
+    "title": "Flat Grote Visserijstraat 48 B-01",
+    "price": 874.0,
+    "size": 45,
+    "rooms": 2,
+    "location": "3026 CL Rotterdam (Tussendijken)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/90011633-bfe8-5158-8826-5f25c07e0b80/98e406e12537c34e7fccac2f3d64b48e.jpg?width=600&auto=webp",
+    "agency": "LIV Residential",
+    "first_seen": "2025-07-29T10:15:28.193279",
+    "last_updated": "2025-07-29T10:15:28.193286"
+  },
+  {
     "id": "poolsestraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/e85f45c5/poolsestraat",
     "title": "Flat Poolsestraat 17 B",
