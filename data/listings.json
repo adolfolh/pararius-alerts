@@ -1,5 +1,19 @@
 [
   {
+    "id": "schieweg",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/cc5d9825/schieweg",
+    "title": "Flat Schieweg",
+    "price": 975.0,
+    "size": 25,
+    "rooms": 1,
+    "location": "3038 AE Rotterdam (Bergpolder)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/cc5d9825-86fe-56f2-ad24-839df32b9358/5aafda107cc5fa5c657ef5bcde2fbf82.jpg?width=600&auto=webp",
+    "agency": "Rotterdam Apartments",
+    "first_seen": "2025-07-30T13:35:50.555041",
+    "last_updated": "2025-07-30T13:35:50.555049"
+  },
+  {
     "id": "gaesbeekstraat",
     "url": "https://www.pararius.com/studio-for-rent/rotterdam/0b21a514/gaesbeekstraat",
     "title": "Studio Gaesbeekstraat",
