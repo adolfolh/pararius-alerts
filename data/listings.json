@@ -252,20 +252,6 @@
     "last_updated": "2025-07-18T15:14:16.373182"
   },
   {
-    "id": "noorderhavenkade",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/4683ed08/noorderhavenkade",
-    "title": "Flat Noorderhavenkade 61 B",
-    "price": 911.0,
-    "size": 50,
-    "rooms": 2,
-    "location": "3039 RH Rotterdam (Blijdorp)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4683ed08-9ce7-574c-a1cc-bd72a896608e/b94269a1d4cd77f9e3eb1f6e8b558c4c.jpg?width=600&auto=webp",
-    "agency": "Properbee",
-    "first_seen": "2025-07-17T15:15:02.914913",
-    "last_updated": "2025-07-17T15:15:02.914920"
-  },
-  {
     "id": "noordmolenstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a30f9465/noordmolenstraat",
     "title": "Flat Noordmolenstraat 56 A 03",
@@ -518,18 +504,18 @@
     "last_updated": "2025-07-10T13:29:59.010934"
   },
   {
-    "id": "benedenrijweg",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/88e9ea39/benedenrijweg",
-    "title": "Flat Benedenrijweg",
-    "price": 1450.0,
-    "size": 53,
+    "id": "noorderhavenkade",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/4683ed08/noorderhavenkade",
+    "title": "Flat Noorderhavenkade 61 B",
+    "price": 911.0,
+    "size": 50,
     "rooms": 2,
-    "location": "3077 CE Rotterdam (Oud IJsselmonde)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/88e9ea39-4de5-52da-875c-e802074cd7ba/f00523f1c2a378c5b67ecaaa982f4edc.jpg?width=600&auto=webp",
-    "agency": "Homeland Real Estate",
-    "first_seen": "2025-06-30T14:13:35.633031",
-    "last_updated": "2025-06-30T14:13:35.633035"
+    "location": "3039 RH Rotterdam (Blijdorp)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4683ed08-9ce7-574c-a1cc-bd72a896608e/b94269a1d4cd77f9e3eb1f6e8b558c4c.jpg?width=600&auto=webp",
+    "agency": "Properbee",
+    "first_seen": "2025-07-17T15:15:02.914913",
+    "last_updated": "2025-07-17T15:15:02.914920"
   },
   {
     "id": "helen-suzmanhof",
