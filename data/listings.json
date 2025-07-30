@@ -1,5 +1,19 @@
 [
   {
+    "id": "s-gravendijkwal",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a3035523/s-gravendijkwal",
+    "title": "Flat 's-Gravendijkwal 118 F",
+    "price": 904.0,
+    "size": 38,
+    "rooms": 2,
+    "location": "3014 EK Rotterdam (Oude Westen)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a3035523-f652-580e-ad04-3598fbe8e659/26294f9de65f91fa55f956399b7fd358.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-07-30T16:18:07.655734",
+    "last_updated": "2025-07-30T16:18:07.655740"
+  },
+  {
     "id": "schieweg",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/cc5d9825/schieweg",
     "title": "Flat Schieweg",
@@ -12,20 +26,6 @@
     "agency": "Rotterdam Apartments",
     "first_seen": "2025-07-30T13:35:50.555041",
     "last_updated": "2025-07-30T13:35:50.555049"
-  },
-  {
-    "id": "gaesbeekstraat",
-    "url": "https://www.pararius.com/studio-for-rent/rotterdam/0b21a514/gaesbeekstraat",
-    "title": "Studio Gaesbeekstraat",
-    "price": 920.0,
-    "size": 21,
-    "rooms": 2,
-    "location": "3081 NM Rotterdam (Tarwewijk)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0b21a514-57b8-5b09-a758-be1f893d7fc7/6147e22324ef9ab29dff89a00506ddcc.jpg?width=600&auto=webp",
-    "agency": "Homey Housing",
-    "first_seen": "2025-07-09T11:12:44.523788",
-    "last_updated": "2025-07-09T11:12:44.523796"
   },
   {
     "id": "oostmaaslaan",
@@ -364,6 +364,20 @@
     "last_updated": "2025-07-04T03:13:47.545410"
   },
   {
+    "id": "kepplerstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/4c87197a/kepplerstraat",
+    "title": "Flat Kepplerstraat 249 A",
+    "price": 735.0,
+    "size": 23,
+    "rooms": 2,
+    "location": "2562 VM Den Haag (Valkenboskwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4c87197a-a95a-5308-be1d-d3453fb5ceca/e13788762280f80bc89373e7e81a69a4.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-07-10T16:17:32.149016",
+    "last_updated": "2025-07-30T16:18:13.431375"
+  },
+  {
     "id": "van-lansbergestraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/02b6de08/van-lansbergestraat",
     "title": "Flat Van Lansbergestraat",
@@ -502,6 +516,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-07-10T13:29:59.010931",
     "last_updated": "2025-07-10T13:29:59.010934"
+  },
+  {
+    "id": "gaesbeekstraat",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/0b21a514/gaesbeekstraat",
+    "title": "Studio Gaesbeekstraat",
+    "price": 920.0,
+    "size": 21,
+    "rooms": 2,
+    "location": "3081 NM Rotterdam (Tarwewijk)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0b21a514-57b8-5b09-a758-be1f893d7fc7/6147e22324ef9ab29dff89a00506ddcc.jpg?width=600&auto=webp",
+    "agency": "Homey Housing",
+    "first_seen": "2025-07-09T11:12:44.523788",
+    "last_updated": "2025-07-09T11:12:44.523796"
   },
   {
     "id": "noorderhavenkade",
@@ -964,20 +992,6 @@
     "agency": "NRW Wonen",
     "first_seen": "2025-07-16T11:12:40.581371",
     "last_updated": "2025-07-16T11:12:40.581379"
-  },
-  {
-    "id": "kepplerstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/2a5892c3/kepplerstraat",
-    "title": "Flat Kepplerstraat 249",
-    "price": 920.0,
-    "size": 35,
-    "rooms": 2,
-    "location": "2562 VM Den Haag (Valkenboskwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2a5892c3-4d72-52ad-9998-2715e4621b7b/8e3ca89db781036243bcee5b81673ab9.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-07-10T16:17:32.149016",
-    "last_updated": "2025-07-10T16:17:32.149018"
   },
   {
     "id": "oostmaasstraat",
