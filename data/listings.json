@@ -42,20 +42,6 @@
     "last_updated": "2025-07-29T12:30:12.696751"
   },
   {
-    "id": "grote-visserijstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/90011633/grote-visserijstraat",
-    "title": "Flat Grote Visserijstraat 48 B-01",
-    "price": 874.0,
-    "size": 45,
-    "rooms": 2,
-    "location": "3026 CL Rotterdam (Tussendijken)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/90011633-bfe8-5158-8826-5f25c07e0b80/98e406e12537c34e7fccac2f3d64b48e.jpg?width=600&auto=webp",
-    "agency": "LIV Residential",
-    "first_seen": "2025-07-29T10:15:28.193279",
-    "last_updated": "2025-07-29T10:15:28.193286"
-  },
-  {
     "id": "poolsestraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/e85f45c5/poolsestraat",
     "title": "Flat Poolsestraat 17 B",
@@ -504,6 +490,20 @@
     "last_updated": "2025-07-10T13:29:59.010934"
   },
   {
+    "id": "grote-visserijstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/90011633/grote-visserijstraat",
+    "title": "Flat Grote Visserijstraat 48 B-01",
+    "price": 874.0,
+    "size": 45,
+    "rooms": 2,
+    "location": "3026 CL Rotterdam (Tussendijken)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/90011633-bfe8-5158-8826-5f25c07e0b80/98e406e12537c34e7fccac2f3d64b48e.jpg?width=600&auto=webp",
+    "agency": "LIV Residential",
+    "first_seen": "2025-07-29T10:15:28.193279",
+    "last_updated": "2025-07-29T10:15:28.193286"
+  },
+  {
     "id": "coolhaven",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/0814344f/coolhaven",
     "title": "Flat Coolhaven",
@@ -922,20 +922,6 @@
     "agency": "NRW Wonen",
     "first_seen": "2025-07-21T12:29:35.077097",
     "last_updated": "2025-07-21T12:29:35.077099"
-  },
-  {
-    "id": "groot-hertoginnelaan",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/e68a2f8e/groot-hertoginnelaan",
-    "title": "Flat Groot Hertoginnelaan",
-    "price": 1102.0,
-    "size": 30,
-    "rooms": 2,
-    "location": "2517 ED Den Haag (Stadhoudersplantsoen)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e68a2f8e-ce0b-5992-a217-c6d6c40de97e/fcccb52acc26cc36c664b2b477cf067b.jpg?width=600&auto=webp",
-    "agency": "Rent Valley",
-    "first_seen": "2025-07-01T13:28:49.296736",
-    "last_updated": "2025-07-01T13:28:49.296744"
   },
   {
     "id": "wolphaertsbocht",
