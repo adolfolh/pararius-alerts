@@ -336,6 +336,20 @@
     "last_updated": "2025-07-04T03:13:47.545410"
   },
   {
+    "id": "regentesselaan",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/3a79180c/regentesselaan",
+    "title": "Flat Regentesselaan 228 B",
+    "price": 909.0,
+    "size": 43,
+    "rooms": 2,
+    "location": "2562 EJ Den Haag (Rond de Energiecentrale)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/3a79180c-6b38-5229-88df-e85cdd1a70da/fd66c369ad7812d1f073524bed718e0e.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-07-11T11:12:50.059610",
+    "last_updated": "2025-07-31T16:18:24.418947"
+  },
+  {
     "id": "zwarteweg",
     "url": "https://www.pararius.com/studio-for-rent/den-haag/68d1e86d/zwarteweg",
     "title": "Studio Zwarteweg 79 B",
@@ -896,20 +910,6 @@
     "last_updated": "2025-07-20T15:13:23.352126"
   },
   {
-    "id": "regentesselaan",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/fd8f217e/regentesselaan",
-    "title": "Flat Regentesselaan 161 C",
-    "price": 591.0,
-    "size": 25,
-    "rooms": 2,
-    "location": "2562 CX Den Haag (Rond de Energiecentrale)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/fd8f217e-48de-5951-9e2f-b3a3057eda8c/03e4e764e459d1d665f9ce1378973eba.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-07-11T11:12:50.059610",
-    "last_updated": "2025-07-14T16:17:59.526986"
-  },
-  {
     "id": "newtonstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/2227e866/newtonstraat",
     "title": "Flat Newtonstraat",
@@ -1104,20 +1104,6 @@
     "agency": "Nationaal Grondbezit",
     "first_seen": "2025-07-08T13:29:49.460442",
     "last_updated": "2025-07-08T13:29:49.460447"
-  },
-  {
-    "id": "leyweg",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/f49fc630/leyweg",
-    "title": "Flat Leyweg 794",
-    "price": 1000.0,
-    "size": 60,
-    "rooms": 2,
-    "location": "2545 GR Den Haag (Morgenstond-Oost)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f49fc630-952a-58f5-9a13-e281a08e95e1/b34549d8f159ad76c0213f2082b9a83d.jpg?width=600&auto=webp",
-    "agency": "Expat & Real Estate B.V.",
-    "first_seen": "2025-07-01T16:17:39.256289",
-    "last_updated": "2025-07-01T16:17:39.256295"
   },
   {
     "id": "dorpsweg",
