@@ -2624,5 +2624,14 @@
     "updated_listing_ids": [
       "kepplerstraat"
     ]
+  },
+  {
+    "timestamp": "2025-07-31T15:15:31.153787",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "zwarteweg"
+    ],
+    "updated_listing_ids": []
   }
 ]
