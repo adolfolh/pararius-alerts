@@ -350,6 +350,20 @@
     "last_updated": "2025-07-04T03:13:47.545410"
   },
   {
+    "id": "1e-van-der-kunstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/ba07a099/1e-van-der-kunstraat",
+    "title": "Flat 1e Van der Kunstraat",
+    "price": 998.0,
+    "size": 34,
+    "rooms": 2,
+    "location": "2521 AS Den Haag (Laakhaven-West)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ba07a099-3c1e-591f-a4c1-37d7def2eafd/84940a0555715e237f2a007d0ea2f1d5.jpg?width=600&auto=webp",
+    "agency": "Rent Valley",
+    "first_seen": "2025-07-04T03:13:53.474824",
+    "last_updated": "2025-07-04T03:13:53.474827"
+  },
+  {
     "id": "kepplerstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/4c87197a/kepplerstraat",
     "title": "Flat Kepplerstraat 249 A",
@@ -446,20 +460,6 @@
     "agency": "Immovita",
     "first_seen": "2025-07-27T12:26:42.513443",
     "last_updated": "2025-07-27T12:26:42.513446"
-  },
-  {
-    "id": "1e-van-der-kunstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/ba07a099/1e-van-der-kunstraat",
-    "title": "Flat 1e Van der Kunstraat",
-    "price": 998.0,
-    "size": 34,
-    "rooms": 2,
-    "location": "2521 AS Den Haag (Laakhaven-West)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ba07a099-3c1e-591f-a4c1-37d7def2eafd/84940a0555715e237f2a007d0ea2f1d5.jpg?width=600&auto=webp",
-    "agency": "Rent Valley",
-    "first_seen": "2025-07-04T03:13:53.474824",
-    "last_updated": "2025-07-04T03:13:53.474827"
   },
   {
     "id": "laan-van-eik-en-duinen",
