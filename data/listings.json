@@ -308,20 +308,6 @@
     "last_updated": "2025-07-15T09:23:03.381243"
   },
   {
-    "id": "coolhaven",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/0814344f/coolhaven",
-    "title": "Flat Coolhaven",
-    "price": 954.0,
-    "size": 50,
-    "rooms": 2,
-    "location": "3024 AA Rotterdam (Delfshaven)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0814344f-4ebc-5d60-8d3c-9a8ee1567f39/6ead3723fb2f7f14d28028fcc6414490.jpg?width=600&auto=webp",
-    "agency": "Rotterdam Apartments",
-    "first_seen": "2025-07-14T12:28:36.435309",
-    "last_updated": "2025-07-14T12:28:36.435316"
-  },
-  {
     "id": "zwijndrechtsestraat",
     "url": "https://www.pararius.com/house-for-rent/rotterdam/bd3700ec/zwijndrechtsestraat",
     "title": "House Zwijndrechtsestraat",
@@ -516,6 +502,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-07-10T13:29:59.010931",
     "last_updated": "2025-07-10T13:29:59.010934"
+  },
+  {
+    "id": "coolhaven",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/0814344f/coolhaven",
+    "title": "Flat Coolhaven",
+    "price": 954.0,
+    "size": 50,
+    "rooms": 2,
+    "location": "3024 AA Rotterdam (Delfshaven)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0814344f-4ebc-5d60-8d3c-9a8ee1567f39/6ead3723fb2f7f14d28028fcc6414490.jpg?width=600&auto=webp",
+    "agency": "Rotterdam Apartments",
+    "first_seen": "2025-07-14T12:28:36.435309",
+    "last_updated": "2025-07-14T12:28:36.435316"
   },
   {
     "id": "gaesbeekstraat",
