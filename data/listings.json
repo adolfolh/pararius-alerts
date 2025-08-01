@@ -168,20 +168,6 @@
     "last_updated": "2025-07-22T14:16:14.040483"
   },
   {
-    "id": "habsburgstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/54e8b0b4/habsburgstraat",
-    "title": "Flat Habsburgstraat 13 A",
-    "price": 815.0,
-    "size": 45,
-    "rooms": 2,
-    "location": "3082 LP Rotterdam (Oud Charlois)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/54e8b0b4-2a55-5151-9862-67ce588ea126/cc0c37796b44d5c4caefac62aba761ee.jpg?width=600&auto=webp",
-    "agency": "LIV Residential",
-    "first_seen": "2025-07-22T14:16:14.042001",
-    "last_updated": "2025-07-22T14:16:14.042004"
-  },
-  {
     "id": "van-malsenstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/efb24e97/van-malsenstraat",
     "title": "Flat Van Malsenstraat 68 A",
@@ -502,6 +488,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-07-10T13:29:59.010931",
     "last_updated": "2025-07-10T13:29:59.010934"
+  },
+  {
+    "id": "habsburgstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/54e8b0b4/habsburgstraat",
+    "title": "Flat Habsburgstraat 13 A",
+    "price": 815.0,
+    "size": 45,
+    "rooms": 2,
+    "location": "3082 LP Rotterdam (Oud Charlois)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/54e8b0b4-2a55-5151-9862-67ce588ea126/cc0c37796b44d5c4caefac62aba761ee.jpg?width=600&auto=webp",
+    "agency": "LIV Residential",
+    "first_seen": "2025-07-22T14:16:14.042001",
+    "last_updated": "2025-07-22T14:16:14.042004"
   },
   {
     "id": "suze-groeneweglaan",
