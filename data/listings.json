@@ -112,20 +112,6 @@
     "last_updated": "2025-07-24T11:13:15.095244"
   },
   {
-    "id": "suze-groeneweglaan",
-    "url": "https://www.pararius.com/studio-for-rent/rotterdam/aaa9bcf6/suze-groeneweglaan",
-    "title": "Studio Suze Groeneweglaan",
-    "price": 989.0,
-    "size": 36,
-    "rooms": 1,
-    "location": "3021 DT Rotterdam (Middelland)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/aaa9bcf6-b8d9-51e8-a853-34fc70c991e0/10d9370e63d3dad37ecf303ec5053907.jpg?width=600&auto=webp",
-    "agency": "Fransen Vastgoed",
-    "first_seen": "2025-07-23T15:15:35.829539",
-    "last_updated": "2025-07-23T15:15:35.829547"
-  },
-  {
     "id": "zuidplein",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/15fea00d/zuidplein",
     "title": "Flat Zuidplein",
@@ -516,6 +502,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-07-10T13:29:59.010931",
     "last_updated": "2025-07-10T13:29:59.010934"
+  },
+  {
+    "id": "suze-groeneweglaan",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/aaa9bcf6/suze-groeneweglaan",
+    "title": "Studio Suze Groeneweglaan",
+    "price": 989.0,
+    "size": 36,
+    "rooms": 1,
+    "location": "3021 DT Rotterdam (Middelland)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/aaa9bcf6-b8d9-51e8-a853-34fc70c991e0/10d9370e63d3dad37ecf303ec5053907.jpg?width=600&auto=webp",
+    "agency": "Fransen Vastgoed",
+    "first_seen": "2025-07-23T15:15:35.829539",
+    "last_updated": "2025-07-23T15:15:35.829547"
   },
   {
     "id": "grote-visserijstraat",
