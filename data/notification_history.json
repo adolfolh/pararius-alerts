@@ -2642,5 +2642,17 @@
     "updated_listing_ids": [
       "regentesselaan"
     ]
+  },
+  {
+    "timestamp": "2025-08-03T03:45:44.031447",
+    "new_listings_count": 4,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "zuidplein",
+      "vijverhofstraat",
+      "zegwaardstraat",
+      "1e-van-der-kunstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]

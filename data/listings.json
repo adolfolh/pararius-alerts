@@ -122,8 +122,8 @@
     "interior": "Unknown",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/15fea00d-896f-5cf0-b901-925a07b4b8df/3f693c9ed1036b65ade687e5944ff314.jpg?width=600&auto=webp",
     "agency": "D&S Vastgoed",
-    "first_seen": "2025-07-04T03:13:47.542523",
-    "last_updated": "2025-07-04T03:13:47.542525"
+    "first_seen": "2025-08-03T03:45:37.422784",
+    "last_updated": "2025-08-03T03:45:37.422786"
   },
   {
     "id": "zuidhoek",
@@ -304,8 +304,8 @@
     "interior": "Furnished",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/a58c5ff9-e133-5581-bf9c-8c29d37c59ff/e88aeb6d9d43baaac6a8b69f50316559.jpg?width=600&auto=webp",
     "agency": "HouseHunting Randstad",
-    "first_seen": "2025-07-04T03:13:47.543964",
-    "last_updated": "2025-07-04T03:13:47.543966"
+    "first_seen": "2025-08-03T03:45:37.424289",
+    "last_updated": "2025-08-03T03:45:37.424293"
   },
   {
     "id": "zegwaardstraat",
@@ -318,8 +318,8 @@
     "interior": "Furnished",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/a9c33130-1763-579c-8ca1-6af9b4483452/215e258e75e47253bad4e9a99d093ad5.jpg?width=600&auto=webp",
     "agency": "HouseHunting Randstad",
-    "first_seen": "2025-07-04T03:13:47.545408",
-    "last_updated": "2025-07-04T03:13:47.545410"
+    "first_seen": "2025-08-03T03:45:37.425757",
+    "last_updated": "2025-08-03T03:45:37.425760"
   },
   {
     "id": "regentesselaan",
@@ -360,8 +360,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/ba07a099-3c1e-591f-a4c1-37d7def2eafd/84940a0555715e237f2a007d0ea2f1d5.jpg?width=600&auto=webp",
     "agency": "Rent Valley",
-    "first_seen": "2025-07-04T03:13:53.474824",
-    "last_updated": "2025-07-04T03:13:53.474827"
+    "first_seen": "2025-08-03T03:45:43.398985",
+    "last_updated": "2025-08-03T03:45:43.398987"
   },
   {
     "id": "kepplerstraat",
@@ -712,20 +712,6 @@
     "agency": "NRW Wonen",
     "first_seen": "2025-07-23T10:15:40.659074",
     "last_updated": "2025-07-23T10:15:40.659079"
-  },
-  {
-    "id": "loosduinsekade",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/e7413a0f/loosduinsekade",
-    "title": "Flat Loosduinsekade",
-    "price": 760.0,
-    "size": 29,
-    "rooms": 2,
-    "location": "2571 BN Den Haag (Schildersbuurt-West)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e7413a0f-f4c1-5e99-835d-c86f65751c1c/640e56b4708ac40608a9f2b44db6e07e.jpg?width=600&auto=webp",
-    "agency": "Key Vastbeheer",
-    "first_seen": "2025-07-04T03:13:53.500194",
-    "last_updated": "2025-07-04T03:13:53.500196"
   },
   {
     "id": "hooglandstraat",
