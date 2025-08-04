@@ -2672,5 +2672,14 @@
       "westduinweg"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-08-04T16:19:46.736409",
+    "new_listings_count": 0,
+    "updated_listings_count": 1,
+    "new_listing_ids": [],
+    "updated_listing_ids": [
+      "van-malsenstraat"
+    ]
   }
 ]

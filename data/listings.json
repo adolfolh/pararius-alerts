@@ -112,20 +112,6 @@
     "last_updated": "2025-07-25T09:17:55.933729"
   },
   {
-    "id": "bollandstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/ee59b361/bollandstraat",
-    "title": "Flat Bollandstraat 65",
-    "price": 860.0,
-    "size": 69,
-    "rooms": 3,
-    "location": "3076 CC Rotterdam (Lombardijen)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ee59b361-ed90-562e-9fcd-03b540df41e2/f30755a34c53ba514d3514392764fc82.jpg?width=600&auto=webp",
-    "agency": "Nationaal Grondbezit",
-    "first_seen": "2025-07-24T11:13:15.095239",
-    "last_updated": "2025-07-24T11:13:15.095244"
-  },
-  {
     "id": "zuidplein",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/15fea00d/zuidplein",
     "title": "Flat Zuidplein",
@@ -197,17 +183,17 @@
   },
   {
     "id": "van-malsenstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/efb24e97/van-malsenstraat",
-    "title": "Flat Van Malsenstraat 68 A",
-    "price": 887.0,
-    "size": 37,
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/462140fd/van-malsenstraat",
+    "title": "Flat Van Malsenstraat 18 A",
+    "price": 853.0,
+    "size": 22,
     "rooms": 2,
-    "location": "3074 PX Rotterdam (Hillesluis)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/efb24e97-aa0d-519c-b3ad-4170eae241fc/fa1bd67c4e70c0dcd1f47188a035543e.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
+    "location": "3074 PV Rotterdam (Hillesluis)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/462140fd-0ca8-568e-9695-5ce237080ff8/985adf3bd6da315d0aa448d19aad9fc1.jpg?width=600&auto=webp",
+    "agency": "D&S Vastgoed",
     "first_seen": "2025-07-16T09:18:57.135587",
-    "last_updated": "2025-07-16T09:18:57.135595"
+    "last_updated": "2025-08-04T16:19:46.428522"
   },
   {
     "id": "hooidrift",
@@ -238,20 +224,6 @@
     "last_updated": "2025-07-18T15:14:16.373182"
   },
   {
-    "id": "noordmolenstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a30f9465/noordmolenstraat",
-    "title": "Flat Noordmolenstraat 56 A 03",
-    "price": 1000.0,
-    "size": 44,
-    "rooms": 2,
-    "location": "3035 RL Rotterdam (Oude Noorden)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a30f9465-8897-5aca-866f-f822c11d40de/584c4e8f9df63874ce5c97af71aa6e80.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-07-16T10:15:16.084842",
-    "last_updated": "2025-07-16T10:15:16.084848"
-  },
-  {
     "id": "katendrechtse-lagedijk",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/96e59b1f/katendrechtse-lagedijk",
     "title": "Flat Katendrechtse Lagedijk 57 A",
@@ -278,20 +250,6 @@
     "agency": "Rental Rotterdam",
     "first_seen": "2025-07-15T12:28:44.253311",
     "last_updated": "2025-07-15T12:28:44.253321"
-  },
-  {
-    "id": "willebrordusplein",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/8f8ba306/willebrordusplein",
-    "title": "Flat Willebrordusplein 23 C",
-    "price": 874.0,
-    "size": 34,
-    "rooms": 2,
-    "location": "3037 TD Rotterdam (Liskwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/8f8ba306-47da-5be4-b11a-e928d741508d/40417ed3c9352200d2f44bdd62552b8c.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-07-15T09:23:03.381235",
-    "last_updated": "2025-07-15T09:23:03.381243"
   },
   {
     "id": "vijverhofstraat",
@@ -476,20 +434,6 @@
     "last_updated": "2025-07-24T17:14:29.030755"
   },
   {
-    "id": "zoutmanstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/d58087f5/zoutmanstraat",
-    "title": "Flat Zoutmanstraat 8 kamer 5 en 6",
-    "price": 675.0,
-    "size": 27,
-    "rooms": 2,
-    "location": "2518 GP Den Haag (Zeeheldenkwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/d58087f5-514b-55b6-b7ae-23bb22210a87/930548eee1a0099669cd1fd0e4ffa57a.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-07-11T10:15:04.009292",
-    "last_updated": "2025-07-11T10:15:04.009294"
-  },
-  {
     "id": "mosveen",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/407cb0e1/mosveen",
     "title": "Flat Mosveen",
@@ -502,6 +446,62 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-07-10T13:29:59.010931",
     "last_updated": "2025-07-10T13:29:59.010934"
+  },
+  {
+    "id": "bollandstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/ee59b361/bollandstraat",
+    "title": "Flat Bollandstraat 65",
+    "price": 860.0,
+    "size": 69,
+    "rooms": 3,
+    "location": "3076 CC Rotterdam (Lombardijen)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ee59b361-ed90-562e-9fcd-03b540df41e2/f30755a34c53ba514d3514392764fc82.jpg?width=600&auto=webp",
+    "agency": "Nationaal Grondbezit",
+    "first_seen": "2025-07-24T11:13:15.095239",
+    "last_updated": "2025-07-24T11:13:15.095244"
+  },
+  {
+    "id": "noordmolenstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a30f9465/noordmolenstraat",
+    "title": "Flat Noordmolenstraat 56 A 03",
+    "price": 1000.0,
+    "size": 44,
+    "rooms": 2,
+    "location": "3035 RL Rotterdam (Oude Noorden)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a30f9465-8897-5aca-866f-f822c11d40de/584c4e8f9df63874ce5c97af71aa6e80.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-07-16T10:15:16.084842",
+    "last_updated": "2025-07-16T10:15:16.084848"
+  },
+  {
+    "id": "willebrordusplein",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/8f8ba306/willebrordusplein",
+    "title": "Flat Willebrordusplein 23 C",
+    "price": 874.0,
+    "size": 34,
+    "rooms": 2,
+    "location": "3037 TD Rotterdam (Liskwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/8f8ba306-47da-5be4-b11a-e928d741508d/40417ed3c9352200d2f44bdd62552b8c.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-07-15T09:23:03.381235",
+    "last_updated": "2025-07-15T09:23:03.381243"
+  },
+  {
+    "id": "zoutmanstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/d58087f5/zoutmanstraat",
+    "title": "Flat Zoutmanstraat 8 kamer 5 en 6",
+    "price": 675.0,
+    "size": 27,
+    "rooms": 2,
+    "location": "2518 GP Den Haag (Zeeheldenkwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/d58087f5-514b-55b6-b7ae-23bb22210a87/930548eee1a0099669cd1fd0e4ffa57a.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-07-11T10:15:04.009292",
+    "last_updated": "2025-07-11T10:15:04.009294"
   },
   {
     "id": "westduinweg",
