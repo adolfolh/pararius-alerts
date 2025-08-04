@@ -336,6 +336,20 @@
     "last_updated": "2025-08-03T03:45:37.425760"
   },
   {
+    "id": "westduinweg",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/099013d3/westduinweg",
+    "title": "Flat Westduinweg",
+    "price": 1100.0,
+    "size": 50,
+    "rooms": 2,
+    "location": "2583 EA Den Haag (Geuzenkwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/099013d3-b3a8-5e58-9a12-ea0daf639a38/ce7fd0d8b720cf378761025befe3fc01.jpg?width=600&auto=webp",
+    "agency": "Yoep Investments bv",
+    "first_seen": "2025-08-04T09:25:24.647449",
+    "last_updated": "2025-08-04T09:25:24.647455"
+  },
+  {
     "id": "regentesselaan",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/3a79180c/regentesselaan",
     "title": "Flat Regentesselaan 228 B",
