@@ -1,5 +1,19 @@
 [
   {
+    "id": "dordtselaan",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/fb31296e/dordtselaan",
+    "title": "Flat Dordtselaan 199",
+    "price": 853.0,
+    "size": 105,
+    "rooms": 4,
+    "location": "3081 BP Rotterdam (Tarwewijk)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/fb31296e-6f5f-538e-951e-60e83a413794/8049656deec21d80f9dfe001e97b4b62.jpg?width=600&auto=webp",
+    "agency": "Kolpa V.V.S. Beheer",
+    "first_seen": "2025-08-04T08:21:19.465537",
+    "last_updated": "2025-08-04T08:21:19.465542"
+  },
+  {
     "id": "s-gravendijkwal",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a3035523/s-gravendijkwal",
     "title": "Flat 's-Gravendijkwal 118 F",

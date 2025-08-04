@@ -2654,5 +2654,14 @@
       "1e-van-der-kunstraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-08-04T08:21:26.048089",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "dordtselaan"
+    ],
+    "updated_listing_ids": []
   }
 ]
