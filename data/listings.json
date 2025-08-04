@@ -294,20 +294,6 @@
     "last_updated": "2025-07-15T09:23:03.381243"
   },
   {
-    "id": "zwijndrechtsestraat",
-    "url": "https://www.pararius.com/house-for-rent/rotterdam/bd3700ec/zwijndrechtsestraat",
-    "title": "House Zwijndrechtsestraat",
-    "price": null,
-    "size": 72,
-    "rooms": 3,
-    "location": "3073 RK Rotterdam (Bloemhof)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/bd3700ec-e147-56d8-8b27-e1ae0d25e949/91aa06c4e42a0dab4a23949a4eb43875.jpg?width=600&auto=webp",
-    "agency": "Rotsvast Rotterdam",
-    "first_seen": "2025-07-25T13:31:57.126846",
-    "last_updated": "2025-07-25T13:31:57.126848"
-  },
-  {
     "id": "vijverhofstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a58c5ff9/vijverhofstraat",
     "title": "Flat Vijverhofstraat",
@@ -530,6 +516,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-07-10T13:29:59.010931",
     "last_updated": "2025-07-10T13:29:59.010934"
+  },
+  {
+    "id": "zwijndrechtsestraat",
+    "url": "https://www.pararius.com/house-for-rent/rotterdam/bd3700ec/zwijndrechtsestraat",
+    "title": "House Zwijndrechtsestraat",
+    "price": null,
+    "size": 72,
+    "rooms": 3,
+    "location": "3073 RK Rotterdam (Bloemhof)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/bd3700ec-e147-56d8-8b27-e1ae0d25e949/91aa06c4e42a0dab4a23949a4eb43875.jpg?width=600&auto=webp",
+    "agency": "Rotsvast Rotterdam",
+    "first_seen": "2025-07-25T13:31:57.126846",
+    "last_updated": "2025-07-25T13:31:57.126848"
   },
   {
     "id": "suze-groeneweglaan",
