@@ -280,20 +280,6 @@
     "last_updated": "2025-08-05T13:36:57.928379"
   },
   {
-    "id": "van-slingelandtstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/6e102bc5/van-slingelandtstraat",
-    "title": "Flat Van Slingelandtstraat",
-    "price": 800.0,
-    "size": 32,
-    "rooms": 2,
-    "location": "2582 XN Den Haag (Statenkwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6e102bc5-7543-52ab-8b7d-147a96bae62d/cf37407d033615015b921658a79c0ae5.jpg?width=600&auto=webp",
-    "agency": "HAYMAN Rentals",
-    "first_seen": "2025-08-05T13:36:57.929912",
-    "last_updated": "2025-08-05T13:36:57.929914"
-  },
-  {
     "id": "valkenboslaan",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/7b8d619b/valkenboslaan",
     "title": "Flat Valkenboslaan 102 D",
@@ -488,6 +474,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-07-10T13:29:59.010931",
     "last_updated": "2025-07-10T13:29:59.010934"
+  },
+  {
+    "id": "van-slingelandtstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/6e102bc5/van-slingelandtstraat",
+    "title": "Flat Van Slingelandtstraat",
+    "price": 800.0,
+    "size": 32,
+    "rooms": 2,
+    "location": "2582 XN Den Haag (Statenkwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6e102bc5-7543-52ab-8b7d-147a96bae62d/cf37407d033615015b921658a79c0ae5.jpg?width=600&auto=webp",
+    "agency": "HAYMAN Rentals",
+    "first_seen": "2025-08-05T13:36:57.929912",
+    "last_updated": "2025-08-05T13:36:57.929914"
   },
   {
     "id": "van-malsenstraat",
