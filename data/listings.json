@@ -266,6 +266,20 @@
     "last_updated": "2025-08-03T03:45:37.425760"
   },
   {
+    "id": "valkenboslaan",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/7b8d619b/valkenboslaan",
+    "title": "Flat Valkenboslaan 102 D",
+    "price": 829.0,
+    "size": 27,
+    "rooms": 2,
+    "location": "2563 CN Den Haag (Valkenboskwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7b8d619b-8758-51ec-abd6-5a8b235b5190/7d838dcbf9552f9966dfd715760e55a8.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-07-28T20:16:27.162291",
+    "last_updated": "2025-08-05T12:30:33.115513"
+  },
+  {
     "id": "klimopstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/ccbca7c7/klimopstraat",
     "title": "Flat Klimopstraat 93",
@@ -670,20 +684,6 @@
     "agency": "Rotterdam Apartments",
     "first_seen": "2025-07-18T16:18:47.642457",
     "last_updated": "2025-07-18T16:18:47.642459"
-  },
-  {
-    "id": "valkenboslaan",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/9f862781/valkenboslaan",
-    "title": "Flat Valkenboslaan",
-    "price": 995.0,
-    "size": 42,
-    "rooms": 2,
-    "location": "2563 CJ Den Haag (Valkenboskwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9f862781-f39f-53e2-8715-7976768bcd91/b8d718e448522193f2738615e5e7c3a3.jpg?width=600&auto=webp",
-    "agency": "HAYMAN Rentals",
-    "first_seen": "2025-07-28T20:16:27.162291",
-    "last_updated": "2025-07-28T20:16:27.162299"
   },
   {
     "id": "westerbaenstraat",
