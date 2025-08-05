@@ -182,20 +182,6 @@
     "last_updated": "2025-07-22T14:16:14.042004"
   },
   {
-    "id": "van-malsenstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/462140fd/van-malsenstraat",
-    "title": "Flat Van Malsenstraat 18 A",
-    "price": 853.0,
-    "size": 22,
-    "rooms": 2,
-    "location": "3074 PV Rotterdam (Hillesluis)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/462140fd-0ca8-568e-9695-5ce237080ff8/985adf3bd6da315d0aa448d19aad9fc1.jpg?width=600&auto=webp",
-    "agency": "D&S Vastgoed",
-    "first_seen": "2025-07-16T09:18:57.135587",
-    "last_updated": "2025-08-04T16:19:46.428522"
-  },
-  {
     "id": "hooidrift",
     "url": "https://www.pararius.com/studio-for-rent/rotterdam/38c548e7/hooidrift",
     "title": "Studio Hooidrift 15 D",
@@ -488,6 +474,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-07-10T13:29:59.010931",
     "last_updated": "2025-07-10T13:29:59.010934"
+  },
+  {
+    "id": "van-malsenstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/462140fd/van-malsenstraat",
+    "title": "Flat Van Malsenstraat 18 A",
+    "price": 853.0,
+    "size": 22,
+    "rooms": 2,
+    "location": "3074 PV Rotterdam (Hillesluis)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/462140fd-0ca8-568e-9695-5ce237080ff8/985adf3bd6da315d0aa448d19aad9fc1.jpg?width=600&auto=webp",
+    "agency": "D&S Vastgoed",
+    "first_seen": "2025-07-16T09:18:57.135587",
+    "last_updated": "2025-08-04T16:19:46.428522"
   },
   {
     "id": "dordtselaan",
