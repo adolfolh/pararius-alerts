@@ -1,5 +1,19 @@
 [
   {
+    "id": "mijnsherenlaan",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/b039dc5a/mijnsherenlaan",
+    "title": "Flat Mijnsherenlaan",
+    "price": 986.0,
+    "size": 62,
+    "rooms": 2,
+    "location": "3081 GE Rotterdam (Tarwewijk)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b039dc5a-3f5a-5e9a-8ec5-2a116159abdf/52b9b7f277ef1a5cbe00ae385be8f770.jpg?width=600&auto=webp",
+    "agency": "City Limit Vastgoedbeheer",
+    "first_seen": "2025-08-05T11:13:17.797312",
+    "last_updated": "2025-08-05T11:13:17.797319"
+  },
+  {
     "id": "s-gravendijkwal",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a3035523/s-gravendijkwal",
     "title": "Flat 's-Gravendijkwal 118 F",
@@ -252,6 +266,20 @@
     "last_updated": "2025-08-03T03:45:37.425760"
   },
   {
+    "id": "klimopstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/ccbca7c7/klimopstraat",
+    "title": "Flat Klimopstraat 93",
+    "price": 961.0,
+    "size": 69,
+    "rooms": 3,
+    "location": "2565 VH Den Haag (Bloemenbuurt-Oost)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ccbca7c7-ff52-5ee8-bc15-1590c75712b9/42bae62a52fa19efc6c8d9faa433eae6.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-08-05T11:13:23.513044",
+    "last_updated": "2025-08-05T11:13:23.513051"
+  },
+  {
     "id": "regentesselaan",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/3a79180c/regentesselaan",
     "title": "Flat Regentesselaan 228 B",
@@ -281,17 +309,17 @@
   },
   {
     "id": "1e-van-der-kunstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/ba07a099/1e-van-der-kunstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/645d2e91/1e-van-der-kunstraat",
     "title": "Flat 1e Van der Kunstraat",
-    "price": 998.0,
-    "size": 34,
+    "price": 1005.0,
+    "size": 35,
     "rooms": 2,
     "location": "2521 AS Den Haag (Laakhaven-West)",
     "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ba07a099-3c1e-591f-a4c1-37d7def2eafd/84940a0555715e237f2a007d0ea2f1d5.jpg?width=600&auto=webp",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/645d2e91-7972-5efd-b900-3ecdd76f160e/0c53148817d29a74ca1d187dcefc016b.jpg?width=600&auto=webp",
     "agency": "Rent Valley",
     "first_seen": "2025-08-03T03:45:43.398985",
-    "last_updated": "2025-08-03T03:45:43.398987"
+    "last_updated": "2025-08-05T11:13:23.544872"
   },
   {
     "id": "kepplerstraat",
