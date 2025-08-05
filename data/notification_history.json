@@ -2721,5 +2721,14 @@
       "van-slingelandtstraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-08-05T15:17:21.888043",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "granaathorst"
+    ],
+    "updated_listing_ids": []
   }
 ]
