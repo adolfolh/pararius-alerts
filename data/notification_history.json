@@ -2711,5 +2711,15 @@
     "updated_listing_ids": [
       "valkenboslaan"
     ]
+  },
+  {
+    "timestamp": "2025-08-05T13:36:58.507348",
+    "new_listings_count": 2,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "herschelstraat",
+      "van-slingelandtstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]

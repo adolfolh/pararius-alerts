@@ -266,6 +266,34 @@
     "last_updated": "2025-08-03T03:45:37.425760"
   },
   {
+    "id": "herschelstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/1bdb5218/herschelstraat",
+    "title": "Flat Herschelstraat",
+    "price": 918.0,
+    "size": 49,
+    "rooms": 2,
+    "location": "2562 JR Den Haag (Valkenboskwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/1bdb5218-9c81-5d2d-bcbd-085ff9513fef/d9c6fa527c3c8a24b3d8fe6d43f79363.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-08-05T13:36:57.928372",
+    "last_updated": "2025-08-05T13:36:57.928379"
+  },
+  {
+    "id": "van-slingelandtstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/6e102bc5/van-slingelandtstraat",
+    "title": "Flat Van Slingelandtstraat",
+    "price": 800.0,
+    "size": 32,
+    "rooms": 2,
+    "location": "2582 XN Den Haag (Statenkwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6e102bc5-7543-52ab-8b7d-147a96bae62d/cf37407d033615015b921658a79c0ae5.jpg?width=600&auto=webp",
+    "agency": "HAYMAN Rentals",
+    "first_seen": "2025-08-05T13:36:57.929912",
+    "last_updated": "2025-08-05T13:36:57.929914"
+  },
+  {
     "id": "valkenboslaan",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/7b8d619b/valkenboslaan",
     "title": "Flat Valkenboslaan 102 D",
