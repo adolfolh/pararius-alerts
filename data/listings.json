@@ -238,18 +238,18 @@
     "last_updated": "2025-08-03T03:45:37.425760"
   },
   {
-    "id": "linnaeusstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/030f5339/linnaeusstraat",
-    "title": "Flat Linnaeusstraat",
-    "price": 869.0,
+    "id": "drebbelstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/6550f7b7/drebbelstraat",
+    "title": "Flat Drebbelstraat",
+    "price": 925.0,
     "size": 63,
     "rooms": 3,
-    "location": "2522 GX Den Haag (Laakkwartier-Oost)",
+    "location": "2522 CP Den Haag (Noordpolderbuurt)",
     "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/030f5339-bc0e-584a-a575-49c0883f3e50/dd7882bec18110bb180c39cc575e6ae8.jpg?width=600&auto=webp",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6550f7b7-7466-5c6e-8c98-067929098de7/bc4aeadc4399166d0353305f8b0d52cc.jpg?width=600&auto=webp",
     "agency": "NRW Wonen",
-    "first_seen": "2025-08-06T12:30:35.984936",
-    "last_updated": "2025-08-06T12:30:35.984941"
+    "first_seen": "2025-08-06T13:37:38.256649",
+    "last_updated": "2025-08-06T13:37:38.256656"
   },
   {
     "id": "granaathorst",
@@ -264,20 +264,6 @@
     "agency": "Nationaal Grondbezit",
     "first_seen": "2025-08-05T15:17:21.310186",
     "last_updated": "2025-08-05T15:17:21.310193"
-  },
-  {
-    "id": "herschelstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/1bdb5218/herschelstraat",
-    "title": "Flat Herschelstraat",
-    "price": 918.0,
-    "size": 49,
-    "rooms": 2,
-    "location": "2562 JR Den Haag (Valkenboskwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/1bdb5218-9c81-5d2d-bcbd-085ff9513fef/d9c6fa527c3c8a24b3d8fe6d43f79363.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-08-05T13:36:57.928372",
-    "last_updated": "2025-08-05T13:36:57.928379"
   },
   {
     "id": "valkenboslaan",
@@ -474,6 +460,34 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-07-10T13:29:59.010931",
     "last_updated": "2025-07-10T13:29:59.010934"
+  },
+  {
+    "id": "linnaeusstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/030f5339/linnaeusstraat",
+    "title": "Flat Linnaeusstraat",
+    "price": 869.0,
+    "size": 63,
+    "rooms": 3,
+    "location": "2522 GX Den Haag (Laakkwartier-Oost)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/030f5339-bc0e-584a-a575-49c0883f3e50/dd7882bec18110bb180c39cc575e6ae8.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-08-06T12:30:35.984936",
+    "last_updated": "2025-08-06T12:30:35.984941"
+  },
+  {
+    "id": "herschelstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/1bdb5218/herschelstraat",
+    "title": "Flat Herschelstraat",
+    "price": 918.0,
+    "size": 49,
+    "rooms": 2,
+    "location": "2562 JR Den Haag (Valkenboskwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/1bdb5218-9c81-5d2d-bcbd-085ff9513fef/d9c6fa527c3c8a24b3d8fe6d43f79363.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-08-05T13:36:57.928372",
+    "last_updated": "2025-08-05T13:36:57.928379"
   },
   {
     "id": "zandblokstraat",

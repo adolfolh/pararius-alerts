@@ -2740,5 +2740,14 @@
       "daguerrestraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-08-06T13:37:38.769956",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "drebbelstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
