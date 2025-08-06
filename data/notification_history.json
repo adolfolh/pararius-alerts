@@ -2730,5 +2730,15 @@
       "granaathorst"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-08-06T12:30:36.394265",
+    "new_listings_count": 2,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "linnaeusstraat",
+      "daguerrestraat"
+    ],
+    "updated_listing_ids": []
   }
 ]

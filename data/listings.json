@@ -196,20 +196,6 @@
     "last_updated": "2025-07-21T09:22:20.945612"
   },
   {
-    "id": "zandblokstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a88d63fa/zandblokstraat",
-    "title": "Flat Zandblokstraat 6 C",
-    "price": 787.0,
-    "size": 52,
-    "rooms": 3,
-    "location": "3083 MZ Rotterdam (Carnisse)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a88d63fa-cd6e-5264-8843-f0d6d6c603f2/bda73299d7c873d25bd158abcf51aeb7.jpg?width=600&auto=webp",
-    "agency": "Kolpa V.V.S. Beheer",
-    "first_seen": "2025-07-18T15:14:16.373175",
-    "last_updated": "2025-07-18T15:14:16.373182"
-  },
-  {
     "id": "bredestraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/448ba2f9/bredestraat",
     "title": "Flat Bredestraat",
@@ -250,6 +236,20 @@
     "agency": "HouseHunting Randstad",
     "first_seen": "2025-08-03T03:45:37.425757",
     "last_updated": "2025-08-03T03:45:37.425760"
+  },
+  {
+    "id": "linnaeusstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/030f5339/linnaeusstraat",
+    "title": "Flat Linnaeusstraat",
+    "price": 869.0,
+    "size": 63,
+    "rooms": 3,
+    "location": "2522 GX Den Haag (Laakkwartier-Oost)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/030f5339-bc0e-584a-a575-49c0883f3e50/dd7882bec18110bb180c39cc575e6ae8.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-08-06T12:30:35.984936",
+    "last_updated": "2025-08-06T12:30:35.984941"
   },
   {
     "id": "granaathorst",
@@ -416,8 +416,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/f51fb029-132b-5f6b-936c-2336fae5b8f6/1e2a601d984e475ba740145ed7e5c218.jpg?width=600&auto=webp",
     "agency": "Woonzeker Rentals",
-    "first_seen": "2025-07-07T12:27:32.247455",
-    "last_updated": "2025-07-22T09:19:15.108818"
+    "first_seen": "2025-08-06T12:30:36.002969",
+    "last_updated": "2025-08-06T12:30:36.002972"
   },
   {
     "id": "schrijnwerkersgaarde",
@@ -474,6 +474,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-07-10T13:29:59.010931",
     "last_updated": "2025-07-10T13:29:59.010934"
+  },
+  {
+    "id": "zandblokstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a88d63fa/zandblokstraat",
+    "title": "Flat Zandblokstraat 6 C",
+    "price": 787.0,
+    "size": 52,
+    "rooms": 3,
+    "location": "3083 MZ Rotterdam (Carnisse)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a88d63fa-cd6e-5264-8843-f0d6d6c603f2/bda73299d7c873d25bd158abcf51aeb7.jpg?width=600&auto=webp",
+    "agency": "Kolpa V.V.S. Beheer",
+    "first_seen": "2025-07-18T15:14:16.373175",
+    "last_updated": "2025-07-18T15:14:16.373182"
   },
   {
     "id": "van-slingelandtstraat",
