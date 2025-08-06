@@ -238,20 +238,6 @@
     "last_updated": "2025-08-03T03:45:37.425760"
   },
   {
-    "id": "drebbelstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/6550f7b7/drebbelstraat",
-    "title": "Flat Drebbelstraat",
-    "price": 925.0,
-    "size": 63,
-    "rooms": 3,
-    "location": "2522 CP Den Haag (Noordpolderbuurt)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6550f7b7-7466-5c6e-8c98-067929098de7/bc4aeadc4399166d0353305f8b0d52cc.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-08-06T13:37:38.256649",
-    "last_updated": "2025-08-06T13:37:38.256656"
-  },
-  {
     "id": "granaathorst",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/0d0fc631/granaathorst",
     "title": "Flat Granaathorst 383",
@@ -460,6 +446,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-07-10T13:29:59.010931",
     "last_updated": "2025-07-10T13:29:59.010934"
+  },
+  {
+    "id": "drebbelstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/6550f7b7/drebbelstraat",
+    "title": "Flat Drebbelstraat",
+    "price": 925.0,
+    "size": 63,
+    "rooms": 3,
+    "location": "2522 CP Den Haag (Noordpolderbuurt)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6550f7b7-7466-5c6e-8c98-067929098de7/bc4aeadc4399166d0353305f8b0d52cc.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-08-06T13:37:38.256649",
+    "last_updated": "2025-08-06T13:37:38.256656"
   },
   {
     "id": "linnaeusstraat",
