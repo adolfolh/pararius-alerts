@@ -28,20 +28,6 @@
     "last_updated": "2025-07-30T16:18:07.655740"
   },
   {
-    "id": "schieweg",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/cc5d9825/schieweg",
-    "title": "Flat Schieweg",
-    "price": 975.0,
-    "size": 25,
-    "rooms": 1,
-    "location": "3038 AE Rotterdam (Bergpolder)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/cc5d9825-86fe-56f2-ad24-839df32b9358/5aafda107cc5fa5c657ef5bcde2fbf82.jpg?width=600&auto=webp",
-    "agency": "Rotterdam Apartments",
-    "first_seen": "2025-07-30T13:35:50.555041",
-    "last_updated": "2025-07-30T13:35:50.555049"
-  },
-  {
     "id": "oostmaaslaan",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/878023a7/oostmaaslaan",
     "title": "Flat Oostmaaslaan",
@@ -446,6 +432,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-07-10T13:29:59.010931",
     "last_updated": "2025-07-10T13:29:59.010934"
+  },
+  {
+    "id": "schieweg",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/cc5d9825/schieweg",
+    "title": "Flat Schieweg",
+    "price": 975.0,
+    "size": 25,
+    "rooms": 1,
+    "location": "3038 AE Rotterdam (Bergpolder)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/cc5d9825-86fe-56f2-ad24-839df32b9358/5aafda107cc5fa5c657ef5bcde2fbf82.jpg?width=600&auto=webp",
+    "agency": "Rotterdam Apartments",
+    "first_seen": "2025-07-30T13:35:50.555041",
+    "last_updated": "2025-07-30T13:35:50.555049"
   },
   {
     "id": "drebbelstraat",
