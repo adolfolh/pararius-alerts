@@ -196,20 +196,6 @@
     "last_updated": "2025-07-21T09:22:20.945612"
   },
   {
-    "id": "bredestraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/448ba2f9/bredestraat",
-    "title": "Flat Bredestraat",
-    "price": 950.0,
-    "size": 50,
-    "rooms": 3,
-    "location": "3011 RB Rotterdam (Stadsdriehoek)",
-    "interior": "Upholstered or furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/448ba2f9-8505-51bb-97e8-f1476d3a641c/8afab4604b5559d6850302bd3b3d0d63.jpg?width=600&auto=webp",
-    "agency": "Rental Rotterdam",
-    "first_seen": "2025-07-15T12:28:44.253311",
-    "last_updated": "2025-07-15T12:28:44.253321"
-  },
-  {
     "id": "vijverhofstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a58c5ff9/vijverhofstraat",
     "title": "Flat Vijverhofstraat",
@@ -460,6 +446,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-07-10T13:29:59.010931",
     "last_updated": "2025-07-10T13:29:59.010934"
+  },
+  {
+    "id": "bredestraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/448ba2f9/bredestraat",
+    "title": "Flat Bredestraat",
+    "price": 950.0,
+    "size": 50,
+    "rooms": 3,
+    "location": "3011 RB Rotterdam (Stadsdriehoek)",
+    "interior": "Upholstered or furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/448ba2f9-8505-51bb-97e8-f1476d3a641c/8afab4604b5559d6850302bd3b3d0d63.jpg?width=600&auto=webp",
+    "agency": "Rental Rotterdam",
+    "first_seen": "2025-07-15T12:28:44.253311",
+    "last_updated": "2025-07-15T12:28:44.253321"
   },
   {
     "id": "schieweg",
