@@ -1,5 +1,19 @@
 [
   {
+    "id": "heymansstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/794798d3/heymansstraat",
+    "title": "Flat Heymansstraat 73",
+    "price": 913.0,
+    "size": 70,
+    "rooms": 3,
+    "location": "3076 CE Rotterdam (Lombardijen)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/794798d3-5fcd-5969-bcdb-ff808bd154b7/54f0eb4e3d7196975a9640a6510e30c2.jpg?width=600&auto=webp",
+    "agency": "Nationaal Grondbezit",
+    "first_seen": "2025-08-07T12:30:06.578834",
+    "last_updated": "2025-08-07T12:30:06.578840"
+  },
+  {
     "id": "mijnsherenlaan",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/b039dc5a/mijnsherenlaan",
     "title": "Flat Mijnsherenlaan",
