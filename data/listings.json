@@ -1,5 +1,33 @@
 [
   {
+    "id": "paradijslaan",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/7d598e46/paradijslaan",
+    "title": "Flat Paradijslaan",
+    "price": 999.0,
+    "size": 39,
+    "rooms": 2,
+    "location": "3034 ST Rotterdam (Nieuw Crooswijk)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7d598e46-42e2-566d-88c6-cb0ba4fdd021/44b58716ce5c56bfa4df64d3dee28ee3.jpg?width=600&auto=webp",
+    "agency": "VERRA Makelaars Rotterdam",
+    "first_seen": "2025-08-08T16:16:16.607097",
+    "last_updated": "2025-08-08T16:16:16.607102"
+  },
+  {
+    "id": "dordtselaan",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/9b0a01db/dordtselaan",
+    "title": "Studio Dordtselaan",
+    "price": 830.0,
+    "size": 21,
+    "rooms": 2,
+    "location": "3081 BN Rotterdam (Tarwewijk)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9b0a01db-1bad-58e2-a85d-4f5a6380f924/3505af69df3291d1b7e97884dc5c9d63.jpg?width=600&auto=webp",
+    "agency": "Homey Housing",
+    "first_seen": "2025-08-04T08:21:19.465537",
+    "last_updated": "2025-08-08T16:16:22.539995"
+  },
+  {
     "id": "heymansstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/794798d3/heymansstraat",
     "title": "Flat Heymansstraat 73",
@@ -586,20 +614,6 @@
     "agency": "D&S Vastgoed",
     "first_seen": "2025-07-16T09:18:57.135587",
     "last_updated": "2025-08-04T16:19:46.428522"
-  },
-  {
-    "id": "dordtselaan",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/fb31296e/dordtselaan",
-    "title": "Flat Dordtselaan 199",
-    "price": 853.0,
-    "size": 105,
-    "rooms": 4,
-    "location": "3081 BP Rotterdam (Tarwewijk)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/fb31296e-6f5f-538e-951e-60e83a413794/8049656deec21d80f9dfe001e97b4b62.jpg?width=600&auto=webp",
-    "agency": "Kolpa V.V.S. Beheer",
-    "first_seen": "2025-08-04T08:21:19.465537",
-    "last_updated": "2025-08-04T08:21:19.465542"
   },
   {
     "id": "katendrechtse-lagedijk",

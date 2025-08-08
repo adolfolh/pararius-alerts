@@ -2785,5 +2785,16 @@
       "waldorpstraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-08-08T16:16:22.997583",
+    "new_listings_count": 1,
+    "updated_listings_count": 1,
+    "new_listing_ids": [
+      "paradijslaan"
+    ],
+    "updated_listing_ids": [
+      "dordtselaan"
+    ]
   }
 ]
