@@ -196,20 +196,6 @@
     "last_updated": "2025-07-22T14:16:14.040483"
   },
   {
-    "id": "habsburgstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/54e8b0b4/habsburgstraat",
-    "title": "Flat Habsburgstraat 13 A",
-    "price": 815.0,
-    "size": 45,
-    "rooms": 2,
-    "location": "3082 LP Rotterdam (Oud Charlois)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/54e8b0b4-2a55-5151-9862-67ce588ea126/cc0c37796b44d5c4caefac62aba761ee.jpg?width=600&auto=webp",
-    "agency": "LIV Residential",
-    "first_seen": "2025-07-22T14:16:14.042001",
-    "last_updated": "2025-07-22T14:16:14.042004"
-  },
-  {
     "id": "hooidrift",
     "url": "https://www.pararius.com/studio-for-rent/rotterdam/38c548e7/hooidrift",
     "title": "Studio Hooidrift 15 D",
@@ -250,20 +236,6 @@
     "agency": "HouseHunting Randstad",
     "first_seen": "2025-08-03T03:45:37.425757",
     "last_updated": "2025-08-03T03:45:37.425760"
-  },
-  {
-    "id": "waldorpstraat",
-    "url": "https://www.pararius.com/house-for-rent/den-haag/5ed84964/waldorpstraat",
-    "title": "House Waldorpstraat 1146",
-    "price": 900.0,
-    "size": 23,
-    "rooms": 1,
-    "location": "2521 CX Den Haag (Laakhaven-West)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/5ed84964-872a-51eb-b874-b9257a70bc7a/90e6ccfe8450d88b1754679a5de147cb.jpg?width=600&auto=webp",
-    "agency": "LIV Residential",
-    "first_seen": "2025-08-08T13:34:14.219824",
-    "last_updated": "2025-08-08T13:34:14.219826"
   },
   {
     "id": "franklinstraat",
@@ -488,6 +460,34 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-07-10T13:29:59.010931",
     "last_updated": "2025-07-10T13:29:59.010934"
+  },
+  {
+    "id": "habsburgstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/54e8b0b4/habsburgstraat",
+    "title": "Flat Habsburgstraat 13 A",
+    "price": 815.0,
+    "size": 45,
+    "rooms": 2,
+    "location": "3082 LP Rotterdam (Oud Charlois)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/54e8b0b4-2a55-5151-9862-67ce588ea126/cc0c37796b44d5c4caefac62aba761ee.jpg?width=600&auto=webp",
+    "agency": "LIV Residential",
+    "first_seen": "2025-07-22T14:16:14.042001",
+    "last_updated": "2025-07-22T14:16:14.042004"
+  },
+  {
+    "id": "waldorpstraat",
+    "url": "https://www.pararius.com/house-for-rent/den-haag/5ed84964/waldorpstraat",
+    "title": "House Waldorpstraat 1146",
+    "price": 900.0,
+    "size": 23,
+    "rooms": 1,
+    "location": "2521 CX Den Haag (Laakhaven-West)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/5ed84964-872a-51eb-b874-b9257a70bc7a/90e6ccfe8450d88b1754679a5de147cb.jpg?width=600&auto=webp",
+    "agency": "LIV Residential",
+    "first_seen": "2025-08-08T13:34:14.219824",
+    "last_updated": "2025-08-08T13:34:14.219826"
   },
   {
     "id": "trompstraat",
