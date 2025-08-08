@@ -416,8 +416,8 @@
     "interior": "Shell",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/ef4a2134-9fa0-50ce-8d6a-358a280de4d1/ed913942555d73faa90fac879d934674.jpg?width=600&auto=webp",
     "agency": "Livable",
-    "first_seen": "2025-07-09T10:15:45.130700",
-    "last_updated": "2025-08-05T07:20:53.335173"
+    "first_seen": "2025-08-08T11:12:47.958545",
+    "last_updated": "2025-08-08T11:12:47.958547"
   },
   {
     "id": "arnhemsestraat",
@@ -726,20 +726,6 @@
     "agency": "Rotterdam Apartments",
     "first_seen": "2025-07-14T12:28:36.435309",
     "last_updated": "2025-07-14T12:28:36.435316"
-  },
-  {
-    "id": "gaesbeekstraat",
-    "url": "https://www.pararius.com/studio-for-rent/rotterdam/0b21a514/gaesbeekstraat",
-    "title": "Studio Gaesbeekstraat",
-    "price": 920.0,
-    "size": 21,
-    "rooms": 2,
-    "location": "3081 NM Rotterdam (Tarwewijk)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0b21a514-57b8-5b09-a758-be1f893d7fc7/6147e22324ef9ab29dff89a00506ddcc.jpg?width=600&auto=webp",
-    "agency": "Homey Housing",
-    "first_seen": "2025-07-09T11:12:44.523788",
-    "last_updated": "2025-07-09T11:12:44.523796"
   },
   {
     "id": "noorderhavenkade",
