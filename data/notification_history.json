@@ -2796,5 +2796,14 @@
     "updated_listing_ids": [
       "dordtselaan"
     ]
+  },
+  {
+    "timestamp": "2025-08-09T14:12:38.978313",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "mosveen"
+    ],
+    "updated_listing_ids": []
   }
 ]
