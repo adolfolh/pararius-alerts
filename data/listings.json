@@ -318,8 +318,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/3a79180c-6b38-5229-88df-e85cdd1a70da/fd66c369ad7812d1f073524bed718e0e.jpg?width=600&auto=webp",
     "agency": "Woonzeker Rentals",
-    "first_seen": "2025-07-11T11:12:50.059610",
-    "last_updated": "2025-07-31T16:18:24.418947"
+    "first_seen": "2025-08-10T12:26:19.090747",
+    "last_updated": "2025-08-10T12:26:19.090749"
   },
   {
     "id": "zwarteweg",
@@ -964,20 +964,6 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-07-18T16:18:47.637828",
     "last_updated": "2025-07-18T16:18:47.637830"
-  },
-  {
-    "id": "prins-hendrikstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/4ede2b1d/prins-hendrikstraat",
-    "title": "Flat Prins Hendrikstraat 70 A",
-    "price": 693.0,
-    "size": 38,
-    "rooms": 2,
-    "location": "2518 HV Den Haag (Zeeheldenkwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4ede2b1d-ac68-5f32-bf61-6ea09c939d06/71e59f01c2fe678a4ff22693eaac6b6e.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-07-11T11:12:50.023437",
-    "last_updated": "2025-07-11T11:12:50.023443"
   },
   {
     "id": "weimarstraat",
