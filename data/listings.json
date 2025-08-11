@@ -112,20 +112,6 @@
     "last_updated": "2025-07-25T09:17:55.933729"
   },
   {
-    "id": "zuidplein",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/15fea00d/zuidplein",
-    "title": "Flat Zuidplein",
-    "price": 840.0,
-    "size": 50,
-    "rooms": 3,
-    "location": "3083 CR Rotterdam (Zuidplein)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/15fea00d-896f-5cf0-b901-925a07b4b8df/3f693c9ed1036b65ade687e5944ff314.jpg?width=600&auto=webp",
-    "agency": "D&S Vastgoed",
-    "first_seen": "2025-08-03T03:45:37.422784",
-    "last_updated": "2025-08-03T03:45:37.422786"
-  },
-  {
     "id": "zuidhoek",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/326a4e34/zuidhoek",
     "title": "Flat Zuidhoek",
@@ -180,6 +166,20 @@
     "agency": "Properbee",
     "first_seen": "2025-07-21T09:22:20.945604",
     "last_updated": "2025-07-21T09:22:20.945612"
+  },
+  {
+    "id": "zuidplein",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/15fea00d/zuidplein",
+    "title": "Flat Zuidplein",
+    "price": 840.0,
+    "size": 50,
+    "rooms": 3,
+    "location": "3083 CR Rotterdam (Zuidplein)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/15fea00d-896f-5cf0-b901-925a07b4b8df/3f693c9ed1036b65ade687e5944ff314.jpg?width=600&auto=webp",
+    "agency": "D&S Vastgoed",
+    "first_seen": "2025-08-03T03:45:37.422784",
+    "last_updated": "2025-08-03T03:45:37.422786"
   },
   {
     "id": "vijverhofstraat",
@@ -322,20 +322,6 @@
     "last_updated": "2025-08-05T11:13:23.544872"
   },
   {
-    "id": "kepplerstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/4c87197a/kepplerstraat",
-    "title": "Flat Kepplerstraat 249 A",
-    "price": 735.0,
-    "size": 23,
-    "rooms": 2,
-    "location": "2562 VM Den Haag (Valkenboskwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4c87197a-a95a-5308-be1d-d3453fb5ceca/e13788762280f80bc89373e7e81a69a4.jpg?width=600&auto=webp",
-    "agency": "Woonzeker Rentals",
-    "first_seen": "2025-08-09T17:11:26.160039",
-    "last_updated": "2025-08-09T17:11:26.160041"
-  },
-  {
     "id": "van-lansbergestraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/02b6de08/van-lansbergestraat",
     "title": "Flat Van Lansbergestraat",
@@ -348,6 +334,62 @@
     "agency": "Immovita",
     "first_seen": "2025-07-25T09:18:01.743771",
     "last_updated": "2025-07-25T09:18:01.743778"
+  },
+  {
+    "id": "schrijnwerkersgaarde",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/ef4a2134/schrijnwerkersgaarde",
+    "title": "Flat Schrijnwerkersgaarde",
+    "price": 220.0,
+    "size": 63,
+    "rooms": 3,
+    "location": "2542 TZ Den Haag (Dreven en Gaarden)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ef4a2134-9fa0-50ce-8d6a-358a280de4d1/ed913942555d73faa90fac879d934674.jpg?width=600&auto=webp",
+    "agency": "Livable",
+    "first_seen": "2025-08-08T11:12:47.958545",
+    "last_updated": "2025-08-08T11:12:47.958547"
+  },
+  {
+    "id": "arnhemsestraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/ffb1f2a2/arnhemsestraat",
+    "title": "Flat Arnhemsestraat",
+    "price": 595.0,
+    "size": 15,
+    "rooms": 1,
+    "location": "2587 ST Den Haag (Belgisch Park)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ffb1f2a2-099f-5c44-ae07-e05764b1de3f/d041dbb4b358d5f6a3771735ad906610.jpg?width=600&auto=webp",
+    "agency": "Immovita",
+    "first_seen": "2025-07-27T12:26:42.513443",
+    "last_updated": "2025-07-27T12:26:42.513446"
+  },
+  {
+    "id": "mosveen",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/407cb0e1/mosveen",
+    "title": "Flat Mosveen",
+    "price": 477.0,
+    "size": 53,
+    "rooms": 2,
+    "location": "2544 RW Den Haag (Venen, Oorden en Raden)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/407cb0e1-2763-5ae3-a66e-09c62c30c2e0/7c50ec58e785db74be6bfd92b76d47fa.jpg?width=600&auto=webp",
+    "agency": "Ad Hoc Den Haag",
+    "first_seen": "2025-08-09T14:12:38.652826",
+    "last_updated": "2025-08-09T14:12:38.652829"
+  },
+  {
+    "id": "kepplerstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/4c87197a/kepplerstraat",
+    "title": "Flat Kepplerstraat 249 A",
+    "price": 735.0,
+    "size": 23,
+    "rooms": 2,
+    "location": "2562 VM Den Haag (Valkenboskwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4c87197a-a95a-5308-be1d-d3453fb5ceca/e13788762280f80bc89373e7e81a69a4.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-08-09T17:11:26.160039",
+    "last_updated": "2025-08-09T17:11:26.160041"
   },
   {
     "id": "beeklaan",
@@ -392,34 +434,6 @@
     "last_updated": "2025-08-06T12:30:36.002972"
   },
   {
-    "id": "schrijnwerkersgaarde",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/ef4a2134/schrijnwerkersgaarde",
-    "title": "Flat Schrijnwerkersgaarde",
-    "price": 220.0,
-    "size": 63,
-    "rooms": 3,
-    "location": "2542 TZ Den Haag (Dreven en Gaarden)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ef4a2134-9fa0-50ce-8d6a-358a280de4d1/ed913942555d73faa90fac879d934674.jpg?width=600&auto=webp",
-    "agency": "Livable",
-    "first_seen": "2025-08-08T11:12:47.958545",
-    "last_updated": "2025-08-08T11:12:47.958547"
-  },
-  {
-    "id": "arnhemsestraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/ffb1f2a2/arnhemsestraat",
-    "title": "Flat Arnhemsestraat",
-    "price": 595.0,
-    "size": 15,
-    "rooms": 1,
-    "location": "2587 ST Den Haag (Belgisch Park)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ffb1f2a2-099f-5c44-ae07-e05764b1de3f/d041dbb4b358d5f6a3771735ad906610.jpg?width=600&auto=webp",
-    "agency": "Immovita",
-    "first_seen": "2025-07-27T12:26:42.513443",
-    "last_updated": "2025-07-27T12:26:42.513446"
-  },
-  {
     "id": "laan-van-eik-en-duinen",
     "url": "https://www.pararius.com/studio-for-rent/den-haag/be62b253/laan-van-eik-en-duinen",
     "title": "Studio Laan van Eik en Duinen 246 B",
@@ -432,20 +446,6 @@
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-07-24T17:14:29.030753",
     "last_updated": "2025-07-24T17:14:29.030755"
-  },
-  {
-    "id": "mosveen",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/407cb0e1/mosveen",
-    "title": "Flat Mosveen",
-    "price": 477.0,
-    "size": 53,
-    "rooms": 2,
-    "location": "2544 RW Den Haag (Venen, Oorden en Raden)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/407cb0e1-2763-5ae3-a66e-09c62c30c2e0/7c50ec58e785db74be6bfd92b76d47fa.jpg?width=600&auto=webp",
-    "agency": "Ad Hoc Den Haag",
-    "first_seen": "2025-08-09T14:12:38.652826",
-    "last_updated": "2025-08-09T14:12:38.652829"
   },
   {
     "id": "dordtselaan",
