@@ -210,6 +210,20 @@
     "last_updated": "2025-08-03T03:45:37.425760"
   },
   {
+    "id": "westerbaenstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/1a181429/westerbaenstraat",
+    "title": "Flat Westerbaenstraat",
+    "price": 1038.0,
+    "size": 35,
+    "rooms": 2,
+    "location": "2513 GG Den Haag (Zeeheldenkwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/1a181429-6420-5f16-b2a6-a6acd1eb2bb9/1eb02e4e2c1e3be55927fdfd0b05c40a.jpg?width=600&auto=webp",
+    "agency": "Rent Valley",
+    "first_seen": "2025-07-23T15:15:41.629365",
+    "last_updated": "2025-08-11T11:13:15.504612"
+  },
+  {
     "id": "waldorpstraat",
     "url": "https://www.pararius.com/house-for-rent/den-haag/5ed84964/waldorpstraat",
     "title": "House Waldorpstraat 1146",
@@ -796,20 +810,6 @@
     "agency": "Rotterdam Apartments",
     "first_seen": "2025-07-18T16:18:47.642457",
     "last_updated": "2025-07-18T16:18:47.642459"
-  },
-  {
-    "id": "westerbaenstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/1d7817d9/westerbaenstraat",
-    "title": "Flat Westerbaenstraat",
-    "price": 985.0,
-    "size": 36,
-    "rooms": 2,
-    "location": "2513 GG Den Haag (Zeeheldenkwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/1d7817d9-0d40-5b13-8097-ed2670c21633/f4ea1c0c2b8d357502338ba34e7ddb39.jpg?width=600&auto=webp",
-    "agency": "Rent Valley",
-    "first_seen": "2025-07-23T15:15:41.629365",
-    "last_updated": "2025-07-23T15:15:41.629371"
   },
   {
     "id": "jan-van-nassaustraat",
