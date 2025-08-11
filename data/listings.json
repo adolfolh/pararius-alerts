@@ -14,34 +14,6 @@
     "last_updated": "2025-08-08T16:16:16.607102"
   },
   {
-    "id": "dordtselaan",
-    "url": "https://www.pararius.com/studio-for-rent/rotterdam/9b0a01db/dordtselaan",
-    "title": "Studio Dordtselaan",
-    "price": 830.0,
-    "size": 21,
-    "rooms": 2,
-    "location": "3081 BN Rotterdam (Tarwewijk)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9b0a01db-1bad-58e2-a85d-4f5a6380f924/3505af69df3291d1b7e97884dc5c9d63.jpg?width=600&auto=webp",
-    "agency": "Homey Housing",
-    "first_seen": "2025-08-04T08:21:19.465537",
-    "last_updated": "2025-08-08T16:16:22.539995"
-  },
-  {
-    "id": "heymansstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/794798d3/heymansstraat",
-    "title": "Flat Heymansstraat 73",
-    "price": 913.0,
-    "size": 70,
-    "rooms": 3,
-    "location": "3076 CE Rotterdam (Lombardijen)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/794798d3-5fcd-5969-bcdb-ff808bd154b7/54f0eb4e3d7196975a9640a6510e30c2.jpg?width=600&auto=webp",
-    "agency": "Nationaal Grondbezit",
-    "first_seen": "2025-08-07T12:30:06.578834",
-    "last_updated": "2025-08-07T12:30:06.578840"
-  },
-  {
     "id": "mijnsherenlaan",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/b039dc5a/mijnsherenlaan",
     "title": "Flat Mijnsherenlaan",
@@ -311,7 +283,7 @@
     "id": "regentesselaan",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/3a79180c/regentesselaan",
     "title": "Flat Regentesselaan 228 B",
-    "price": 909.0,
+    "price": 884.0,
     "size": 43,
     "rooms": 2,
     "location": "2562 EJ Den Haag (Rond de Energiecentrale)",
@@ -319,7 +291,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/3a79180c-6b38-5229-88df-e85cdd1a70da/fd66c369ad7812d1f073524bed718e0e.jpg?width=600&auto=webp",
     "agency": "Woonzeker Rentals",
     "first_seen": "2025-08-10T12:26:19.090747",
-    "last_updated": "2025-08-10T12:26:19.090749"
+    "last_updated": "2025-08-11T08:21:10.820512"
   },
   {
     "id": "zwarteweg",
@@ -474,6 +446,34 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-08-09T14:12:38.652826",
     "last_updated": "2025-08-09T14:12:38.652829"
+  },
+  {
+    "id": "dordtselaan",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/9b0a01db/dordtselaan",
+    "title": "Studio Dordtselaan",
+    "price": 830.0,
+    "size": 21,
+    "rooms": 2,
+    "location": "3081 BN Rotterdam (Tarwewijk)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9b0a01db-1bad-58e2-a85d-4f5a6380f924/3505af69df3291d1b7e97884dc5c9d63.jpg?width=600&auto=webp",
+    "agency": "Homey Housing",
+    "first_seen": "2025-08-04T08:21:19.465537",
+    "last_updated": "2025-08-08T16:16:22.539995"
+  },
+  {
+    "id": "heymansstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/794798d3/heymansstraat",
+    "title": "Flat Heymansstraat 73",
+    "price": 913.0,
+    "size": 70,
+    "rooms": 3,
+    "location": "3076 CE Rotterdam (Lombardijen)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/794798d3-5fcd-5969-bcdb-ff808bd154b7/54f0eb4e3d7196975a9640a6510e30c2.jpg?width=600&auto=webp",
+    "agency": "Nationaal Grondbezit",
+    "first_seen": "2025-08-07T12:30:06.578834",
+    "last_updated": "2025-08-07T12:30:06.578840"
   },
   {
     "id": "franselaan",
