@@ -210,6 +210,20 @@
     "last_updated": "2025-08-03T03:45:37.425760"
   },
   {
+    "id": "piet-heinstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/832ba5dd/piet-heinstraat",
+    "title": "Flat Piet Heinstraat 21 B",
+    "price": 934.0,
+    "size": 29,
+    "rooms": 2,
+    "location": "2518 CB Den Haag (Zeeheldenkwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/832ba5dd-d1d5-5aa7-9da4-ea495fb4947b/258a9f3751739a34c88c1d7dbdf6a7da.jpg?width=600&auto=webp",
+    "agency": "Woonzeker Rentals",
+    "first_seen": "2025-08-12T11:12:22.445643",
+    "last_updated": "2025-08-12T11:12:22.445649"
+  },
+  {
     "id": "zusterstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/32e5d414/zusterstraat",
     "title": "Flat Zusterstraat",

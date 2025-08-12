@@ -2850,5 +2850,14 @@
       "zusterstraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-08-12T11:12:22.836708",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "piet-heinstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
