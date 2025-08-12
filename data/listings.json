@@ -154,20 +154,6 @@
     "last_updated": "2025-07-22T14:16:14.042004"
   },
   {
-    "id": "hooidrift",
-    "url": "https://www.pararius.com/studio-for-rent/rotterdam/38c548e7/hooidrift",
-    "title": "Studio Hooidrift 15 D",
-    "price": 920.0,
-    "size": 40,
-    "rooms": 2,
-    "location": "3023 KG Rotterdam (Nieuwe Westen)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/38c548e7-3492-56b1-9cb1-ba62d626e321/a2210e8a66f77bbf74a02f7c44b84a61.jpg?width=600&auto=webp",
-    "agency": "Properbee",
-    "first_seen": "2025-07-21T09:22:20.945604",
-    "last_updated": "2025-07-21T09:22:20.945612"
-  },
-  {
     "id": "zuidplein",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/15fea00d/zuidplein",
     "title": "Flat Zuidplein",
@@ -418,6 +404,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-08-09T14:12:38.652826",
     "last_updated": "2025-08-09T14:12:38.652829"
+  },
+  {
+    "id": "hooidrift",
+    "url": "https://www.pararius.com/studio-for-rent/rotterdam/38c548e7/hooidrift",
+    "title": "Studio Hooidrift 15 D",
+    "price": 920.0,
+    "size": 40,
+    "rooms": 2,
+    "location": "3023 KG Rotterdam (Nieuwe Westen)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/38c548e7-3492-56b1-9cb1-ba62d626e321/a2210e8a66f77bbf74a02f7c44b84a61.jpg?width=600&auto=webp",
+    "agency": "Properbee",
+    "first_seen": "2025-07-21T09:22:20.945604",
+    "last_updated": "2025-07-21T09:22:20.945612"
   },
   {
     "id": "kepplerstraat",
