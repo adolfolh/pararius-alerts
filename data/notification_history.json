@@ -2841,5 +2841,14 @@
     "updated_listing_ids": [
       "westerbaenstraat"
     ]
+  },
+  {
+    "timestamp": "2025-08-12T08:19:05.439681",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "zusterstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
