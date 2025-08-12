@@ -42,20 +42,6 @@
     "last_updated": "2025-07-30T16:18:07.655740"
   },
   {
-    "id": "oostmaaslaan",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/878023a7/oostmaaslaan",
-    "title": "Flat Oostmaaslaan",
-    "price": 787.0,
-    "size": 42,
-    "rooms": 2,
-    "location": "3063 AT Rotterdam (Struisenburg)",
-    "interior": "Furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/878023a7-ac9b-52d7-a1d8-2fe80f935ca6/7b1baaf2ffc7b6157645cc2a0956fc28.jpg?width=600&auto=webp",
-    "agency": "Perfect Rent",
-    "first_seen": "2025-07-29T12:30:12.696743",
-    "last_updated": "2025-07-29T12:30:12.696751"
-  },
-  {
     "id": "poolsestraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/e85f45c5/poolsestraat",
     "title": "Flat Poolsestraat 17 B",
@@ -404,6 +390,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-08-09T14:12:38.652826",
     "last_updated": "2025-08-09T14:12:38.652829"
+  },
+  {
+    "id": "oostmaaslaan",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/878023a7/oostmaaslaan",
+    "title": "Flat Oostmaaslaan",
+    "price": 787.0,
+    "size": 42,
+    "rooms": 2,
+    "location": "3063 AT Rotterdam (Struisenburg)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/878023a7-ac9b-52d7-a1d8-2fe80f935ca6/7b1baaf2ffc7b6157645cc2a0956fc28.jpg?width=600&auto=webp",
+    "agency": "Perfect Rent",
+    "first_seen": "2025-07-29T12:30:12.696743",
+    "last_updated": "2025-07-29T12:30:12.696751"
   },
   {
     "id": "hooidrift",
