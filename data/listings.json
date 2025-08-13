@@ -1,5 +1,19 @@
 [
   {
+    "id": "baroniestraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/8b3b303b/baroniestraat",
+    "title": "Flat Baroniestraat",
+    "price": 993.0,
+    "size": 71,
+    "rooms": 2,
+    "location": "3051 EA Rotterdam (Hillegersberg Zuid)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/8b3b303b-e361-5b5b-87fc-934b2498889e/c682fa7859ed1d5f38fce9497827e6ac.jpg?width=600&auto=webp",
+    "agency": "Rent an Apartment",
+    "first_seen": "2025-08-13T17:10:57.356073",
+    "last_updated": "2025-08-13T17:10:57.356080"
+  },
+  {
     "id": "mathenesserdijk",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/cebfc2f0/mathenesserdijk",
     "title": "Flat Mathenesserdijk",
@@ -82,20 +96,6 @@
     "agency": "realestate.nl",
     "first_seen": "2025-07-25T15:15:01.093345",
     "last_updated": "2025-07-25T15:15:01.093353"
-  },
-  {
-    "id": "sternstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a464ef98/sternstraat",
-    "title": "Flat Sternstraat",
-    "price": 815.0,
-    "size": 45,
-    "rooms": 2,
-    "location": "3083 ZT Rotterdam (Carnisse)",
-    "interior": "Shell",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a464ef98-e6ae-541e-85e9-5813c69eeddd/0b7c480710ca7ce8062605fea38d8422.jpg?width=600&auto=webp",
-    "agency": "Rent an Apartment",
-    "first_seen": "2025-07-25T09:17:55.933722",
-    "last_updated": "2025-07-25T09:17:55.933729"
   },
   {
     "id": "zuidhoek",
@@ -376,6 +376,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-08-09T14:12:38.652826",
     "last_updated": "2025-08-09T14:12:38.652829"
+  },
+  {
+    "id": "sternstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a464ef98/sternstraat",
+    "title": "Flat Sternstraat",
+    "price": 815.0,
+    "size": 45,
+    "rooms": 2,
+    "location": "3083 ZT Rotterdam (Carnisse)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a464ef98-e6ae-541e-85e9-5813c69eeddd/0b7c480710ca7ce8062605fea38d8422.jpg?width=600&auto=webp",
+    "agency": "Rent an Apartment",
+    "first_seen": "2025-07-25T09:17:55.933722",
+    "last_updated": "2025-07-25T09:17:55.933729"
   },
   {
     "id": "haspelsstraat",
