@@ -70,20 +70,6 @@
     "last_updated": "2025-07-25T15:15:01.093353"
   },
   {
-    "id": "haspelsstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/8a059751/haspelsstraat",
-    "title": "Flat Haspelsstraat 15 E",
-    "price": 649.0,
-    "size": 23,
-    "rooms": 2,
-    "location": "3025 PA Rotterdam (Bospolder)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/8a059751-5c22-55f6-9457-239c68e4a05a/87009ec83bd802202d73379506f702c0.jpg?width=600&auto=webp",
-    "agency": "Properbee",
-    "first_seen": "2025-07-25T12:28:12.024651",
-    "last_updated": "2025-07-25T12:28:12.024658"
-  },
-  {
     "id": "sternstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a464ef98/sternstraat",
     "title": "Flat Sternstraat",
@@ -376,6 +362,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-08-09T14:12:38.652826",
     "last_updated": "2025-08-09T14:12:38.652829"
+  },
+  {
+    "id": "haspelsstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/8a059751/haspelsstraat",
+    "title": "Flat Haspelsstraat 15 E",
+    "price": 649.0,
+    "size": 23,
+    "rooms": 2,
+    "location": "3025 PA Rotterdam (Bospolder)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/8a059751-5c22-55f6-9457-239c68e4a05a/87009ec83bd802202d73379506f702c0.jpg?width=600&auto=webp",
+    "agency": "Properbee",
+    "first_seen": "2025-07-25T12:28:12.024651",
+    "last_updated": "2025-07-25T12:28:12.024658"
   },
   {
     "id": "zusterstraat",
@@ -768,20 +768,6 @@
     "agency": "LIV Residential",
     "first_seen": "2025-07-29T10:15:28.193279",
     "last_updated": "2025-07-29T10:15:28.193286"
-  },
-  {
-    "id": "coolhaven",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/0814344f/coolhaven",
-    "title": "Flat Coolhaven",
-    "price": 954.0,
-    "size": 50,
-    "rooms": 2,
-    "location": "3024 AA Rotterdam (Delfshaven)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0814344f-4ebc-5d60-8d3c-9a8ee1567f39/6ead3723fb2f7f14d28028fcc6414490.jpg?width=600&auto=webp",
-    "agency": "Rotterdam Apartments",
-    "first_seen": "2025-07-14T12:28:36.435309",
-    "last_updated": "2025-07-14T12:28:36.435316"
   },
   {
     "id": "noorderhavenkade",
