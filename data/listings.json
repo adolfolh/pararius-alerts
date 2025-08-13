@@ -210,20 +210,6 @@
     "last_updated": "2025-08-12T11:12:22.445649"
   },
   {
-    "id": "zusterstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/32e5d414/zusterstraat",
-    "title": "Flat Zusterstraat",
-    "price": 966.0,
-    "size": 63,
-    "rooms": 2,
-    "location": "2512 TM Den Haag (Schildersbuurt-West)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/32e5d414-7b8c-5516-a78c-f4b95a968aa1/3e3bd482cc6c2aa2bd2bb8a6b13e5ccc.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-08-12T08:19:05.008062",
-    "last_updated": "2025-08-12T08:19:05.008068"
-  },
-  {
     "id": "westerbaenstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/1a181429/westerbaenstraat",
     "title": "Flat Westerbaenstraat",
@@ -390,6 +376,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-08-09T14:12:38.652826",
     "last_updated": "2025-08-09T14:12:38.652829"
+  },
+  {
+    "id": "zusterstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/32e5d414/zusterstraat",
+    "title": "Flat Zusterstraat",
+    "price": 966.0,
+    "size": 63,
+    "rooms": 2,
+    "location": "2512 TM Den Haag (Schildersbuurt-West)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/32e5d414-7b8c-5516-a78c-f4b95a968aa1/3e3bd482cc6c2aa2bd2bb8a6b13e5ccc.jpg?width=600&auto=webp",
+    "agency": "NRW Wonen",
+    "first_seen": "2025-08-12T08:19:05.008062",
+    "last_updated": "2025-08-12T08:19:05.008068"
   },
   {
     "id": "oostmaaslaan",
