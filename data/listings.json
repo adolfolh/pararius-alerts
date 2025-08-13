@@ -1,5 +1,19 @@
 [
   {
+    "id": "mathenesserdijk",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/cebfc2f0/mathenesserdijk",
+    "title": "Flat Mathenesserdijk",
+    "price": 875.0,
+    "size": 59,
+    "rooms": 2,
+    "location": "3026 GA Rotterdam (Tussendijken)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/cebfc2f0-75ac-5bd9-a05a-c5dfbb7f5854/e5cf5ed77289134db740ff90534b04ce.jpg?width=600&auto=webp",
+    "agency": "Rent an Apartment",
+    "first_seen": "2025-08-13T16:14:18.243934",
+    "last_updated": "2025-08-13T16:14:18.243939"
+  },
+  {
     "id": "paradijslaan",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/7d598e46/paradijslaan",
     "title": "Flat Paradijslaan",
