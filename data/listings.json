@@ -182,6 +182,20 @@
     "last_updated": "2025-08-03T03:45:37.425760"
   },
   {
+    "id": "waldorpstraat",
+    "url": "https://www.pararius.com/house-for-rent/den-haag/5ed84964/waldorpstraat",
+    "title": "House Waldorpstraat 1146",
+    "price": 900.0,
+    "size": 23,
+    "rooms": 1,
+    "location": "2521 CX Den Haag (Laakhaven-West)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/5ed84964-872a-51eb-b874-b9257a70bc7a/90e6ccfe8450d88b1754679a5de147cb.jpg?width=600&auto=webp",
+    "agency": "LIV Residential",
+    "first_seen": "2025-08-08T13:34:14.219824",
+    "last_updated": "2025-08-08T13:34:14.219826"
+  },
+  {
     "id": "piet-heinstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/832ba5dd/piet-heinstraat",
     "title": "Flat Piet Heinstraat 21 B",
@@ -222,20 +236,6 @@
     "agency": "Rent Valley",
     "first_seen": "2025-07-23T15:15:41.629365",
     "last_updated": "2025-08-11T11:13:15.504612"
-  },
-  {
-    "id": "waldorpstraat",
-    "url": "https://www.pararius.com/house-for-rent/den-haag/5ed84964/waldorpstraat",
-    "title": "House Waldorpstraat 1146",
-    "price": 900.0,
-    "size": 23,
-    "rooms": 1,
-    "location": "2521 CX Den Haag (Laakhaven-West)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/5ed84964-872a-51eb-b874-b9257a70bc7a/90e6ccfe8450d88b1754679a5de147cb.jpg?width=600&auto=webp",
-    "agency": "LIV Residential",
-    "first_seen": "2025-08-08T13:34:14.219824",
-    "last_updated": "2025-08-08T13:34:14.219826"
   },
   {
     "id": "franklinstraat",
