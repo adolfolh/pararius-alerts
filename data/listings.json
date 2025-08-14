@@ -1,19 +1,5 @@
 [
   {
-    "id": "zweedsestraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/9813da99/zweedsestraat",
-    "title": "Flat Zweedsestraat",
-    "price": 1010.0,
-    "size": 77,
-    "rooms": 3,
-    "location": "3028 TN Rotterdam (Oud Mathenesse)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9813da99-a7e5-5d8d-aa08-ecbc34aff814/c433a80e165d8c4f3f38455bdbc9967a.jpg?width=600&auto=webp",
-    "agency": "Pactum Vastgoed",
-    "first_seen": "2025-08-14T13:31:11.889930",
-    "last_updated": "2025-08-14T13:31:11.889938"
-  },
-  {
     "id": "groen-van-prinstererstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/48a84070/groen-van-prinstererstraat",
     "title": "Flat Groen van Prinstererstraat 35 B-02",
@@ -418,6 +404,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-08-09T14:12:38.652826",
     "last_updated": "2025-08-09T14:12:38.652829"
+  },
+  {
+    "id": "zweedsestraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/9813da99/zweedsestraat",
+    "title": "Flat Zweedsestraat",
+    "price": 1010.0,
+    "size": 77,
+    "rooms": 3,
+    "location": "3028 TN Rotterdam (Oud Mathenesse)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9813da99-a7e5-5d8d-aa08-ecbc34aff814/c433a80e165d8c4f3f38455bdbc9967a.jpg?width=600&auto=webp",
+    "agency": "Pactum Vastgoed",
+    "first_seen": "2025-08-14T13:31:11.889930",
+    "last_updated": "2025-08-14T13:31:11.889938"
   },
   {
     "id": "goereesestraat",
