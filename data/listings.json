@@ -1,5 +1,47 @@
 [
   {
+    "id": "zweedsestraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/9813da99/zweedsestraat",
+    "title": "Flat Zweedsestraat",
+    "price": 1010.0,
+    "size": 77,
+    "rooms": 3,
+    "location": "3028 TN Rotterdam (Oud Mathenesse)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9813da99-a7e5-5d8d-aa08-ecbc34aff814/c433a80e165d8c4f3f38455bdbc9967a.jpg?width=600&auto=webp",
+    "agency": "Pactum Vastgoed",
+    "first_seen": "2025-08-14T13:31:11.889930",
+    "last_updated": "2025-08-14T13:31:11.889938"
+  },
+  {
+    "id": "groen-van-prinstererstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/48a84070/groen-van-prinstererstraat",
+    "title": "Flat Groen van Prinstererstraat 35 B-02",
+    "price": 979.0,
+    "size": 97,
+    "rooms": 3,
+    "location": "3038 RB Rotterdam (Bergpolder)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/48a84070-cb2b-5cf7-b14e-59f5b031985f/0f969179280f8f607f01ee5209d5347d.png?width=600&auto=webp",
+    "agency": "LIV Residential",
+    "first_seen": "2025-08-14T13:31:11.891509",
+    "last_updated": "2025-08-14T13:31:11.891513"
+  },
+  {
+    "id": "tapuitstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/89b7fc3c/tapuitstraat",
+    "title": "Flat Tapuitstraat",
+    "price": 818.0,
+    "size": 57,
+    "rooms": 5,
+    "location": "3083 WC Rotterdam (Carnisse)",
+    "interior": "Unknown",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/89b7fc3c-aafd-5579-8f2b-af83373f6b3e/d9405f3e253336c4170d7f7471c6b5d8.jpg?width=600&auto=webp",
+    "agency": "Rental Rotterdam",
+    "first_seen": "2025-08-14T13:31:11.893134",
+    "last_updated": "2025-08-14T13:31:11.893148"
+  },
+  {
     "id": "baroniestraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/8b3b303b/baroniestraat",
     "title": "Flat Baroniestraat",

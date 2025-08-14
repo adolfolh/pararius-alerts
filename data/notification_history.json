@@ -2895,5 +2895,16 @@
       "willem-van-outhoornstraat"
     ],
     "updated_listing_ids": []
+  },
+  {
+    "timestamp": "2025-08-14T13:31:18.307107",
+    "new_listings_count": 3,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "zweedsestraat",
+      "groen-van-prinstererstraat",
+      "tapuitstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
