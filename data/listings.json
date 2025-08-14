@@ -112,20 +112,6 @@
     "last_updated": "2025-07-22T19:13:15.800959"
   },
   {
-    "id": "goereesestraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/111e1df8/goereesestraat",
-    "title": "Flat Goereesestraat",
-    "price": 995.0,
-    "size": 56,
-    "rooms": 3,
-    "location": "3083 DM Rotterdam (Carnisse)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/111e1df8-ef10-5325-93c8-0b62bd1becb0/813326fae915ab48a93304525848228c.jpg?width=600&auto=webp",
-    "agency": "Rental Rotterdam",
-    "first_seen": "2025-07-22T14:16:14.040475",
-    "last_updated": "2025-07-22T14:16:14.040483"
-  },
-  {
     "id": "habsburgstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/54e8b0b4/habsburgstraat",
     "title": "Flat Habsburgstraat 13 A",
@@ -180,6 +166,20 @@
     "agency": "HouseHunting Randstad",
     "first_seen": "2025-08-03T03:45:37.425757",
     "last_updated": "2025-08-03T03:45:37.425760"
+  },
+  {
+    "id": "willem-van-outhoornstraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/e3de5aec/willem-van-outhoornstraat",
+    "title": "Flat Willem van Outhoornstraat 109",
+    "price": 983.0,
+    "size": 90,
+    "rooms": 3,
+    "location": "2593 ZW Den Haag (Bezuidenhout-Oost)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e3de5aec-27f6-55b8-a819-a568281e7dfb/dc0c172364ff5529d48aeeaa3e3647b0.jpg?width=600&auto=webp",
+    "agency": "Expat & Real Estate B.V.",
+    "first_seen": "2025-08-14T12:28:50.840041",
+    "last_updated": "2025-08-14T12:28:50.840047"
   },
   {
     "id": "waldorpstraat",
@@ -378,6 +378,20 @@
     "last_updated": "2025-08-09T14:12:38.652829"
   },
   {
+    "id": "goereesestraat",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/111e1df8/goereesestraat",
+    "title": "Flat Goereesestraat",
+    "price": 995.0,
+    "size": 56,
+    "rooms": 3,
+    "location": "3083 DM Rotterdam (Carnisse)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/111e1df8-ef10-5325-93c8-0b62bd1becb0/813326fae915ab48a93304525848228c.jpg?width=600&auto=webp",
+    "agency": "Rental Rotterdam",
+    "first_seen": "2025-07-22T14:16:14.040475",
+    "last_updated": "2025-07-22T14:16:14.040483"
+  },
+  {
     "id": "sternstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/a464ef98/sternstraat",
     "title": "Flat Sternstraat",
@@ -572,20 +586,6 @@
     "agency": "NRW Wonen",
     "first_seen": "2025-07-16T11:12:40.581371",
     "last_updated": "2025-07-16T11:12:40.581379"
-  },
-  {
-    "id": "bredestraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/448ba2f9/bredestraat",
-    "title": "Flat Bredestraat",
-    "price": 950.0,
-    "size": 50,
-    "rooms": 3,
-    "location": "3011 RB Rotterdam (Stadsdriehoek)",
-    "interior": "Upholstered or furnished",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/448ba2f9-8505-51bb-97e8-f1476d3a641c/8afab4604b5559d6850302bd3b3d0d63.jpg?width=600&auto=webp",
-    "agency": "Rental Rotterdam",
-    "first_seen": "2025-07-15T12:28:44.253311",
-    "last_updated": "2025-07-15T12:28:44.253321"
   },
   {
     "id": "schieweg",

@@ -2886,5 +2886,14 @@
     "updated_listing_ids": [
       "mijnsherenlaan"
     ]
+  },
+  {
+    "timestamp": "2025-08-14T12:28:51.324679",
+    "new_listings_count": 1,
+    "updated_listings_count": 0,
+    "new_listing_ids": [
+      "willem-van-outhoornstraat"
+    ],
+    "updated_listing_ids": []
   }
 ]
