@@ -196,6 +196,20 @@
     "last_updated": "2025-08-03T03:45:37.425760"
   },
   {
+    "id": "veenkade",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/6edb471f/veenkade",
+    "title": "Flat Veenkade",
+    "price": 725.0,
+    "size": 35,
+    "rooms": 2,
+    "location": "2513 EJ Den Haag (Zeeheldenkwartier)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6edb471f-17d4-51d3-a1ff-cc4ab393bdcb/82fe3abf31cea9f2ff7a702620c4541c.jpg?width=600&auto=webp",
+    "agency": "Immovita",
+    "first_seen": "2025-08-15T12:26:48.503169",
+    "last_updated": "2025-08-15T12:26:48.503176"
+  },
+  {
     "id": "willem-van-outhoornstraat",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/e3de5aec/willem-van-outhoornstraat",
     "title": "Flat Willem van Outhoornstraat 109",
@@ -614,20 +628,6 @@
     "agency": "Rent an Apartment",
     "first_seen": "2025-07-22T16:17:57.670808",
     "last_updated": "2025-07-22T16:17:57.670815"
-  },
-  {
-    "id": "trompstraat",
-    "url": "https://www.pararius.com/studio-for-rent/den-haag/8030c489/trompstraat",
-    "title": "Studio Trompstraat",
-    "price": 897.0,
-    "size": 26,
-    "rooms": 1,
-    "location": "2518 BL Den Haag (Zeeheldenkwartier)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/8030c489-713a-579a-b32d-3832e4491aac/4cc974f0e6d58fe04accd33b83f110af.jpg?width=600&auto=webp",
-    "agency": "NRW Wonen",
-    "first_seen": "2025-07-16T11:12:40.581371",
-    "last_updated": "2025-07-16T11:12:40.581379"
   },
   {
     "id": "schieweg",
