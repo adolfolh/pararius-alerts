@@ -1,5 +1,47 @@
 [
   {
+    "id": "lepelaarsingel",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/3d959dea/lepelaarsingel",
+    "title": "Flat Lepelaarsingel",
+    "price": 530.0,
+    "size": 12,
+    "rooms": 1,
+    "location": "3083 KP Rotterdam (Carnisse)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/3d959dea-2fb2-56d3-99e5-fd9fbaef7b69/93c658796642ba2b0d952bafd9f65bc9.jpg?width=600&auto=webp",
+    "agency": "Rotterdam Apartments",
+    "first_seen": "2025-08-15T13:26:09.985287",
+    "last_updated": "2025-08-15T13:26:09.985293"
+  },
+  {
+    "id": "lepelaarsingel",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/0a9a9a95/lepelaarsingel",
+    "title": "Flat Lepelaarsingel",
+    "price": 567.0,
+    "size": 17,
+    "rooms": 1,
+    "location": "3083 KP Rotterdam (Carnisse)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0a9a9a95-50ca-5598-b021-5e2c48e76364/2ea1e6764baf8be2ddd84cba6b5b305a.jpg?width=600&auto=webp",
+    "agency": "Rotterdam Apartments",
+    "first_seen": "2025-08-15T13:26:09.986794",
+    "last_updated": "2025-08-15T13:26:09.986797"
+  },
+  {
+    "id": "lepelaarsingel",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/fd8767f2/lepelaarsingel",
+    "title": "Flat Lepelaarsingel",
+    "price": 449.0,
+    "size": 7,
+    "rooms": 1,
+    "location": "3083 KP Rotterdam (Carnisse)",
+    "interior": "Furnished",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/fd8767f2-89aa-57de-bee6-b121179a1d57/cba609d70c8eff35f31844b6520fe099.jpg?width=600&auto=webp",
+    "agency": "Rotterdam Apartments",
+    "first_seen": "2025-08-15T13:26:09.988370",
+    "last_updated": "2025-08-15T13:26:09.988373"
+  },
+  {
     "id": "groen-van-prinstererstraat",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/48a84070/groen-van-prinstererstraat",
     "title": "Flat Groen van Prinstererstraat 35 B-02",
@@ -10,8 +52,8 @@
     "interior": "Unknown",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/48a84070-cb2b-5cf7-b14e-59f5b031985f/0f969179280f8f607f01ee5209d5347d.png?width=600&auto=webp",
     "agency": "LIV Residential",
-    "first_seen": "2025-08-15T12:26:42.620139",
-    "last_updated": "2025-08-15T12:26:42.620145"
+    "first_seen": "2025-08-15T13:26:09.989818",
+    "last_updated": "2025-08-15T13:26:09.989820"
   },
   {
     "id": "tapuitstraat",
@@ -24,8 +66,8 @@
     "interior": "Unknown",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/89b7fc3c-aafd-5579-8f2b-af83373f6b3e/d9405f3e253336c4170d7f7471c6b5d8.jpg?width=600&auto=webp",
     "agency": "Rental Rotterdam",
-    "first_seen": "2025-08-15T12:26:42.621657",
-    "last_updated": "2025-08-15T12:26:42.621660"
+    "first_seen": "2025-08-15T13:26:09.991266",
+    "last_updated": "2025-08-15T13:26:09.991268"
   },
   {
     "id": "baroniestraat",
@@ -38,8 +80,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/8b3b303b-e361-5b5b-87fc-934b2498889e/c682fa7859ed1d5f38fce9497827e6ac.jpg?width=600&auto=webp",
     "agency": "Rent an Apartment",
-    "first_seen": "2025-08-15T12:26:42.623206",
-    "last_updated": "2025-08-15T12:26:42.623209"
+    "first_seen": "2025-08-15T13:26:09.992714",
+    "last_updated": "2025-08-15T13:26:09.992716"
   },
   {
     "id": "mathenesserdijk",
@@ -52,8 +94,8 @@
     "interior": "Unknown",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/cebfc2f0-75ac-5bd9-a05a-c5dfbb7f5854/e5cf5ed77289134db740ff90534b04ce.jpg?width=600&auto=webp",
     "agency": "Rent an Apartment",
-    "first_seen": "2025-08-15T12:26:42.624708",
-    "last_updated": "2025-08-15T12:26:42.624710"
+    "first_seen": "2025-08-15T13:26:09.994179",
+    "last_updated": "2025-08-15T13:26:09.994181"
   },
   {
     "id": "paradijslaan",
@@ -66,8 +108,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/7d598e46-42e2-566d-88c6-cb0ba4fdd021/44b58716ce5c56bfa4df64d3dee28ee3.jpg?width=600&auto=webp",
     "agency": "VERRA Makelaars Rotterdam",
-    "first_seen": "2025-08-15T12:26:42.626194",
-    "last_updated": "2025-08-15T12:26:42.626196"
+    "first_seen": "2025-08-15T13:26:09.995613",
+    "last_updated": "2025-08-15T13:26:09.995616"
   },
   {
     "id": "mijnsherenlaan",
@@ -80,8 +122,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/b039dc5a-3f5a-5e9a-8ec5-2a116159abdf/52b9b7f277ef1a5cbe00ae385be8f770.jpg?width=600&auto=webp",
     "agency": "City Limit Vastgoedbeheer",
-    "first_seen": "2025-08-15T12:26:42.627694",
-    "last_updated": "2025-08-15T12:26:42.627696"
+    "first_seen": "2025-08-15T13:26:09.997059",
+    "last_updated": "2025-08-15T13:26:09.997061"
   },
   {
     "id": "s-gravendijkwal",
@@ -94,22 +136,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/a3035523-f652-580e-ad04-3598fbe8e659/26294f9de65f91fa55f956399b7fd358.jpg?width=600&auto=webp",
     "agency": "Woonzeker Rentals",
-    "first_seen": "2025-08-15T12:26:42.629184",
-    "last_updated": "2025-08-15T12:26:42.629186"
-  },
-  {
-    "id": "poolsestraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/e85f45c5/poolsestraat",
-    "title": "Flat Poolsestraat 17 B",
-    "price": 715.0,
-    "size": 50,
-    "rooms": 2,
-    "location": "3028 EM Rotterdam (Oud Mathenesse)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e85f45c5-1c39-5017-940b-e124f5a3bf5d/6c263ceea6ccb191b06308eec82e3392.jpg?width=600&auto=webp",
-    "agency": "Kolpa V.V.S. Beheer",
-    "first_seen": "2025-08-15T12:26:42.630683",
-    "last_updated": "2025-08-15T12:26:42.630685"
+    "first_seen": "2025-08-15T13:26:09.998499",
+    "last_updated": "2025-08-15T13:26:09.998501"
   },
   {
     "id": "strevelsweg",
@@ -122,8 +150,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/180bffbc-6978-5b93-8165-78c004346662/dbe7e62caffe6d56494ecb9f9984d03c.jpg?width=600&auto=webp",
     "agency": "realestate.nl",
-    "first_seen": "2025-08-15T12:26:42.632166",
-    "last_updated": "2025-08-15T12:26:42.632168"
+    "first_seen": "2025-08-15T13:26:09.999943",
+    "last_updated": "2025-08-15T13:26:09.999945"
   },
   {
     "id": "zuidhoek",
@@ -136,8 +164,8 @@
     "interior": "Unknown",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/326a4e34-4934-5cae-9e79-c0a150b22bb3/16917f33ceb7151068cd3880b075ca8e.jpg?width=600&auto=webp",
     "agency": "Rent an Apartment",
-    "first_seen": "2025-08-15T12:26:42.633661",
-    "last_updated": "2025-08-15T12:26:42.633664"
+    "first_seen": "2025-08-15T13:26:10.001361",
+    "last_updated": "2025-08-15T13:26:10.001363"
   },
   {
     "id": "habsburgstraat",
@@ -150,8 +178,8 @@
     "interior": "Unknown",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/54e8b0b4-2a55-5151-9862-67ce588ea126/cc0c37796b44d5c4caefac62aba761ee.jpg?width=600&auto=webp",
     "agency": "LIV Residential",
-    "first_seen": "2025-08-15T12:26:42.635145",
-    "last_updated": "2025-08-15T12:26:42.635148"
+    "first_seen": "2025-08-15T13:26:10.002805",
+    "last_updated": "2025-08-15T13:26:10.002807"
   },
   {
     "id": "zuidplein",
@@ -164,8 +192,8 @@
     "interior": "Unknown",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/15fea00d-896f-5cf0-b901-925a07b4b8df/3f693c9ed1036b65ade687e5944ff314.jpg?width=600&auto=webp",
     "agency": "D&S Vastgoed",
-    "first_seen": "2025-08-15T12:26:42.636632",
-    "last_updated": "2025-08-15T12:26:42.636635"
+    "first_seen": "2025-08-15T13:26:10.004252",
+    "last_updated": "2025-08-15T13:26:10.004254"
   },
   {
     "id": "vijverhofstraat",
@@ -178,8 +206,8 @@
     "interior": "Furnished",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/a58c5ff9-e133-5581-bf9c-8c29d37c59ff/e88aeb6d9d43baaac6a8b69f50316559.jpg?width=600&auto=webp",
     "agency": "HouseHunting Randstad",
-    "first_seen": "2025-08-15T12:26:42.638109",
-    "last_updated": "2025-08-15T12:26:42.638112"
+    "first_seen": "2025-08-15T13:26:10.005688",
+    "last_updated": "2025-08-15T13:26:10.005690"
   },
   {
     "id": "zegwaardstraat",
@@ -192,8 +220,8 @@
     "interior": "Furnished",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/a9c33130-1763-579c-8ca1-6af9b4483452/215e258e75e47253bad4e9a99d093ad5.jpg?width=600&auto=webp",
     "agency": "HouseHunting Randstad",
-    "first_seen": "2025-08-15T12:26:42.639594",
-    "last_updated": "2025-08-15T12:26:42.639597"
+    "first_seen": "2025-08-15T13:26:10.007136",
+    "last_updated": "2025-08-15T13:26:10.007139"
   },
   {
     "id": "veenkade",
@@ -206,8 +234,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/6edb471f-17d4-51d3-a1ff-cc4ab393bdcb/82fe3abf31cea9f2ff7a702620c4541c.jpg?width=600&auto=webp",
     "agency": "Immovita",
-    "first_seen": "2025-08-15T12:26:48.503169",
-    "last_updated": "2025-08-15T12:26:48.503176"
+    "first_seen": "2025-08-15T13:26:16.023441",
+    "last_updated": "2025-08-15T13:26:16.023448"
   },
   {
     "id": "willem-van-outhoornstraat",
@@ -220,8 +248,8 @@
     "interior": "Furnished",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/e3de5aec-27f6-55b8-a819-a568281e7dfb/dc0c172364ff5529d48aeeaa3e3647b0.jpg?width=600&auto=webp",
     "agency": "Expat & Real Estate B.V.",
-    "first_seen": "2025-08-15T12:26:48.504595",
-    "last_updated": "2025-08-15T12:26:48.504598"
+    "first_seen": "2025-08-15T13:26:16.024822",
+    "last_updated": "2025-08-15T13:26:16.024824"
   },
   {
     "id": "waldorpstraat",
@@ -234,8 +262,8 @@
     "interior": "Unknown",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/d7896dab-7166-5380-abe1-5a420b2f94a9/90e6ccfe8450d88b1754679a5de147cb.jpg?width=600&auto=webp",
     "agency": "LIV Residential",
-    "first_seen": "2025-08-15T12:26:48.506070",
-    "last_updated": "2025-08-15T12:26:48.506073"
+    "first_seen": "2025-08-15T13:26:16.026266",
+    "last_updated": "2025-08-15T13:26:16.026270"
   },
   {
     "id": "piet-heinstraat",
@@ -248,8 +276,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/832ba5dd-d1d5-5aa7-9da4-ea495fb4947b/9ffa9a8da6f3857e2eb69dc346fb1e42.jpg?width=600&auto=webp",
     "agency": "Woonzeker Rentals",
-    "first_seen": "2025-08-15T12:26:48.507564",
-    "last_updated": "2025-08-15T12:26:48.507566"
+    "first_seen": "2025-08-15T13:26:16.027708",
+    "last_updated": "2025-08-15T13:26:16.027711"
   },
   {
     "id": "westerbaenstraat",
@@ -262,8 +290,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/d9927822-dc57-5867-8538-dd9287d9b449/12ef4289601ec16070f162311c6e9037.jpg?width=600&auto=webp",
     "agency": "Rent Valley",
-    "first_seen": "2025-08-15T12:26:48.509132",
-    "last_updated": "2025-08-15T12:26:48.509134"
+    "first_seen": "2025-08-15T13:26:16.029246",
+    "last_updated": "2025-08-15T13:26:16.029248"
   },
   {
     "id": "westerbaenstraat",
@@ -276,8 +304,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/1a181429-6420-5f16-b2a6-a6acd1eb2bb9/1eb02e4e2c1e3be55927fdfd0b05c40a.jpg?width=600&auto=webp",
     "agency": "Rent Valley",
-    "first_seen": "2025-08-15T12:26:48.510712",
-    "last_updated": "2025-08-15T12:26:48.510714"
+    "first_seen": "2025-08-15T13:26:16.030803",
+    "last_updated": "2025-08-15T13:26:16.030806"
   },
   {
     "id": "waldorpstraat",
@@ -290,8 +318,8 @@
     "interior": "Unknown",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/5d6a59f2-52b2-5aaa-a41b-741e968ef397/42b24e9f4d6b43f7b9983fd11f33adf3.jpg?width=600&auto=webp",
     "agency": "LIV Residential",
-    "first_seen": "2025-08-15T12:26:48.512192",
-    "last_updated": "2025-08-15T12:26:48.512195"
+    "first_seen": "2025-08-15T13:26:16.032252",
+    "last_updated": "2025-08-15T13:26:16.032254"
   },
   {
     "id": "waldorpstraat",
@@ -304,8 +332,8 @@
     "interior": "Unknown",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/16bccd96-a75f-514f-9438-6f5cd8363850/90e6ccfe8450d88b1754679a5de147cb.jpg?width=600&auto=webp",
     "agency": "LIV Residential",
-    "first_seen": "2025-08-15T12:26:48.513682",
-    "last_updated": "2025-08-15T12:26:48.513685"
+    "first_seen": "2025-08-15T13:26:16.033710",
+    "last_updated": "2025-08-15T13:26:16.033712"
   },
   {
     "id": "waldorpstraat",
@@ -318,8 +346,8 @@
     "interior": "Unknown",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/b722130d-be54-51e0-9f44-041e70a8798e/90e6ccfe8450d88b1754679a5de147cb.jpg?width=600&auto=webp",
     "agency": "LIV Residential",
-    "first_seen": "2025-08-15T12:26:48.515249",
-    "last_updated": "2025-08-15T12:26:48.515251"
+    "first_seen": "2025-08-15T13:26:16.035249",
+    "last_updated": "2025-08-15T13:26:16.035251"
   },
   {
     "id": "waldorpstraat",
@@ -332,8 +360,8 @@
     "interior": "Unknown",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/4016574a-9c67-52b6-8b16-6903398dacaf/90e6ccfe8450d88b1754679a5de147cb.jpg?width=600&auto=webp",
     "agency": "LIV Residential",
-    "first_seen": "2025-08-15T12:26:48.516906",
-    "last_updated": "2025-08-15T12:26:48.516910"
+    "first_seen": "2025-08-15T13:26:16.036774",
+    "last_updated": "2025-08-15T13:26:16.036776"
   },
   {
     "id": "waldorpstraat",
@@ -346,8 +374,8 @@
     "interior": "Unknown",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/1dffc272-0643-5487-a15f-916665762eb7/14bb9743720ae2b7d574c23c885faa1c.jpg?width=600&auto=webp",
     "agency": "LIV Residential",
-    "first_seen": "2025-08-15T12:26:48.518443",
-    "last_updated": "2025-08-15T12:26:48.518446"
+    "first_seen": "2025-08-15T13:26:16.038238",
+    "last_updated": "2025-08-15T13:26:16.038240"
   },
   {
     "id": "waldorpstraat",
@@ -360,8 +388,8 @@
     "interior": "Unknown",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/9c37f890-dff8-5835-94e2-542e57de6acb/90e6ccfe8450d88b1754679a5de147cb.jpg?width=600&auto=webp",
     "agency": "LIV Residential",
-    "first_seen": "2025-08-15T12:26:48.520018",
-    "last_updated": "2025-08-15T12:26:48.520020"
+    "first_seen": "2025-08-15T13:26:16.039770",
+    "last_updated": "2025-08-15T13:26:16.039773"
   },
   {
     "id": "waldorpstraat",
@@ -374,8 +402,8 @@
     "interior": "Unknown",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/90234f2b-1fd4-59f0-ad8c-0b3f03997aa8/90e6ccfe8450d88b1754679a5de147cb.jpg?width=600&auto=webp",
     "agency": "LIV Residential",
-    "first_seen": "2025-08-15T12:26:48.521513",
-    "last_updated": "2025-08-15T12:26:48.521516"
+    "first_seen": "2025-08-15T13:26:16.041215",
+    "last_updated": "2025-08-15T13:26:16.041217"
   },
   {
     "id": "waldorpstraat",
@@ -388,8 +416,8 @@
     "interior": "Unknown",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/d0d0a683-1706-5d07-8eb9-ebc257e8c3ec/90e6ccfe8450d88b1754679a5de147cb.jpg?width=600&auto=webp",
     "agency": "LIV Residential",
-    "first_seen": "2025-08-15T12:26:48.522992",
-    "last_updated": "2025-08-15T12:26:48.522995"
+    "first_seen": "2025-08-15T13:26:16.042667",
+    "last_updated": "2025-08-15T13:26:16.042669"
   },
   {
     "id": "waldorpstraat",
@@ -402,8 +430,8 @@
     "interior": "Unknown",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/5ed84964-872a-51eb-b874-b9257a70bc7a/90e6ccfe8450d88b1754679a5de147cb.jpg?width=600&auto=webp",
     "agency": "LIV Residential",
-    "first_seen": "2025-08-15T12:26:48.524479",
-    "last_updated": "2025-08-15T12:26:48.524481"
+    "first_seen": "2025-08-15T13:26:16.044123",
+    "last_updated": "2025-08-15T13:26:16.044125"
   },
   {
     "id": "franklinstraat",
@@ -416,8 +444,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/7bd17110-1f67-5854-8d59-df9799e7ffc3/bfc7b2159aca870f5bd9c287bb415ec5.jpg?width=600&auto=webp",
     "agency": "Woonzeker Rentals",
-    "first_seen": "2025-08-15T12:26:48.525964",
-    "last_updated": "2025-08-15T12:26:48.525966"
+    "first_seen": "2025-08-15T13:26:16.045560",
+    "last_updated": "2025-08-15T13:26:16.045562"
   },
   {
     "id": "granaathorst",
@@ -430,8 +458,8 @@
     "interior": "Unknown",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/0d0fc631-d78a-5f1a-88d5-6fe754b91064/973fb88fa59e227c315a1e8dddfb14cd.jpg?width=600&auto=webp",
     "agency": "Nationaal Grondbezit",
-    "first_seen": "2025-08-15T12:26:48.527466",
-    "last_updated": "2025-08-15T12:26:48.527468"
+    "first_seen": "2025-08-15T13:26:16.047017",
+    "last_updated": "2025-08-15T13:26:16.047019"
   },
   {
     "id": "valkenboslaan",
@@ -444,8 +472,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/7b8d619b-8758-51ec-abd6-5a8b235b5190/7d838dcbf9552f9966dfd715760e55a8.jpg?width=600&auto=webp",
     "agency": "Woonzeker Rentals",
-    "first_seen": "2025-08-15T12:26:48.528950",
-    "last_updated": "2025-08-15T12:26:48.528952"
+    "first_seen": "2025-08-15T13:26:16.048455",
+    "last_updated": "2025-08-15T13:26:16.048457"
   },
   {
     "id": "klimopstraat",
@@ -458,8 +486,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/ccbca7c7-ff52-5ee8-bc15-1590c75712b9/42bae62a52fa19efc6c8d9faa433eae6.jpg?width=600&auto=webp",
     "agency": "Woonzeker Rentals",
-    "first_seen": "2025-08-15T12:26:48.530442",
-    "last_updated": "2025-08-15T12:26:48.530445"
+    "first_seen": "2025-08-15T13:26:16.049910",
+    "last_updated": "2025-08-15T13:26:16.049912"
   },
   {
     "id": "regentesselaan",
@@ -472,8 +500,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/3a79180c-6b38-5229-88df-e85cdd1a70da/fd66c369ad7812d1f073524bed718e0e.jpg?width=600&auto=webp",
     "agency": "Woonzeker Rentals",
-    "first_seen": "2025-08-15T12:26:48.531922",
-    "last_updated": "2025-08-15T12:26:48.531925"
+    "first_seen": "2025-08-15T13:26:16.051345",
+    "last_updated": "2025-08-15T13:26:16.051348"
   },
   {
     "id": "zwarteweg",
@@ -486,8 +514,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/68d1e86d-9893-5bc3-8c45-467707334e5b/cc76e800a3a2f2e7fddd71174da07bd3.jpg?width=600&auto=webp",
     "agency": "Woonzeker Rentals",
-    "first_seen": "2025-08-15T12:26:48.533423",
-    "last_updated": "2025-08-15T12:26:48.533425"
+    "first_seen": "2025-08-15T13:26:16.052788",
+    "last_updated": "2025-08-15T13:26:16.052791"
   },
   {
     "id": "1e-van-der-kunstraat",
@@ -500,8 +528,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/645d2e91-7972-5efd-b900-3ecdd76f160e/0c53148817d29a74ca1d187dcefc016b.jpg?width=600&auto=webp",
     "agency": "Rent Valley",
-    "first_seen": "2025-08-15T12:26:48.535006",
-    "last_updated": "2025-08-15T12:26:48.535008"
+    "first_seen": "2025-08-15T13:26:16.054328",
+    "last_updated": "2025-08-15T13:26:16.054330"
   },
   {
     "id": "van-lansbergestraat",
@@ -514,8 +542,8 @@
     "interior": "Upholstered",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/02b6de08-6e22-54cb-ba6c-7280ba993600/245326ea2e8a486799478031d3afa29f.jpg?width=600&auto=webp",
     "agency": "Immovita",
-    "first_seen": "2025-08-15T12:26:48.536640",
-    "last_updated": "2025-08-15T12:26:48.536642"
+    "first_seen": "2025-08-15T13:26:16.055893",
+    "last_updated": "2025-08-15T13:26:16.055896"
   },
   {
     "id": "schrijnwerkersgaarde",
@@ -528,8 +556,8 @@
     "interior": "Shell",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/ef4a2134-9fa0-50ce-8d6a-358a280de4d1/ed913942555d73faa90fac879d934674.jpg?width=600&auto=webp",
     "agency": "Livable",
-    "first_seen": "2025-08-15T12:26:48.538145",
-    "last_updated": "2025-08-15T12:26:48.538148"
+    "first_seen": "2025-08-15T13:26:16.057320",
+    "last_updated": "2025-08-15T13:26:16.057322"
   },
   {
     "id": "mosveen",
@@ -542,7 +570,7 @@
     "interior": "Shell",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/407cb0e1-2763-5ae3-a66e-09c62c30c2e0/7c50ec58e785db74be6bfd92b76d47fa.jpg?width=600&auto=webp",
     "agency": "Ad Hoc Den Haag",
-    "first_seen": "2025-08-15T12:26:48.539643",
-    "last_updated": "2025-08-15T12:26:48.539646"
+    "first_seen": "2025-08-15T13:26:16.058773",
+    "last_updated": "2025-08-15T13:26:16.058775"
   }
 ]
