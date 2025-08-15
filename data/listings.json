@@ -378,20 +378,6 @@
     "last_updated": "2025-08-08T11:12:47.958547"
   },
   {
-    "id": "arnhemsestraat",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/ffb1f2a2/arnhemsestraat",
-    "title": "Flat Arnhemsestraat",
-    "price": 595.0,
-    "size": 15,
-    "rooms": 1,
-    "location": "2587 ST Den Haag (Belgisch Park)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ffb1f2a2-099f-5c44-ae07-e05764b1de3f/d041dbb4b358d5f6a3771735ad906610.jpg?width=600&auto=webp",
-    "agency": "Immovita",
-    "first_seen": "2025-07-27T12:26:42.513443",
-    "last_updated": "2025-07-27T12:26:42.513446"
-  },
-  {
     "id": "mosveen",
     "url": "https://www.pararius.com/apartment-for-rent/den-haag/407cb0e1/mosveen",
     "title": "Flat Mosveen",
@@ -404,6 +390,20 @@
     "agency": "Ad Hoc Den Haag",
     "first_seen": "2025-08-09T14:12:38.652826",
     "last_updated": "2025-08-09T14:12:38.652829"
+  },
+  {
+    "id": "arnhemsestraat",
+    "url": "https://www.pararius.com/apartment-for-rent/den-haag/ffb1f2a2/arnhemsestraat",
+    "title": "Flat Arnhemsestraat",
+    "price": 595.0,
+    "size": 15,
+    "rooms": 1,
+    "location": "2587 ST Den Haag (Belgisch Park)",
+    "interior": "Upholstered",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ffb1f2a2-099f-5c44-ae07-e05764b1de3f/d041dbb4b358d5f6a3771735ad906610.jpg?width=600&auto=webp",
+    "agency": "Immovita",
+    "first_seen": "2025-07-27T12:26:42.513443",
+    "last_updated": "2025-07-27T12:26:42.513446"
   },
   {
     "id": "zweedsestraat",
@@ -712,20 +712,6 @@
     "agency": "HAYMAN Rentals",
     "first_seen": "2025-08-05T13:36:57.929912",
     "last_updated": "2025-08-05T13:36:57.929914"
-  },
-  {
-    "id": "van-malsenstraat",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/462140fd/van-malsenstraat",
-    "title": "Flat Van Malsenstraat 18 A",
-    "price": 853.0,
-    "size": 22,
-    "rooms": 2,
-    "location": "3074 PV Rotterdam (Hillesluis)",
-    "interior": "Unknown",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/462140fd-0ca8-568e-9695-5ce237080ff8/985adf3bd6da315d0aa448d19aad9fc1.jpg?width=600&auto=webp",
-    "agency": "D&S Vastgoed",
-    "first_seen": "2025-07-16T09:18:57.135587",
-    "last_updated": "2025-08-04T16:19:46.428522"
   },
   {
     "id": "bollandstraat",
