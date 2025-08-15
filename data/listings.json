@@ -1,5 +1,19 @@
 [
   {
+    "id": "hoekersingel",
+    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/9450b78e/hoekersingel",
+    "title": "Flat Hoekersingel 57",
+    "price": 821.0,
+    "size": 65,
+    "rooms": 3,
+    "location": "3028 XL Rotterdam (Oud Mathenesse)",
+    "interior": "Shell",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9450b78e-cad1-52be-a91a-df3b2eb6c0a8/4a0f692347328983739b6cfa1d31a793.jpg?width=600&auto=webp",
+    "agency": "Kolpa V.V.S. Beheer",
+    "first_seen": "2025-08-15T15:13:50.935937",
+    "last_updated": "2025-08-15T15:13:50.935943"
+  },
+  {
     "id": "lepelaarsingel",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/fd8767f2/lepelaarsingel",
     "title": "Flat Lepelaarsingel",
