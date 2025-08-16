@@ -812,20 +812,6 @@
     "last_updated": "2025-07-29T10:15:28.193286"
   },
   {
-    "id": "noorderhavenkade",
-    "url": "https://www.pararius.com/apartment-for-rent/rotterdam/4683ed08/noorderhavenkade",
-    "title": "Flat Noorderhavenkade 61 B",
-    "price": 911.0,
-    "size": 50,
-    "rooms": 2,
-    "location": "3039 RH Rotterdam (Blijdorp)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4683ed08-9ce7-574c-a1cc-bd72a896608e/b94269a1d4cd77f9e3eb1f6e8b558c4c.jpg?width=600&auto=webp",
-    "agency": "Properbee",
-    "first_seen": "2025-07-17T15:15:02.914913",
-    "last_updated": "2025-07-17T15:15:02.914920"
-  },
-  {
     "id": "helen-suzmanhof",
     "url": "https://www.pararius.com/apartment-for-rent/rotterdam/b62922fd/helen-suzmanhof",
     "title": "Flat Helen Suzmanhof 127 parking",
@@ -880,20 +866,6 @@
     "agency": "Rent Valley",
     "first_seen": "2025-07-24T14:16:21.643475",
     "last_updated": "2025-07-24T14:16:21.643481"
-  },
-  {
-    "id": "laan-van-meerdervoort",
-    "url": "https://www.pararius.com/apartment-for-rent/den-haag/d8654c69/laan-van-meerdervoort",
-    "title": "Flat Laan van Meerdervoort",
-    "price": 700.0,
-    "size": 50,
-    "rooms": 3,
-    "location": "2517 BH Den Haag (Koningsplein en omgeving)",
-    "interior": "Upholstered",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/d8654c69-d138-552d-97ee-5bb3226c1e77/2e1a84c6214ef222ce635e9abf63c5eb.jpg?width=600&auto=webp",
-    "agency": "Immovita",
-    "first_seen": "2025-07-17T15:15:09.081815",
-    "last_updated": "2025-07-17T15:15:09.081818"
   },
   {
     "id": "pasteurstraat",
